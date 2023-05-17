@@ -1,0 +1,12 @@
+{
+  "apptainer_exit_code": 0,
+  "apptainer_wall_clock_time": 2.47,
+  "coverage": 0,
+  "dk_files": [],
+  "error": "unexpected-error",
+  "node": "sam",
+  "time_limit": 10,
+  "total_cpu_time": 5.21422,
+  "total_virtual_memory": 4157044,
+  "total_wall_clock_time": 2.40125
+}

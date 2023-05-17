@@ -1,0 +1,74 @@
+runsolver version 3.4.0 Copyright (C) 2010-2013 Olivier ROUSSEL
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+command line: runsolver -C 10 -V 16384 -w watch.log -v values.log apptainer run -C -H /home/jendrik/projects/Downward/ipc2023-learning/scripts/experiments/data/2023-05-15-test-learning/runs-00001-00100/00014 ../../h_policy.learn.sif dk domain.pddl p01.pddl p02.pddl p03.pddl p04.pddl p05.pddl p06.pddl p07.pddl p08.pddl p09.pddl p10.pddl p11.pddl p12.pddl p13.pddl p14.pddl p15.pddl p16.pddl p17.pddl p18.pddl p19.pddl p20.pddl p21.pddl p22.pddl p23.pddl p24.pddl p25.pddl p26.pddl p27.pddl p28.pddl p29.pddl p30.pddl 
+
+running on 16 cores: 0-15
+
+Enforcing CPUTime limit (soft limit, will send SIGTERM then SIGKILL): 10 seconds
+Enforcing CPUTime limit (hard limit, will send SIGXCPU): 40 seconds
+Enforcing VSIZE limit (soft limit, will send SIGTERM then SIGKILL): 16777216 KiB
+Enforcing VSIZE limit (hard limit, stack expansion will fail with SIGSEGV, brk() and mmap() will return ENOMEM): 16828416 KiB
+Linux 6.2.6-76060206-generic
+solver pid=142107, runsolver pid=142106
+Current StackSize limit: 8192 KiB
+
+
+[startup+0.11154 s]
+# the end of solver process 142107 was just reported to runsolver
+# cumulated CPU time of all completed processes:  user=0.065225 s, system=0.022473 s
+
+Solver just ended.
+??? end of watcher thread
+Dumping a history of the last processes samples
+
+Child status: 1
+
+For debugging: 
+  oldCurrentCPUTime: 0
+  currentCPUTime: 0
+  completedCPUTime: 0.087698
+  oldSolverCPUTime: 0.087698
+  solverCPUTime: 0.087698
+
+Wall clock time (s): 0.111572
+CPU time (s): 0.087698
+CPU user time (s): 0.065225
+CPU system time (s): 0.022473
+CPU usage (%): 78.6021
+Max. virtual memory (cumulated for all children) (KiB): 0
+Max. memory (cumulated for all children) (KiB): 0
+
+Raw getrusage(RUSAGE_CHILDREN,...) data (only includes finished processes that have been waited for):
+user time used= 0.065225
+system time used= 0.022473
+maximum resident set size= 34688
+integral shared memory size= 0
+integral unshared data size= 0
+integral unshared stack size= 0
+page reclaims= 11910
+page faults= 48
+swaps= 0
+block input operations= 0
+block output operations= 0
+messages sent= 0
+messages received= 0
+signals received= 0
+voluntary context switches= 3051
+involuntary context switches= 109
+
+
+# summary of solver processes directly reported to runsolver:
+#   pid: 142107
+#   CPU time reported (s): 0.087698
+#   CPU user time reported (s): 0.065225
+#   CPU system time reported (s): 0.022473
+
+??? end of timestamper thread
+runsolver used 0.00694 second user time and 0.01735 second system time (ignored in all statistics)
+
+The end
