@@ -1,9 +1,0 @@
-2023-05-17 23:50:25,419 INFO     node: sam
-2023-05-17 23:50:33,618 INFO     run-apptainer wall-clock time: 8.20s
-2023-05-17 23:50:33,619 INFO     run-apptainer exit code: 0
-2023-05-17 23:50:33,648 INFO     filter-stderr wall-clock time: 0.03s
-2023-05-17 23:50:33,648 INFO     filter-stderr exit code: 0
-2023-05-17 23:50:33,683 INFO     learning_parser wall-clock time: 0.03s
-2023-05-17 23:50:33,683 INFO     learning_parser exit code: 0
-2023-05-17 23:50:33,719 INFO     runsolver_parser wall-clock time: 0.03s
-2023-05-17 23:50:33,719 INFO     runsolver_parser exit code: 0

@@ -1,4 +1,0 @@
-Domain=domain.pddl Problem=p01.pddl
-Running filter-stderr.py
-Running learning parser
-Running runsolver parser
