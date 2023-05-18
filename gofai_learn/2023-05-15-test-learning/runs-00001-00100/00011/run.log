@@ -1,0 +1,27 @@
+2023-05-18 11:14:41,208 INFO     Running step build: build()
+2023-05-18 11:14:41,208 INFO     Experiment path: "/home/jendrik/projects/Downward/ipc2023-learning/scripts/experiments/data/2023-05-15-test-learning/runs-00001-00100/00011/data/runs-lama-exp"
+2023-05-18 11:14:41,234 INFO     Building 30 runs
+2023-05-18 11:14:41,246 INFO     Finished building runs
+2023-05-18 11:14:41,246 INFO     Running step start: start_runs()
+2023-05-18 11:14:41,246 INFO     Executing /usr/bin/python3 run {'cwd': '/home/jendrik/projects/Downward/ipc2023-learning/scripts/experiments/data/2023-05-15-test-learning/runs-00001-00100/00011/data/runs-lama-exp'}
+2023-05-18 11:14:41,282 INFO     Starting run 28 (TASK_ID 1) in runs-00001-00100/00028
+2023-05-18 11:14:41,733 INFO     Starting run 26 (TASK_ID 2) in runs-00001-00100/00026
+2023-05-18 11:14:42,137 INFO     Starting run 10 (TASK_ID 3) in runs-00001-00100/00010
+2023-05-18 11:14:42,504 INFO     Starting run 21 (TASK_ID 4) in runs-00001-00100/00021
+2023-05-18 11:14:42,914 INFO     Starting run 9 (TASK_ID 5) in runs-00001-00100/00009
+2023-05-18 11:14:43,283 INFO     Starting run 4 (TASK_ID 6) in runs-00001-00100/00004
+2023-05-18 11:14:43,636 INFO     Starting run 22 (TASK_ID 7) in runs-00001-00100/00022
+2023-05-18 11:14:44,076 INFO     Starting run 18 (TASK_ID 8) in runs-00001-00100/00018
+2023-05-18 11:14:44,493 INFO     Starting run 16 (TASK_ID 9) in runs-00001-00100/00016
+2023-05-18 11:14:44,902 INFO     Starting run 7 (TASK_ID 10) in runs-00001-00100/00007
+2023-05-18 11:14:45,280 INFO     Starting run 15 (TASK_ID 11) in runs-00001-00100/00015
+2023-05-18 11:14:45,655 INFO     Starting run 6 (TASK_ID 12) in runs-00001-00100/00006
+2023-05-18 11:14:46,025 INFO     Starting run 14 (TASK_ID 13) in runs-00001-00100/00014
+2023-05-18 11:14:46,411 INFO     Starting run 5 (TASK_ID 14) in runs-00001-00100/00005
+2023-05-18 11:14:46,784 INFO     Starting run 3 (TASK_ID 15) in runs-00001-00100/00003
+2023-05-18 11:14:47,138 INFO     Starting run 29 (TASK_ID 16) in runs-00001-00100/00029
+2023-05-18 11:14:47,680 INFO     Starting run 17 (TASK_ID 17) in runs-00001-00100/00017
+2023-05-18 11:14:47,716 INFO     Starting run 20 (TASK_ID 25) in runs-00001-00100/00020
+Running filter-stderr.py
+Running learning parser
+Running runsolver parser
