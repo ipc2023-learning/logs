@@ -1,0 +1,12 @@
+Changing working directory:  /home/jendrik/projects/Downward/ipc2023-learning/scripts/experiments/data/2023-05-23-test-learning/runs-00001-00100/00015/workspace
+================================================================================
+SLTP v.0.2.0
+================================================================================
+================================================================================
+(pid: 36) STARTING STEP #1: Incremental learning module
+================================================================================
+2023-05-23 14:54:09 INFO     Initializing InstanceDatas...
+2023-05-23 14:54:09 INFO     Constructing InstanceData for filename /home/jendrik/projects/Downward/ipc2023-learning/scripts/experiments/data/2023-05-23-test-learning/runs-00001-00100/00015/instances/p18.pddl
+Running filter-stderr.py
+Running learning parser
+Running runsolver parser

@@ -1,0 +1,23 @@
+2023-05-23 14:54:40,670 INFO     Running step build: build()
+2023-05-23 14:54:40,670 INFO     Experiment path: "/home/jendrik/projects/Downward/ipc2023-learning/scripts/experiments/data/2023-05-23-test-learning/runs-00001-00100/00011/data/runs-lama-exp"
+2023-05-23 14:54:40,712 INFO     Building 30 runs
+2023-05-23 14:54:40,748 INFO     Finished building runs
+2023-05-23 14:54:40,748 INFO     Running step start: start_runs()
+2023-05-23 14:54:40,748 INFO     Executing /usr/bin/python3 run {'cwd': '/home/jendrik/projects/Downward/ipc2023-learning/scripts/experiments/data/2023-05-23-test-learning/runs-00001-00100/00011/data/runs-lama-exp'}
+2023-05-23 14:54:40,818 INFO     Starting run 25 (TASK_ID 1) in runs-00001-00100/00025
+2023-05-23 14:54:41,434 INFO     Starting run 8 (TASK_ID 2) in runs-00001-00100/00008
+2023-05-23 14:54:41,851 INFO     Starting run 18 (TASK_ID 3) in runs-00001-00100/00018
+2023-05-23 14:54:42,325 INFO     Starting run 23 (TASK_ID 4) in runs-00001-00100/00023
+2023-05-23 14:54:42,838 INFO     Starting run 27 (TASK_ID 5) in runs-00001-00100/00027
+2023-05-23 14:54:43,376 INFO     Starting run 11 (TASK_ID 6) in runs-00001-00100/00011
+2023-05-23 14:54:43,833 INFO     Starting run 4 (TASK_ID 7) in runs-00001-00100/00004
+2023-05-23 14:54:44,244 INFO     Starting run 7 (TASK_ID 8) in runs-00001-00100/00007
+2023-05-23 14:54:44,775 INFO     Starting run 14 (TASK_ID 9) in runs-00001-00100/00014
+2023-05-23 14:54:45,314 INFO     Starting run 3 (TASK_ID 10) in runs-00001-00100/00003
+2023-05-23 14:54:45,738 INFO     Starting run 15 (TASK_ID 11) in runs-00001-00100/00015
+2023-05-23 14:54:46,192 INFO     Starting run 12 (TASK_ID 12) in runs-00001-00100/00012
+2023-05-23 14:54:46,628 INFO     Starting run 17 (TASK_ID 13) in runs-00001-00100/00017
+2023-05-23 14:54:46,789 INFO     Starting run 30 (TASK_ID 17) in runs-00001-00100/00030
+Running filter-stderr.py
+Running learning parser
+Running runsolver parser

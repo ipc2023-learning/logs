@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "/learn.py", line 343, in <module>
+    main()
+  File "/learn.py", line 138, in main
+    ENV = LocalEnvironment(processes=args.cpus)
+  File "/usr/local/lib/python3.10/dist-packages/lab/environments.py", line 86, in __init__
+    raise ValueError("processes must be in the range [1, ..., #CPUs].")
+ValueError: processes must be in the range [1, ..., #CPUs].
