@@ -1,0 +1,1 @@
+{"alias": "lama-first", "ignore-bad-actions": "true", "queue_type": "ipc23-single-queue", "termination-condition": "relaxed10", "model_drop": "none", "model_move": "none", "model_pick": "none", "num_bad_rules": 3, "num_good_rules": 4}

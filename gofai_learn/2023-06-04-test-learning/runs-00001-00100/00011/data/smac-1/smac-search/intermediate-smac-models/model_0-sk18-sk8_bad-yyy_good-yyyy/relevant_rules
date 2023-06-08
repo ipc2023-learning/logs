@@ -1,0 +1,11 @@
+pick (?b, ?r, ?g) :- ini:at(?b, ?r).
+move (?from, ?to) :- equal:(?from, ?to).
+move (?from, ?to) :- goal:at(?fv0, ?from);goal:at(?fv0, ?to).
+move (?from, ?to) :- goal:at(?fv0, ?from);ini:at(?fv0, ?to).
+move (?from, ?to) :- goal:at(_, ?from).
+move (?from, ?to) :- ini:at(?fv0, ?from);goal:at(?fv0, ?to).
+move (?from, ?to) :- ini:at(?fv0, ?from);goal:at(?fv0, _).
+move (?from, ?to) :- ini:at(?fv0, ?from);ini:at(?fv0, ?to).
+move (?from, ?to) :- ini:at(?fv0, ?to);goal:at(?fv0, _).
+move (?from, ?to) :- ini:at-robby(?from).
+move (?from, ?to) :- ini:at-robby(?to).

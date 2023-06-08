@@ -1,0 +1,24 @@
+Traceback (most recent call last):
+  File "/learn.py", line 254, in <module>
+    main()
+  File "/learn.py", line 102, in main
+    shutil.copy(args.domain, BENCHMARKS_DIR)
+  File "/usr/lib/python3.10/shutil.py", line 417, in copy
+    copyfile(src, dst, follow_symlinks=follow_symlinks)
+  File "/usr/lib/python3.10/shutil.py", line 254, in copyfile
+    with open(src, 'rb') as fsrc:
+FileNotFoundError: [Errno 2] No such file or directory: 'dk'
+no outcome determined by runsolver
+no outcome detected nor guessed for: {
+  "apptainer_exit_code": 0,
+  "apptainer_wall_clock_time": 3.99,
+  "coverage": 0,
+  "cpu_time": 2.41207,
+  "dk_files": [],
+  "memory": 114528,
+  "memory_limit": 16777216,
+  "node": "n1585",
+  "virtual_memory": 1175488,
+  "wall_clock_time": 3.92847,
+  "wall_clock_time_limit": 36000
+}

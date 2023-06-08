@@ -1,0 +1,22 @@
+{
+  "accuracy": 0.998832,
+  "f_value": 0.9988304093567251,
+  "false_negatives": 2,
+  "false_positives": 0,
+  "has_theory": true,
+  "precision": 1.0,
+  "raw_rules": [
+    [
+      "854",
+      "0",
+      "class(A,B,C,D) :-    'goal:at'(A,B,D)"
+    ]
+  ],
+  "recall": 0.9976635514018691,
+  "rules": [
+    "drop (?arg0, ?arg1, ?arg2) :- goal:at(?arg0, ?arg1)."
+  ],
+  "total_time": 0.032,
+  "true_negatives": 856,
+  "true_positives": 854
+}

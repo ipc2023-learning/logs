@@ -1,0 +1,35 @@
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.10/dist-packages/ray/_private/node.py", line 293, in __init__
+    ray._private.services.wait_for_node(
+  File "/usr/local/lib/python3.10/dist-packages/ray/_private/services.py", line 436, in wait_for_node
+    raise TimeoutError("Timed out while waiting for node to startup.")
+TimeoutError: Timed out while waiting for node to startup.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/asnets/run_learn", line 5, in <module>
+    main()
+  File "/asnets/asnets/scripts/run_learning.py", line 354, in main
+    ray.init(**ray_kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/ray/_private/client_mode_hook.py", line 105, in wrapper
+    return func(*args, **kwargs)
+  File "/usr/local/lib/python3.10/dist-packages/ray/_private/worker.py", line 1451, in init
+    _global_node = ray._private.node.Node(
+  File "/usr/local/lib/python3.10/dist-packages/ray/_private/node.py", line 298, in __init__
+    raise Exception(
+Exception: The current node has not been updated within 30 seconds, this could happen because of some of the Ray processes failed to startup.
+no outcome determined by runsolver
+no outcome detected nor guessed for: {
+  "apptainer_exit_code": 0,
+  "apptainer_wall_clock_time": 37.1,
+  "coverage": 0,
+  "cpu_time": 4.27652,
+  "dk_files": [],
+  "memory": 371112,
+  "memory_limit": 16777216,
+  "node": "n415",
+  "virtual_memory": 4738600,
+  "wall_clock_time": 36.7572,
+  "wall_clock_time_limit": 36000
+}

@@ -1,0 +1,23 @@
+
+#!/bin/bash
+
+cd "$(dirname "$0")"
+
+YAP_PATH=yap
+EXAMPLES_FILE=pick
+HYPOTHESIS_FILE=pick.h
+
+$YAP_PATH <<EOF
+[aleph].
+
+read_all('$EXAMPLES_FILE').
+
+ set(clauselength,8).
+ set(minacc,0.7).
+ set(check_useless,true).
+ set(verbosity,0).
+ set(minpos,10).
+ induce.
+
+write_rules('$HYPOTHESIS_FILE').
+EOF

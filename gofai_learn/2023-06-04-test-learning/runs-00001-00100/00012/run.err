@@ -1,0 +1,5 @@
+/usr/local/lib/python3.10/dist-packages/numpy/core/fromnumeric.py:3464: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+/usr/local/lib/python3.10/dist-packages/numpy/core/_methods.py:192: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+/.singularity.d/runscript: line 10: 131775 Segmentation fault      python3 /learn.py "$DOMAIN_FILE" "${PROBLEM_FILES[@]}" --domain_knowledge_file "$DOMAIN_KNOWLEDGE_FILE" --cpus 1 --total_time_limit 259200 --total_memory_limit 90000

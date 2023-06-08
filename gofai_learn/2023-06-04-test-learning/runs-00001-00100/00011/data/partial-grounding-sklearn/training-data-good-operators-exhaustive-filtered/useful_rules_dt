@@ -1,0 +1,5 @@
+move (?from, ?to) :- equal:(?from, ?to).
+move (?from, ?to) :- ini:at(?fv0, ?to);goal:at(?fv0, _).
+move (?from, ?to) :- ini:at-robby(?to).
+pick (?b, ?r, ?g) :- ini:at(?b, ?r).
+drop (?b, ?r, ?g) :- ini:at(?b, ?r).

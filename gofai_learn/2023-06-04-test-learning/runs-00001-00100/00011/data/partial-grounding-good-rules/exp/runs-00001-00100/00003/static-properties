@@ -1,0 +1,14 @@
+{
+  "action_schema": "move",
+  "action_schema_args": [],
+  "config": "good_rules",
+  "id": [
+    "./data/good-operators-unit",
+    "good_rules",
+    "learn-move"
+  ],
+  "memory_limit": 4096,
+  "run_dir": "runs-00001-00100/00003",
+  "runs_data": "./data/good-operators-unit",
+  "time_limit": 3600
+}

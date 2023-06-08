@@ -1,0 +1,499 @@
+2023-06-05 22:42:52,449 INFO     Running step build: build()
+2023-06-05 22:42:52,449 INFO     Experiment path: "/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/data/2023-06-04-test-learning/runs-00001-00100/00012/data/runs-lama-exp"
+2023-06-05 22:42:53,032 INFO     Building 30 runs
+2023-06-05 22:42:53,461 INFO     Finished building runs
+2023-06-05 22:42:53,463 INFO     Running step start: start_runs()
+2023-06-05 22:42:53,463 INFO     Executing /usr/bin/python3 run {'cwd': '/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/data/2023-06-04-test-learning/runs-00001-00100/00012/data/runs-lama-exp'}
+2023-06-05 22:42:53,530 INFO     Starting run 7 (TASK_ID 1) in runs-00001-00100/00007
+2023-06-05 22:42:54,206 INFO     Starting run 9 (TASK_ID 2) in runs-00001-00100/00009
+2023-06-05 22:42:54,843 INFO     Starting run 4 (TASK_ID 3) in runs-00001-00100/00004
+2023-06-05 22:42:55,302 INFO     Starting run 27 (TASK_ID 4) in runs-00001-00100/00027
+2023-06-05 22:43:05,623 INFO     Starting run 25 (TASK_ID 5) in runs-00001-00100/00025
+2023-06-05 22:43:13,825 INFO     Starting run 24 (TASK_ID 6) in runs-00001-00100/00024
+2023-06-05 22:43:19,986 INFO     Starting run 11 (TASK_ID 7) in runs-00001-00100/00011
+2023-06-05 22:43:20,684 INFO     Starting run 2 (TASK_ID 8) in runs-00001-00100/00002
+2023-06-05 22:43:21,208 INFO     Starting run 26 (TASK_ID 9) in runs-00001-00100/00026
+2023-06-05 22:43:29,898 INFO     Starting run 18 (TASK_ID 10) in runs-00001-00100/00018
+2023-06-05 22:43:31,970 INFO     Starting run 14 (TASK_ID 11) in runs-00001-00100/00014
+2023-06-05 22:43:33,017 INFO     Starting run 29 (TASK_ID 12) in runs-00001-00100/00029
+2023-06-05 22:43:46,572 INFO     Starting run 6 (TASK_ID 13) in runs-00001-00100/00006
+2023-06-05 22:43:47,071 INFO     Starting run 21 (TASK_ID 14) in runs-00001-00100/00021
+2023-06-05 22:43:50,578 INFO     Starting run 28 (TASK_ID 15) in runs-00001-00100/00028
+2023-06-05 22:44:02,629 INFO     Starting run 8 (TASK_ID 16) in runs-00001-00100/00008
+2023-06-05 22:44:03,197 INFO     Starting run 5 (TASK_ID 17) in runs-00001-00100/00005
+2023-06-05 22:44:03,656 INFO     Starting run 15 (TASK_ID 18) in runs-00001-00100/00015
+2023-06-05 22:44:04,906 INFO     Starting run 12 (TASK_ID 19) in runs-00001-00100/00012
+2023-06-05 22:44:05,704 INFO     Starting run 20 (TASK_ID 20) in runs-00001-00100/00020
+2023-06-05 22:44:08,776 INFO     Starting run 30 (TASK_ID 21) in runs-00001-00100/00030
+2023-06-05 22:44:24,521 INFO     Starting run 1 (TASK_ID 22) in runs-00001-00100/00001
+2023-06-05 22:44:24,981 INFO     Starting run 13 (TASK_ID 23) in runs-00001-00100/00013
+2023-06-05 22:44:25,893 INFO     Starting run 17 (TASK_ID 24) in runs-00001-00100/00017
+2023-06-05 22:44:27,630 INFO     Starting run 22 (TASK_ID 25) in runs-00001-00100/00022
+2023-06-05 22:44:32,194 INFO     Starting run 16 (TASK_ID 26) in runs-00001-00100/00016
+2023-06-05 22:44:33,654 INFO     Starting run 19 (TASK_ID 27) in runs-00001-00100/00019
+2023-06-05 22:44:36,241 INFO     Starting run 3 (TASK_ID 28) in runs-00001-00100/00003
+2023-06-05 22:44:36,680 INFO     Starting run 23 (TASK_ID 29) in runs-00001-00100/00023
+2023-06-05 22:44:42,090 INFO     Starting run 10 (TASK_ID 30) in runs-00001-00100/00010
+2023-06-05 22:44:42,734 INFO     Joining pool processes
+Warning: all instances are solved by lama. Make sure your training instances contain difficult instances that are representative of the difficulty of the domain
+2023-06-05 22:44:43,219 INFO     Running step build: build()
+2023-06-05 22:44:43,219 INFO     Experiment path: "/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/data/2023-06-04-test-learning/runs-00001-00100/00012/data/good-operators-unit-exp"
+2023-06-05 22:44:43,360 INFO     Building 30 runs
+2023-06-05 22:44:43,421 INFO     Finished building runs
+2023-06-05 22:44:43,422 INFO     Running step start: start_runs()
+2023-06-05 22:44:43,422 INFO     Executing /usr/bin/python3 run {'cwd': '/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/data/2023-06-04-test-learning/runs-00001-00100/00012/data/good-operators-unit-exp'}
+2023-06-05 22:44:43,484 INFO     Starting run 1 (TASK_ID 1) in runs-00001-00100/00001
+2023-06-05 23:04:09,334 INFO     Starting run 8 (TASK_ID 2) in runs-00001-00100/00008
+2023-06-05 23:15:50,298 INFO     Starting run 19 (TASK_ID 3) in runs-00001-00100/00019
+2023-06-05 23:39:50,058 INFO     Starting run 24 (TASK_ID 4) in runs-00001-00100/00024
+2023-06-05 23:53:19,554 INFO     Starting run 13 (TASK_ID 5) in runs-00001-00100/00013
+2023-06-06 00:24:40,672 INFO     Starting run 23 (TASK_ID 6) in runs-00001-00100/00023
+2023-06-06 00:46:35,121 INFO     Starting run 2 (TASK_ID 7) in runs-00001-00100/00002
+2023-06-06 01:00:53,325 INFO     Starting run 26 (TASK_ID 8) in runs-00001-00100/00026
+2023-06-06 01:32:14,971 INFO     Starting run 17 (TASK_ID 9) in runs-00001-00100/00017
+2023-06-06 01:46:19,094 INFO     Starting run 22 (TASK_ID 10) in runs-00001-00100/00022
+2023-06-06 02:16:33,628 INFO     Starting run 12 (TASK_ID 11) in runs-00001-00100/00012
+2023-06-06 02:29:19,170 INFO     Starting run 25 (TASK_ID 12) in runs-00001-00100/00025
+2023-06-06 02:29:19,892 INFO     Starting run 6 (TASK_ID 13) in runs-00001-00100/00006
+2023-06-06 02:57:21,973 INFO     Starting run 7 (TASK_ID 14) in runs-00001-00100/00007
+2023-06-06 03:19:08,889 INFO     Starting run 28 (TASK_ID 15) in runs-00001-00100/00028
+2023-06-06 03:35:41,484 INFO     Starting run 3 (TASK_ID 16) in runs-00001-00100/00003
+2023-06-06 03:35:43,038 INFO     Starting run 27 (TASK_ID 17) in runs-00001-00100/00027
+2023-06-06 03:52:48,538 INFO     Starting run 15 (TASK_ID 18) in runs-00001-00100/00015
+2023-06-06 04:11:51,872 INFO     Starting run 18 (TASK_ID 19) in runs-00001-00100/00018
+2023-06-06 04:34:39,980 INFO     Starting run 11 (TASK_ID 20) in runs-00001-00100/00011
+2023-06-06 04:52:38,209 INFO     Starting run 21 (TASK_ID 21) in runs-00001-00100/00021
+2023-06-06 04:52:38,911 INFO     Starting run 5 (TASK_ID 22) in runs-00001-00100/00005
+2023-06-06 05:14:18,206 INFO     Starting run 4 (TASK_ID 23) in runs-00001-00100/00004
+2023-06-06 05:41:11,048 INFO     Starting run 9 (TASK_ID 24) in runs-00001-00100/00009
+2023-06-06 05:41:45,655 INFO     Starting run 10 (TASK_ID 25) in runs-00001-00100/00010
+2023-06-06 06:02:06,773 INFO     Starting run 16 (TASK_ID 26) in runs-00001-00100/00016
+2023-06-06 06:16:49,885 INFO     Starting run 29 (TASK_ID 27) in runs-00001-00100/00029
+2023-06-06 06:16:50,599 INFO     Starting run 20 (TASK_ID 28) in runs-00001-00100/00020
+2023-06-06 06:32:07,016 INFO     Starting run 30 (TASK_ID 29) in runs-00001-00100/00030
+2023-06-06 06:52:01,824 INFO     Starting run 14 (TASK_ID 30) in runs-00001-00100/00014
+2023-06-06 07:10:59,882 INFO     Joining pool processes
+After the split, we have 5 instances for training, 25 for hyperparameter optimization, out of which 0 have overlap and 0 are not solved by lama and 25 are solved under 2 minutes)
+Instances for the training phase:  {'p04', 'p03', 'p05', 'p01', 'p02'}
+Instances for SMAC optimization:  {'p07', 'p29', 'p14', 'p15', 'p16', 'p21', 'p13', 'p08', 'p22', 'p25', 'p06', 'p09', 'p24', 'p23', 'p12', 'p28', 'p18', 'p26', 'p20', 'p19', 'p27', 'p11', 'p10', 'p17', 'p30'}
+Running: generate-training-data-aleph.py on /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/data/2023-06-04-test-learning/runs-00001-00100/00012/data/partial-grounding-good-rules/good-operators-unit-good_rules
+2023-06-06 07:11:03,136 INFO     generate-aleph-files wall-clock time: 0.17s
+2023-06-06 07:11:03,136 INFO     generate-aleph-files wall-clock time: 0.17s
+2023-06-06 07:11:03,136 INFO     generate-aleph-files exit code: 0
+2023-06-06 07:11:03,136 INFO     generate-aleph-files exit code: 0
+2023-06-06 07:11:03,136 INFO     Running step build: build()
+2023-06-06 07:11:03,136 INFO     Running step build: build()
+2023-06-06 07:11:03,136 INFO     Experiment path: "/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/data/2023-06-04-test-learning/runs-00001-00100/00012/data/partial-grounding-good-rules/exp"
+2023-06-06 07:11:03,136 INFO     Experiment path: "/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/data/2023-06-04-test-learning/runs-00001-00100/00012/data/partial-grounding-good-rules/exp"
+2023-06-06 07:11:03,138 INFO     Building 1 runs
+2023-06-06 07:11:03,138 INFO     Building 1 runs
+2023-06-06 07:11:03,141 INFO     Finished building runs
+2023-06-06 07:11:03,141 INFO     Finished building runs
+2023-06-06 07:11:03,142 INFO     Running step start: start_runs()
+2023-06-06 07:11:03,142 INFO     Running step start: start_runs()
+2023-06-06 07:11:03,142 INFO     Executing /usr/bin/python3 run {'cwd': '/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/data/2023-06-04-test-learning/runs-00001-00100/00012/data/partial-grounding-good-rules/exp'}
+2023-06-06 07:11:03,142 INFO     Executing /usr/bin/python3 run {'cwd': '/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/data/2023-06-04-test-learning/runs-00001-00100/00012/data/partial-grounding-good-rules/exp'}
+2023-06-06 07:11:03,195 INFO     Starting run 1 (TASK_ID 1) in runs-00001-00100/00001
+2023-06-06 07:14:58,709 INFO     Joining pool processes
+2023-06-06 07:14:58,821 INFO     filter-good-rules wall-clock time: 0.09s
+2023-06-06 07:14:58,821 INFO     filter-good-rules wall-clock time: 0.09s
+2023-06-06 07:14:58,821 INFO     filter-good-rules exit code: 0
+2023-06-06 07:14:58,821 INFO     filter-good-rules exit code: 0
+2023-06-06 07:14:58,955 INFO     filter-training-set wall-clock time: 0.06s
+2023-06-06 07:14:58,955 INFO     filter-training-set wall-clock time: 0.06s
+2023-06-06 07:14:58,955 INFO     filter-training-set exit code: 0
+2023-06-06 07:14:58,955 INFO     filter-training-set exit code: 0
+2023-06-06 07:14:59,011 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-06 07:14:59,011 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-06 07:14:59,011 INFO     filter-training-set exit code: 0
+2023-06-06 07:14:59,011 INFO     filter-training-set exit code: 0
+2023-06-06 07:14:59,070 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-06 07:14:59,070 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-06 07:14:59,070 INFO     filter-training-set exit code: 0
+2023-06-06 07:14:59,070 INFO     filter-training-set exit code: 0
+2023-06-06 07:14:59,125 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-06 07:14:59,125 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-06 07:14:59,125 INFO     filter-training-set exit code: 0
+2023-06-06 07:14:59,125 INFO     filter-training-set exit code: 0
+2023-06-06 07:14:59,181 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-06 07:14:59,181 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-06 07:14:59,181 INFO     filter-training-set exit code: 0
+2023-06-06 07:14:59,181 INFO     filter-training-set exit code: 0
+2023-06-06 07:14:59,234 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-06 07:14:59,234 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-06 07:14:59,234 INFO     filter-training-set exit code: 0
+2023-06-06 07:14:59,234 INFO     filter-training-set exit code: 0
+2023-06-06 07:14:59,289 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-06 07:14:59,289 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-06 07:14:59,290 INFO     filter-training-set exit code: 0
+2023-06-06 07:14:59,290 INFO     filter-training-set exit code: 0
+2023-06-06 07:14:59,343 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-06 07:14:59,343 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-06 07:14:59,343 INFO     filter-training-set exit code: 0
+2023-06-06 07:14:59,343 INFO     filter-training-set exit code: 0
+2023-06-06 07:14:59,399 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-06 07:14:59,399 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-06 07:14:59,400 INFO     filter-training-set exit code: 0
+2023-06-06 07:14:59,400 INFO     filter-training-set exit code: 0
+2023-06-06 07:14:59,454 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-06 07:14:59,454 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-06 07:14:59,454 INFO     filter-training-set exit code: 0
+2023-06-06 07:14:59,454 INFO     filter-training-set exit code: 0
+Running: generate-training-data-aleph.py on /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/data/2023-06-04-test-learning/runs-00001-00100/00012/data/partial-grounding-bad-rules/good-operators-unit-nogoodrules-bad_rules
+2023-06-06 07:14:59,607 INFO     generate-aleph-files wall-clock time: 0.15s
+2023-06-06 07:14:59,607 INFO     generate-aleph-files wall-clock time: 0.15s
+2023-06-06 07:14:59,607 INFO     generate-aleph-files exit code: 0
+2023-06-06 07:14:59,607 INFO     generate-aleph-files exit code: 0
+2023-06-06 07:14:59,608 INFO     Running step build: build()
+2023-06-06 07:14:59,608 INFO     Running step build: build()
+2023-06-06 07:14:59,608 INFO     Experiment path: "/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/data/2023-06-04-test-learning/runs-00001-00100/00012/data/partial-grounding-bad-rules/exp"
+2023-06-06 07:14:59,608 INFO     Experiment path: "/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/data/2023-06-04-test-learning/runs-00001-00100/00012/data/partial-grounding-bad-rules/exp"
+2023-06-06 07:14:59,609 INFO     Building 1 runs
+2023-06-06 07:14:59,609 INFO     Building 1 runs
+2023-06-06 07:14:59,612 INFO     Finished building runs
+2023-06-06 07:14:59,612 INFO     Finished building runs
+2023-06-06 07:14:59,613 INFO     Running step start: start_runs()
+2023-06-06 07:14:59,613 INFO     Running step start: start_runs()
+2023-06-06 07:14:59,613 INFO     Executing /usr/bin/python3 run {'cwd': '/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/data/2023-06-04-test-learning/runs-00001-00100/00012/data/partial-grounding-bad-rules/exp'}
+2023-06-06 07:14:59,613 INFO     Executing /usr/bin/python3 run {'cwd': '/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/data/2023-06-04-test-learning/runs-00001-00100/00012/data/partial-grounding-bad-rules/exp'}
+2023-06-06 07:14:59,666 INFO     Starting run 1 (TASK_ID 1) in runs-00001-00100/00001
+2023-06-06 07:15:02,889 INFO     Joining pool processes
+Warning: ignoring file of unknown type: candidate-good_rules.rules
+[INFO][abstract_initial_design.py:134] Using 1 initial design configurations and 0 additional configurations.
+[INFO][abstract_intensifier.py:306] Using only one seed for deterministic scenario.
+Ran p08 with queue ipc23-single-queue and model model_good-yy: time 0.24, operators 288, cost 91
+[INFO][abstract_intensifier.py:513] Added config d4acb9 as new incumbent because there are no incumbents yet.
+Ran p24 with queue ipc23-single-queue and model model_good-yy: time 5.37, operators 2400, cost 852
+[WARNING][config_selector.py:242] Could not return a new configuration after 16 retries.
+[INFO][smbo.py:311] Shutting down because the stop flag was set.
+Chosen incumbent:  Configuration(values={
+  'alias': 'lama-first',
+  'good0': 1,
+  'good1': 1,
+  'ignore-bad-actions': 'true',
+  'queue_type': 'ipc23-single-queue',
+  'termination-condition': 'full',
+})
+
+New incumbent is top 1
+incumbent-1 (-30, 93.6)
+Running: generate-training-data-aleph.py on /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/data/2023-06-04-test-learning/runs-00001-00100/00012/data/partial-grounding-aleph/good-operators-unit-nogoodrules-class_probability
+2023-06-06 07:15:09,285 INFO     generate-aleph-files wall-clock time: 0.21s
+2023-06-06 07:15:09,285 INFO     generate-aleph-files exit code: 0
+2023-06-06 07:15:09,285 INFO     Running step build: build()
+2023-06-06 07:15:09,285 INFO     Experiment path: "/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/data/2023-06-04-test-learning/runs-00001-00100/00012/data/partial-grounding-aleph/exp"
+2023-06-06 07:15:09,287 INFO     Building 1 runs
+2023-06-06 07:15:09,290 INFO     Finished building runs
+2023-06-06 07:15:09,291 INFO     Running step start: start_runs()
+2023-06-06 07:15:09,291 INFO     Executing /usr/bin/python3 run {'cwd': '/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/data/2023-06-04-test-learning/runs-00001-00100/00012/data/partial-grounding-aleph/exp'}
+2023-06-06 07:15:09,347 INFO     Starting run 1 (TASK_ID 1) in runs-00001-00100/00001
+2023-06-06 07:15:09,945 INFO     Joining pool processes
+Generate candidate rules for action move
+1 14
+2 26
+3 144
+4 1027
+5 8764
+6 9944
+19920
+
+2023-06-06 07:15:14,281 INFO     generate-rules wall-clock time: 4.31s
+2023-06-06 07:15:14,281 INFO     generate-rules exit code: 0
+Filtering irrelevant rules; number rules before filtering 19920
+handling instance 1/30
+handling instance 2/30
+handling instance 3/30
+handling instance 4/30
+handling instance 5/30
+Relevant rules:  12
+2023-06-06 07:20:03,676 INFO     filter-rules wall-clock time: 289.39s
+2023-06-06 07:20:03,676 INFO     filter-rules exit code: 0
+Processing  p01
+Processing  p02
+Processing  p03
+Processing  p04
+Processing  p05
+2023-06-06 07:20:03,935 INFO     generate-training-data-1 wall-clock time: 0.25s
+2023-06-06 07:20:03,935 INFO     generate-training-data-1 exit code: 0
+Filter relevant rules based on feature selector DT
+handling action schema move
+removing duplicates reduced size of training set from 280 to 13, (aggregating using max) [0.000s CPU, 0.000s wall-clock]
+
+2023-06-06 07:20:05,719 INFO     feature-selection wall-clock time: 1.78s
+2023-06-06 07:20:05,719 INFO     feature-selection exit code: 0
+Filter relevant rules based on feature selector LOGR
+handling action schema move
+removing duplicates reduced size of training set from 280 to 13, (aggregating using max) [0.000s CPU, 0.000s wall-clock]
+
+2023-06-06 07:20:06,923 INFO     feature-selection wall-clock time: 1.20s
+2023-06-06 07:20:06,923 INFO     feature-selection exit code: 0
+Filter relevant rules based on feature selector SVR
+handling action schema move
+removing duplicates reduced size of training set from 280 to 13, (aggregating using max) [0.000s CPU, 0.000s wall-clock]
+
+2023-06-06 07:20:08,109 INFO     feature-selection wall-clock time: 1.18s
+2023-06-06 07:20:08,109 INFO     feature-selection exit code: 0
+There are no have any rules so we do not generate any training set
+2023-06-06 07:20:08,247 INFO     generate-training-data wall-clock time: 0.13s
+2023-06-06 07:20:08,248 INFO     generate-training-data exit code: 0
+There are no have any rules so we do not generate any training set
+2023-06-06 07:20:08,381 INFO     generate-training-data wall-clock time: 0.13s
+2023-06-06 07:20:08,382 INFO     generate-training-data exit code: 0
+There are no have any rules so we do not generate any training set
+2023-06-06 07:20:08,515 INFO     generate-training-data wall-clock time: 0.13s
+2023-06-06 07:20:08,516 INFO     generate-training-data exit code: 0
+There are no have any rules so we do not generate any training set
+2023-06-06 07:20:08,649 INFO     generate-training-data wall-clock time: 0.12s
+2023-06-06 07:20:08,649 INFO     generate-training-data exit code: 0
+There are no have any rules so we do not generate any training set
+2023-06-06 07:20:08,812 INFO     generate-training-data wall-clock time: 0.16s
+2023-06-06 07:20:08,812 INFO     generate-training-data exit code: 0
+There are no have any rules so we do not generate any training set
+2023-06-06 07:20:08,945 INFO     generate-training-data wall-clock time: 0.12s
+2023-06-06 07:20:08,945 INFO     generate-training-data exit code: 0
+training model from file  ./data/partial-grounding-sklearn/training-data-good-operators-exhaustive-filtered/move.csv
+removing duplicates reduced size of training set from 280 to 13, (aggregating using max) [0.000s CPU, 0.000s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_good-operators-exhaustive-filtered_DT/move.model .. done
+
+2023-06-06 07:20:10,122 INFO     train wall-clock time: 1.17s
+2023-06-06 07:20:10,122 INFO     train exit code: 0
+training model from file  ./data/partial-grounding-sklearn/training-data-good-operators-exhaustive-filtered/move.csv
+removing duplicates reduced size of training set from 280 to 13, (aggregating using max) [0.000s CPU, 0.000s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_good-operators-exhaustive-filtered_LOGR/move.model .. done
+
+2023-06-06 07:20:11,308 INFO     train wall-clock time: 1.18s
+2023-06-06 07:20:11,308 INFO     train exit code: 0
+training model from file  ./data/partial-grounding-sklearn/training-data-good-operators-exhaustive-filtered/move.csv
+removing duplicates reduced size of training set from 280 to 13, (aggregating using max) [0.000s CPU, 0.000s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_good-operators-exhaustive-filtered_LINR/move.model .. done
+
+2023-06-06 07:20:12,475 INFO     train wall-clock time: 1.16s
+2023-06-06 07:20:12,475 INFO     train exit code: 0
+training model from file  ./data/partial-grounding-sklearn/training-data-good-operators-exhaustive-filtered/move.csv
+removing duplicates reduced size of training set from 280 to 13, (aggregating using max) [0.000s CPU, 0.000s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_good-operators-exhaustive-filtered_RF/move.model .. done
+
+2023-06-06 07:20:13,675 INFO     train wall-clock time: 1.19s
+2023-06-06 07:20:13,675 INFO     train exit code: 0
+training model from file  ./data/partial-grounding-sklearn/training-data-good-operators-exhaustive-filtered/move.csv
+removing duplicates reduced size of training set from 280 to 13, (aggregating using max) [0.000s CPU, 0.000s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_good-operators-exhaustive-filtered_SVR/move.model .. done
+
+2023-06-06 07:20:14,865 INFO     train wall-clock time: 1.18s
+2023-06-06 07:20:14,866 INFO     train exit code: 0
+training model from file  ./data/partial-grounding-sklearn/training-data-good-operators-exhaustive-filtered/move.csv
+removing duplicates reduced size of training set from 280 to 13, (aggregating using max) [0.000s CPU, 0.000s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_good-operators-exhaustive-filtered_KRN_RG/move.model .. done
+
+2023-06-06 07:20:16,074 INFO     train wall-clock time: 1.20s
+2023-06-06 07:20:16,074 INFO     train exit code: 0
+[INFO][abstract_initial_design.py:134] Using 1 initial design configurations and 0 additional configurations.
+[INFO][abstract_intensifier.py:306] Using only one seed for deterministic scenario.
+Ran p21 with lama-first, queue ipc23-single-queue, termination relaxed10, and model model_good-yy: time 3.01, operators 1848, cost 621
+[INFO][abstract_intensifier.py:513] Added config 052827 as new incumbent because there are no incumbents yet.
+Ran p25 with lama-first, queue ipc23-single-queue, termination relaxed10, and model model_good-yy: time 6.91, operators 2600, cost 867
+Ran p25 with lama-first, queue roundrobin, termination relaxed10, and model model_good-yy: time 6.86, operators 2600, cost 867
+Ran p21 with lama-first, queue roundrobin, termination relaxed10, and model model_good-yy: time 2.95, operators 1848, cost 621
+Ran p28 with lama-first, queue ipc23-single-queue, termination relaxed10, and model model_good-yy: time 10.53, operators 3248, cost 1060
+Ran p28 with lama-first, queue noveltyfifo, termination relaxed10, and model model_good-yy: time 33.87, operators 3092, cost 1152
+Ran p25 with lama-first, queue noveltyfifo, termination relaxed10, and model model_good-yy: time 23.26, operators 1735, cost 1418
+Ran p21 with lama-first, queue noveltyfifo, termination relaxed10, and model model_good-yy: time 8.71, operators 1754, cost 688
+[INFO][abstract_intensifier.py:588] Added config aec6bc and rejected config 052827 as incumbent because it is not better than the incumbents on 3 instances:
+[INFO][configspace.py:175] --- queue_type: 'ipc23-single-queue' -> 'noveltyfifo'
+Ran p29 with lama-first, queue noveltyfifo, termination relaxed10, and model model_good-yy: time 36.64, operators 3480, cost 1196
+Ran p25 with lama-first, queue noveltyfifo, termination full, and model model_good-yy: time 25.49, operators 1891, cost 1266
+Ran p29 with lama-first, queue noveltyfifo, termination full, and model model_good-yy: time 42.09, operators 3480, cost 1196
+Ran p21 with lama-first, queue noveltyfifo, termination full, and model model_good-yy: time 9.4, operators 1848, cost 621
+Ran p28 with lama-first, queue noveltyfifo, termination full, and model model_good-yy: time 59.0, operators 2810, cost 1216
+[INFO][abstract_intensifier.py:588] Added config 125130 and rejected config aec6bc as incumbent because it is not better than the incumbents on 4 instances:
+[INFO][configspace.py:175] --- termination-condition: 'relaxed10' -> 'full'
+Ran p17 with lama-first, queue noveltyfifo, termination full, and model model_good-yy: time 4.13, operators 1209, cost 441
+Ran p29 with lama-first, queue lifo, termination full, and model model_good-yy: not solved due to time limit
+Ran p25 with lama-first, queue lifo, termination full, and model model_good-yy: time 94.86, operators 1714, cost 1169
+Ran p21 with lama-first, queue lifo, termination full, and model model_good-yy: time 24.56, operators 1436, cost 700
+Ran p17 with lama-first, queue lifo, termination full, and model model_good-yy: time 6.85, operators 1002, cost 420
+Ran p28 with lama-first, queue lifo, termination full, and model model_good-yy: not solved due to time limit
+Ran p19 with lama-first, queue noveltyfifo, termination full, and model model_good-yy: time 6.29, operators 1520, cost 499
+Ran p19 with lama-first, queue fifo, termination full, and model model_good-yy: time 2.77, operators 1520, cost 499
+Ran p28 with lama-first, queue fifo, termination full, and model model_good-yy: time 14.02, operators 3248, cost 1060
+Ran p25 with lama-first, queue fifo, termination full, and model model_good-yy: time 9.49, operators 2600, cost 867
+Ran p29 with lama-first, queue fifo, termination full, and model model_good-yy: time 15.92, operators 3480, cost 1196
+Ran p21 with lama-first, queue fifo, termination full, and model model_good-yy: time 4.01, operators 1848, cost 621
+Ran p17 with lama-first, queue fifo, termination full, and model model_good-yy: time 1.85, operators 1224, cost 436
+Ran p27 with lama-first, queue noveltyfifo, termination full, and model model_good-yy: time 29.04, operators 3024, cost 980
+Ran p17 with lama-first, queue fifo, termination relaxed10, and model model_good-yy: time 1.32, operators 1224, cost 436
+Ran p21 with lama-first, queue fifo, termination relaxed10, and model model_good-yy: time 2.95, operators 1848, cost 621
+Ran p27 with lama-first, queue fifo, termination relaxed10, and model model_good-yy: time 8.77, operators 3024, cost 980
+Ran p29 with lama-first, queue fifo, termination relaxed10, and model model_good-yy: time 12.08, operators 3480, cost 1196
+Ran p25 with lama-first, queue fifo, termination relaxed10, and model model_good-yy: time 6.85, operators 2600, cost 867
+Ran p19 with lama-first, queue fifo, termination relaxed10, and model model_good-yy: time 2.01, operators 1520, cost 499
+Ran p28 with lama-first, queue fifo, termination relaxed10, and model model_good-yy: time 10.46, operators 3248, cost 1060
+Ran p26 with lama-first, queue noveltyfifo, termination full, and model model_good-yy: time 26.78, operators 2808, cost 959
+Ran p19 with lama-first, queue ipc23-round-robin, termination relaxed10, and model model_sk5_good-yy: time 2.86, operators 1520, cost 499
+Ran p17 with lama-first, queue ipc23-round-robin, termination relaxed10, and model model_sk5_good-yy: time 2.1, operators 1224, cost 436
+Ran p28 with lama-first, queue ipc23-round-robin, termination relaxed10, and model model_sk5_good-yy: time 11.87, operators 3248, cost 1060
+Ran p26 with lama-first, queue ipc23-round-robin, termination relaxed10, and model model_sk5_good-yy: time 8.49, operators 2808, cost 959
+Ran p27 with lama-first, queue ipc23-round-robin, termination relaxed10, and model model_sk5_good-yy: time 10.02, operators 3024, cost 980
+Ran p25 with lama-first, queue ipc23-round-robin, termination relaxed10, and model model_sk5_good-yy: time 8.05, operators 2600, cost 867
+Ran p21 with lama-first, queue ipc23-round-robin, termination relaxed10, and model model_sk5_good-yy: time 3.91, operators 1848, cost 621
+Ran p29 with lama-first, queue ipc23-round-robin, termination relaxed10, and model model_sk5_good-yy: time 13.49, operators 3480, cost 1196
+Ran p23 with lama-first, queue noveltyfifo, termination full, and model model_good-yy: time 15.35, operators 1926, cost 860
+Ran p23 with lama-first, queue ipc23-ratio, termination relaxed10, and model model_sk1_good-yy_ratio-0.4315585581145003: time 5.59, operators 2208, cost 772
+Ran p26 with lama-first, queue ipc23-ratio, termination relaxed10, and model model_sk1_good-yy_ratio-0.4315585581145003: time 8.49, operators 2808, cost 959
+Ran p29 with lama-first, queue ipc23-ratio, termination relaxed10, and model model_sk1_good-yy_ratio-0.4315585581145003: time 13.49, operators 3480, cost 1196
+Ran p19 with lama-first, queue ipc23-ratio, termination relaxed10, and model model_sk1_good-yy_ratio-0.4315585581145003: time 2.86, operators 1520, cost 499
+Ran p28 with lama-first, queue ipc23-ratio, termination relaxed10, and model model_sk1_good-yy_ratio-0.4315585581145003: time 11.81, operators 3248, cost 1060
+Ran p17 with lama-first, queue ipc23-ratio, termination relaxed10, and model model_sk1_good-yy_ratio-0.4315585581145003: time 2.09, operators 1224, cost 436
+[INFO][smbo.py:298] Finished 50 trials.
+Ran p21 with lama-first, queue ipc23-ratio, termination relaxed10, and model model_sk1_good-yy_ratio-0.4315585581145003: time 3.92, operators 1848, cost 621
+Ran p25 with lama-first, queue ipc23-ratio, termination relaxed10, and model model_sk1_good-yy_ratio-0.4315585581145003: time 8.04, operators 2600, cost 867
+Ran p27 with lama-first, queue ipc23-ratio, termination relaxed10, and model model_sk1_good-yy_ratio-0.4315585581145003: time 10.03, operators 3024, cost 980
+Ran p30 with lama-first, queue noveltyfifo, termination full, and model model_good-yy: time 55.58, operators 3720, cost 1218
+Ran p17 with lama-first, queue ipc23-single-queue, termination full, and model model_sk4_good-yy: time 3.39, operators 1224, cost 436
+Ran p29 with lama-first, queue ipc23-single-queue, termination full, and model model_sk4_good-yy: time 18.73, operators 3480, cost 1196
+Ran p27 with lama-first, queue ipc23-single-queue, termination full, and model model_sk4_good-yy: time 14.18, operators 3024, cost 980
+Ran p21 with lama-first, queue ipc23-single-queue, termination full, and model model_sk4_good-yy: time 5.93, operators 1848, cost 621
+Ran p25 with lama-first, queue ipc23-single-queue, termination full, and model model_sk4_good-yy: time 11.8, operators 2600, cost 867
+Ran p26 with lama-first, queue ipc23-single-queue, termination full, and model model_sk4_good-yy: time 12.01, operators 2808, cost 959
+Ran p23 with lama-first, queue ipc23-single-queue, termination full, and model model_sk4_good-yy: time 8.34, operators 2208, cost 772
+Ran p30 with lama-first, queue ipc23-single-queue, termination full, and model model_sk4_good-yy: time 21.44, operators 3720, cost 1218
+Ran p28 with lama-first, queue ipc23-single-queue, termination full, and model model_sk4_good-yy: time 16.7, operators 3248, cost 1060
+Ran p19 with lama-first, queue ipc23-single-queue, termination full, and model model_sk4_good-yy: time 4.49, operators 1520, cost 499
+Ran p28 with lama-first, queue ipc23-single-queue, termination full, and model model_sk2_good-yy: time 16.69, operators 3248, cost 1060
+Ran p27 with lama-first, queue ipc23-single-queue, termination full, and model model_sk2_good-yy: time 14.16, operators 3024, cost 980
+Ran p26 with lama-first, queue ipc23-single-queue, termination full, and model model_sk2_good-yy: time 11.94, operators 2808, cost 959
+Ran p21 with lama-first, queue ipc23-single-queue, termination full, and model model_sk2_good-yy: time 5.93, operators 1848, cost 621
+Ran p25 with lama-first, queue ipc23-single-queue, termination full, and model model_sk2_good-yy: time 11.78, operators 2600, cost 867
+Ran p23 with lama-first, queue ipc23-single-queue, termination full, and model model_sk2_good-yy: time 8.33, operators 2208, cost 772
+Ran p17 with lama-first, queue ipc23-single-queue, termination full, and model model_sk2_good-yy: time 3.39, operators 1224, cost 436
+Ran p29 with lama-first, queue ipc23-single-queue, termination full, and model model_sk2_good-yy: time 18.75, operators 3480, cost 1196
+Ran p30 with lama-first, queue ipc23-single-queue, termination full, and model model_sk2_good-yy: time 21.42, operators 3720, cost 1218
+Ran p19 with lama-first, queue ipc23-single-queue, termination full, and model model_sk2_good-yy: time 4.45, operators 1520, cost 499
+Ran p28 with lama-first, queue ipc23-round-robin, termination relaxed10, and model model_sk2_good-yy: time 11.83, operators 3248, cost 1060
+Ran p21 with lama-first, queue ipc23-round-robin, termination relaxed10, and model model_sk2_good-yy: time 3.91, operators 1848, cost 621
+Ran p27 with lama-first, queue ipc23-round-robin, termination relaxed10, and model model_sk2_good-yy: time 10.02, operators 3024, cost 980
+Ran p30 with lama-first, queue ipc23-round-robin, termination relaxed10, and model model_sk2_good-yy: time 15.51, operators 3720, cost 1218
+Ran p26 with lama-first, queue ipc23-round-robin, termination relaxed10, and model model_sk2_good-yy: time 8.53, operators 2808, cost 959
+Ran p19 with lama-first, queue ipc23-round-robin, termination relaxed10, and model model_sk2_good-yy: time 2.87, operators 1520, cost 499
+Ran p23 with lama-first, queue ipc23-round-robin, termination relaxed10, and model model_sk2_good-yy: time 5.64, operators 2208, cost 772
+Ran p25 with lama-first, queue ipc23-round-robin, termination relaxed10, and model model_sk2_good-yy: time 8.09, operators 2600, cost 867
+Ran p17 with lama-first, queue ipc23-round-robin, termination relaxed10, and model model_sk2_good-yy: time 2.12, operators 1224, cost 436
+Ran p29 with lama-first, queue ipc23-round-robin, termination relaxed10, and model model_sk2_good-yy: time 13.56, operators 3480, cost 1196
+Ran p19 with lama-first, queue ipc23-round-robin, termination relaxed10, and model model_good-yy: time 2.05, operators 1520, cost 499
+Ran p21 with lama-first, queue ipc23-round-robin, termination relaxed10, and model model_good-yy: time 3.01, operators 1848, cost 621
+Ran p27 with lama-first, queue ipc23-round-robin, termination relaxed10, and model model_good-yy: time 8.91, operators 3024, cost 980
+Ran p28 with lama-first, queue ipc23-round-robin, termination relaxed10, and model model_good-yy: time 10.63, operators 3248, cost 1060
+Ran p17 with lama-first, queue ipc23-round-robin, termination relaxed10, and model model_good-yy: time 1.35, operators 1224, cost 436
+Ran p25 with lama-first, queue ipc23-round-robin, termination relaxed10, and model model_good-yy: time 6.98, operators 2600, cost 867
+Ran p23 with lama-first, queue ipc23-round-robin, termination relaxed10, and model model_good-yy: time 4.64, operators 2208, cost 772
+Ran p29 with lama-first, queue ipc23-round-robin, termination relaxed10, and model model_good-yy: time 12.25, operators 3480, cost 1196
+Ran p26 with lama-first, queue ipc23-round-robin, termination relaxed10, and model model_good-yy: time 7.34, operators 2808, cost 959
+Ran p30 with lama-first, queue ipc23-round-robin, termination relaxed10, and model model_good-yy: time 14.15, operators 3720, cost 1218
+Ran p26 with lama-first, queue lifo, termination relaxed10, and model model_good-yy: time 72.46, operators 2357, cost 855
+Ran p25 with lama-first, queue lifo, termination relaxed10, and model model_good-yy: time 67.75, operators 1886, cost 776
+Ran p29 with lama-first, queue lifo, termination relaxed10, and model model_good-yy: not solved due to time limit
+Ran p21 with lama-first, queue lifo, termination relaxed10, and model model_good-yy: time 16.22, operators 1580, cost 582
+Ran p17 with lama-first, queue lifo, termination relaxed10, and model model_good-yy: time 3.8, operators 1103, cost 371
+Ran p30 with lama-first, queue lifo, termination relaxed10, and model model_good-yy: not solved due to time limit
+[INFO][smbo.py:298] Finished 100 trials.
+Ran p28 with lama-first, queue lifo, termination relaxed10, and model model_good-yy: time 110.74, operators 2544, cost 975
+Ran p19 with lama-first, queue lifo, termination relaxed10, and model model_good-yy: time 8.27, operators 1322, cost 447
+Ran p27 with lama-first, queue lifo, termination relaxed10, and model model_good-yy: time 103.58, operators 2479, cost 928
+Ran p23 with lama-first, queue lifo, termination relaxed10, and model model_good-yy: time 28.56, operators 1839, cost 890
+Ran p21 with lama-first, queue ipc23-ratio, termination full, and model model_sk2_good-yy_ratio-0.1895275347669745: time 5.92, operators 1848, cost 621
+Ran p23 with lama-first, queue ipc23-ratio, termination full, and model model_sk2_good-yy_ratio-0.1895275347669745: time 8.32, operators 2208, cost 772
+Ran p17 with lama-first, queue ipc23-ratio, termination full, and model model_sk2_good-yy_ratio-0.1895275347669745: time 3.39, operators 1224, cost 436
+Ran p26 with lama-first, queue ipc23-ratio, termination full, and model model_sk2_good-yy_ratio-0.1895275347669745: time 11.98, operators 2808, cost 959
+Ran p19 with lama-first, queue ipc23-ratio, termination full, and model model_sk2_good-yy_ratio-0.1895275347669745: time 4.49, operators 1520, cost 499
+Ran p28 with lama-first, queue ipc23-ratio, termination full, and model model_sk2_good-yy_ratio-0.1895275347669745: time 16.68, operators 3248, cost 1060
+Ran p27 with lama-first, queue ipc23-ratio, termination full, and model model_sk2_good-yy_ratio-0.1895275347669745: time 14.14, operators 3024, cost 980
+Ran p25 with lama-first, queue ipc23-ratio, termination full, and model model_sk2_good-yy_ratio-0.1895275347669745: time 11.87, operators 2600, cost 867
+Ran p29 with lama-first, queue ipc23-ratio, termination full, and model model_sk2_good-yy_ratio-0.1895275347669745: time 18.79, operators 3480, cost 1196
+Ran p30 with lama-first, queue ipc23-ratio, termination full, and model model_sk2_good-yy_ratio-0.1895275347669745: time 21.44, operators 3720, cost 1218
+Ran p17 with lama-first, queue ipc23-ratio, termination full, and model model_sk4_good-yy_ratio-0.570806867675056: time 3.39, operators 1224, cost 436
+Ran p19 with lama-first, queue ipc23-ratio, termination full, and model model_sk4_good-yy_ratio-0.570806867675056: time 4.46, operators 1520, cost 499
+Ran p26 with lama-first, queue ipc23-ratio, termination full, and model model_sk4_good-yy_ratio-0.570806867675056: time 11.97, operators 2808, cost 959
+Ran p21 with lama-first, queue ipc23-ratio, termination full, and model model_sk4_good-yy_ratio-0.570806867675056: time 5.94, operators 1848, cost 621
+Ran p30 with lama-first, queue ipc23-ratio, termination full, and model model_sk4_good-yy_ratio-0.570806867675056: time 21.41, operators 3720, cost 1218
+Ran p27 with lama-first, queue ipc23-ratio, termination full, and model model_sk4_good-yy_ratio-0.570806867675056: time 14.15, operators 3024, cost 980
+Ran p29 with lama-first, queue ipc23-ratio, termination full, and model model_sk4_good-yy_ratio-0.570806867675056: time 18.73, operators 3480, cost 1196
+Ran p23 with lama-first, queue ipc23-ratio, termination full, and model model_sk4_good-yy_ratio-0.570806867675056: time 8.37, operators 2208, cost 772
+Ran p28 with lama-first, queue ipc23-ratio, termination full, and model model_sk4_good-yy_ratio-0.570806867675056: time 16.68, operators 3248, cost 1060
+Ran p25 with lama-first, queue ipc23-ratio, termination full, and model model_sk4_good-yy_ratio-0.570806867675056: time 11.78, operators 2600, cost 867
+Ran p19 with lama-first, queue ipc23-ratio, termination full, and model model_sk3_good-yy_ratio-0.8394804990217053: time 4.48, operators 1520, cost 499
+Ran p27 with lama-first, queue ipc23-ratio, termination full, and model model_sk3_good-yy_ratio-0.8394804990217053: time 14.16, operators 3024, cost 980
+Ran p29 with lama-first, queue ipc23-ratio, termination full, and model model_sk3_good-yy_ratio-0.8394804990217053: time 18.74, operators 3480, cost 1196
+Ran p26 with lama-first, queue ipc23-ratio, termination full, and model model_sk3_good-yy_ratio-0.8394804990217053: time 12.0, operators 2808, cost 959
+Ran p23 with lama-first, queue ipc23-ratio, termination full, and model model_sk3_good-yy_ratio-0.8394804990217053: time 8.35, operators 2208, cost 772
+Ran p21 with lama-first, queue ipc23-ratio, termination full, and model model_sk3_good-yy_ratio-0.8394804990217053: time 5.95, operators 1848, cost 621
+Ran p28 with lama-first, queue ipc23-ratio, termination full, and model model_sk3_good-yy_ratio-0.8394804990217053: time 16.87, operators 3248, cost 1060
+Ran p30 with lama-first, queue ipc23-ratio, termination full, and model model_sk3_good-yy_ratio-0.8394804990217053: time 21.56, operators 3720, cost 1218
+Ran p25 with lama-first, queue ipc23-ratio, termination full, and model model_sk3_good-yy_ratio-0.8394804990217053: time 11.82, operators 2600, cost 867
+Ran p17 with lama-first, queue ipc23-ratio, termination full, and model model_sk3_good-yy_ratio-0.8394804990217053: time 3.41, operators 1224, cost 436
+Ran p30 with lama-first, queue roundrobin, termination full, and model model_good-yy: time 18.56, operators 3720, cost 1218
+Ran p21 with lama-first, queue roundrobin, termination full, and model model_good-yy: time 4.02, operators 1848, cost 621
+Ran p28 with lama-first, queue roundrobin, termination full, and model model_good-yy: time 14.04, operators 3248, cost 1060
+Ran p17 with lama-first, queue roundrobin, termination full, and model model_good-yy: time 1.86, operators 1224, cost 436
+Ran p19 with lama-first, queue roundrobin, termination full, and model model_good-yy: time 2.76, operators 1520, cost 499
+Ran p23 with lama-first, queue roundrobin, termination full, and model model_good-yy: time 6.27, operators 2208, cost 772
+Ran p27 with lama-first, queue roundrobin, termination full, and model model_good-yy: time 11.63, operators 3024, cost 980
+Ran p26 with lama-first, queue roundrobin, termination full, and model model_good-yy: time 9.6, operators 2808, cost 959
+Ran p29 with lama-first, queue roundrobin, termination full, and model model_good-yy: time 16.02, operators 3480, cost 1196
+Ran p25 with lama-first, queue roundrobin, termination full, and model model_good-yy: time 9.52, operators 2600, cost 867
+Ran p27 with lama-first, queue roundrobinnovelty, termination full, and model model_good-yy: time 22.7, operators 2725, cost 1051
+Ran p30 with lama-first, queue roundrobinnovelty, termination full, and model model_good-yy: time 46.18, operators 3396, cost 1575
+Ran p19 with lama-first, queue roundrobinnovelty, termination full, and model model_good-yy: time 6.89, operators 1288, cost 685
+Ran p21 with lama-first, queue roundrobinnovelty, termination full, and model model_good-yy: time 7.6, operators 1594, cost 758
+Ran p26 with lama-first, queue roundrobinnovelty, termination full, and model model_good-yy: time 22.29, operators 2505, cost 1318
+Ran p28 with lama-first, queue roundrobinnovelty, termination full, and model model_good-yy: time 41.32, operators 2810, cost 1252
+[INFO][smbo.py:298] Finished 150 trials.
+Ran p25 with lama-first, queue roundrobinnovelty, termination full, and model model_good-yy: time 24.88, operators 1891, cost 1238
+Ran p29 with lama-first, queue roundrobinnovelty, termination full, and model model_good-yy: time 41.99, operators 3480, cost 1196
+Ran p17 with lama-first, queue roundrobinnovelty, termination full, and model model_good-yy: time 4.01, operators 1209, cost 440
+Ran p23 with lama-first, queue roundrobinnovelty, termination full, and model model_good-yy: time 15.4, operators 1926, cost 860
+[INFO][abstract_intensifier.py:588] Added config bbad42 and rejected config 125130 as incumbent because it is not better than the incumbents on 10 instances:
+[INFO][configspace.py:175] --- queue_type: 'noveltyfifo' -> 'roundrobinnovelty'
+Ran p23 with lama-first, queue ipc23-ratio, termination full, and model model_good-yy_ratio-0.8410480647357897: time 6.31, operators 2208, cost 772
+Ran p17 with lama-first, queue ipc23-ratio, termination full, and model model_good-yy_ratio-0.8410480647357897: time 1.91, operators 1224, cost 436
+Ran p19 with lama-first, queue ipc23-ratio, termination full, and model model_good-yy_ratio-0.8410480647357897: time 2.82, operators 1520, cost 499
+Ran p25 with lama-first, queue ipc23-ratio, termination full, and model model_good-yy_ratio-0.8410480647357897: time 9.61, operators 2600, cost 867
+Ran p27 with lama-first, queue ipc23-ratio, termination full, and model model_good-yy_ratio-0.8410480647357897: time 11.75, operators 3024, cost 980
+Ran p21 with lama-first, queue ipc23-ratio, termination full, and model model_good-yy_ratio-0.8410480647357897: time 4.11, operators 1848, cost 621
+Ran p30 with lama-first, queue ipc23-ratio, termination full, and model model_good-yy_ratio-0.8410480647357897: time 18.77, operators 3720, cost 1218
+Ran p29 with lama-first, queue ipc23-ratio, termination full, and model model_good-yy_ratio-0.8410480647357897: time 16.06, operators 3480, cost 1196
+Ran p28 with lama-first, queue ipc23-ratio, termination full, and model model_good-yy_ratio-0.8410480647357897: time 14.12, operators 3248, cost 1060
+Ran p26 with lama-first, queue ipc23-ratio, termination full, and model model_good-yy_ratio-0.8410480647357897: time 9.66, operators 2808, cost 959
+Ran p27 with lama-first, queue ipc23-ratio, termination relaxed10, and model model_sk6_good-yy_ratio-0.22944619429917254: time 9.99, operators 3024, cost 980
+Ran p23 with lama-first, queue ipc23-ratio, termination relaxed10, and model model_sk6_good-yy_ratio-0.22944619429917254: time 5.61, operators 2208, cost 772
+Ran p19 with lama-first, queue ipc23-ratio, termination relaxed10, and model model_sk6_good-yy_ratio-0.22944619429917254: time 2.87, operators 1520, cost 499
+Ran p21 with lama-first, queue ipc23-ratio, termination relaxed10, and model model_sk6_good-yy_ratio-0.22944619429917254: time 3.9, operators 1848, cost 621
+Ran p30 with lama-first, queue ipc23-ratio, termination relaxed10, and model model_sk6_good-yy_ratio-0.22944619429917254: time 15.51, operators 3720, cost 1218
+Ran p26 with lama-first, queue ipc23-ratio, termination relaxed10, and model model_sk6_good-yy_ratio-0.22944619429917254: time 8.5, operators 2808, cost 959
+Ran p17 with lama-first, queue ipc23-ratio, termination relaxed10, and model model_sk6_good-yy_ratio-0.22944619429917254: time 2.09, operators 1224, cost 436
+Ran p28 with lama-first, queue ipc23-ratio, termination relaxed10, and model model_sk6_good-yy_ratio-0.22944619429917254: time 11.83, operators 3248, cost 1060
+Ran p25 with lama-first, queue ipc23-ratio, termination relaxed10, and model model_sk6_good-yy_ratio-0.22944619429917254: time 8.0, operators 2600, cost 867
+Ran p29 with lama-first, queue ipc23-ratio, termination relaxed10, and model model_sk6_good-yy_ratio-0.22944619429917254: time 13.47, operators 3480, cost 1196
+Ran p17 with lama-first, queue ipc23-round-robin, termination full, and model model_sk5_good-yy: time 3.38, operators 1224, cost 436
+Ran p27 with lama-first, queue ipc23-round-robin, termination full, and model model_sk5_good-yy: time 14.11, operators 3024, cost 980
+Ran p29 with lama-first, queue ipc23-round-robin, termination full, and model model_sk5_good-yy: time 18.7, operators 3480, cost 1196
+Ran p30 with lama-first, queue ipc23-round-robin, termination full, and model model_sk5_good-yy: time 21.48, operators 3720, cost 1218
+Ran p28 with lama-first, queue ipc23-round-robin, termination full, and model model_sk5_good-yy: time 16.65, operators 3248, cost 1060
+Ran p21 with lama-first, queue ipc23-round-robin, termination full, and model model_sk5_good-yy: time 5.91, operators 1848, cost 621
+Ran p25 with lama-first, queue ipc23-round-robin, termination full, and model model_sk5_good-yy: time 11.76, operators 2600, cost 867
+Ran p19 with lama-first, queue ipc23-round-robin, termination full, and model model_sk5_good-yy: time 4.47, operators 1520, cost 499
+Ran p23 with lama-first, queue ipc23-round-robin, termination full, and model model_sk5_good-yy: time 8.3, operators 2208, cost 772
+Ran p26 with lama-first, queue ipc23-round-robin, termination full, and model model_sk5_good-yy: time 11.95, operators 2808, cost 959
+Ran p23 with lama-first, queue ipc23-ratio, termination full, and model model_sk4_good-yy_ratio-0.24313496494701844: time 8.32, operators 2208, cost 772
+Ran p29 with lama-first, queue ipc23-ratio, termination full, and model model_sk4_good-yy_ratio-0.24313496494701844: time 18.72, operators 3480, cost 1196
+Ran p28 with lama-first, queue ipc23-ratio, termination full, and model model_sk4_good-yy_ratio-0.24313496494701844: time 16.66, operators 3248, cost 1060
+Ran p19 with lama-first, queue ipc23-ratio, termination full, and model model_sk4_good-yy_ratio-0.24313496494701844: time 4.48, operators 1520, cost 499
+Ran p21 with lama-first, queue ipc23-ratio, termination full, and model model_sk4_good-yy_ratio-0.24313496494701844: time 5.9, operators 1848, cost 621
+Ran p30 with lama-first, queue ipc23-ratio, termination full, and model model_sk4_good-yy_ratio-0.24313496494701844: time 21.38, operators 3720, cost 1218
+Ran p25 with lama-first, queue ipc23-ratio, termination full, and model model_sk4_good-yy_ratio-0.24313496494701844: time 11.77, operators 2600, cost 867
+Ran p17 with lama-first, queue ipc23-ratio, termination full, and model model_sk4_good-yy_ratio-0.24313496494701844: time 3.39, operators 1224, cost 436
+Ran p27 with lama-first, queue ipc23-ratio, termination full, and model model_sk4_good-yy_ratio-0.24313496494701844: time 14.12, operators 3024, cost 980
+Ran p26 with lama-first, queue ipc23-ratio, termination full, and model model_sk4_good-yy_ratio-0.24313496494701844: time 11.97, operators 2808, cost 959
+[WARNING][config_selector.py:242] Could not return a new configuration after 16 retries.
+[INFO][smbo.py:311] Shutting down because the stop flag was set.
+Running learning parser
+Running runsolver parser

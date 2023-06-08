@@ -1,0 +1,20 @@
+0.4569	move (?from, ?to) :- ini:at-robby(?from).
+0.3432	move (?from, ?to) :- equal:(?from, ?to).
+0.3426	move (?from, ?to) :- ini:at-robby(?to).
+0.3045	move (?from, ?to) :- ini:at(?fv0, ?to);goal:at(?fv0, _).
+0.3045	move (?from, ?to) :- goal:at(?fv0, ?from);ini:at(?fv0, ?to).
+0.1903	move (?from, ?to) :- goal:at(_, ?from).
+0.1145	move (?from, ?to) :- ini:at(?fv0, ?from);ini:at(?fv0, ?to).
+0.1142	move (?from, ?to) :- goal:at(?fv0, ?from);goal:at(?fv0, ?to).
+0.0762	move (?from, ?to) :- goal:at(_, ?to).
+0.038	move (?from, ?to) :- ini:at(?fv0, ?from);goal:at(?fv0, _).
+0.038	move (?from, ?to) :- ini:at(?fv0, ?from);goal:at(?fv0, ?to).
+0.0	move (?from, ?to) :- ini:at(?fv0, ?from);ini:at(?fv0, ?to);goal:at(?fv0, roomb).
+0.8	pick (?b, ?r, ?g) :- ini:at(?b, ?r).
+0.0	pick (?b, ?r, ?g) :- ini:at(?fv0, ?r);goal:at(?fv0, roomb).
+0.0	pick (?b, ?r, ?g) :- goal:at(?b, roomb).
+0.0	pick (?b, ?r, ?g) :- goal:at(?b, ?r).
+0.8	drop (?b, ?r, ?g) :- ini:at(?b, ?r).
+0.0	drop (?b, ?r, ?g) :- ini:at(?fv0, ?r);goal:at(?fv0, roomb).
+0.0	drop (?b, ?r, ?g) :- goal:at(?b, roomb).
+0.0	drop (?b, ?r, ?g) :- goal:at(?b, ?r).

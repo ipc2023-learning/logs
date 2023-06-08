@@ -1,0 +1,3 @@
+move (?from, ?to) :- equal:(?from, ?to).
+move (?from, ?to) :- ini:at(?fv0, ?to);goal:at(?fv0, _).
+move (?from, ?to) :- ini:at-robby(?to).

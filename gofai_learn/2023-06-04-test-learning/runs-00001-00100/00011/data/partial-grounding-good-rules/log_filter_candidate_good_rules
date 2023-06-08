@@ -1,0 +1,39 @@
+Filtering irrelevant rules; number rules before filtering 4
+handling instance 1/30
+handling instance 2/30
+handling instance 3/30
+handling instance 4/30
+handling instance 5/30
+handling instance 6/30
+handling instance 7/30
+handling instance 8/30
+handling instance 9/30
+handling instance 10/30
+handling instance 11/30
+handling instance 12/30
+handling instance 13/30
+handling instance 14/30
+handling instance 15/30
+handling instance 16/30
+handling instance 17/30
+Analyzing if good rule ['drop (?arg0, ?arg1, ?arg2) :- goal:at(?arg0, ?arg1).\n']
+   match yes 854, no 858 
+    0.49883177570093457% matches, average per task:  50.23529411764706
+   Is good rule: True
+
+Analyzing if good rule ['move (?arg0, ?arg1) :- ini:at-robby(?arg1);goal:at(_, ?arg0).\n']
+   match yes 16, no 52 
+    0.23529411764705882% matches, average per task:  0.9411764705882353
+   Is good rule: True
+
+Analyzing if good rule ['move (?arg0, ?arg1) :- ini:at-robby(?arg0);goal:at(_, ?arg1).\n']
+   match yes 1, no 7 
+    0.125% matches, average per task:  0.058823529411764705
+   Is good rule: True
+
+Analyzing if good rule ['pick (?arg0, ?arg1, ?arg2) :- ini:at-robby(?arg1).']
+   match yes 856, no 856 
+    0.5% matches, average per task:  50.35294117647059
+   Is good rule: True
+
+Good rules:  4

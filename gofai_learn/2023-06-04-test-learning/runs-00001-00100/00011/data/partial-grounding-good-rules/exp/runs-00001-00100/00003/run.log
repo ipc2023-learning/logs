@@ -1,0 +1,106 @@
+
+
+A L E P H
+Version 5
+Last modified: Sun Mar 11 03:25:37 UTC 2007
+
+Manual: http://www.comlab.ox.ac.uk/oucl/groups/machlearn/Aleph/index.html
+
+[consulting pos examples] [move.f]
+[consulting neg examples] [move.n]
+[select example] [1]
+[sat] [1]
+[class(obj:rooma,obj:roomb,p01)]
+[repeated literals] [1/4]
+
+[bottom clause]
+[literals] [3]
+[saturation time] [0.002]
+[reduce]
+[best label so far] [[1,0,2,1]/0]
+[clauses constructed] [4]
+[search time] [0.001]
+[best clause]
+class('obj:rooma','obj:roomb',p01).
+[pos cover = 1 neg cover = 0] [pos-neg] [1]
+[atoms left] [32]
+[positive examples left] [32]
+[estimated time to finish (secs)] [0.032]
+[select example] [2]
+[sat] [2]
+[class(obj:rooma,obj:roomb,p02)]
+[repeated literals] [8/18]
+
+[bottom clause]
+[literals] [10]
+[saturation time] [0.003]
+[reduce]
+[best label so far] [[1,0,2,1]/0]
+[-------------------------------------]
+[found clause]
+class(A,B,C) :-
+   'ini:at-robby'(A,C), 'goal:at'(D,B,C).
+[pos cover = 16 neg cover = 0] [pos-neg] [16]
+[clause label] [[16,0,3,16]]
+[clauses constructed] [21]
+[-------------------------------------]
+[clauses constructed] [24]
+[search time] [0.003]
+[best clause]
+class(A,B,C) :-
+   'ini:at-robby'(A,C), 'goal:at'(D,B,C).
+[pos cover = 16 neg cover = 0] [pos-neg] [16]
+[atoms left] [16]
+[positive examples left] [16]
+[estimated time to finish (secs)] [0.00376471]
+[select example] [3]
+[sat] [3]
+[class(obj:roomb,obj:rooma,p02)]
+[repeated literals] [8/18]
+
+[bottom clause]
+[literals] [10]
+[saturation time] [0.003]
+[reduce]
+[best label so far] [[1,0,2,1]/0]
+[-------------------------------------]
+[found clause]
+class(A,B,C) :-
+   'ini:at-robby'(B,C), 'goal:at'(D,A,C).
+[pos cover = 16 neg cover = 0] [pos-neg] [16]
+[clause label] [[16,0,3,16]]
+[clauses constructed] [21]
+[-------------------------------------]
+[clauses constructed] [24]
+[search time] [0.003]
+[best clause]
+class(A,B,C) :-
+   'ini:at-robby'(B,C), 'goal:at'(D,A,C).
+[pos cover = 16 neg cover = 0] [pos-neg] [16]
+[atoms left] [0]
+[positive examples left] [0]
+[estimated time to finish (secs)] [0]
+
+[theory]
+
+[Rule 2] [Pos cover = 16 Neg cover = 0]
+class(A,B,C) :-
+   'ini:at-robby'(A,C), 'goal:at'(D,B,C).
+
+[Rule 3] [Pos cover = 16 Neg cover = 0]
+class(A,B,C) :-
+   'ini:at-robby'(B,C), 'goal:at'(D,A,C).
+
+[Training set performance]
+          Actual
+       +        - 
+     + 32        0        32 
+Pred 
+     - 1        35        36 
+
+       33        35        68 
+
+Accuracy = 0.985294
+[Training set summary] [[32,0,1,35]]
+[time taken] [0.018]
+[total clauses constructed] [52]

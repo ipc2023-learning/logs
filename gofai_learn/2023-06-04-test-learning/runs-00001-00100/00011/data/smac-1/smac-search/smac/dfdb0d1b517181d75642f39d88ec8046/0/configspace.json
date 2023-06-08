@@ -1,0 +1,236 @@
+{
+  "hyperparameters": [
+    {
+      "name": "alias",
+      "type": "categorical",
+      "choices": [
+        "lama-first",
+        "seq-sat-fdss-2018-0",
+        "seq-sat-fdss-2018-1",
+        "seq-sat-fdss-2018-2",
+        "seq-sat-fdss-2018-3",
+        "seq-sat-fdss-2018-4",
+        "seq-sat-fdss-2018-5",
+        "seq-sat-fdss-2018-6",
+        "seq-sat-fdss-2018-7",
+        "seq-sat-fdss-2018-8",
+        "seq-sat-fdss-2018-9",
+        "seq-sat-fdss-2018-10",
+        "seq-sat-fdss-2018-11",
+        "seq-sat-fdss-2018-12",
+        "seq-sat-fdss-2018-13",
+        "seq-sat-fdss-2018-14",
+        "seq-sat-fdss-2018-15",
+        "seq-sat-fdss-2018-16",
+        "seq-sat-fdss-2018-17",
+        "seq-sat-fdss-2018-18",
+        "seq-sat-fdss-2018-19",
+        "seq-sat-fdss-2018-20",
+        "seq-sat-fdss-2018-21",
+        "seq-sat-fdss-2018-22",
+        "seq-sat-fdss-2018-23",
+        "seq-sat-fdss-2018-24",
+        "seq-sat-fdss-2018-25",
+        "seq-sat-fdss-2018-26",
+        "seq-sat-fdss-2018-27",
+        "seq-sat-fdss-2018-28",
+        "seq-sat-fdss-2018-29",
+        "seq-sat-fdss-2018-30",
+        "seq-sat-fdss-2018-31",
+        "seq-sat-fdss-2018-32",
+        "seq-sat-fdss-2018-33",
+        "seq-sat-fdss-2018-34",
+        "seq-sat-fdss-2018-35",
+        "seq-sat-fdss-2018-36",
+        "seq-sat-fdss-2018-37",
+        "seq-sat-fdss-2018-38",
+        "seq-sat-fdss-2018-39",
+        "seq-sat-fdss-2018-40"
+      ],
+      "default": "lama-first",
+      "weights": null
+    },
+    {
+      "name": "bad0",
+      "type": "constant",
+      "value": 1
+    },
+    {
+      "name": "bad1",
+      "type": "constant",
+      "value": 1
+    },
+    {
+      "name": "bad2",
+      "type": "constant",
+      "value": 1
+    },
+    {
+      "name": "good0",
+      "type": "constant",
+      "value": 1
+    },
+    {
+      "name": "good1",
+      "type": "constant",
+      "value": 1
+    },
+    {
+      "name": "good2",
+      "type": "constant",
+      "value": 1
+    },
+    {
+      "name": "good3",
+      "type": "constant",
+      "value": 1
+    },
+    {
+      "name": "ignore-bad-actions",
+      "type": "constant",
+      "value": "true"
+    },
+    {
+      "name": "queue_type",
+      "type": "categorical",
+      "choices": [
+        "ipc23-single-queue",
+        "ipc23-ratio",
+        "ipc23-round-robin"
+      ],
+      "default": "ipc23-single-queue",
+      "weights": null
+    },
+    {
+      "name": "termination-condition",
+      "type": "categorical",
+      "choices": [
+        "relaxed10",
+        "full"
+      ],
+      "default": "relaxed10",
+      "weights": null
+    },
+    {
+      "name": "model_drop",
+      "type": "categorical",
+      "choices": [
+        "none",
+        "model_good_operators-exhaustive-useful_rules_dt-good-operators-unit_LOGR",
+        "model_good_operators-exhaustive-useful_rules_dt-good-operators-unit_DT",
+        "model_good_operators-exhaustive-useful_rules_svr-good-operators-unit_SVR",
+        "model_sas_plan-exhaustive-useful_rules_logr-good-operators-unit_KRN_RG"
+      ],
+      "default": "none",
+      "weights": null
+    },
+    {
+      "name": "model_move",
+      "type": "categorical",
+      "choices": [
+        "none",
+        "model_good_operators-exhaustive-useful_rules_svr-good-operators-unit_RF",
+        "model_good_operators-exhaustive-useful_rules_logr-good-operators-unit_LOGR",
+        "model_sas_plan-exhaustive-useful_rules_logr-good-operators-unit_DT",
+        "model_good_operators-exhaustive-useful_rules_dt-good-operators-unit_KRN_RG"
+      ],
+      "default": "none",
+      "weights": null
+    },
+    {
+      "name": "model_pick",
+      "type": "categorical",
+      "choices": [
+        "none",
+        "model_good_operators-exhaustive-useful_rules_svr-good-operators-unit_KRN_RG",
+        "model_good_operators-exhaustive-useful_rules_svr-good-operators-unit_DT",
+        "model_sas_plan-exhaustive-useful_rules_logr-good-operators-unit_KRN_RG"
+      ],
+      "default": "none",
+      "weights": null
+    },
+    {
+      "name": "schema_ratio_drop",
+      "type": "uniform_float",
+      "log": false,
+      "lower": 0.01,
+      "upper": 0.99,
+      "default": 0.5
+    },
+    {
+      "name": "schema_ratio_move",
+      "type": "uniform_float",
+      "log": false,
+      "lower": 0.01,
+      "upper": 0.99,
+      "default": 0.5
+    },
+    {
+      "name": "schema_ratio_pick",
+      "type": "uniform_float",
+      "log": false,
+      "lower": 0.01,
+      "upper": 0.99,
+      "default": 0.5
+    }
+  ],
+  "conditions": [
+    {
+      "child": "model_drop",
+      "parent": "queue_type",
+      "type": "IN",
+      "values": [
+        "ipc23-single-queue",
+        "ipc23-ratio",
+        "ipc23-round-robin"
+      ]
+    },
+    {
+      "child": "model_move",
+      "parent": "queue_type",
+      "type": "IN",
+      "values": [
+        "ipc23-single-queue",
+        "ipc23-ratio",
+        "ipc23-round-robin"
+      ]
+    },
+    {
+      "child": "model_pick",
+      "parent": "queue_type",
+      "type": "IN",
+      "values": [
+        "ipc23-single-queue",
+        "ipc23-ratio",
+        "ipc23-round-robin"
+      ]
+    },
+    {
+      "child": "schema_ratio_drop",
+      "parent": "queue_type",
+      "type": "IN",
+      "values": [
+        "ipc23-ratio"
+      ]
+    },
+    {
+      "child": "schema_ratio_move",
+      "parent": "queue_type",
+      "type": "IN",
+      "values": [
+        "ipc23-ratio"
+      ]
+    },
+    {
+      "child": "schema_ratio_pick",
+      "parent": "queue_type",
+      "type": "IN",
+      "values": [
+        "ipc23-ratio"
+      ]
+    }
+  ],
+  "forbiddens": [],
+  "python_module_version": "0.6.1",
+  "json_format_version": 0.4
+}

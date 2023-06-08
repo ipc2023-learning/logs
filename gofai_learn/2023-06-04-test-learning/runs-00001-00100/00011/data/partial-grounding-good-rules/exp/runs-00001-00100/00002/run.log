@@ -1,0 +1,57 @@
+
+
+A L E P H
+Version 5
+Last modified: Sun Mar 11 03:25:37 UTC 2007
+
+Manual: http://www.comlab.ox.ac.uk/oucl/groups/machlearn/Aleph/index.html
+
+[consulting pos examples] [pick.f]
+[consulting neg examples] [pick.n]
+[select example] [1]
+[sat] [1]
+[class(obj:ball1,obj:rooma,obj:left,p01)]
+[repeated literals] [1/5]
+
+[bottom clause]
+[literals] [4]
+[saturation time] [0.002]
+[reduce]
+[best label so far] [[1,0,2,1]/0]
+[-------------------------------------]
+[found clause]
+class(A,B,C,D) :-
+   'ini:at-robby'(B,D).
+[pos cover = 856 neg cover = 0] [pos-neg] [856]
+[clause label] [[856,0,2,856]]
+[clauses constructed] [2]
+[-------------------------------------]
+[clauses constructed] [2]
+[search time] [0.003]
+[best clause]
+class(A,B,C,D) :-
+   'ini:at-robby'(B,D).
+[pos cover = 856 neg cover = 0] [pos-neg] [856]
+[atoms left] [0]
+[positive examples left] [0]
+[estimated time to finish (secs)] [0]
+
+[theory]
+
+[Rule 1] [Pos cover = 856 Neg cover = 0]
+class(A,B,C,D) :-
+   'ini:at-robby'(B,D).
+
+[Training set performance]
+            Actual
+        +          -  
+     + 856         0         856 
+Pred 
+     -  0         856        856 
+
+       856        856        1712 
+
+Accuracy = 1
+[Training set summary] [[856,0,0,856]]
+[time taken] [0.007]
+[total clauses constructed] [2]

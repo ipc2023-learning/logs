@@ -1,0 +1,16 @@
+YAP 7.3.0-GITDIR-N (compiled  2023-05-23T08:58:13@sam)
+database loaded from /usr/local/lib/startup.yss
+
+% loading aleph...
+% /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/data/2023-06-04-test-learning/runs-00001-00100/00011/data/partial-grounding-good-rules/exp/runs-00001-00100/00003/aleph.pl consulted in module user, 391 msec 0 bytes
+yes
+% loading move.b...
+% /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/data/2023-06-04-test-learning/runs-00001-00100/00011/data/partial-grounding-good-rules/exp/runs-00001-00100/00003/move.b consulted in module user, 15 msec 0 bytes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes

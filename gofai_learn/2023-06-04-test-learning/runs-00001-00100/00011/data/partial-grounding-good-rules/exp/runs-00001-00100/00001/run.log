@@ -1,0 +1,93 @@
+
+
+A L E P H
+Version 5
+Last modified: Sun Mar 11 03:25:37 UTC 2007
+
+Manual: http://www.comlab.ox.ac.uk/oucl/groups/machlearn/Aleph/index.html
+
+[consulting pos examples] [drop.f]
+[consulting neg examples] [drop.n]
+[select example] [1]
+[sat] [1]
+[class(obj:ball1,obj:roomb,obj:left,p01)]
+[repeated literals] [1/5]
+
+[bottom clause]
+[literals] [4]
+[saturation time] [0.002]
+[reduce]
+[best label so far] [[1,0,2,1]/0]
+[clauses constructed] [6]
+[search time] [0.008]
+[best clause]
+class('obj:ball1','obj:roomb','obj:left',p01).
+[pos cover = 1 neg cover = 0] [pos-neg] [1]
+[atoms left] [855]
+[positive examples left] [855]
+[estimated time to finish (secs)] [6.84]
+[select example] [2]
+[sat] [2]
+[class(obj:ball1,obj:roomb,obj:right,p01)]
+[repeated literals] [1/5]
+
+[bottom clause]
+[literals] [4]
+[saturation time] [0.002]
+[reduce]
+[best label so far] [[1,0,2,1]/0]
+[clauses constructed] [6]
+[search time] [0.007]
+[best clause]
+class('obj:ball1','obj:roomb','obj:right',p01).
+[pos cover = 1 neg cover = 0] [pos-neg] [1]
+[atoms left] [854]
+[positive examples left] [854]
+[estimated time to finish (secs)] [6.405]
+[select example] [3]
+[sat] [3]
+[class(obj:ball1,obj:roomb,obj:left,p02)]
+[repeated literals] [8/19]
+
+[bottom clause]
+[literals] [11]
+[saturation time] [0.004]
+[reduce]
+[best label so far] [[1,0,2,1]/0]
+[-------------------------------------]
+[found clause]
+class(A,B,C,D) :-
+   'goal:at'(A,B,D).
+[pos cover = 854 neg cover = 0] [pos-neg] [854]
+[clause label] [[854,0,2,854]]
+[clauses constructed] [3]
+[-------------------------------------]
+[clauses constructed] [7]
+[search time] [0.008]
+[best clause]
+class(A,B,C,D) :-
+   'goal:at'(A,B,D).
+[pos cover = 854 neg cover = 0] [pos-neg] [854]
+[atoms left] [0]
+[positive examples left] [0]
+[estimated time to finish (secs)] [0]
+
+[theory]
+
+[Rule 3] [Pos cover = 854 Neg cover = 0]
+class(A,B,C,D) :-
+   'goal:at'(A,B,D).
+
+[Training set performance]
+            Actual
+        +          -  
+     + 854         0         854 
+Pred 
+     -  2         856        858 
+
+       856        856        1712 
+
+Accuracy = 0.998832
+[Training set summary] [[854,0,2,856]]
+[time taken] [0.032]
+[total clauses constructed] [19]

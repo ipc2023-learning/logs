@@ -1,0 +1,2 @@
+move (?arg0, ?arg1) :- equal:(?arg0,?arg1).
+pick (?arg0, ?arg1, ?arg2) :- true:.

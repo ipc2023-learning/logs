@@ -1,0 +1,29 @@
+{
+  "algorithm": "name",
+  "build_options": [],
+  "component_options": [],
+  "domain": "instances",
+  "driver_options": [
+    "--alias",
+    "lama-first",
+    "--transform-task",
+    "//fd-partial-grounding/builds/release/bin/preprocess-h2",
+    "--transform-task-options",
+    "h2_time_limit,300",
+    "--overall-time-limit",
+    1800,
+    "--overall-memory-limit",
+    4096
+  ],
+  "experiment_name": "runs-lama-exp",
+  "global_revision": null,
+  "id": [
+    "name",
+    "instances",
+    "p19.pddl"
+  ],
+  "local_revision": "default",
+  "problem": "p19.pddl",
+  "repo": "//fd-partial-grounding",
+  "run_dir": "runs-00001-00100/00019"
+}

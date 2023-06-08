@@ -1,0 +1,7 @@
+2023-06-05 22:42:46,846 INFO     node: n360
+2023-06-05 22:52:12,342 INFO     run-apptainer wall-clock time: 565.49s
+2023-06-05 22:52:12,343 INFO     run-apptainer exit code: 0
+2023-06-05 22:52:12,423 INFO     learning_parser wall-clock time: 0.08s
+2023-06-05 22:52:12,423 INFO     learning_parser exit code: 0
+2023-06-05 22:52:12,503 INFO     runsolver_parser wall-clock time: 0.08s
+2023-06-05 22:52:12,503 INFO     runsolver_parser exit code: 0

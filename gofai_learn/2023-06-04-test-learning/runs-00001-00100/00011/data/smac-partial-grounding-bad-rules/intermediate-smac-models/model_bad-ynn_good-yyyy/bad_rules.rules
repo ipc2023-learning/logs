@@ -1,0 +1,1 @@
+drop (?arg0, ?arg1, ?arg2) :- ini:at-robby(?arg1).

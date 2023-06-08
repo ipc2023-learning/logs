@@ -1,0 +1,212 @@
+INFO     planner time limit: 1800s
+INFO     planner memory limit: 4096 MB
+
+INFO     Running translator.
+INFO     translator stdin: None
+INFO     translator time limit: 1799s
+INFO     translator memory limit: 4096 MB
+INFO     translator command line string: /usr/bin/python3 /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/data/2023-06-04-test-learning/runs-00001-00100/00011/data/runs-lama-exp/code/builds/release/bin/translate/translate.py domain.pddl problem.pddl --sas-file output.sas
+Parsing...
+Parsing: [0.000s CPU, 0.001s wall-clock]
+Normalizing task... [0.000s CPU, 0.000s wall-clock]
+Instantiating...
+Generating Datalog program... [0.000s CPU, 0.000s wall-clock]
+Normalizing Datalog program...
+Normalizing Datalog program: [0.000s CPU, 0.001s wall-clock]
+Preparing model... [0.000s CPU, 0.000s wall-clock]
+Generated 17 rules.
+Using FIFO priority queue for actions.
+Using default termination condition, i.e. grounding all actions.
+Computing model... [0.000s CPU, 0.000s wall-clock]
+no statistics available
+36 relevant atoms
+18 auxiliary atoms
+12 actions instantiated
+54 final queue length
+66 total queue pushes
+Completing instantiation... [0.010s CPU, 0.000s wall-clock]
+Instantiating: [0.010s CPU, 0.002s wall-clock]
+Computing fact groups...
+Finding invariants...
+10 initial candidates
+Finding invariants: [0.000s CPU, 0.001s wall-clock]
+Checking invariant weight... [0.000s CPU, 0.000s wall-clock]
+Instantiating groups... [0.000s CPU, 0.000s wall-clock]
+Collecting mutex groups... [0.000s CPU, 0.000s wall-clock]
+Choosing groups...
+2 uncovered facts
+Choosing groups: [0.000s CPU, 0.000s wall-clock]
+Building translation key... [0.000s CPU, 0.000s wall-clock]
+Computing fact groups: [0.000s CPU, 0.001s wall-clock]
+Building STRIPS to SAS dictionary... [0.000s CPU, 0.000s wall-clock]
+Building dictionary for full mutex groups... [0.000s CPU, 0.000s wall-clock]
+Building mutex information...
+Building mutex information: [0.000s CPU, 0.000s wall-clock]
+Translating task...
+Processing axioms...
+Simplifying axioms... [0.000s CPU, 0.000s wall-clock]
+Translator axioms removed by simplifying: 0
+Computing negative axioms... [0.000s CPU, 0.000s wall-clock]
+Processing axioms: [0.000s CPU, 0.000s wall-clock]
+Translating task: [0.000s CPU, 0.000s wall-clock]
+4 effect conditions simplified
+0 implied preconditions added
+Detecting unreachable propositions...
+0 operators removed
+0 axioms removed
+2 propositions removed
+Detecting unreachable propositions: [0.000s CPU, 0.000s wall-clock]
+Reordering and filtering variables...
+4 of 4 variables necessary.
+2 of 4 mutex groups necessary.
+10 of 10 operators necessary.
+0 of 0 axiom rules necessary.
+Reordering and filtering variables: [0.000s CPU, 0.000s wall-clock]
+Translator variables: 4
+Translator derived variables: 0
+Translator facts: 10
+Translator goal facts: 1
+Translator mutex groups: 2
+Translator total mutex groups size: 4
+Translator operators: 10
+Translator axioms: 0
+Translator task size: 69
+Translator peak memory: 36456 KB
+Writing output... [0.000s CPU, 0.001s wall-clock]
+Done! [0.010s CPU, 0.007s wall-clock]
+
+INFO     Run task transformation (//fd-partial-grounding/builds/release/bin/preprocess-h2).
+INFO     transform-task stdin: output.sas
+INFO     transform-task time limit: 1799s
+INFO     transform-task memory limit: 4096 MB
+INFO     transform-task command line string: //fd-partial-grounding/builds/release/bin/preprocess-h2 --h2_time_limit 300 < output.sas
+Building causal graph...
+The causal graph is not acyclic.
+4 variables of 4 necessary
+2 of 2 mutex groups necessary.
+10 of 10 operators necessary.
+0 of 0 axiom rules necessary.
+Initializing mutex computation...
+Mutex computation initialized with 10 fluents.
+iteration for mutex detection and operator pruning
+Initialize m_index fw
+Initialized mvalues forward: reached=16, notReached=62, spurious=22
+Initialize m_ops fw
+Computing mutexes...
+Mutex computation finished with reached=64, notReached=14, spurious=22
+0 operators are spurious because were not triggered
+H^2 mutexes added fw: 14, unreachable: 0
+0 of 10 operators detected as spurious
+iteration for mutex detection and operator pruning
+Initialize m_index bw
+Init values regression
+Initialized mvalues backward: reached=23, notReached=41, spurious=36
+Initialize m_ops bw
+Computing mutexes...
+Mutex computation finished with reached=64, notReached=0, spurious=36
+0 operators are spurious because were not triggered
+H^2 mutexes added bw: 0, unreachable: 0
+0 of 10 operators detected as spurious
+Total mutex and disambiguation time: 0.000133 iterations: 2
+Total mutexes found forward: 14
+Total mutexes found backward: 0
+9 of 9 mutex groups necessary.
+10 of 10 operators necessary.
+0 of 0 axiom rules necessary.
+Change id of operators: 10
+Change id of mutexes
+Change id of goals
+Change id of initial state
+Remove unreachable facts from variables: 4
+9 of 9 mutex groups necessary.
+10 of 10 operators necessary.
+0 of 0 axiom rules necessary.
+Updating causal graph and pruning unnecessary facts
+4 variables of 4 of 4 necessary
+The causal graph is not acyclic.
+4 variables of 4 necessary
+9 of 9 mutex groups necessary.
+10 of 10 operators necessary.
+0 of 0 axiom rules necessary.
+Preprocessor variables: 4
+Preprocessor facts: 10
+Preprocessor derived variables: 0
+Preprocessor operators: 10
+Preprocessor mutex groups: 9
+Preprocessor task size: 83
+Writing output...
+done
+translate exit code: 0
+
+INFO     Running search (release).
+INFO     search stdin: output.sas
+INFO     search time limit: 1799s
+INFO     search memory limit: 4096 MB
+INFO     search command line string: /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/data/2023-06-04-test-learning/runs-00001-00100/00011/data/runs-lama-exp/code/builds/release/bin/downward --evaluator 'hlm=lmcount(lm_factory=lm_reasonable_orders_hps(lm_rhw()),transform=adapt_costs(one),pref=false)' --evaluator 'hff=ff(transform=adapt_costs(one))' --search 'lazy_greedy([hff,hlm],preferred=[hff,hlm],cost_type=one,reopen_closed=false)' --internal-plan-file sas_plan < output.sas
+[t=6.1282e-05s, 10028 KB] reading input...
+[t=0.00028651s, 10028 KB] done reading input!
+[t=0.0019384s, 10416 KB] Initializing landmark count heuristic...
+[t=0.00199851s, 10416 KB] Generating landmark graph...
+[t=0.00205065s, 10416 KB] Building a landmark graph with reasonable orders.
+[t=0.00209362s, 10416 KB] Initializing Exploration...
+[t=0.00214018s, 10416 KB] Generating landmarks using the RPG/SAS+ approach
+[t=0.00224831s, 10416 KB] Removed 0 reasonable or obedient reasonable orders
+[t=0.00228821s, 10416 KB] Landmarks generation time: 0.000233631s
+[t=0.0023247s, 10416 KB] Discovered 5 landmarks, of which 1 are disjunctive and 0 are conjunctive.
+[t=0.0023593s, 10416 KB] 6 edges
+[t=0.00241212s, 10416 KB] approx. reasonable orders
+[t=0.00245318s, 10416 KB] approx. obedient reasonable orders
+[t=0.00249093s, 10416 KB] Removed 0 reasonable or obedient reasonable orders
+[t=0.00252594s, 10416 KB] Landmarks generation time: 0.000516804s
+[t=0.00256153s, 10416 KB] Discovered 5 landmarks, of which 1 are disjunctive and 0 are conjunctive.
+[t=0.00259579s, 10416 KB] 6 edges
+[t=0.00262997s, 10416 KB] Landmark graph generation time: 0.000664133s
+[t=0.00266596s, 10416 KB] Landmark graph contains 5 landmarks, of which 1 are disjunctive and 0 are conjunctive.
+[t=0.00270015s, 10416 KB] Landmark graph contains 6 orderings.
+[t=0.00278738s, 10416 KB] Simplifying 18 unary operators... done! [18 unary operators]
+[t=0.00284264s, 10416 KB] time to simplify: 9.0938e-05s
+[t=0.00288261s, 10416 KB] Initializing additive heuristic...
+[t=0.00291693s, 10416 KB] Initializing FF heuristic...
+[t=0.00302479s, 10416 KB] Building successor generator...done!
+[t=0.00315092s, 10416 KB] peak memory difference for successor generator creation: 0 KB
+[t=0.00318409s, 10416 KB] time for successor generation creation: 2.3192e-05s
+[t=0.00322616s, 10416 KB] Variables: 4
+[t=0.00326609s, 10416 KB] FactPairs: 10
+[t=0.00331113s, 10416 KB] Bytes per state: 4
+[t=0.00342114s, 10416 KB] Conducting lazy best first search, (real) bound = 2147483647
+[t=0.00348899s, 10416 KB] 2 initial landmarks, 1 goal landmarks
+[t=0.00354473s, 10416 KB] New best heuristic value for lmcount(lm_factory = lm_reasonable_orders_hps(lm_rhw), transform = adapt_costs(one), pref = false): 3
+[t=0.00357761s, 10416 KB] New best heuristic value for ff(transform = adapt_costs(one)): 3
+[t=0.00360957s, 10416 KB] g=0, 1 evaluated, 0 expanded
+[t=0.00364862s, 10416 KB] Initial heuristic value for lmcount(lm_factory = lm_reasonable_orders_hps(lm_rhw), transform = adapt_costs(one), pref = false): 3
+[t=0.00368087s, 10416 KB] Initial heuristic value for ff(transform = adapt_costs(one)): 3
+[t=0.0037256s, 10416 KB] New best heuristic value for lmcount(lm_factory = lm_reasonable_orders_hps(lm_rhw), transform = adapt_costs(one), pref = false): 2
+[t=0.00375809s, 10416 KB] New best heuristic value for ff(transform = adapt_costs(one)): 2
+[t=0.00378936s, 10416 KB] g=1, 3 evaluated, 2 expanded
+[t=0.00382721s, 10416 KB] New best heuristic value for lmcount(lm_factory = lm_reasonable_orders_hps(lm_rhw), transform = adapt_costs(one), pref = false): 1
+[t=0.00385928s, 10416 KB] New best heuristic value for ff(transform = adapt_costs(one)): 1
+[t=0.00389062s, 10416 KB] g=2, 4 evaluated, 3 expanded
+[t=0.00392774s, 10416 KB] Solution found!
+[t=0.00396048s, 10416 KB] Actual search time: 0.000466886s
+pick ball1 rooma left (1)
+move rooma roomb (1)
+drop ball1 roomb left (1)
+[t=0.00399442s, 10416 KB] Plan length: 3 step(s).
+[t=0.00399442s, 10416 KB] Plan cost: 3
+[t=0.00399442s, 10416 KB] Expanded 4 state(s).
+[t=0.00399442s, 10416 KB] Reopened 0 state(s).
+[t=0.00399442s, 10416 KB] Evaluated 5 state(s).
+[t=0.00399442s, 10416 KB] Evaluations: 10
+[t=0.00399442s, 10416 KB] Generated 8 state(s).
+[t=0.00399442s, 10416 KB] Dead ends: 0 state(s).
+[t=0.00399442s, 10416 KB] Number of registered states: 5
+[t=0.00399442s, 10416 KB] Int hash set load factor: 5/8 = 0.625
+[t=0.00399442s, 10416 KB] Int hash set resizes: 3
+[t=0.00399442s, 10416 KB] Search time: 0.000573993s
+[t=0.00399442s, 10416 KB] Total time: 0.00399442s
+Solution found.
+Peak memory: 10416 KB
+Remove intermediate file output.sas
+search exit code: 0
+
+INFO     Planner time: 0.09s

@@ -1,0 +1,46 @@
+{
+  "algorithm": "name",
+  "build_options": [],
+  "component_options": [
+    "--translate-options",
+    "--grounding-action-queue-ordering",
+    "ipc23-single-queue",
+    "--batch-evaluation",
+    "--trained-model-folder",
+    "/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/data/2023-06-04-test-learning/runs-00001-00100/00011/data/smac-1/smac-search/incumbent",
+    "--ignore-bad-actions",
+    "--termination-condition",
+    "goal-relaxed-reachable",
+    "percentage",
+    "10"
+  ],
+  "domain": "instances",
+  "driver_options": [
+    "--alias",
+    "lama-first",
+    "--transform-task",
+    "//fd-partial-grounding/builds/release/bin/preprocess-h2",
+    "--transform-task-options",
+    "h2_time_limit,300",
+    "--incremental-grounding",
+    "--incremental-grounding-search-time-limit",
+    "300",
+    "--incremental-grounding-increment-percentage",
+    "20",
+    "--overall-time-limit",
+    1800,
+    "--overall-memory-limit",
+    4096
+  ],
+  "experiment_name": "test-exp",
+  "global_revision": null,
+  "id": [
+    "name",
+    "instances",
+    "p21.pddl"
+  ],
+  "local_revision": "default",
+  "problem": "p21.pddl",
+  "repo": "//fd-partial-grounding",
+  "run_dir": "runs-00001-00100/00021"
+}

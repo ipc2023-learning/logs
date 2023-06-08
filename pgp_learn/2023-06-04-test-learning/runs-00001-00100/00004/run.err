@@ -1,0 +1,17 @@
+terminate called after throwing an instance of 'std::bad_alloc'
+  what():  std::bad_alloc
+/.singularity.d/runscript: line 17: 99167 Aborted                 /main.bin PGP 15 "" $DOMAIN_KNOWLEDGE_FILE
+no outcome determined by runsolver
+no outcome detected nor guessed for: {
+  "apptainer_exit_code": 0,
+  "apptainer_wall_clock_time": 424.64,
+  "coverage": 0,
+  "cpu_time": 407.092,
+  "dk_files": [],
+  "memory": 14688868,
+  "memory_limit": 16777216,
+  "node": "n725",
+  "virtual_memory": 15841480,
+  "wall_clock_time": 424.521,
+  "wall_clock_time_limit": 36000
+}

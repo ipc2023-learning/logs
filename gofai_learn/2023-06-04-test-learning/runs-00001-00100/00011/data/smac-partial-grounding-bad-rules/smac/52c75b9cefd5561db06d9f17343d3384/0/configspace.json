@@ -1,0 +1,78 @@
+{
+  "hyperparameters": [
+    {
+      "name": "alias",
+      "type": "constant",
+      "value": "lama-first"
+    },
+    {
+      "name": "bad0",
+      "type": "categorical",
+      "choices": [
+        false,
+        true
+      ],
+      "default": true,
+      "weights": null
+    },
+    {
+      "name": "bad1",
+      "type": "categorical",
+      "choices": [
+        false,
+        true
+      ],
+      "default": true,
+      "weights": null
+    },
+    {
+      "name": "bad2",
+      "type": "categorical",
+      "choices": [
+        false,
+        true
+      ],
+      "default": true,
+      "weights": null
+    },
+    {
+      "name": "good0",
+      "type": "constant",
+      "value": 1
+    },
+    {
+      "name": "good1",
+      "type": "constant",
+      "value": 1
+    },
+    {
+      "name": "good2",
+      "type": "constant",
+      "value": 1
+    },
+    {
+      "name": "good3",
+      "type": "constant",
+      "value": 1
+    },
+    {
+      "name": "ignore-bad-actions",
+      "type": "constant",
+      "value": "true"
+    },
+    {
+      "name": "queue_type",
+      "type": "constant",
+      "value": "ipc23-single-queue"
+    },
+    {
+      "name": "termination-condition",
+      "type": "constant",
+      "value": "full"
+    }
+  ],
+  "conditions": [],
+  "forbiddens": [],
+  "python_module_version": "0.6.1",
+  "json_format_version": 0.4
+}

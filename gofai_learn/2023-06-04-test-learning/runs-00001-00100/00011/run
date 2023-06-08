@@ -1,0 +1,31 @@
+#! /usr/bin/env python
+
+import logging
+import os
+import platform
+
+from lab.calls.call import Call
+from lab import tools
+
+tools.configure_logging()
+
+logging.info(f"node: {platform.node()}")
+
+run_log = open("run.log", "w")
+run_err = open("run.err", "w", buffering=1)  # line buffering
+redirects = {"stdout": run_log, "stderr": run_err}
+
+# Make sure we're in the run directory.
+os.chdir(os.path.dirname(os.path.abspath(__file__)))
+
+Call(['../../run-apptainer.sh', '../../gofai.learn.sif', '36000', '16384', 'dk', 'domain.pddl', 'p01.pddl', 'p02.pddl', 'p03.pddl', 'p04.pddl', 'p05.pddl', 'p06.pddl', 'p07.pddl', 'p08.pddl', 'p09.pddl', 'p10.pddl', 'p11.pddl', 'p12.pddl', 'p13.pddl', 'p14.pddl', 'p15.pddl', 'p16.pddl', 'p17.pddl', 'p18.pddl', 'p19.pddl', 'p20.pddl', 'p21.pddl', 'p22.pddl', 'p23.pddl', 'p24.pddl', 'p25.pddl', 'p26.pddl', 'p27.pddl', 'p28.pddl', 'p29.pddl', 'p30.pddl'], hard_stderr_limit=10240, hard_stdout_limit=10240, memory_limit=None, name='run-apptainer', soft_stderr_limit=64, soft_stdout_limit=1024, time_limit=None, **redirects).wait()
+
+Call(['/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/.venv/bin/python3', '../../learning-parser.py'], hard_stderr_limit=10240, hard_stdout_limit=10240, memory_limit=None, name='learning_parser', soft_stderr_limit=64, soft_stdout_limit=1024, time_limit=None, **redirects).wait()
+
+Call(['/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/.venv/bin/python3', '../../runsolver-parser.py'], hard_stderr_limit=10240, hard_stdout_limit=10240, memory_limit=None, name='runsolver_parser', soft_stderr_limit=64, soft_stdout_limit=1024, time_limit=None, **redirects).wait()
+
+
+for f in [run_log, run_err]:
+    f.close()
+    if os.path.getsize(f.name) == 0:
+        os.remove(f.name)

@@ -1,0 +1,18 @@
+Timeout reached: grid-5 (p04.pddl), initial memory: 287 MB, current memory: 14578 MB
+terminate called after throwing an instance of 'std::bad_alloc'
+  what():  std::bad_alloc
+Aborted
+no outcome determined by runsolver
+no outcome detected nor guessed for: {
+  "apptainer_exit_code": 0,
+  "apptainer_wall_clock_time": 565.49,
+  "coverage": 0,
+  "cpu_time": 539.857,
+  "dk_files": [],
+  "memory": 14948652,
+  "memory_limit": 16777216,
+  "node": "n360",
+  "virtual_memory": 18423532,
+  "wall_clock_time": 565.286,
+  "wall_clock_time_limit": 36000
+}

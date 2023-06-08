@@ -1,0 +1,22 @@
+{
+  "accuracy": 1.0,
+  "f_value": 1.0,
+  "false_negatives": 0,
+  "false_positives": 0,
+  "has_theory": true,
+  "precision": 1.0,
+  "raw_rules": [
+    [
+      "856",
+      "0",
+      "class(A,B,C,D) :-    'ini:at-robby'(B,D)"
+    ]
+  ],
+  "recall": 1.0,
+  "rules": [
+    "pick (?arg0, ?arg1, ?arg2) :- ini:at-robby(?arg1)."
+  ],
+  "total_time": 0.007,
+  "true_negatives": 856,
+  "true_positives": 856
+}

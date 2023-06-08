@@ -1,0 +1,1 @@
+drop (?b, ?r, ?g) :- ini:at(?b, ?r).

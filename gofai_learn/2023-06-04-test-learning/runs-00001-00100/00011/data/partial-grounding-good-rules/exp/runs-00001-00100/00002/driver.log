@@ -1,0 +1,5 @@
+2023-06-06 06:46:43,842 INFO     node: n1754
+2023-06-06 06:46:44,364 INFO     run-aleph wall-clock time: 0.52s
+2023-06-06 06:46:44,364 INFO     run-aleph exit code: 0
+2023-06-06 06:46:44,416 INFO     aleph_parser wall-clock time: 0.05s
+2023-06-06 06:46:44,416 INFO     aleph_parser exit code: 0

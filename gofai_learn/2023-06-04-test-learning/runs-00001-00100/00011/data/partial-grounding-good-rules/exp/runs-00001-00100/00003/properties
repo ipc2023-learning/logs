@@ -1,0 +1,28 @@
+{
+  "accuracy": 0.985294,
+  "f_value": 0.9846153846153847,
+  "false_negatives": 1,
+  "false_positives": 0,
+  "has_theory": true,
+  "precision": 1.0,
+  "raw_rules": [
+    [
+      "16",
+      "0",
+      "class(A,B,C) :-    'ini:at-robby'(A,C), 'goal:at'(D,B,C)"
+    ],
+    [
+      "16",
+      "0",
+      "class(A,B,C) :-    'ini:at-robby'(B,C), 'goal:at'(D,A,C)"
+    ]
+  ],
+  "recall": 0.9696969696969697,
+  "rules": [
+    "move (?arg0, ?arg1) :- ini:at-robby(?arg0);goal:at(_, ?arg1).",
+    "move (?arg0, ?arg1) :- ini:at-robby(?arg1);goal:at(_, ?arg0)."
+  ],
+  "total_time": 0.018,
+  "true_negatives": 35,
+  "true_positives": 32
+}

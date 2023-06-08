@@ -1,0 +1,13 @@
+2023-06-06 08:04:09,217 INFO     node: n1754
+2023-06-06 08:04:09,845 INFO     planner wall-clock time: 0.60s
+2023-06-06 08:04:09,845 INFO     planner exit code: 0
+2023-06-06 08:04:09,957 INFO     exitcode_parser wall-clock time: 0.10s
+2023-06-06 08:04:09,958 INFO     exitcode_parser exit code: 0
+2023-06-06 08:04:10,064 INFO     single_search_parser wall-clock time: 0.09s
+2023-06-06 08:04:10,065 INFO     single_search_parser exit code: 0
+2023-06-06 08:04:10,175 INFO     translator_parser wall-clock time: 0.09s
+2023-06-06 08:04:10,175 INFO     translator_parser exit code: 0
+2023-06-06 08:04:10,284 INFO     planner_parser wall-clock time: 0.09s
+2023-06-06 08:04:10,284 INFO     planner_parser exit code: 0
+2023-06-06 08:04:10,387 INFO     goodops_parser wall-clock time: 0.09s
+2023-06-06 08:04:10,387 INFO     goodops_parser exit code: 1

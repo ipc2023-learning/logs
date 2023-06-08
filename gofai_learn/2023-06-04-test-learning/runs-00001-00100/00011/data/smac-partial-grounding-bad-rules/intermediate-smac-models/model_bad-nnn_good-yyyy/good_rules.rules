@@ -1,0 +1,4 @@
+drop (?arg0, ?arg1, ?arg2) :- goal:at(?arg0, ?arg1).
+move (?arg0, ?arg1) :- ini:at-robby(?arg1);goal:at(_, ?arg0).
+move (?arg0, ?arg1) :- ini:at-robby(?arg0);goal:at(_, ?arg1).
+pick (?arg0, ?arg1, ?arg2) :- ini:at-robby(?arg1).
