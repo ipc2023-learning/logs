@@ -1,0 +1,281 @@
+Domain=domain.pddl Problem=p01.pddl
+Domain=domain.pddl Problem=p02.pddl
+Domain=domain.pddl Problem=p03.pddl
+Domain=domain.pddl Problem=p04.pddl
+Domain=domain.pddl Problem=p05.pddl
+Domain=domain.pddl Problem=p06.pddl
+Domain=domain.pddl Problem=p07.pddl
+Domain=domain.pddl Problem=p08.pddl
+Domain=domain.pddl Problem=p09.pddl
+Domain=domain.pddl Problem=p10.pddl
+Domain=domain.pddl Problem=p11.pddl
+Domain=domain.pddl Problem=p12.pddl
+Domain=domain.pddl Problem=p13.pddl
+Domain=domain.pddl Problem=p14.pddl
+Domain=domain.pddl Problem=p15.pddl
+Domain=domain.pddl Problem=p16.pddl
+Domain=domain.pddl Problem=p17.pddl
+Domain=domain.pddl Problem=p18.pddl
+Domain=domain.pddl Problem=p19.pddl
+Domain=domain.pddl Problem=p20.pddl
+Domain=domain.pddl Problem=p21.pddl
+Domain=domain.pddl Problem=p22.pddl
+Domain=domain.pddl Problem=p23.pddl
+Domain=domain.pddl Problem=p24.pddl
+Domain=domain.pddl Problem=p25.pddl
+Domain=domain.pddl Problem=p26.pddl
+Domain=domain.pddl Problem=p27.pddl
+Domain=domain.pddl Problem=p28.pddl
+Domain=domain.pddl Problem=p29.pddl
+Domain=domain.pddl Problem=p30.pddl
+[INFO] Parsed domain. [0.000]
+[INFO] Generalized Planning Problem created. [0.000]
+[INFO] Generalized Domain created. [0.000]
+[INFO] Landmarks created. [2.000]
+[INFO] Engine created. [0.000]
+[INFO] Heuristic landmarks added.
+[INFO] Searching... [0.000]
+[ENGINE] NODE ID: 0; EXPANDED: 1; EVALUATED: 1; OPEN QUEUE SIZE: 0
+[NODE]: f1=5
+0. empty
+1. empty
+2. empty
+3. empty
+4. empty
+5. empty
+6. empty
+7. empty
+8. empty
+9. empty
+10. empty
+11. empty
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 7; EXPANDED: 2; EVALUATED: 81; OPEN QUEUE SIZE: 78
+[NODE]: f1=4
+0. pick(ptr-ball1,ptr-room1,ptr-gripper1)
+1. empty
+2. empty
+3. empty
+4. empty
+5. empty
+6. empty
+7. empty
+8. empty
+9. empty
+10. empty
+11. empty
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 114; EXPANDED: 3; EVALUATED: 161; OPEN QUEUE SIZE: 156
+[NODE]: f1=3
+0. pick(ptr-ball1,ptr-room1,ptr-gripper1)
+1. inc(ptr-room1)
+2. empty
+3. empty
+4. empty
+5. empty
+6. empty
+7. empty
+8. empty
+9. empty
+10. empty
+11. empty
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 163; EXPANDED: 4; EVALUATED: 245; OPEN QUEUE SIZE: 238
+[NODE]: f1=1
+0. pick(ptr-ball1,ptr-room1,ptr-gripper1)
+1. inc(ptr-room1)
+2. move(ptr-room2,ptr-room1)
+3. empty
+4. empty
+5. empty
+6. empty
+7. empty
+8. empty
+9. empty
+10. empty
+11. empty
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 263; EXPANDED: 5; EVALUATED: 325; OPEN QUEUE SIZE: 316
+[NODE]: f1=0
+0. pick(ptr-ball1,ptr-room1,ptr-gripper1)
+1. inc(ptr-room1)
+2. move(ptr-room2,ptr-room1)
+3. drop(ptr-ball1,ptr-room1,ptr-gripper1)
+4. empty
+5. empty
+6. empty
+7. empty
+8. empty
+9. empty
+10. empty
+11. empty
+12. empty
+13. empty
+14. end
+
+[INFO] Possible solution found at node id 404 when solving instance ids: #0
+[NODE]: f1=0
+0. pick(ptr-ball1,ptr-room1,ptr-gripper1)
+1. inc(ptr-room1)
+2. move(ptr-room2,ptr-room1)
+3. drop(ptr-ball1,ptr-room1,ptr-gripper1)
+4. end
+5. empty
+6. empty
+7. empty
+8. empty
+9. empty
+10. empty
+11. empty
+12. empty
+13. empty
+14. end
+
+[INFO] Failed on instance id 1. Reevaluating the queue... 
+[INFO] DONE!
+[ENGINE] NODE ID: 381; EXPANDED: 6; EVALUATED: 405; OPEN QUEUE SIZE: 394
+[NODE]: f1=12
+0. pick(ptr-ball1,ptr-room1,ptr-gripper1)
+1. inc(ptr-room1)
+2. move(ptr-room2,ptr-room1)
+3. drop(ptr-ball1,ptr-room1,ptr-gripper1)
+4. inc(ptr-ball1)
+5. empty
+6. empty
+7. empty
+8. empty
+9. empty
+10. empty
+11. empty
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 593; EXPANDED: 9; EVALUATED: 665; OPEN QUEUE SIZE: 638
+[NODE]: f1=10
+0. pick(ptr-ball1,ptr-room1,ptr-gripper1)
+1. inc(ptr-room1)
+2. move(ptr-room2,ptr-room1)
+3. drop(ptr-ball1,ptr-room1,ptr-gripper1)
+4. inc(ptr-ball1)
+5. move(ptr-room1,ptr-room2)
+6. pick(ptr-ball1,ptr-room2,ptr-gripper1)
+7. empty
+8. empty
+9. empty
+10. empty
+11. empty
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 1163; EXPANDED: 16; EVALUATED: 1225; OPEN QUEUE SIZE: 1184
+[NODE]: f1=9
+0. pick(ptr-ball1,ptr-room1,ptr-gripper1)
+1. inc(ptr-room1)
+2. move(ptr-room2,ptr-room1)
+3. drop(ptr-ball1,ptr-room1,ptr-gripper1)
+4. inc(ptr-ball1)
+5. move(ptr-room1,ptr-room2)
+6. pick(ptr-ball1,ptr-room2,ptr-gripper1)
+7. move(ptr-room2,ptr-room1)
+8. drop(ptr-ball1,ptr-room1,ptr-gripper1)
+9. empty
+10. empty
+11. empty
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 1281; EXPANDED: 17; EVALUATED: 1305; OPEN QUEUE SIZE: 1262
+[NODE]: f1=8
+0. pick(ptr-ball1,ptr-room1,ptr-gripper1)
+1. inc(ptr-room1)
+2. move(ptr-room2,ptr-room1)
+3. drop(ptr-ball1,ptr-room1,ptr-gripper1)
+4. inc(ptr-ball1)
+5. move(ptr-room1,ptr-room2)
+6. pick(ptr-ball1,ptr-room2,ptr-gripper1)
+7. move(ptr-room2,ptr-room1)
+8. drop(ptr-ball1,ptr-room1,ptr-gripper1)
+9. inc(ptr-ball1)
+10. empty
+11. empty
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 1394; EXPANDED: 18; EVALUATED: 1405; OPEN QUEUE SIZE: 1350
+[NODE]: f1=0
+0. pick(ptr-ball1,ptr-room1,ptr-gripper1)
+1. inc(ptr-room1)
+2. move(ptr-room2,ptr-room1)
+3. drop(ptr-ball1,ptr-room1,ptr-gripper1)
+4. inc(ptr-ball1)
+5. move(ptr-room1,ptr-room2)
+6. pick(ptr-ball1,ptr-room2,ptr-gripper1)
+7. move(ptr-room2,ptr-room1)
+8. drop(ptr-ball1,ptr-room1,ptr-gripper1)
+9. inc(ptr-ball1)
+10. goto(5,!(( zf = 1 )))
+11. empty
+12. empty
+13. empty
+14. end
+
+[INFO] Possible solution found at node id 1484 when solving instance ids: #0 #1
+[NODE]: f1=0
+0. pick(ptr-ball1,ptr-room1,ptr-gripper1)
+1. inc(ptr-room1)
+2. move(ptr-room2,ptr-room1)
+3. drop(ptr-ball1,ptr-room1,ptr-gripper1)
+4. inc(ptr-ball1)
+5. move(ptr-room1,ptr-room2)
+6. pick(ptr-ball1,ptr-room2,ptr-gripper1)
+7. move(ptr-room2,ptr-room1)
+8. drop(ptr-ball1,ptr-room1,ptr-gripper1)
+9. inc(ptr-ball1)
+10. goto(5,!(( zf = 1 )))
+11. end
+12. empty
+13. empty
+14. end
+
+[INFO] SOLUTION FOUND!!!
+[INFO] Expanded nodes: 18
+[INFO] Evaluated nodes: 1485 (deadends: 36)
+[INFO] Evaluated states: 3292
+0. pick(ptr-ball1,ptr-room1,ptr-gripper1)
+1. inc(ptr-room1)
+2. move(ptr-room2,ptr-room1)
+3. drop(ptr-ball1,ptr-room1,ptr-gripper1)
+4. inc(ptr-ball1)
+5. move(ptr-room1,ptr-room2)
+6. pick(ptr-ball1,ptr-room2,ptr-gripper1)
+7. move(ptr-room2,ptr-room1)
+8. drop(ptr-ball1,ptr-room1,ptr-gripper1)
+9. inc(ptr-ball1)
+10. goto(5,!(( zf = 1 )))
+11. end
+12. empty
+13. empty
+14. end
+
+[INFO] Total time: 6.000
+[INFO] Search time: 4.000
+[INFO] Program file: dk
+[INFO] Experiments file: output
+Running learning parser
+Running runsolver parser

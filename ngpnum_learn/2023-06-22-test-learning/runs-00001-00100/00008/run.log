@@ -1,0 +1,60 @@
+Domain=domain.pddl Problem=p01.pddl
+Domain=domain.pddl Problem=p02.pddl
+Domain=domain.pddl Problem=p03.pddl
+Domain=domain.pddl Problem=p04.pddl
+Domain=domain.pddl Problem=p05.pddl
+Domain=domain.pddl Problem=p06.pddl
+Domain=domain.pddl Problem=p07.pddl
+Domain=domain.pddl Problem=p08.pddl
+Domain=domain.pddl Problem=p09.pddl
+Domain=domain.pddl Problem=p10.pddl
+Domain=domain.pddl Problem=p11.pddl
+Domain=domain.pddl Problem=p12.pddl
+Domain=domain.pddl Problem=p13.pddl
+Domain=domain.pddl Problem=p14.pddl
+Domain=domain.pddl Problem=p15.pddl
+Domain=domain.pddl Problem=p16.pddl
+Domain=domain.pddl Problem=p17.pddl
+Domain=domain.pddl Problem=p18.pddl
+Domain=domain.pddl Problem=p19.pddl
+Domain=domain.pddl Problem=p20.pddl
+Domain=domain.pddl Problem=p21.pddl
+Domain=domain.pddl Problem=p22.pddl
+Domain=domain.pddl Problem=p23.pddl
+Domain=domain.pddl Problem=p24.pddl
+Domain=domain.pddl Problem=p25.pddl
+Domain=domain.pddl Problem=p26.pddl
+Domain=domain.pddl Problem=p27.pddl
+Domain=domain.pddl Problem=p28.pddl
+Domain=domain.pddl Problem=p29.pddl
+Domain=domain.pddl Problem=p30.pddl
+[INFO] Parsed domain. [0.000]
+[INFO] Generalized Planning Problem created. [663.000]
+[INFO] Generalized Domain created. [0.000]
+[INFO] Landmarks created. [0.000]
+[INFO] Engine created. [0.000]
+[INFO] Heuristic h5 added.
+[INFO] Heuristic h1 added.
+[INFO] Searching... [0.000]
+[INFO] Possible solution found at node id 23588 when solving instance ids: #0
+[NODE]: f1=0 f2=2
+0. inc(ptr-place1)
+1. move(ptr-place2,ptr-place1)
+2. move(ptr-place1,ptr-place2)
+3. inc(ptr-place1)
+4. goto(1,!(( zf = 1 )( cf = 0 )))
+5. clear(ptr-place1)
+6. inc(ptr-place2)
+7. goto(1,!(( zf = 1 )( cf = 0 )))
+8. end
+9. empty
+10. empty
+11. empty
+12. empty
+13. empty
+14. end
+
+[INFO] Failed on instance id 1. Reevaluating the queue... 
+[INFO] DONE!
+Running learning parser
+Running runsolver parser

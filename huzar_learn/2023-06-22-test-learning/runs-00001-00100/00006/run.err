@@ -1,0 +1,35 @@
+Traceback (most recent call last):
+  File "/learn.py", line 262, in <module>
+    main()
+  File "/learn.py", line 108, in main
+    SUITE_ALL = suites.build_suite(TRAINING_DIR, ['instances'])
+  File "/usr/local/lib/python3.10/dist-packages/downward/suites.py", line 137, in build_suite
+    result.extend(_generate_problems(benchmarks_dir, description))
+  File "/usr/local/lib/python3.10/dist-packages/downward/suites.py", line 125, in _generate_problems
+    yield from Domain(benchmarks_dir, description)
+  File "/usr/local/lib/python3.10/dist-packages/downward/suites.py", line 50, in __init__
+    self.problems = [
+  File "/usr/local/lib/python3.10/dist-packages/downward/suites.py", line 51, in <listcomp>
+    get_problem(benchmarks_dir, domain, problem) for problem in problem_files
+  File "/usr/local/lib/python3.10/dist-packages/downward/suites.py", line 33, in get_problem
+    domain_file = find_domain_file(benchmarks_dir, domain_name, problem_name)
+  File "/usr/local/lib/python3.10/dist-packages/downward/suites.py", line 26, in find_domain_file
+    return tools.find_file(domain_basenames, domain_dir)
+  File "/usr/local/lib/python3.10/dist-packages/lab/tools.py", line 217, in find_file
+    raise OSError(f"none found in {dir!r}: {filenames!r}")
+OSError: none found in 'data/instances': ['domain.pddl', 'p01-domain.pddl', 'p01-domain.pddl', 'domain_p01.pddl', 'domain-p01.pddl']
+no outcome determined by runsolver
+no outcome detected nor guessed for: {
+  "all_files_with_dk_prefix": [],
+  "apptainer_exit_code": 0,
+  "apptainer_wall_clock_time": 6.76,
+  "coverage": 0,
+  "cpu_time": 2.92179,
+  "dk_file": null,
+  "memory": 116772,
+  "memory_limit": 33554432,
+  "node": "n403",
+  "virtual_memory": 1793544,
+  "wall_clock_time": 6.55093,
+  "wall_clock_time_limit": 86400
+}

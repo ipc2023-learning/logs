@@ -1,0 +1,102 @@
+Domain=domain.pddl Problem=p01.pddl
+Domain=domain.pddl Problem=p02.pddl
+Domain=domain.pddl Problem=p03.pddl
+Domain=domain.pddl Problem=p04.pddl
+Domain=domain.pddl Problem=p05.pddl
+Domain=domain.pddl Problem=p06.pddl
+Domain=domain.pddl Problem=p07.pddl
+Domain=domain.pddl Problem=p08.pddl
+Domain=domain.pddl Problem=p09.pddl
+Domain=domain.pddl Problem=p10.pddl
+Domain=domain.pddl Problem=p11.pddl
+Domain=domain.pddl Problem=p12.pddl
+Domain=domain.pddl Problem=p13.pddl
+Domain=domain.pddl Problem=p14.pddl
+Domain=domain.pddl Problem=p15.pddl
+Domain=domain.pddl Problem=p16.pddl
+Domain=domain.pddl Problem=p17.pddl
+Domain=domain.pddl Problem=p18.pddl
+Domain=domain.pddl Problem=p19.pddl
+Domain=domain.pddl Problem=p20.pddl
+Domain=domain.pddl Problem=p21.pddl
+Domain=domain.pddl Problem=p22.pddl
+Domain=domain.pddl Problem=p23.pddl
+Domain=domain.pddl Problem=p24.pddl
+Domain=domain.pddl Problem=p25.pddl
+Domain=domain.pddl Problem=p26.pddl
+Domain=domain.pddl Problem=p27.pddl
+Domain=domain.pddl Problem=p28.pddl
+Domain=domain.pddl Problem=p29.pddl
+Domain=domain.pddl Problem=p30.pddl
+[INFO] Parsed domain. [0.000]
+[INFO] Generalized Planning Problem created. [0.000]
+[INFO] Generalized Domain created. [0.000]
+[INFO] Landmarks created. [2.000]
+[INFO] Engine created. [0.000]
+[INFO] Heuristic landmarks added.
+[INFO] Heuristic h1 added.
+[INFO] Searching... [0.000]
+[INFO] Possible solution found at node id 378 when solving instance ids: #0
+[NODE]: f1=0 f2=0
+0. pick(ptr-ball1,ptr-room1,ptr-gripper1)
+1. inc(ptr-room1)
+2. move(ptr-room2,ptr-room1)
+3. drop(ptr-ball1,ptr-room1,ptr-gripper1)
+4. end
+5. empty
+6. empty
+7. empty
+8. empty
+9. empty
+10. empty
+11. empty
+12. empty
+13. empty
+14. end
+
+[INFO] Failed on instance id 1. Reevaluating the queue... 
+[INFO] DONE!
+[INFO] Possible solution found at node id 884159 when solving instance ids: #0 #1
+[NODE]: f1=0 f2=3
+0. pick(ptr-ball1,ptr-room1,ptr-gripper1)
+1. inc(ptr-room1)
+2. move(ptr-room2,ptr-room1)
+3. drop(ptr-ball1,ptr-room1,ptr-gripper1)
+4. inc(ptr-ball1)
+5. move(ptr-room1,ptr-room2)
+6. pick(ptr-ball1,ptr-room2,ptr-gripper1)
+7. inc(ptr-room3)
+8. goto(0,!(( zf = 1 )))
+9. inc(ptr-gripper2)
+10. goto(0,!(( zf = 1 )))
+11. inc(ptr-ball2)
+12. goto(0,!(( zf = 1 )))
+13. drop(ptr-ball1,ptr-room1,ptr-gripper1)
+14. end
+
+[INFO] SOLUTION FOUND!!!
+[INFO] Expanded nodes: 15984
+[INFO] Evaluated nodes: 884160 (deadends: 861288)
+[INFO] Evaluated states: 46112
+0. pick(ptr-ball1,ptr-room1,ptr-gripper1)
+1. inc(ptr-room1)
+2. move(ptr-room2,ptr-room1)
+3. drop(ptr-ball1,ptr-room1,ptr-gripper1)
+4. inc(ptr-ball1)
+5. move(ptr-room1,ptr-room2)
+6. pick(ptr-ball1,ptr-room2,ptr-gripper1)
+7. inc(ptr-room3)
+8. goto(0,!(( zf = 1 )))
+9. inc(ptr-gripper2)
+10. goto(0,!(( zf = 1 )))
+11. inc(ptr-ball2)
+12. goto(0,!(( zf = 1 )))
+13. drop(ptr-ball1,ptr-room1,ptr-gripper1)
+14. end
+
+[INFO] Total time: 117.000
+[INFO] Search time: 115.000
+[INFO] Program file: dk
+[INFO] Experiments file: output
+Running learning parser
+Running runsolver parser

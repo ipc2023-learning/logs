@@ -1,0 +1,13 @@
+Terminated
+Traceback (most recent call last):
+  File "../../runsolver-parser.py", line 119, in <module>
+    main()
+  File "../../runsolver-parser.py", line 115, in main
+    parser.parse()
+  File "/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/.venv/lib/python3.8/site-packages/lab/parser.py", line 201, in parse
+    file_parser.load_file(path)
+  File "/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/.venv/lib/python3.8/site-packages/lab/parser.py", line 101, in load_file
+    self.content = f.read()
+  File "/home/x_jense/.pyenv/versions/3.8.11/lib/python3.8/codecs.py", line 322, in decode
+    (result, consumed) = self._buffer_decode(data, self.errors, final)
+UnicodeDecodeError: 'utf-8' codec can't decode byte 0xc2 in position 5408762: invalid continuation byte

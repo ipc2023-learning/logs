@@ -1,0 +1,17 @@
+main.bin: src/landmark_graph.h:200: void LandmarkGraph::add_landmark_and_ordering(Landmark*, const string&, Landmark*): Assertion `f2l_it != _facts_to_landmarks.end()' failed.
+/.singularity.d/runscript: line 17: 149928 Aborted                 /main.bin PGP 15 "" $DOMAIN_KNOWLEDGE_FILE
+no outcome determined by runsolver
+no outcome detected nor guessed for: {
+  "all_files_with_dk_prefix": [],
+  "apptainer_exit_code": 0,
+  "apptainer_wall_clock_time": 606.53,
+  "coverage": 0,
+  "cpu_time": 583.529,
+  "dk_file": null,
+  "memory": 22037304,
+  "memory_limit": 33554432,
+  "node": "n564",
+  "virtual_memory": 24603548,
+  "wall_clock_time": 606.353,
+  "wall_clock_time_limit": 86400
+}
