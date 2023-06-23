@@ -1,0 +1,15 @@
+0. pick(ptr-ball1,ptr-room1,ptr-gripper1)
+1. inc(ptr-room1)
+2. move(ptr-room2,ptr-room1)
+3. drop(ptr-ball1,ptr-room1,ptr-gripper1)
+4. inc(ptr-ball1)
+5. move(ptr-room1,ptr-room2)
+6. pick(ptr-ball1,ptr-room2,ptr-gripper1)
+7. move(ptr-room2,ptr-room1)
+8. drop(ptr-ball1,ptr-room1,ptr-gripper1)
+9. inc(ptr-ball1)
+10. goto(5,!(( zf = 1 )))
+11. end
+12. empty
+13. empty
+14. end
