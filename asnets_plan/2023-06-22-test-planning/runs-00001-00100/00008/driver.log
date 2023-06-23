@@ -1,0 +1,7 @@
+2023-06-23 12:32:53,244 INFO     node: sam
+2023-06-23 12:32:53,433 INFO     run-apptainer wall-clock time: 0.19s
+2023-06-23 12:32:53,434 INFO     run-apptainer exit code: 0
+2023-06-23 12:32:53,470 INFO     planning_parser wall-clock time: 0.04s
+2023-06-23 12:32:53,470 INFO     planning_parser exit code: 0
+2023-06-23 12:32:53,508 INFO     runsolver_parser wall-clock time: 0.04s
+2023-06-23 12:32:53,508 INFO     runsolver_parser exit code: 0

@@ -1,0 +1,37 @@
+Archive:  /tmp/tmp.DcxbBK4Lhm/knowledge.zip
+  inflating: /tmp/tmp.DcxbBK4Lhm/optimal_best.hparams  
+  inflating: /tmp/tmp.DcxbBK4Lhm/optimal_best.pnn  
+  inflating: /tmp/tmp.DcxbBK4Lhm/suboptimal_best.hparams  
+  inflating: /tmp/tmp.DcxbBK4Lhm/suboptimal_best.pnn  
+ extracting: /tmp/tmp.DcxbBK4Lhm/use_wl  
+Domain: gripper-strips
+Requirements: [:typing, :strips]
+Types: [ball, gripper, object, room]
+Constants: [left, right, rooma, roomb]
+Predicates: [at(?b, ?r), at-robby(?r), carry(?b, ?g), free(?g)]
+Action Schemas: [move/2, pick/3, drop/3]
+
+Name: gripper-2 (problem.pddl)
+Objects: [ball1, ball2, left, right, rooma, roomb]
+Goal: [at(ball1, roomb), at(ball2, roomb)]
+Initial: [at-robby(rooma), at(ball1, rooma), at(ball2, rooma), free(left), free(right)]
+
+Loaded model from file: 
+Relational Message Passing Neural Network:
+ - # features: 64
+ - # layers: 30
+ - Global readout: No
+ - Maximum smoothness: 12
+ - Predicates: at/2, at-robby/1, ball/1, carry/2, free/1, gripper/1, room/1
+Only CPU is available and will be used
+
+Attempting to find a plan by using the learned model as a policy...
+[1] Subplan: 5, Heuristic: 9.011 -> goal, Expanded: 5, Generated: 22 (172 ms)
+Writing file "plan.1" (5 actions)
+Planned for 0 minutes and 0 seconds
+Attempting to find plan by using the learned model as a heuristic...
+[1] Subplan: 5, Heuristic: 9.011 -> goal, Expanded: 5, Generated: 22 (0 ms)
+Writing file "plan.2" (5 actions)
+Planned for 0 minutes and 0 seconds
+Running planning parser
+Running runsolver parser

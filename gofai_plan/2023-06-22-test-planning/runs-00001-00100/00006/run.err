@@ -1,0 +1,24 @@
+INFO:    underlay of /etc/localtime required more than 50 (78) bind mounts
+Traceback (most recent call last):
+  File "/plan.py", line 146, in <module>
+    main()
+  File "/plan.py", line 110, in main
+    config = get_options(os.path.join(model_folder, "config"))
+  File "/plan.py", line 64, in get_options
+    with open(config_file, "r") as cfile:
+FileNotFoundError: [Errno 2] No such file or directory: 'dk-extracted/config'
+no outcome determined by runsolver
+no outcome detected nor guessed for: {
+  "apptainer_exit_code": 0,
+  "apptainer_wall_clock_time": 0.28,
+  "costs": [],
+  "coverage": 0,
+  "cpu_time": 0.202858,
+  "cpu_time_limit": 5,
+  "has_invalid_plans": 0,
+  "memory": 45196,
+  "memory_limit": 8388608,
+  "node": "sam",
+  "virtual_memory": 2559932,
+  "wall_clock_time": 0.212452
+}

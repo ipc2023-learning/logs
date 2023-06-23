@@ -1,0 +1,31 @@
+Archive:  /tmp/tmp.MlfxXpYCyD/knowledge.zip
+  inflating: /tmp/tmp.MlfxXpYCyD/optimal_best.hparams  
+  inflating: /tmp/tmp.MlfxXpYCyD/optimal_best.pnn  
+  inflating: /tmp/tmp.MlfxXpYCyD/suboptimal_best.hparams  
+  inflating: /tmp/tmp.MlfxXpYCyD/suboptimal_best.pnn  
+ extracting: /tmp/tmp.MlfxXpYCyD/use_wl  
+Domain: grid-visit-all
+Requirements: [:typing, :strips]
+Types: [object, place]
+Constants: []
+Predicates: [at-robot(?x), connected(?x, ?y), visited(?x)]
+Action Schemas: [move/2]
+
+Name: grid-3 (problem.pddl)
+Objects: [loc-x0-y0, loc-x0-y1, loc-x0-y2, loc-x1-y0, loc-x1-y1, loc-x1-y2, loc-x2-y0, loc-x2-y1, loc-x2-y2]
+Goal: [visited(loc-x0-y0), visited(loc-x0-y1), visited(loc-x0-y2), visited(loc-x1-y0), visited(loc-x1-y1), visited(loc-x1-y2), visited(loc-x2-y0), visited(loc-x2-y1), visited(loc-x2-y2)]
+Initial: [connected(loc-x0-y1, loc-x0-y0), connected(loc-x1-y0, loc-x0-y0), connected(loc-x0-y0, loc-x0-y1), connected(loc-x0-y2, loc-x0-y1), connected(loc-x1-y1, loc-x0-y1), connected(loc-x0-y1, loc-x0-y2), connected(loc-x1-y2, loc-x0-y2), connected(loc-x0-y0, loc-x1-y0), connected(loc-x1-y1, loc-x1-y0), connected(loc-x2-y0, loc-x1-y0), connected(loc-x0-y1, loc-x1-y1), connected(loc-x1-y0, loc-x1-y1), connected(loc-x1-y2, loc-x1-y1), connected(loc-x2-y1, loc-x1-y1), connected(loc-x0-y2, loc-x1-y2), connected(loc-x1-y1, loc-x1-y2), connected(loc-x2-y2, loc-x1-y2), connected(loc-x1-y0, loc-x2-y0), connected(loc-x2-y1, loc-x2-y0), connected(loc-x1-y1, loc-x2-y1), connected(loc-x2-y0, loc-x2-y1), connected(loc-x2-y2, loc-x2-y1), connected(loc-x1-y2, loc-x2-y2), connected(loc-x2-y1, loc-x2-y2), at-robot(loc-x0-y2), visited(loc-x0-y2)]
+
+Loaded model from file: 
+Relational Message Passing Neural Network:
+ - # features: 64
+ - # layers: 30
+ - Global readout: No
+ - Maximum smoothness: 12
+ - Predicates: at-robot/1, connected/2, place/1, visited/1
+Only CPU is available and will be used
+
+Attempting to find a plan by using the learned model as a policy...
+Caught SIGTERM (15). Exiting.
+Running planning parser
+Running runsolver parser

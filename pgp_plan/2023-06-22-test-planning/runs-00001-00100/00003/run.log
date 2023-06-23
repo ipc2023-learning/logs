@@ -1,0 +1,29 @@
+DK=/home/jendrik/projects/Downward/ipc2023-learning/scripts/experiments/planning/data/2023-06-22-test-planning/runs-00001-00100/00003/dk Domain=/home/jendrik/projects/Downward/ipc2023-learning/scripts/experiments/planning/data/2023-06-22-test-planning/runs-00001-00100/00003/domain.pddl Problem=/home/jendrik/projects/Downward/ipc2023-learning/scripts/experiments/planning/data/2023-06-22-test-planning/runs-00001-00100/00003/problem.pddl Plan File=/home/jendrik/projects/Downward/ipc2023-learning/scripts/experiments/planning/data/2023-06-22-test-planning/runs-00001-00100/00003/sas_plan
+[INFO] Validating with INFINITE detection.
+[INFO] Parsed domain. [0.000]
+[INFO] Generalized Planning Problem created. [0.000]
+[INFO] Generalized Domain created. [0.000]
+[INFO] Program loaded. [0.000]
+[INFO] Read program: 
+0. pick(ptr-ball1,ptr-room1,ptr-gripper1)
+1. inc(ptr-room1)
+2. move(ptr-room2,ptr-room1)
+3. drop(ptr-ball1,ptr-room1,ptr-gripper1)
+4. inc(ptr-ball1)
+5. move(ptr-room1,ptr-room2)
+6. pick(ptr-ball1,ptr-room2,ptr-gripper1)
+7. move(ptr-room2,ptr-room1)
+8. drop(ptr-ball1,ptr-room1,ptr-gripper1)
+9. inc(ptr-ball1)
+10. goto(5,!(( zf = 1 )))
+11. end
+12. empty
+13. empty
+14. end
+
+INSTANCE #1 SOLVED! [0.000]
+[INFO] GOAL ACHIEVED!
+[INFO] Total time: 0.000000
+
+Running planning parser
+Running runsolver parser

@@ -1,0 +1,16 @@
+{
+  "algorithm": "muninn_plan",
+  "domain": "gripper",
+  "experiment_name": "2023-06-22-test-planning",
+  "id": [
+    "muninn_plan",
+    "gripper",
+    "easy-p01.pddl"
+  ],
+  "memory_limit": 8192,
+  "planner_path": "/home/jendrik/projects/Downward/ipc2023-learning/images/muninn.plan.sif",
+  "problem": "easy-p01.pddl",
+  "run_dir": "runs-00001-00100/00010",
+  "time_limit": 5,
+  "track": "single-core"
+}
