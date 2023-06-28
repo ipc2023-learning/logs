@@ -1,0 +1,4 @@
+configs = [
+    # Num: 1, Tuner-Timeout: 82800, Learn quality: 0.02
+    (1800, ["--heuristic", "hBlind=blind()", "--heuristic", "hGoalCount=goalcount(cost_type=0)", "--search", "eager(alt([single(hBlind),single(hBlind,pref_only=true),single(hGoalCount),single(hGoalCount,pref_only=true)],boost=4175),preferred=[hGoalCount],reopen_closed=true,pathmax=false,cost_type=0,bound=infinity)"]),
+]

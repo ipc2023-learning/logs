@@ -1,0 +1,16 @@
+/.singularity.d/runscript: line 18: 190148 Segmentation fault      /main_strips.bin PGP 15 2 "" $DOMAIN_KNOWLEDGE_FILE landmarks h1
+no outcome determined by runsolver
+no outcome detected nor guessed for: {
+  "all_files_with_dk_prefix": [],
+  "apptainer_exit_code": 0,
+  "apptainer_wall_clock_time": 30.74,
+  "coverage": 0,
+  "cpu_time": 27.767,
+  "dk_file": null,
+  "memory": 139008,
+  "memory_limit": 33554432,
+  "node": "n647",
+  "virtual_memory": 1692128,
+  "wall_clock_time": 30.55,
+  "wall_clock_time_limit": 86400
+}

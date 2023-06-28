@@ -1,0 +1,17 @@
+main_strips.bin: ./pgp-landmarks-strips/src/relaxed_graph.h:47: std::vector<int> RelaxedGraph::getFactsIDs(std::vector<std::map<std::vector<int>, int> >&): Assertion `it != _fact_2_id.end()' failed.
+/.singularity.d/runscript: line 18:  7050 Aborted                 /main_strips.bin PGP 15 2 "" $DOMAIN_KNOWLEDGE_FILE landmarks h1
+no outcome determined by runsolver
+no outcome detected nor guessed for: {
+  "all_files_with_dk_prefix": [],
+  "apptainer_exit_code": 0,
+  "apptainer_wall_clock_time": 17.75,
+  "coverage": 0,
+  "cpu_time": 15.29,
+  "dk_file": null,
+  "memory": 35360,
+  "memory_limit": 33554432,
+  "node": "n429",
+  "virtual_memory": 1791496,
+  "wall_clock_time": 17.6277,
+  "wall_clock_time_limit": 86400
+}

@@ -1,0 +1,20 @@
+Traceback (most recent call last):
+  File "/gnn-learning/src/train.py", line 70, in <module>
+    train_and_save_model(
+  File "/gnn-learning/src/model/training.py", line 126, in train_and_save_model
+    train_results = model_handler.train(train_loader)
+  File "/gnn-learning/src/model/model_handler.py", line 80, in train
+    loss = F.binary_cross_entropy(
+  File "/usr/local/lib/python3.10/dist-packages/torch/nn/functional.py", line 3098, in binary_cross_entropy
+    return torch._C._nn.binary_cross_entropy(input, target, weight, reduction_enum)
+RuntimeError: all elements of input should be between 0 and 1
+Traceback (most recent call last):
+  File "/learn.py", line 263, in <module>
+    main()
+  File "/learn.py", line 208, in main
+    is_candidate_better = compare_models(DK_DIR, TEMP_DIR, args.domain, BENCHMARKS_DIR, SMAC_INSTANCES, extra_flags=extra_flags)
+  File "//training/optimize_smac.py", line 236, in compare_models
+    best_operators = check_model_score_on_problem(path_to_best, domain_path, PROBLEM, extra_flags)
+  File "//training/optimize_smac.py", line 226, in check_model_score_on_problem
+    result = float(operators[-1])
+IndexError: list index out of range

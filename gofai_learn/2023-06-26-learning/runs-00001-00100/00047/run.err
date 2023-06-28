@@ -1,0 +1,10 @@
+Error: At least one run failed.
+Error: At least one run failed.
+Traceback (most recent call last):
+  File "/learn.py", line 383, in <module>
+    main()
+  File "/learn.py", line 314, in main
+    instances_manager.get_instances_smac_partial_grounding(['translator_operators', 'translator_facts', 'translator_variables']),
+  File "//training/instance_set.py", line 184, in get_instances_smac_partial_grounding
+    if self.instances_with_properties[ins]['planner_time'] < min_runtime:
+KeyError: 'planner_time'

@@ -1,0 +1,150 @@
+Output: dk
+Domain: domain.pddl
+Problems: p01.pddl p02.pddl p03.pddl p04.pddl p05.pddl p06.pddl p07.pddl p08.pddl p09.pddl p10.pddl p11.pddl p12.pddl p13.pddl p14.pddl p15.pddl p16.pddl p17.pddl p18.pddl p19.pddl p20.pddl p21.pddl p22.pddl p23.pddl p24.pddl p25.pddl p26.pddl p27.pddl p28.pddl p29.pddl p30.pddl p31.pddl p32.pddl p33.pddl p34.pddl p35.pddl p36.pddl p37.pddl p38.pddl p39.pddl p40.pddl p41.pddl p42.pddl p43.pddl p44.pddl p45.pddl p46.pddl p47.pddl p48.pddl p49.pddl p50.pddl p51.pddl p52.pddl p53.pddl p54.pddl p55.pddl p56.pddl p57.pddl p58.pddl p59.pddl p60.pddl p61.pddl p62.pddl p63.pddl p64.pddl p65.pddl p66.pddl p67.pddl p68.pddl p69.pddl p70.pddl p71.pddl p72.pddl p73.pddl p74.pddl p75.pddl p76.pddl p77.pddl p78.pddl p79.pddl p80.pddl p81.pddl p82.pddl p83.pddl p84.pddl p85.pddl p86.pddl p87.pddl p88.pddl p89.pddl p90.pddl p91.pddl p92.pddl p93.pddl p94.pddl p95.pddl p96.pddl p97.pddl p98.pddl p99.pddl
+Parsing problems... 
+
+Parsed 99 problems
+Created new model:
+Relational Message Passing Neural Network:
+ - # features: 32
+ - # layers: 30
+ - Global readout: No
+ - Maximum smoothness: 12
+ - Predicates: available-color/1, clear/1, color/1, down/2, free-color/1, left/2, painted/2, right/2, robot/1, robot-at/2, robot-has/2, tile/1, up/2
+Number of parameters: 185731
+
+Only CPU is available and will be used
+Problem "floortile-01 (p01.pddl)" was fully expanded (12 states, 32 transitions, 5 objects, 0 ms, 2 steps to solve), from 12 (32) to 12 (32) states (transitions)
+Problem "floortile-01 (p02.pddl)" was fully expanded (12 states, 32 transitions, 5 objects, 0 ms, 3 steps to solve), from 12 (32) to 12 (32) states (transitions)
+Problem "floortile-03 (p03.pddl)" was fully expanded (54 states, 156 transitions, 6 objects, 0 ms, 5 steps to solve), from 54 (156) to 54 (156) states (transitions)
+Problem "floortile-04 (p04.pddl)" was fully expanded (54 states, 156 transitions, 6 objects, 0 ms, 4 steps to solve), from 54 (156) to 54 (156) states (transitions)
+Problem "floortile-05 (p05.pddl)" was fully expanded (54 states, 156 transitions, 6 objects, 0 ms, 5 steps to solve), from 54 (156) to 54 (156) states (transitions)
+Problem "floortile-06 (p06.pddl)" was fully expanded (2052 states, 6900 transitions, 9 objects, 24 ms, 11 steps to solve), from 2052 (6900) to 2052 (6900) states (transitions)
+Problem "floortile-07 (p07.pddl)" was fully expanded (2052 states, 6900 transitions, 9 objects, 25 ms, 12 steps to solve), from 2052 (6900) to 2052 (6900) states (transitions)
+Problem "floortile-11 (p11.pddl)" was fully expanded (8568 states, 52256 transitions, 10 objects, 136 ms, 11 steps to solve), pruning is not safe
+Problem "floortile-16 (p16.pddl)" was fully expanded (8568 states, 52256 transitions, 10 objects, 164 ms, 9 steps to solve)
+Problem "floortile-15 (p15.pddl)" was fully expanded (8568 states, 52256 transitions, 10 objects, 135 ms, 9 steps to solve)
+Problem "floortile-14 (p14.pddl)" was fully expanded (8568 states, 52256 transitions, 10 objects, 134 ms, 10 steps to solve)
+Problem "floortile-13 (p13.pddl)" was fully expanded (8568 states, 52256 transitions, 10 objects, 133 ms, 10 steps to solve)
+Problem "floortile-12 (p12.pddl)" was fully expanded (8568 states, 52256 transitions, 10 objects, 133 ms, 9 steps to solve)
+Problem "floortile-10 (p10.pddl)" was fully expanded (8568 states, 52256 transitions, 10 objects, 160 ms, 10 steps to solve)
+Problem "floortile-09 (p09.pddl)" was fully expanded (8568 states, 52256 transitions, 10 objects, 133 ms, 10 steps to solve)
+Problem "floortile-08 (p08.pddl)" was fully expanded (23820 states, 148416 transitions, 10 objects, 377 ms, 11 steps to solve)
+Problem "floortile-17 (p17.pddl)" was fully expanded (2737800 states, 9729720 transitions, 15 objects, 46384 ms, 27 steps to solve)
+Problem "floortile-19 (p19.pddl)" has too many states, 18 objects (350162 ms)
+Problem "floortile-18 (p18.pddl)" has too many states, 19 objects (353007 ms)
+Problem "floortile-21 (p21.pddl)" has too many states, 21 objects (351058 ms)
+Problem "floortile-23 (p23.pddl)" has too many states, 23 objects (353323 ms)
+Problem "floortile-24 (p24.pddl)" has too many states, 23 objects (353896 ms)
+Problem "floortile-22 (p22.pddl)" has too many states, 23 objects (353653 ms)
+Problem "floortile-20 (p20.pddl)" has too many states, 23 objects (351737 ms)
+Problem "floortile-26 (p26.pddl)" has too many states, 24 objects (361935 ms)
+Problem "floortile-25 (p25.pddl)" has too many states, 27 objects (337457 ms)
+Problem "floortile-32 (p32.pddl)" has too many states, 27 objects (319139 ms)
+Problem "floortile-33 (p33.pddl)" has too many states, 27 objects (310751 ms)
+Problem "floortile-34 (p34.pddl)" has too many states, 27 objects (313679 ms)
+Problem "floortile-35 (p35.pddl)" has too many states, 27 objects (313573 ms)
+Problem "floortile-36 (p36.pddl)" has too many states, 27 objects (315377 ms)
+Problem "floortile-38 (p38.pddl)" has too many states, 27 objects (350844 ms)
+Problem "floortile-27 (p27.pddl)" has too many states, 28 objects (329867 ms)
+Problem "floortile-28 (p28.pddl)" has too many states, 28 objects (322257 ms)
+Problem "floortile-29 (p29.pddl)" has too many states, 28 objects (321202 ms)
+Problem "floortile-30 (p30.pddl)" has too many states, 28 objects (327720 ms)
+Problem "floortile-31 (p31.pddl)" has too many states, 28 objects (325171 ms)
+Problem "floortile-54 (p54.pddl)" has too many states, 31 objects (343782 ms)
+Problem "floortile-37 (p37.pddl)" has too many states, 31 objects (301225 ms)
+Problem "floortile-47 (p47.pddl)" has too many states, 32 objects (346448 ms)
+Problem "floortile-48 (p48.pddl)" has too many states, 32 objects (343750 ms)
+Problem "floortile-49 (p49.pddl)" has too many states, 32 objects (345577 ms)
+Problem "floortile-51 (p51.pddl)" has too many states, 32 objects (341080 ms)
+Problem "floortile-52 (p52.pddl)" has too many states, 32 objects (345760 ms)
+Problem "floortile-53 (p53.pddl)" has too many states, 32 objects (342135 ms)
+Problem "floortile-50 (p50.pddl)" has too many states, 32 objects (343258 ms)
+Problem "floortile-44 (p44.pddl)" has too many states, 33 objects (331485 ms)
+Problem "floortile-43 (p43.pddl)" has too many states, 33 objects (330274 ms)
+Problem "floortile-42 (p42.pddl)" has too many states, 33 objects (334530 ms)
+Problem "floortile-41 (p41.pddl)" has too many states, 33 objects (348225 ms)
+Problem "floortile-40 (p40.pddl)" has too many states, 33 objects (345504 ms)
+Problem "floortile-56 (p56.pddl)" has too many states, 34 objects (340338 ms)
+Problem "floortile-55 (p55.pddl)" has too many states, 34 objects (339589 ms)
+Problem "floortile-69 (p69.pddl)" has too many states, 34 objects (336504 ms)
+Problem "floortile-67 (p67.pddl)" has too many states, 34 objects (341014 ms)
+Problem "floortile-66 (p66.pddl)" has too many states, 34 objects (338249 ms)
+Problem "floortile-65 (p65.pddl)" has too many states, 34 objects (338008 ms)
+Problem "floortile-64 (p64.pddl)" has too many states, 34 objects (338205 ms)
+Problem "floortile-63 (p63.pddl)" has too many states, 34 objects (338357 ms)
+Problem "floortile-62 (p62.pddl)" has too many states, 34 objects (338320 ms)
+Problem "floortile-61 (p61.pddl)" has too many states, 34 objects (338051 ms)
+Problem "floortile-45 (p45.pddl)" has too many states, 34 objects (337334 ms)
+Problem "floortile-57 (p57.pddl)" has too many states, 34 objects (337819 ms)
+Problem "floortile-58 (p58.pddl)" has too many states, 34 objects (336729 ms)
+Problem "floortile-59 (p59.pddl)" has too many states, 34 objects (337596 ms)
+Problem "floortile-60 (p60.pddl)" has too many states, 34 objects (337015 ms)
+Problem "floortile-46 (p46.pddl)" has too many states, 34 objects (335365 ms)
+Problem "floortile-39 (p39.pddl)" has too many states, 35 objects (335726 ms)
+Problem "floortile-87 (p87.pddl)" has too many states, 37 objects (335058 ms)
+Problem "floortile-86 (p86.pddl)" has too many states, 37 objects (337016 ms)
+Problem "floortile-85 (p85.pddl)" has too many states, 37 objects (335359 ms)
+Problem "floortile-84 (p84.pddl)" has too many states, 37 objects (333706 ms)
+Problem "floortile-83 (p83.pddl)" has too many states, 37 objects (335679 ms)
+Problem "floortile-82 (p82.pddl)" has too many states, 37 objects (333223 ms)
+Problem "floortile-81 (p81.pddl)" has too many states, 37 objects (333547 ms)
+Problem "floortile-80 (p80.pddl)" has too many states, 37 objects (334687 ms)
+Problem "floortile-79 (p79.pddl)" has too many states, 37 objects (333185 ms)
+Problem "floortile-72 (p72.pddl)" has too many states, 39 objects (330041 ms)
+Problem "floortile-71 (p71.pddl)" has too many states, 39 objects (330054 ms)
+Problem "floortile-70 (p70.pddl)" has too many states, 39 objects (329176 ms)
+Problem "floortile-77 (p77.pddl)" has too many states, 40 objects (334026 ms)
+Problem "floortile-76 (p76.pddl)" has too many states, 40 objects (335223 ms)
+Problem "floortile-75 (p75.pddl)" has too many states, 40 objects (333398 ms)
+Problem "floortile-74 (p74.pddl)" has too many states, 40 objects (335139 ms)
+Problem "floortile-73 (p73.pddl)" has too many states, 40 objects (336146 ms)
+Problem "floortile-68 (p68.pddl)" has too many states, 40 objects (330229 ms)
+Problem "floortile-78 (p78.pddl)" has too many states, 40 objects (336018 ms)
+Problem "floortile-98 (p98.pddl)" has too many states, 41 objects (336155 ms)
+Problem "floortile-97 (p97.pddl)" has too many states, 41 objects (334986 ms)
+Problem "floortile-96 (p96.pddl)" has too many states, 41 objects (336480 ms)
+Problem "floortile-95 (p95.pddl)" has too many states, 41 objects (335057 ms)
+Problem "floortile-94 (p94.pddl)" has too many states, 41 objects (335263 ms)
+Problem "floortile-93 (p93.pddl)" has too many states, 41 objects (334760 ms)
+Problem "floortile-92 (p92.pddl)" has too many states, 41 objects (334032 ms)
+Problem "floortile-91 (p91.pddl)" has too many states, 41 objects (334758 ms)
+Problem "floortile-90 (p90.pddl)" has too many states, 41 objects (331953 ms)
+Problem "floortile-89 (p89.pddl)" has too many states, 41 objects (333942 ms)
+Problem "floortile-99 (p99.pddl)" has too many states, 41 objects (334651 ms)
+Problem "floortile-88 (p88.pddl)" has too many states, 45 objects (327381 ms)
+
+1-WL Pruning is not safe
+1-WL Pruning appears not be useful
+
+Training problems: 
+ - floortile-01 (p02.pddl)
+ - floortile-01 (p01.pddl)
+ - floortile-03 (p03.pddl)
+ - floortile-04 (p04.pddl)
+ - floortile-05 (p05.pddl)
+ - floortile-06 (p06.pddl)
+ - floortile-07 (p07.pddl)
+ - floortile-16 (p16.pddl)
+ - floortile-09 (p09.pddl)
+ - floortile-10 (p10.pddl)
+ - floortile-12 (p12.pddl)
+ - floortile-13 (p13.pddl)
+ - floortile-14 (p14.pddl)
+ - floortile-15 (p15.pddl)
+ - floortile-11 (p11.pddl)
+
+Validation problems: 
+ - floortile-08 (p08.pddl)
+ - floortile-17 (p17.pddl)
+
+
+Optimal learning...
+Time: 460 minutes
+	zip warning: name not matched: optimal_best.hparams
+	zip warning: name not matched: optimal_best.pnn
+	zip warning: name not matched: suboptimal_best.hparams
+	zip warning: name not matched: suboptimal_best.pnn
+  adding: use_wl (stored 0%)
+Running learning parser
+Running runsolver parser

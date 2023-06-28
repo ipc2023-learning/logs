@@ -1,0 +1,3720 @@
+Changing working directory:  /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace
+================================================================================
+SLTP v.0.2.0
+================================================================================
+================================================================================
+(pid: 138095) STARTING STEP #1: Incremental learning module
+================================================================================
+2023-06-26 22:46:11 INFO     Initializing InstanceDatas...
+2023-06-26 22:46:11 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p29.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p29
+2023-06-26 22:46:11 INFO     Constructing DomainData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/domain.pddl
+Num states: 54
+2023-06-26 22:46:11 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p35.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p35
+Num states: 216
+2023-06-26 22:46:11 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p41.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p41
+2023-06-26 22:46:12 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p68.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p68
+2023-06-26 22:46:18 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p74.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p74
+2023-06-26 22:46:26 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p80.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p80
+2023-06-26 22:46:54 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p28.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p28
+Num states: 54
+2023-06-26 22:46:55 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p34.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p34
+Num states: 189
+2023-06-26 22:46:55 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p67.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p67
+2023-06-26 22:47:01 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p73.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p73
+2023-06-26 22:47:09 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p17.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p17
+Num states: 12
+2023-06-26 22:47:09 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p23.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p23
+Num states: 15
+2023-06-26 22:47:09 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p66.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p66
+2023-06-26 22:47:15 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p72.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p72
+2023-06-26 22:47:23 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p99.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p99
+2023-06-26 22:48:00 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p16.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p16
+Num states: 12
+2023-06-26 22:48:01 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p22.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p22
+Num states: 15
+2023-06-26 22:48:01 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p59.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p59
+2023-06-26 22:48:03 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p65.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p65
+2023-06-26 22:48:05 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p98.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p98
+2023-06-26 22:48:43 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p09.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p09
+Num states: 9
+2023-06-26 22:48:43 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p15.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p15
+Num states: 12
+2023-06-26 22:48:43 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p21.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p21
+Num states: 15
+2023-06-26 22:48:43 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p48.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p48
+2023-06-26 22:48:44 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p54.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p54
+2023-06-26 22:48:44 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p60.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p60
+2023-06-26 22:48:46 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p97.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p97
+2023-06-26 22:49:24 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p08.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p08
+Num states: 9
+2023-06-26 22:49:24 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p14.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p14
+Num states: 27
+2023-06-26 22:49:24 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p20.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p20
+Num states: 15
+2023-06-26 22:49:24 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p47.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p47
+2023-06-26 22:49:25 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p53.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p53
+2023-06-26 22:49:25 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p96.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p96
+2023-06-26 22:50:03 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p07.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p07
+Num states: 9
+2023-06-26 22:50:03 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p46.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p46
+2023-06-26 22:50:03 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p52.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p52
+2023-06-26 22:50:04 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p79.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p79
+2023-06-26 22:50:29 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p85.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p85
+2023-06-26 22:51:06 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p91.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p91
+2023-06-26 22:51:44 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p02.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p02
+Num states: 6
+2023-06-26 22:51:45 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p39.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p39
+Num states: 216
+2023-06-26 22:51:45 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p45.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p45
+2023-06-26 22:51:45 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p51.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p51
+2023-06-26 22:51:46 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p78.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p78
+2023-06-26 22:52:11 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p84.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p84
+2023-06-26 22:52:49 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p90.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p90
+2023-06-26 22:53:27 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p01.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p01
+Num states: 6
+2023-06-26 22:53:27 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p38.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p38
+Num states: 216
+2023-06-26 22:53:27 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p40.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p40
+Num states: 243
+2023-06-26 22:53:28 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p77.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p77
+2023-06-26 22:53:53 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p83.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p83
+2023-06-26 22:54:30 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p27.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p27
+Num states: 54
+2023-06-26 22:54:31 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p33.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p33
+Num states: 189
+2023-06-26 22:54:31 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p76.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p76
+2023-06-26 22:54:56 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p82.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p82
+2023-06-26 22:55:24 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p26.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p26
+Num states: 54
+2023-06-26 22:55:24 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p32.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p32
+Num states: 189
+2023-06-26 22:55:24 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p69.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p69
+2023-06-26 22:55:31 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p71.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p71
+2023-06-26 22:55:38 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p19.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p19
+Num states: 12
+2023-06-26 22:55:38 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p25.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p25
+Num states: 54
+2023-06-26 22:55:38 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p31.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p31
+Num states: 63
+2023-06-26 22:55:39 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p58.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p58
+2023-06-26 22:55:40 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p64.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p64
+2023-06-26 22:55:42 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p70.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p70
+2023-06-26 22:55:50 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p18.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p18
+Num states: 12
+2023-06-26 22:55:50 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p24.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p24
+Num states: 45
+2023-06-26 22:55:50 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p30.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p30
+Num states: 63
+2023-06-26 22:55:50 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p57.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p57
+2023-06-26 22:55:51 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p63.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p63
+2023-06-26 22:55:53 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p13.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p13
+Num states: 162
+2023-06-26 22:55:53 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p56.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p56
+2023-06-26 22:55:54 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p62.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p62
+2023-06-26 22:55:56 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p89.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p89
+2023-06-26 22:56:33 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p95.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p95
+2023-06-26 22:57:11 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p06.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p06
+Num states: 18
+2023-06-26 22:57:11 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p12.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p12
+Num states: 9
+2023-06-26 22:57:11 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p49.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p49
+2023-06-26 22:57:12 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p55.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p55
+2023-06-26 22:57:12 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p61.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p61
+2023-06-26 22:57:14 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p88.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p88
+2023-06-26 22:57:52 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p94.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p94
+2023-06-26 22:58:30 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p05.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p05
+Num states: 18
+2023-06-26 22:58:30 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p11.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p11
+Num states: 9
+2023-06-26 22:58:30 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p44.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p44
+2023-06-26 22:58:31 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p50.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p50
+2023-06-26 22:58:31 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p87.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p87
+2023-06-26 22:59:09 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p93.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p93
+2023-06-26 22:59:47 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p04.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p04
+Num states: 18
+2023-06-26 22:59:47 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p10.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p10
+Num states: 9
+2023-06-26 22:59:47 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p37.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p37
+Num states: 216
+2023-06-26 22:59:47 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p43.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p43
+2023-06-26 22:59:48 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p86.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p86
+2023-06-26 23:00:25 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p92.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p92
+2023-06-26 23:01:02 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p03.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p03
+Num states: 18
+2023-06-26 23:01:03 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p36.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p36
+Num states: 216
+2023-06-26 23:01:03 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p42.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p42
+2023-06-26 23:01:03 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p75.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p75
+2023-06-26 23:01:28 INFO     Constructing InstanceData for filename /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/instances/p81.pddl
+/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-26-learning/runs-00001-00100/00068/workspace/input/p81
+2023-06-26 23:01:56 INFO     ..done
+2023-06-26 23:01:56 INFO     Iteration: 0
+     id: 0 name: p02
+2023-06-26 23:01:56 INFO     Initializing DomainFeatureData...
+[t=945.141s, 1094308 KB] Started generating base features of complexity 1.
+[t=945.141s, 1094308 KB] Complexity 1:
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 4
+    c_and: 0
+    c_not: 0
+    c_equal: 0
+    c_some: 0
+    c_all: 0
+    r_restrict: 0
+    r_and: 0
+    r_inverse: 0
+    r_transitive_closure: 0
+    b_empty: 0
+    n_count: 0
+    n_concept_distance: 0
+[t=945.141s, 1094308 KB] Finished generating base features.
+[t=945.142s, 1094308 KB] Started generating composite features. 
+[t=945.142s, 1094308 KB] Complexity 2:
+Total concept elements: 10
+Total role elements: 7
+Total numerical elements: 7
+Total boolean elements: 5
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 4
+    c_and: 0
+    c_not: 3
+    c_equal: 0
+    c_some: 0
+    c_all: 0
+    r_restrict: 0
+    r_and: 0
+    r_inverse: 3
+    r_transitive_closure: 0
+    b_empty: 5
+    n_count: 7
+    n_concept_distance: 0
+[t=945.143s, 1094308 KB] Complexity 3:
+Total concept elements: 20
+Total role elements: 10
+Total numerical elements: 9
+Total boolean elements: 5
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 4
+    c_and: 0
+    c_not: 3
+    c_equal: 1
+    c_some: 5
+    c_all: 4
+    r_restrict: 3
+    r_and: 0
+    r_inverse: 3
+    r_transitive_closure: 0
+    b_empty: 5
+    n_count: 9
+    n_concept_distance: 0
+[t=945.144s, 1094308 KB] Complexity 4:
+Total concept elements: 39
+Total role elements: 13
+Total numerical elements: 22
+Total boolean elements: 8
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 4
+    c_and: 3
+    c_not: 9
+    c_equal: 1
+    c_some: 10
+    c_all: 9
+    r_restrict: 3
+    r_and: 0
+    r_inverse: 6
+    r_transitive_closure: 0
+    b_empty: 8
+    n_count: 16
+    n_concept_distance: 6
+[t=945.145s, 1094308 KB] Complexity 5:
+Total concept elements: 56
+Total role elements: 13
+Total numerical elements: 30
+Total boolean elements: 11
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 4
+    c_and: 12
+    c_not: 17
+    c_equal: 1
+    c_some: 10
+    c_all: 9
+    r_restrict: 3
+    r_and: 0
+    r_inverse: 6
+    r_transitive_closure: 0
+    b_empty: 11
+    n_count: 22
+    n_concept_distance: 8
+[t=945.149s, 1094308 KB] Complexity 6:
+Total concept elements: 103
+Total role elements: 13
+Total numerical elements: 46
+Total boolean elements: 15
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 4
+    c_and: 40
+    c_not: 23
+    c_equal: 1
+    c_some: 15
+    c_all: 17
+    r_restrict: 3
+    r_and: 0
+    r_inverse: 6
+    r_transitive_closure: 0
+    b_empty: 15
+    n_count: 30
+    n_concept_distance: 16
+[t=945.154s, 1094308 KB] Complexity 7:
+Total concept elements: 177
+Total role elements: 13
+Total numerical elements: 83
+Total boolean elements: 22
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 4
+    c_and: 81
+    c_not: 52
+    c_equal: 1
+    c_some: 17
+    c_all: 19
+    r_restrict: 3
+    r_and: 0
+    r_inverse: 6
+    r_transitive_closure: 0
+    b_empty: 22
+    n_count: 54
+    n_concept_distance: 29
+[t=945.165s, 1094308 KB] Complexity 8:
+Total concept elements: 282
+Total role elements: 13
+Total numerical elements: 122
+Total boolean elements: 31
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 4
+    c_and: 139
+    c_not: 91
+    c_equal: 1
+    c_some: 18
+    c_all: 26
+    r_restrict: 3
+    r_and: 0
+    r_inverse: 6
+    r_transitive_closure: 0
+    b_empty: 31
+    n_count: 81
+    n_concept_distance: 41
+[t=945.185s, 1094308 KB] Complexity 9:
+Total concept elements: 439
+Total role elements: 13
+Total numerical elements: 182
+Total boolean elements: 36
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 4
+    c_and: 226
+    c_not: 139
+    c_equal: 1
+    c_some: 25
+    c_all: 41
+    r_restrict: 3
+    r_and: 0
+    r_inverse: 6
+    r_transitive_closure: 0
+    b_empty: 36
+    n_count: 122
+    n_concept_distance: 60
+[t=945.185s, 1094308 KB] Finished generating composite features.
+DomainFeatureDataStatistics:
+    num_dlplan_states: 6
+    num_boolean_features: 36
+    num_numerical_features: 182
+2023-06-26 23:01:56 INFO     ..done
+2023-06-26 23:01:56 INFO     Initializing InstanceFeatureDatas...
+2023-06-26 23:01:56 INFO     ..done
+2023-06-26 23:01:56 INFO     Grounding Logic Program...
+2023-06-26 23:01:56 INFO     ..done
+2023-06-26 23:01:56 INFO     Solving Logic Program...
+Clingo statistics:
+{'call': 0.0, 'result': 1.0, 'signal': 0.0, 'exhausted': 1.0, 'costs': [4.0], 'lower': [4.0], 'concurrency': 32.0, 'winner': 7.0, 'times': {'total': 0.0332331657409668, 'cpu': 0.03300200000001041, 'solve': 0.003587007522583008, 'unsat': 0.0005660057067871094, 'sat': 0.0018818378448486328}, 'models': {'enumerated': 12.0, 'optimal': 1.0}}
+Solution cost: [4.0]
+Total time: 0.0332331657409668
+CPU time: 0.03300200000001041
+Solve time: 0.003587007522583008
+2023-06-26 23:01:56 INFO     ..done
+2023-06-26 23:01:56 INFO     Learned the following goal separating features:
+b_empty(c_primitive(served,0))
+
+2023-06-26 23:01:56 INFO     Verifying goal separating features...
+Features do not separate goals from non goals
+Booleans:
+State: (instance index=31, state index=16, atoms={lift-at(f2), boarded(p2), served(p1)})
+b_values: (False,)
+2023-06-26 23:01:56 INFO     ..done
+Smallest unsolved instance: 17
+Selected instances: [17]
+2023-06-26 23:01:56 INFO     Iteration: 1
+     id: 17 name: p06
+2023-06-26 23:01:56 INFO     Initializing DomainFeatureData...
+[t=945.256s, 1478068 KB] Started generating base features of complexity 1.
+[t=945.256s, 1478068 KB] Complexity 1:
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 4
+    c_and: 0
+    c_not: 0
+    c_equal: 0
+    c_some: 0
+    c_all: 0
+    r_restrict: 0
+    r_and: 0
+    r_inverse: 0
+    r_transitive_closure: 0
+    b_empty: 0
+    n_count: 0
+    n_concept_distance: 0
+[t=945.256s, 1478068 KB] Finished generating base features.
+[t=945.256s, 1478068 KB] Started generating composite features. 
+[t=945.256s, 1478068 KB] Complexity 2:
+Total concept elements: 10
+Total role elements: 7
+Total numerical elements: 7
+Total boolean elements: 5
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 4
+    c_and: 0
+    c_not: 3
+    c_equal: 0
+    c_some: 0
+    c_all: 0
+    r_restrict: 0
+    r_and: 0
+    r_inverse: 3
+    r_transitive_closure: 0
+    b_empty: 5
+    n_count: 7
+    n_concept_distance: 0
+[t=945.257s, 1478068 KB] Complexity 3:
+Total concept elements: 20
+Total role elements: 10
+Total numerical elements: 10
+Total boolean elements: 5
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 4
+    c_and: 0
+    c_not: 3
+    c_equal: 1
+    c_some: 5
+    c_all: 4
+    r_restrict: 3
+    r_and: 0
+    r_inverse: 3
+    r_transitive_closure: 0
+    b_empty: 5
+    n_count: 10
+    n_concept_distance: 0
+[t=945.258s, 1478068 KB] Complexity 4:
+Total concept elements: 39
+Total role elements: 13
+Total numerical elements: 18
+Total boolean elements: 8
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 4
+    c_and: 3
+    c_not: 9
+    c_equal: 1
+    c_some: 10
+    c_all: 9
+    r_restrict: 3
+    r_and: 0
+    r_inverse: 6
+    r_transitive_closure: 0
+    b_empty: 8
+    n_count: 17
+    n_concept_distance: 1
+[t=945.26s, 1478068 KB] Complexity 5:
+Total concept elements: 56
+Total role elements: 13
+Total numerical elements: 33
+Total boolean elements: 11
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 4
+    c_and: 12
+    c_not: 17
+    c_equal: 1
+    c_some: 10
+    c_all: 9
+    r_restrict: 3
+    r_and: 0
+    r_inverse: 6
+    r_transitive_closure: 0
+    b_empty: 11
+    n_count: 31
+    n_concept_distance: 2
+[t=945.264s, 1478068 KB] Complexity 6:
+Total concept elements: 113
+Total role elements: 13
+Total numerical elements: 49
+Total boolean elements: 15
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 4
+    c_and: 40
+    c_not: 23
+    c_equal: 1
+    c_some: 20
+    c_all: 22
+    r_restrict: 3
+    r_and: 0
+    r_inverse: 6
+    r_transitive_closure: 0
+    b_empty: 15
+    n_count: 45
+    n_concept_distance: 4
+[t=945.271s, 1478068 KB] Complexity 7:
+Total concept elements: 199
+Total role elements: 13
+Total numerical elements: 108
+Total boolean elements: 26
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 4
+    c_and: 81
+    c_not: 60
+    c_equal: 1
+    c_some: 24
+    c_all: 26
+    r_restrict: 3
+    r_and: 0
+    r_inverse: 6
+    r_transitive_closure: 0
+    b_empty: 26
+    n_count: 94
+    n_concept_distance: 14
+[t=945.285s, 1478068 KB] Complexity 8:
+Total concept elements: 349
+Total role elements: 13
+Total numerical elements: 177
+Total boolean elements: 39
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 4
+    c_and: 148
+    c_not: 103
+    c_equal: 1
+    c_some: 41
+    c_all: 49
+    r_restrict: 3
+    r_and: 0
+    r_inverse: 6
+    r_transitive_closure: 0
+    b_empty: 39
+    n_count: 159
+    n_concept_distance: 18
+[t=945.313s, 1478068 KB] Complexity 9:
+Total concept elements: 606
+Total role elements: 13
+Total numerical elements: 303
+Total boolean elements: 57
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 4
+    c_and: 272
+    c_not: 182
+    c_equal: 1
+    c_some: 62
+    c_all: 82
+    r_restrict: 3
+    r_and: 0
+    r_inverse: 6
+    r_transitive_closure: 0
+    b_empty: 57
+    n_count: 273
+    n_concept_distance: 30
+[t=945.313s, 1478068 KB] Finished generating composite features.
+DomainFeatureDataStatistics:
+    num_dlplan_states: 18
+    num_boolean_features: 57
+    num_numerical_features: 303
+2023-06-26 23:01:56 INFO     ..done
+2023-06-26 23:01:56 INFO     Initializing InstanceFeatureDatas...
+2023-06-26 23:01:56 INFO     ..done
+2023-06-26 23:01:56 INFO     Grounding Logic Program...
+2023-06-26 23:01:56 INFO     ..done
+2023-06-26 23:01:56 INFO     Solving Logic Program...
+Clingo statistics:
+{'call': 0.0, 'result': 1.0, 'signal': 0.0, 'exhausted': 1.0, 'costs': [7.0], 'lower': [7.0], 'concurrency': 32.0, 'winner': 7.0, 'times': {'total': 0.11693191528320312, 'cpu': 0.11596799999995255, 'solve': 0.0030019283294677734, 'unsat': 0.00061798095703125, 'sat': 0.0013339519500732422}, 'models': {'enumerated': 10.0, 'optimal': 1.0}}
+Solution cost: [7.0]
+Total time: 0.11693191528320312
+CPU time: 0.11596799999995255
+Solve time: 0.0030019283294677734
+2023-06-26 23:01:56 INFO     ..done
+2023-06-26 23:01:56 INFO     Learned the following goal separating features:
+b_empty(c_and(c_not(c_primitive(served,0)),c_primitive(served_g,0)))
+
+2023-06-26 23:01:56 INFO     Verifying goal separating features...
+2023-06-26 23:01:56 INFO     ..done
+Features separate all goal from non-goal states!
+2023-06-26 23:01:56 INFO     Started refining
+2023-06-26 23:01:56 INFO     Initializing TupleGraphs...
+2023-06-26 23:01:57 INFO     ..done
+2023-06-26 23:01:57 INFO     Iteration: 0
+     id: 0 name: p02 initial_states: [3, 2, 1, 0]
+2023-06-26 23:01:57 INFO     Initializing DomainFeatureData...
+[t=945.795s, 1478068 KB] Started generating base features of complexity 1.
+[t=945.795s, 1478068 KB] Complexity 1:
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 4
+    c_and: 0
+    c_not: 0
+    c_equal: 0
+    c_some: 0
+    c_all: 0
+    r_restrict: 0
+    r_and: 0
+    r_inverse: 0
+    r_transitive_closure: 0
+    b_empty: 0
+    n_count: 0
+    n_concept_distance: 0
+[t=945.795s, 1478068 KB] Finished generating base features.
+[t=945.795s, 1478068 KB] Started generating composite features. 
+[t=945.795s, 1478068 KB] Complexity 2:
+Total concept elements: 10
+Total role elements: 7
+Total numerical elements: 7
+Total boolean elements: 5
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 4
+    c_and: 0
+    c_not: 3
+    c_equal: 0
+    c_some: 0
+    c_all: 0
+    r_restrict: 0
+    r_and: 0
+    r_inverse: 3
+    r_transitive_closure: 0
+    b_empty: 5
+    n_count: 7
+    n_concept_distance: 0
+[t=945.796s, 1478068 KB] Complexity 3:
+Total concept elements: 20
+Total role elements: 10
+Total numerical elements: 9
+Total boolean elements: 5
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 4
+    c_and: 0
+    c_not: 3
+    c_equal: 1
+    c_some: 5
+    c_all: 4
+    r_restrict: 3
+    r_and: 0
+    r_inverse: 3
+    r_transitive_closure: 0
+    b_empty: 5
+    n_count: 9
+    n_concept_distance: 0
+[t=945.797s, 1478068 KB] Complexity 4:
+Total concept elements: 39
+Total role elements: 13
+Total numerical elements: 22
+Total boolean elements: 8
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 4
+    c_and: 3
+    c_not: 9
+    c_equal: 1
+    c_some: 10
+    c_all: 9
+    r_restrict: 3
+    r_and: 0
+    r_inverse: 6
+    r_transitive_closure: 0
+    b_empty: 8
+    n_count: 16
+    n_concept_distance: 6
+[t=945.811s, 1478068 KB] Complexity 5:
+Total concept elements: 56
+Total role elements: 13
+Total numerical elements: 30
+Total boolean elements: 11
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 4
+    c_and: 12
+    c_not: 17
+    c_equal: 1
+    c_some: 10
+    c_all: 9
+    r_restrict: 3
+    r_and: 0
+    r_inverse: 6
+    r_transitive_closure: 0
+    b_empty: 11
+    n_count: 22
+    n_concept_distance: 8
+[t=945.82s, 1478068 KB] Complexity 6:
+Total concept elements: 103
+Total role elements: 13
+Total numerical elements: 46
+Total boolean elements: 15
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 4
+    c_and: 40
+    c_not: 23
+    c_equal: 1
+    c_some: 15
+    c_all: 17
+    r_restrict: 3
+    r_and: 0
+    r_inverse: 6
+    r_transitive_closure: 0
+    b_empty: 15
+    n_count: 30
+    n_concept_distance: 16
+[t=945.826s, 1478068 KB] Complexity 7:
+Total concept elements: 177
+Total role elements: 13
+Total numerical elements: 83
+Total boolean elements: 22
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 4
+    c_and: 81
+    c_not: 52
+    c_equal: 1
+    c_some: 17
+    c_all: 19
+    r_restrict: 3
+    r_and: 0
+    r_inverse: 6
+    r_transitive_closure: 0
+    b_empty: 22
+    n_count: 54
+    n_concept_distance: 29
+[t=945.847s, 1478068 KB] Complexity 8:
+Total concept elements: 282
+Total role elements: 13
+Total numerical elements: 122
+Total boolean elements: 31
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 4
+    c_and: 139
+    c_not: 91
+    c_equal: 1
+    c_some: 18
+    c_all: 26
+    r_restrict: 3
+    r_and: 0
+    r_inverse: 6
+    r_transitive_closure: 0
+    b_empty: 31
+    n_count: 81
+    n_concept_distance: 41
+[t=945.867s, 1478068 KB] Complexity 9:
+Total concept elements: 439
+Total role elements: 13
+Total numerical elements: 182
+Total boolean elements: 36
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 4
+    c_and: 226
+    c_not: 139
+    c_equal: 1
+    c_some: 25
+    c_all: 41
+    r_restrict: 3
+    r_and: 0
+    r_inverse: 6
+    r_transitive_closure: 0
+    b_empty: 36
+    n_count: 122
+    n_concept_distance: 60
+[t=945.868s, 1478068 KB] Finished generating composite features.
+DomainFeatureDataStatistics:
+    num_dlplan_states: 6
+    num_boolean_features: 36
+    num_numerical_features: 182
+2023-06-26 23:01:57 INFO     ..done
+2023-06-26 23:01:57 INFO     Initializing InstanceFeatureDatas...
+2023-06-26 23:01:57 INFO     ..done
+2023-06-26 23:01:57 INFO     Initializing StatePairEquivalenceDatas...
+2023-06-26 23:01:57 INFO     ..done
+2023-06-26 23:01:57 INFO     Initializing TupleGraphEquivalences...
+TupleGraphEquivalenceFactoryStatistics:
+    num_subgoal_tuples: 24
+    num_single_rule_subgoal_tuples: 24
+    num_multi_rule_subgoal_tuples: 0
+2023-06-26 23:01:57 INFO     ..done
+2023-06-26 23:01:57 INFO     Initializing TupleGraphEquivalenceMinimizer...
+2023-06-26 23:01:57 INFO     ..done
+2023-06-26 23:01:57 INFO     Iteration data preprocessing summary:
+DomainFeatureDataStatistics:
+    num_dlplan_states: 6
+    num_boolean_features: 36
+    num_numerical_features: 182
+StatePairEquivalenceStatistics:
+    num_subgoal_states: 24
+    num_equivalences: 24
+TupleGraphEquivalenceFactoryStatistics:
+    num_subgoal_tuples: 24
+    num_single_rule_subgoal_tuples: 24
+    num_multi_rule_subgoal_tuples: 0
+TupleGraphEquivalenceFactoryStatistics:
+    num_subgoal_tuples: 24
+    num_single_rule_subgoal_tuples: 24
+    num_multi_rule_subgoal_tuples: 0
+2023-06-26 23:01:57 INFO     Grounding Logic Program...
+2023-06-26 23:01:57 INFO     ..done
+2023-06-26 23:01:57 INFO     Solving Logic Program...
+Clingo statistics:
+{'call': 0.0, 'result': 1.0, 'signal': 0.0, 'exhausted': 1.0, 'costs': [2.0], 'lower': [2.0], 'concurrency': 32.0, 'winner': 4.0, 'times': {'total': 3.0546419620513916, 'cpu': 2.971046000000115, 'solve': 2.4715559482574463, 'unsat': 0.055021047592163086, 'sat': 2.395055055618286}, 'models': {'enumerated': 2.0, 'optimal': 1.0}}
+Solution cost: [2.0]
+Total time: 3.0546419620513916
+CPU time: 2.971046000000115
+Solve time: 2.4715559482574463
+2023-06-26 23:02:00 INFO     ..done
+2023-06-26 23:02:00 INFO     Learned the following sketch:
+(:policy
+(:rule (:conditions ) (:effects (:e_b_pos "b_empty(c_and(c_not(c_primitive(served,0)),c_primitive(served_g,0)))")))
+)
+(:policy
+(:boolean_features (304 "b_empty(c_and(c_not(c_primitive(served,0)),c_primitive(served_g,0)))"))
+(:numerical_features )
+(:rule (:conditions ) (:effects (:e_b_pos 304)))
+)
+Numer of sketch rules: 1
+Number of selected features: 1
+Maximum complexity of selected feature: 5
+2023-06-26 23:02:00 INFO     Verifying learned sketch...
+State has unbounded width for a rule
+Width: 2
+Rule: (:rule (:conditions ) (:effects (:e_b_pos 304)))
+Instance: 17 p06
+State: (instance index=31, state index=0, atoms={lift-at(f1), origin(p2,f2), origin(p1,f2)})
+2023-06-26 23:02:00 INFO     ..done
+Smallest unsolved instance: 17
+Selected instances: [17]
+2023-06-26 23:02:00 INFO     Iteration: 1
+     id: 17 name: p06 initial_states: [16, 14, 13, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12]
+2023-06-26 23:02:00 INFO     Initializing DomainFeatureData...
+[t=949.032s, 1724116 KB] Started generating base features of complexity 1.
+[t=949.032s, 1724116 KB] Complexity 1:
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 4
+    c_and: 0
+    c_not: 0
+    c_equal: 0
+    c_some: 0
+    c_all: 0
+    r_restrict: 0
+    r_and: 0
+    r_inverse: 0
+    r_transitive_closure: 0
+    b_empty: 0
+    n_count: 0
+    n_concept_distance: 0
+[t=949.032s, 1724116 KB] Finished generating base features.
+[t=949.032s, 1724116 KB] Started generating composite features. 
+[t=949.032s, 1724116 KB] Complexity 2:
+Total concept elements: 10
+Total role elements: 7
+Total numerical elements: 7
+Total boolean elements: 5
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 4
+    c_and: 0
+    c_not: 3
+    c_equal: 0
+    c_some: 0
+    c_all: 0
+    r_restrict: 0
+    r_and: 0
+    r_inverse: 3
+    r_transitive_closure: 0
+    b_empty: 5
+    n_count: 7
+    n_concept_distance: 0
+[t=949.033s, 1724116 KB] Complexity 3:
+Total concept elements: 20
+Total role elements: 10
+Total numerical elements: 10
+Total boolean elements: 5
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 4
+    c_and: 0
+    c_not: 3
+    c_equal: 1
+    c_some: 5
+    c_all: 4
+    r_restrict: 3
+    r_and: 0
+    r_inverse: 3
+    r_transitive_closure: 0
+    b_empty: 5
+    n_count: 10
+    n_concept_distance: 0
+[t=949.035s, 1724116 KB] Complexity 4:
+Total concept elements: 39
+Total role elements: 13
+Total numerical elements: 18
+Total boolean elements: 8
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 4
+    c_and: 3
+    c_not: 9
+    c_equal: 1
+    c_some: 10
+    c_all: 9
+    r_restrict: 3
+    r_and: 0
+    r_inverse: 6
+    r_transitive_closure: 0
+    b_empty: 8
+    n_count: 17
+    n_concept_distance: 1
+[t=949.037s, 1724116 KB] Complexity 5:
+Total concept elements: 56
+Total role elements: 13
+Total numerical elements: 33
+Total boolean elements: 11
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 4
+    c_and: 12
+    c_not: 17
+    c_equal: 1
+    c_some: 10
+    c_all: 9
+    r_restrict: 3
+    r_and: 0
+    r_inverse: 6
+    r_transitive_closure: 0
+    b_empty: 11
+    n_count: 31
+    n_concept_distance: 2
+[t=949.041s, 1724116 KB] Complexity 6:
+Total concept elements: 113
+Total role elements: 13
+Total numerical elements: 49
+Total boolean elements: 15
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 4
+    c_and: 40
+    c_not: 23
+    c_equal: 1
+    c_some: 20
+    c_all: 22
+    r_restrict: 3
+    r_and: 0
+    r_inverse: 6
+    r_transitive_closure: 0
+    b_empty: 15
+    n_count: 45
+    n_concept_distance: 4
+[t=949.048s, 1724116 KB] Complexity 7:
+Total concept elements: 199
+Total role elements: 13
+Total numerical elements: 108
+Total boolean elements: 26
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 4
+    c_and: 81
+    c_not: 60
+    c_equal: 1
+    c_some: 24
+    c_all: 26
+    r_restrict: 3
+    r_and: 0
+    r_inverse: 6
+    r_transitive_closure: 0
+    b_empty: 26
+    n_count: 94
+    n_concept_distance: 14
+[t=949.062s, 1724116 KB] Complexity 8:
+Total concept elements: 349
+Total role elements: 13
+Total numerical elements: 177
+Total boolean elements: 39
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 4
+    c_and: 148
+    c_not: 103
+    c_equal: 1
+    c_some: 41
+    c_all: 49
+    r_restrict: 3
+    r_and: 0
+    r_inverse: 6
+    r_transitive_closure: 0
+    b_empty: 39
+    n_count: 159
+    n_concept_distance: 18
+[t=949.09s, 1724116 KB] Complexity 9:
+Total concept elements: 606
+Total role elements: 13
+Total numerical elements: 303
+Total boolean elements: 57
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 4
+    c_and: 272
+    c_not: 182
+    c_equal: 1
+    c_some: 62
+    c_all: 82
+    r_restrict: 3
+    r_and: 0
+    r_inverse: 6
+    r_transitive_closure: 0
+    b_empty: 57
+    n_count: 273
+    n_concept_distance: 30
+[t=949.09s, 1724116 KB] Finished generating composite features.
+DomainFeatureDataStatistics:
+    num_dlplan_states: 18
+    num_boolean_features: 57
+    num_numerical_features: 303
+2023-06-26 23:02:00 INFO     ..done
+2023-06-26 23:02:00 INFO     Initializing InstanceFeatureDatas...
+2023-06-26 23:02:00 INFO     ..done
+2023-06-26 23:02:00 INFO     Initializing StatePairEquivalenceDatas...
+2023-06-26 23:02:01 INFO     ..done
+2023-06-26 23:02:01 INFO     Initializing TupleGraphEquivalences...
+TupleGraphEquivalenceFactoryStatistics:
+    num_subgoal_tuples: 210
+    num_single_rule_subgoal_tuples: 210
+    num_multi_rule_subgoal_tuples: 0
+2023-06-26 23:02:01 INFO     ..done
+2023-06-26 23:02:01 INFO     Initializing TupleGraphEquivalenceMinimizer...
+2023-06-26 23:02:01 INFO     ..done
+2023-06-26 23:02:01 INFO     Iteration data preprocessing summary:
+DomainFeatureDataStatistics:
+    num_dlplan_states: 18
+    num_boolean_features: 57
+    num_numerical_features: 303
+StatePairEquivalenceStatistics:
+    num_subgoal_states: 130
+    num_equivalences: 70
+TupleGraphEquivalenceFactoryStatistics:
+    num_subgoal_tuples: 210
+    num_single_rule_subgoal_tuples: 210
+    num_multi_rule_subgoal_tuples: 0
+TupleGraphEquivalenceFactoryStatistics:
+    num_subgoal_tuples: 104
+    num_single_rule_subgoal_tuples: 104
+    num_multi_rule_subgoal_tuples: 0
+2023-06-26 23:02:01 INFO     Grounding Logic Program...
+2023-06-26 23:02:03 INFO     ..done
+2023-06-26 23:02:03 INFO     Solving Logic Program...
+Clingo statistics:
+{'call': 0.0, 'result': 1.0, 'signal': 0.0, 'exhausted': 1.0, 'costs': [4.0], 'lower': [4.0], 'concurrency': 32.0, 'winner': 17.0, 'times': {'total': 365.07681584358215, 'cpu': 353.98578999999995, 'solve': 361.0088138580322, 'unsat': 0.21790599822998047, 'sat': 332.47061491012573}, 'models': {'enumerated': 3.0, 'optimal': 1.0}}
+Solution cost: [4.0]
+Total time: 365.07681584358215
+CPU time: 353.98578999999995
+Solve time: 361.0088138580322
+2023-06-26 23:08:06 INFO     ..done
+2023-06-26 23:08:06 INFO     Learned the following sketch:
+(:policy
+(:rule (:conditions ) (:effects (:e_n_inc "n_count(c_primitive(served,0))")))
+)
+(:policy
+(:boolean_features )
+(:numerical_features (1745 "n_count(c_primitive(served,0))"))
+(:rule (:conditions ) (:effects (:e_n_inc 1745)))
+)
+Numer of sketch rules: 1
+Number of selected features: 1
+Maximum complexity of selected feature: 2
+2023-06-26 23:08:06 INFO     Verifying learned sketch...
+2023-06-26 23:08:25 INFO     ..done
+Sketch solves all instances!
+2023-06-26 23:08:25 INFO     Summary:
+LearningStatistics:
+    num_training_instances: 40
+    num_selected_training_instances: 1
+    num_states_in_selected_training_instances: 18
+    num_features_in_pool: 360
+    num_cpu_seconds: 376.57 seconds
+    num_peak_memory_mb: 2495.80 MB
+Resulting sketch:
+(:policy
+(:rule (:conditions ) (:effects (:e_n_inc "n_count(c_primitive(served,0))")))
+)
+(:policy
+(:boolean_features )
+(:numerical_features (1745 "n_count(c_primitive(served,0))"))
+(:rule (:conditions ) (:effects (:e_n_inc 1745)))
+)
+Numer of sketch rules: 1
+Number of selected features: 1
+Maximum complexity of selected feature: 2
+Resulting sketch minimized:
+(:policy
+(:rule (:conditions ) (:effects (:e_n_inc "n_count(c_primitive(served,0))")))
+)
+(:policy
+(:boolean_features )
+(:numerical_features (1745 "n_count(c_primitive(served,0))"))
+(:rule (:conditions ) (:effects (:e_n_inc 1745)))
+)
+Numer of sketch rules: 1
+Number of selected features: 1
+Maximum complexity of selected feature: 2
+Number of problems: 40
+Number of subproblems: 134
+Highest number of states in problem: 243
+Highest number of states in subproblem: 84
+2023-06-26 23:08:36 INFO     Started refining
+(:policy
+(:rule (:conditions ) (:effects (:e_n_inc "n_count(c_primitive(served,0))")))
+)
+2023-06-26 23:08:36 INFO     Initializing TupleGraphs...
+2023-06-26 23:08:37 INFO     ..done
+2023-06-26 23:08:37 INFO     Iteration: 0
+     id: 0 name: p02-0 initial_states: {0, 1, 2, 3}
+2023-06-26 23:08:37 INFO     Initializing DomainFeatureData...
+[t=1345.65s, 3016988 KB] Started generating base features of complexity 1.
+[t=1345.65s, 3016988 KB] Complexity 1:
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 4
+    c_and: 0
+    c_not: 0
+    c_equal: 0
+    c_some: 0
+    c_all: 0
+    r_restrict: 0
+    r_and: 0
+    r_inverse: 0
+    r_transitive_closure: 0
+    b_empty: 0
+    n_count: 0
+    n_concept_distance: 0
+[t=1345.65s, 3016988 KB] Finished generating base features.
+[t=1345.65s, 3016988 KB] Started generating composite features. 
+[t=1345.65s, 3016988 KB] Complexity 2:
+Total concept elements: 10
+Total role elements: 7
+Total numerical elements: 7
+Total boolean elements: 5
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 4
+    c_and: 0
+    c_not: 3
+    c_equal: 0
+    c_some: 0
+    c_all: 0
+    r_restrict: 0
+    r_and: 0
+    r_inverse: 3
+    r_transitive_closure: 0
+    b_empty: 5
+    n_count: 7
+    n_concept_distance: 0
+[t=1345.65s, 3016988 KB] Complexity 3:
+Total concept elements: 20
+Total role elements: 10
+Total numerical elements: 9
+Total boolean elements: 5
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 4
+    c_and: 0
+    c_not: 3
+    c_equal: 1
+    c_some: 5
+    c_all: 4
+    r_restrict: 3
+    r_and: 0
+    r_inverse: 3
+    r_transitive_closure: 0
+    b_empty: 5
+    n_count: 9
+    n_concept_distance: 0
+[t=1345.65s, 3016988 KB] Complexity 4:
+Total concept elements: 39
+Total role elements: 13
+Total numerical elements: 22
+Total boolean elements: 8
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 4
+    c_and: 3
+    c_not: 9
+    c_equal: 1
+    c_some: 10
+    c_all: 9
+    r_restrict: 3
+    r_and: 0
+    r_inverse: 6
+    r_transitive_closure: 0
+    b_empty: 8
+    n_count: 16
+    n_concept_distance: 6
+[t=1345.66s, 3016988 KB] Complexity 5:
+Total concept elements: 55
+Total role elements: 13
+Total numerical elements: 30
+Total boolean elements: 11
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 4
+    c_and: 11
+    c_not: 17
+    c_equal: 1
+    c_some: 10
+    c_all: 9
+    r_restrict: 3
+    r_and: 0
+    r_inverse: 6
+    r_transitive_closure: 0
+    b_empty: 11
+    n_count: 22
+    n_concept_distance: 8
+[t=1345.66s, 3016988 KB] Complexity 6:
+Total concept elements: 99
+Total role elements: 13
+Total numerical elements: 45
+Total boolean elements: 14
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 4
+    c_and: 37
+    c_not: 22
+    c_equal: 1
+    c_some: 15
+    c_all: 17
+    r_restrict: 3
+    r_and: 0
+    r_inverse: 6
+    r_transitive_closure: 0
+    b_empty: 14
+    n_count: 29
+    n_concept_distance: 16
+[t=1345.66s, 3016988 KB] Complexity 7:
+Total concept elements: 162
+Total role elements: 13
+Total numerical elements: 77
+Total boolean elements: 20
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 4
+    c_and: 72
+    c_not: 46
+    c_equal: 1
+    c_some: 17
+    c_all: 19
+    r_restrict: 3
+    r_and: 0
+    r_inverse: 6
+    r_transitive_closure: 0
+    b_empty: 20
+    n_count: 50
+    n_concept_distance: 27
+[t=1345.68s, 3016988 KB] Complexity 8:
+Total concept elements: 249
+Total role elements: 13
+Total numerical elements: 103
+Total boolean elements: 23
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 4
+    c_and: 123
+    c_not: 79
+    c_equal: 1
+    c_some: 17
+    c_all: 22
+    r_restrict: 3
+    r_and: 0
+    r_inverse: 6
+    r_transitive_closure: 0
+    b_empty: 23
+    n_count: 66
+    n_concept_distance: 37
+[t=1345.7s, 3016988 KB] Complexity 9:
+Total concept elements: 378
+Total role elements: 13
+Total numerical elements: 146
+Total boolean elements: 26
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 4
+    c_and: 197
+    c_not: 119
+    c_equal: 1
+    c_some: 23
+    c_all: 31
+    r_restrict: 3
+    r_and: 0
+    r_inverse: 6
+    r_transitive_closure: 0
+    b_empty: 26
+    n_count: 93
+    n_concept_distance: 53
+[t=1345.7s, 3016988 KB] Finished generating composite features.
+DomainFeatureDataStatistics:
+    num_dlplan_states: 5
+    num_boolean_features: 26
+    num_numerical_features: 146
+2023-06-26 23:08:37 INFO     ..done
+2023-06-26 23:08:37 INFO     Initializing InstanceFeatureDatas...
+2023-06-26 23:08:37 INFO     ..done
+2023-06-26 23:08:37 INFO     Initializing StatePairEquivalenceDatas...
+2023-06-26 23:08:37 INFO     ..done
+2023-06-26 23:08:37 INFO     Initializing TupleGraphEquivalences...
+TupleGraphEquivalenceFactoryStatistics:
+    num_subgoal_tuples: 18
+    num_single_rule_subgoal_tuples: 18
+    num_multi_rule_subgoal_tuples: 0
+2023-06-26 23:08:37 INFO     ..done
+2023-06-26 23:08:37 INFO     Initializing TupleGraphEquivalenceMinimizer...
+2023-06-26 23:08:37 INFO     ..done
+2023-06-26 23:08:37 INFO     Iteration data preprocessing summary:
+DomainFeatureDataStatistics:
+    num_dlplan_states: 5
+    num_boolean_features: 26
+    num_numerical_features: 146
+StatePairEquivalenceStatistics:
+    num_subgoal_states: 13
+    num_equivalences: 13
+TupleGraphEquivalenceFactoryStatistics:
+    num_subgoal_tuples: 18
+    num_single_rule_subgoal_tuples: 18
+    num_multi_rule_subgoal_tuples: 0
+TupleGraphEquivalenceFactoryStatistics:
+    num_subgoal_tuples: 13
+    num_single_rule_subgoal_tuples: 13
+    num_multi_rule_subgoal_tuples: 0
+2023-06-26 23:08:37 INFO     Grounding Logic Program...
+2023-06-26 23:08:37 INFO     ..done
+2023-06-26 23:08:37 INFO     Solving Logic Program...
+Clingo statistics:
+{'call': 0.0, 'result': 1.0, 'signal': 0.0, 'exhausted': 1.0, 'costs': [5.0], 'lower': [5.0], 'concurrency': 32.0, 'winner': 18.0, 'times': {'total': 5.907055139541626, 'cpu': 5.712285000000065, 'solve': 5.5469231605529785, 'unsat': 0.06823205947875977, 'sat': 1.8615992069244385}, 'models': {'enumerated': 6.0, 'optimal': 1.0}}
+Solution cost: [5.0]
+Total time: 5.907055139541626
+CPU time: 5.712285000000065
+Solve time: 5.5469231605529785
+2023-06-26 23:08:43 INFO     ..done
+2023-06-26 23:08:43 INFO     Learned the following sketch:
+(:policy
+(:rule (:conditions (:c_n_eq "n_count(c_primitive(boarded,0))")) (:effects (:e_n_inc "n_count(c_primitive(boarded,0))")))
+(:rule (:conditions (:c_n_gt "n_count(c_primitive(boarded,0))")) (:effects (:e_n_dec "n_count(c_primitive(boarded,0))")))
+)
+(:policy
+(:boolean_features )
+(:numerical_features (1743 "n_count(c_primitive(boarded,0))"))
+(:rule (:conditions (:c_n_gt 1743)) (:effects (:e_n_dec 1743)))
+(:rule (:conditions (:c_n_eq 1743)) (:effects (:e_n_inc 1743)))
+)
+Numer of sketch rules: 2
+Number of selected features: 1
+Maximum complexity of selected feature: 2
+2023-06-26 23:08:43 INFO     Verifying learned sketch...
+2023-06-26 23:08:44 INFO     ..done
+Sketch solves all instances!
+2023-06-26 23:08:44 INFO     Summary:
+LearningStatistics:
+    num_training_instances: 134
+    num_selected_training_instances: 1
+    num_states_in_selected_training_instances: 5
+    num_features_in_pool: 172
+    num_cpu_seconds: 7.03 seconds
+    num_peak_memory_mb: 1775.61 MB
+Resulting sketch:
+(:policy
+(:rule (:conditions (:c_n_eq "n_count(c_primitive(boarded,0))")) (:effects (:e_n_inc "n_count(c_primitive(boarded,0))")))
+(:rule (:conditions (:c_n_gt "n_count(c_primitive(boarded,0))")) (:effects (:e_n_dec "n_count(c_primitive(boarded,0))")))
+)
+(:policy
+(:boolean_features )
+(:numerical_features (1743 "n_count(c_primitive(boarded,0))"))
+(:rule (:conditions (:c_n_gt 1743)) (:effects (:e_n_dec 1743)))
+(:rule (:conditions (:c_n_eq 1743)) (:effects (:e_n_inc 1743)))
+)
+Numer of sketch rules: 2
+Number of selected features: 1
+Maximum complexity of selected feature: 2
+Resulting sketch minimized:
+(:policy
+(:rule (:conditions (:c_n_eq "n_count(c_primitive(boarded,0))")) (:effects (:e_n_inc "n_count(c_primitive(boarded,0))")))
+(:rule (:conditions (:c_n_gt "n_count(c_primitive(boarded,0))")) (:effects (:e_n_dec "n_count(c_primitive(boarded,0))")))
+)
+(:policy
+(:boolean_features )
+(:numerical_features (1743 "n_count(c_primitive(boarded,0))"))
+(:rule (:conditions (:c_n_gt 1743)) (:effects (:e_n_dec 1743)))
+(:rule (:conditions (:c_n_eq 1743)) (:effects (:e_n_inc 1743)))
+)
+Numer of sketch rules: 2
+Number of selected features: 1
+Maximum complexity of selected feature: 2
+Number of problems: 134
+Number of subproblems: 134
+Highest number of states in problem: 84
+Highest number of states in subproblem: 12
+Number of problems: 134
+Number of subproblems: 318
+Highest number of states in problem: 84
+Highest number of states in subproblem: 44
+2023-06-26 23:08:45 INFO     Started refining
+(:policy
+(:rule (:conditions (:c_n_eq "n_count(c_primitive(boarded,0))")) (:effects (:e_n_inc "n_count(c_primitive(boarded,0))")))
+)
+2023-06-26 23:08:45 INFO     Initializing TupleGraphs...
+2023-06-26 23:08:45 INFO     ..done
+2023-06-26 23:08:45 INFO     Iteration: 0
+     id: 0 name: p02-0-0 initial_states: {0, 1}
+2023-06-26 23:08:45 INFO     Initializing DomainFeatureData...
+[t=1354.4s, 3016988 KB] Started generating base features of complexity 1.
+[t=1354.4s, 3016988 KB] Complexity 1:
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 4
+    r_primitive: 4
+    c_and: 0
+    c_not: 0
+    c_equal: 0
+    c_some: 0
+    c_all: 0
+    r_restrict: 0
+    r_and: 0
+    r_inverse: 0
+    r_transitive_closure: 0
+    b_empty: 0
+    n_count: 0
+    n_concept_distance: 0
+[t=1354.4s, 3016988 KB] Finished generating base features.
+[t=1354.4s, 3016988 KB] Started generating composite features. 
+[t=1354.4s, 3016988 KB] Complexity 2:
+Total concept elements: 8
+Total role elements: 7
+Total numerical elements: 6
+Total boolean elements: 4
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 4
+    r_primitive: 4
+    c_and: 0
+    c_not: 2
+    c_equal: 0
+    c_some: 0
+    c_all: 0
+    r_restrict: 0
+    r_and: 0
+    r_inverse: 3
+    r_transitive_closure: 0
+    b_empty: 4
+    n_count: 6
+    n_concept_distance: 0
+[t=1354.4s, 3016988 KB] Complexity 3:
+Total concept elements: 18
+Total role elements: 10
+Total numerical elements: 7
+Total boolean elements: 4
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 4
+    r_primitive: 4
+    c_and: 0
+    c_not: 2
+    c_equal: 1
+    c_some: 5
+    c_all: 4
+    r_restrict: 3
+    r_and: 0
+    r_inverse: 3
+    r_transitive_closure: 0
+    b_empty: 4
+    n_count: 7
+    n_concept_distance: 0
+[t=1354.4s, 3016988 KB] Complexity 4:
+Total concept elements: 31
+Total role elements: 13
+Total numerical elements: 18
+Total boolean elements: 7
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 4
+    r_primitive: 4
+    c_and: 1
+    c_not: 6
+    c_equal: 1
+    c_some: 9
+    c_all: 8
+    r_restrict: 3
+    r_and: 0
+    r_inverse: 6
+    r_transitive_closure: 0
+    b_empty: 7
+    n_count: 13
+    n_concept_distance: 5
+[t=1354.4s, 3016988 KB] Complexity 5:
+Total concept elements: 38
+Total role elements: 13
+Total numerical elements: 20
+Total boolean elements: 7
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 4
+    r_primitive: 4
+    c_and: 4
+    c_not: 10
+    c_equal: 1
+    c_some: 9
+    c_all: 8
+    r_restrict: 3
+    r_and: 0
+    r_inverse: 6
+    r_transitive_closure: 0
+    b_empty: 7
+    n_count: 14
+    n_concept_distance: 6
+[t=1354.41s, 3016988 KB] Complexity 6:
+Total concept elements: 57
+Total role elements: 13
+Total numerical elements: 27
+Total boolean elements: 7
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 4
+    r_primitive: 4
+    c_and: 18
+    c_not: 12
+    c_equal: 1
+    c_some: 10
+    c_all: 10
+    r_restrict: 3
+    r_and: 0
+    r_inverse: 6
+    r_transitive_closure: 0
+    b_empty: 7
+    n_count: 16
+    n_concept_distance: 11
+[t=1354.41s, 3016988 KB] Complexity 7:
+Total concept elements: 85
+Total role elements: 13
+Total numerical elements: 34
+Total boolean elements: 8
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 4
+    r_primitive: 4
+    c_and: 34
+    c_not: 23
+    c_equal: 1
+    c_some: 11
+    c_all: 10
+    r_restrict: 3
+    r_and: 0
+    r_inverse: 6
+    r_transitive_closure: 0
+    b_empty: 8
+    n_count: 20
+    n_concept_distance: 14
+[t=1354.42s, 3016988 KB] Complexity 8:
+Total concept elements: 119
+Total role elements: 13
+Total numerical elements: 40
+Total boolean elements: 8
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 4
+    r_primitive: 4
+    c_and: 57
+    c_not: 34
+    c_equal: 1
+    c_some: 11
+    c_all: 10
+    r_restrict: 3
+    r_and: 0
+    r_inverse: 6
+    r_transitive_closure: 0
+    b_empty: 8
+    n_count: 24
+    n_concept_distance: 16
+[t=1354.42s, 3016988 KB] Complexity 9:
+Total concept elements: 163
+Total role elements: 13
+Total numerical elements: 47
+Total boolean elements: 8
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 4
+    r_primitive: 4
+    c_and: 79
+    c_not: 55
+    c_equal: 1
+    c_some: 11
+    c_all: 11
+    r_restrict: 3
+    r_and: 0
+    r_inverse: 6
+    r_transitive_closure: 0
+    b_empty: 8
+    n_count: 31
+    n_concept_distance: 16
+[t=1354.42s, 3016988 KB] Finished generating composite features.
+DomainFeatureDataStatistics:
+    num_dlplan_states: 3
+    num_boolean_features: 8
+    num_numerical_features: 47
+2023-06-26 23:08:45 INFO     ..done
+2023-06-26 23:08:45 INFO     Initializing InstanceFeatureDatas...
+2023-06-26 23:08:45 INFO     ..done
+2023-06-26 23:08:45 INFO     Initializing StatePairEquivalenceDatas...
+2023-06-26 23:08:45 INFO     ..done
+2023-06-26 23:08:45 INFO     Initializing TupleGraphEquivalences...
+TupleGraphEquivalenceFactoryStatistics:
+    num_subgoal_tuples: 9
+    num_single_rule_subgoal_tuples: 9
+    num_multi_rule_subgoal_tuples: 0
+2023-06-26 23:08:45 INFO     ..done
+2023-06-26 23:08:45 INFO     Initializing TupleGraphEquivalenceMinimizer...
+2023-06-26 23:08:45 INFO     ..done
+2023-06-26 23:08:45 INFO     Iteration data preprocessing summary:
+DomainFeatureDataStatistics:
+    num_dlplan_states: 3
+    num_boolean_features: 8
+    num_numerical_features: 47
+StatePairEquivalenceStatistics:
+    num_subgoal_states: 6
+    num_equivalences: 6
+TupleGraphEquivalenceFactoryStatistics:
+    num_subgoal_tuples: 9
+    num_single_rule_subgoal_tuples: 9
+    num_multi_rule_subgoal_tuples: 0
+TupleGraphEquivalenceFactoryStatistics:
+    num_subgoal_tuples: 6
+    num_single_rule_subgoal_tuples: 6
+    num_multi_rule_subgoal_tuples: 0
+2023-06-26 23:08:45 INFO     Grounding Logic Program...
+2023-06-26 23:08:45 INFO     ..done
+2023-06-26 23:08:45 INFO     Solving Logic Program...
+Clingo statistics:
+{'call': 0.0, 'result': 1.0, 'signal': 0.0, 'exhausted': 1.0, 'costs': [8.0], 'lower': [8.0], 'concurrency': 32.0, 'winner': 28.0, 'times': {'total': 0.21572303771972656, 'cpu': 0.19020199999999932, 'solve': 0.1529538631439209, 'unsat': 0.07709693908691406, 'sat': 0.045349836349487305}, 'models': {'enumerated': 3.0, 'optimal': 1.0}}
+Solution cost: [8.0]
+Total time: 0.21572303771972656
+CPU time: 0.19020199999999932
+Solve time: 0.1529538631439209
+2023-06-26 23:08:46 INFO     ..done
+2023-06-26 23:08:46 INFO     Learned the following sketch:
+(:policy
+(:rule (:conditions ) (:effects (:e_n_inc "n_concept_distance(c_primitive(served_g,0),r_primitive(origin,0,1),c_all(r_primitive(destin,0,1),c_primitive(lift-at,0)))")))
+)
+(:policy
+(:boolean_features )
+(:numerical_features (1783 "n_concept_distance(c_primitive(served_g,0),r_primitive(origin,0,1),c_all(r_primitive(destin,0,1),c_primitive(lift-at,0)))"))
+(:rule (:conditions ) (:effects (:e_n_inc 1783)))
+)
+Numer of sketch rules: 1
+Number of selected features: 1
+Maximum complexity of selected feature: 6
+2023-06-26 23:08:46 INFO     Verifying learned sketch...
+State has unbounded width for a rule
+Width: 0
+Rule: (:rule (:conditions ) (:effects (:e_n_inc 1783)))
+Instance: 4 p05-11-11
+State: (instance index=33, state index=11, atoms={lift-at(f2), origin(p2,f1), served(p1)})
+2023-06-26 23:08:46 INFO     ..done
+Smallest unsolved instance: 4
+Selected instances: [4]
+2023-06-26 23:08:46 INFO     Iteration: 1
+     id: 4 name: p05-11-11 initial_states: {11, 7}
+2023-06-26 23:08:46 INFO     Initializing DomainFeatureData...
+[t=1354.66s, 3016988 KB] Started generating base features of complexity 1.
+[t=1354.66s, 3016988 KB] Complexity 1:
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 4
+    c_and: 0
+    c_not: 0
+    c_equal: 0
+    c_some: 0
+    c_all: 0
+    r_restrict: 0
+    r_and: 0
+    r_inverse: 0
+    r_transitive_closure: 0
+    b_empty: 0
+    n_count: 0
+    n_concept_distance: 0
+[t=1354.66s, 3016988 KB] Finished generating base features.
+[t=1354.66s, 3016988 KB] Started generating composite features. 
+[t=1354.66s, 3016988 KB] Complexity 2:
+Total concept elements: 10
+Total role elements: 7
+Total numerical elements: 6
+Total boolean elements: 4
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 4
+    c_and: 0
+    c_not: 3
+    c_equal: 0
+    c_some: 0
+    c_all: 0
+    r_restrict: 0
+    r_and: 0
+    r_inverse: 3
+    r_transitive_closure: 0
+    b_empty: 4
+    n_count: 6
+    n_concept_distance: 0
+[t=1354.66s, 3016988 KB] Complexity 3:
+Total concept elements: 20
+Total role elements: 10
+Total numerical elements: 8
+Total boolean elements: 4
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 4
+    c_and: 0
+    c_not: 3
+    c_equal: 1
+    c_some: 5
+    c_all: 4
+    r_restrict: 3
+    r_and: 0
+    r_inverse: 3
+    r_transitive_closure: 0
+    b_empty: 4
+    n_count: 8
+    n_concept_distance: 0
+[t=1354.66s, 3016988 KB] Complexity 4:
+Total concept elements: 37
+Total role elements: 13
+Total numerical elements: 15
+Total boolean elements: 6
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 4
+    c_and: 3
+    c_not: 9
+    c_equal: 1
+    c_some: 9
+    c_all: 8
+    r_restrict: 3
+    r_and: 0
+    r_inverse: 6
+    r_transitive_closure: 0
+    b_empty: 6
+    n_count: 13
+    n_concept_distance: 2
+[t=1354.66s, 3016988 KB] Complexity 5:
+Total concept elements: 55
+Total role elements: 13
+Total numerical elements: 19
+Total boolean elements: 7
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 4
+    c_and: 11
+    c_not: 15
+    c_equal: 1
+    c_some: 11
+    c_all: 10
+    r_restrict: 3
+    r_and: 0
+    r_inverse: 6
+    r_transitive_closure: 0
+    b_empty: 7
+    n_count: 17
+    n_concept_distance: 2
+[t=1354.66s, 3016988 KB] Complexity 6:
+Total concept elements: 91
+Total role elements: 13
+Total numerical elements: 27
+Total boolean elements: 7
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 4
+    c_and: 28
+    c_not: 21
+    c_equal: 1
+    c_some: 18
+    c_all: 16
+    r_restrict: 3
+    r_and: 0
+    r_inverse: 6
+    r_transitive_closure: 0
+    b_empty: 7
+    n_count: 22
+    n_concept_distance: 5
+[t=1354.67s, 3016988 KB] Complexity 7:
+Total concept elements: 131
+Total role elements: 13
+Total numerical elements: 39
+Total boolean elements: 8
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 4
+    c_and: 52
+    c_not: 37
+    c_equal: 1
+    c_some: 18
+    c_all: 16
+    r_restrict: 3
+    r_and: 0
+    r_inverse: 6
+    r_transitive_closure: 0
+    b_empty: 8
+    n_count: 28
+    n_concept_distance: 11
+[t=1354.68s, 3016988 KB] Complexity 8:
+Total concept elements: 199
+Total role elements: 13
+Total numerical elements: 42
+Total boolean elements: 8
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 4
+    c_and: 91
+    c_not: 57
+    c_equal: 1
+    c_some: 21
+    c_all: 22
+    r_restrict: 3
+    r_and: 0
+    r_inverse: 6
+    r_transitive_closure: 0
+    b_empty: 8
+    n_count: 30
+    n_concept_distance: 12
+[t=1354.7s, 3016988 KB] Complexity 9:
+Total concept elements: 292
+Total role elements: 13
+Total numerical elements: 52
+Total boolean elements: 8
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 4
+    c_and: 150
+    c_not: 88
+    c_equal: 1
+    c_some: 23
+    c_all: 23
+    r_restrict: 3
+    r_and: 0
+    r_inverse: 6
+    r_transitive_closure: 0
+    b_empty: 8
+    n_count: 39
+    n_concept_distance: 13
+[t=1354.7s, 3016988 KB] Finished generating composite features.
+DomainFeatureDataStatistics:
+    num_dlplan_states: 3
+    num_boolean_features: 8
+    num_numerical_features: 52
+2023-06-26 23:08:46 INFO     ..done
+2023-06-26 23:08:46 INFO     Initializing InstanceFeatureDatas...
+2023-06-26 23:08:46 INFO     ..done
+2023-06-26 23:08:46 INFO     Initializing StatePairEquivalenceDatas...
+2023-06-26 23:08:46 INFO     ..done
+2023-06-26 23:08:46 INFO     Initializing TupleGraphEquivalences...
+TupleGraphEquivalenceFactoryStatistics:
+    num_subgoal_tuples: 12
+    num_single_rule_subgoal_tuples: 12
+    num_multi_rule_subgoal_tuples: 0
+2023-06-26 23:08:46 INFO     ..done
+2023-06-26 23:08:46 INFO     Initializing TupleGraphEquivalenceMinimizer...
+2023-06-26 23:08:46 INFO     ..done
+2023-06-26 23:08:46 INFO     Iteration data preprocessing summary:
+DomainFeatureDataStatistics:
+    num_dlplan_states: 3
+    num_boolean_features: 8
+    num_numerical_features: 52
+StatePairEquivalenceStatistics:
+    num_subgoal_states: 6
+    num_equivalences: 6
+TupleGraphEquivalenceFactoryStatistics:
+    num_subgoal_tuples: 12
+    num_single_rule_subgoal_tuples: 12
+    num_multi_rule_subgoal_tuples: 0
+TupleGraphEquivalenceFactoryStatistics:
+    num_subgoal_tuples: 6
+    num_single_rule_subgoal_tuples: 6
+    num_multi_rule_subgoal_tuples: 0
+2023-06-26 23:08:46 INFO     Grounding Logic Program...
+2023-06-26 23:08:46 INFO     ..done
+2023-06-26 23:08:46 INFO     Solving Logic Program...
+Clingo statistics:
+{'call': 0.0, 'result': 1.0, 'signal': 0.0, 'exhausted': 1.0, 'costs': [8.0], 'lower': [8.0], 'concurrency': 32.0, 'winner': 7.0, 'times': {'total': 0.31459808349609375, 'cpu': 0.3115569999999934, 'solve': 0.22750616073608398, 'unsat': 0.10705113410949707, 'sat': 0.049571990966796875}, 'models': {'enumerated': 4.0, 'optimal': 1.0}}
+Solution cost: [8.0]
+Total time: 0.31459808349609375
+CPU time: 0.3115569999999934
+Solve time: 0.22750616073608398
+2023-06-26 23:08:46 INFO     ..done
+2023-06-26 23:08:46 INFO     Learned the following sketch:
+(:policy
+(:rule (:conditions (:c_n_eq "n_count(c_primitive(boarded,0))") (:c_n_gt "n_count(c_some(r_primitive(above,0,1),c_primitive(lift-at,0)))")) (:effects (:e_n_dec "n_count(c_some(r_primitive(above,0,1),c_primitive(lift-at,0)))")))
+(:rule (:conditions (:c_n_eq "n_count(c_some(r_primitive(above,0,1),c_primitive(lift-at,0)))")) (:effects (:e_n_inc "n_count(c_primitive(boarded,0))")))
+)
+(:policy
+(:boolean_features )
+(:numerical_features (1752 "n_count(c_some(r_primitive(above,0,1),c_primitive(lift-at,0)))") (1743 "n_count(c_primitive(boarded,0))"))
+(:rule (:conditions (:c_n_eq 1752)) (:effects (:e_n_inc 1743)))
+(:rule (:conditions (:c_n_eq 1743) (:c_n_gt 1752)) (:effects (:e_n_dec 1752)))
+)
+Numer of sketch rules: 2
+Number of selected features: 2
+Maximum complexity of selected feature: 4
+2023-06-26 23:08:46 INFO     Verifying learned sketch...
+State has unbounded width for a rule
+Width: 0
+Rule: (:rule (:conditions (:c_n_eq 1752)) (:effects (:e_n_inc 1743)))
+Instance: 0 p02-0-0
+State: (instance index=15, state index=0, atoms={lift-at(f1), origin(p1,f2)})
+2023-06-26 23:08:46 INFO     ..done
+Smallest unsolved instance: 0
+Selected instances: [4, 0]
+2023-06-26 23:08:46 INFO     Iteration: 2
+     id: 4 name: p05-11-11 initial_states: {11, 7}
+     id: 0 name: p02-0-0 initial_states: {0, 1}
+2023-06-26 23:08:46 INFO     Initializing DomainFeatureData...
+[t=1355.03s, 3016988 KB] Started generating base features of complexity 1.
+[t=1355.03s, 3016988 KB] Complexity 1:
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 4
+    c_and: 0
+    c_not: 0
+    c_equal: 0
+    c_some: 0
+    c_all: 0
+    r_restrict: 0
+    r_and: 0
+    r_inverse: 0
+    r_transitive_closure: 0
+    b_empty: 0
+    n_count: 0
+    n_concept_distance: 0
+[t=1355.03s, 3016988 KB] Finished generating base features.
+[t=1355.03s, 3016988 KB] Started generating composite features. 
+[t=1355.03s, 3016988 KB] Complexity 2:
+Total concept elements: 10
+Total role elements: 7
+Total numerical elements: 8
+Total boolean elements: 5
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 4
+    c_and: 0
+    c_not: 3
+    c_equal: 0
+    c_some: 0
+    c_all: 0
+    r_restrict: 0
+    r_and: 0
+    r_inverse: 3
+    r_transitive_closure: 0
+    b_empty: 5
+    n_count: 8
+    n_concept_distance: 0
+[t=1355.03s, 3016988 KB] Complexity 3:
+Total concept elements: 20
+Total role elements: 10
+Total numerical elements: 11
+Total boolean elements: 5
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 4
+    c_and: 0
+    c_not: 3
+    c_equal: 1
+    c_some: 5
+    c_all: 4
+    r_restrict: 3
+    r_and: 0
+    r_inverse: 3
+    r_transitive_closure: 0
+    b_empty: 5
+    n_count: 11
+    n_concept_distance: 0
+[t=1355.04s, 3016988 KB] Complexity 4:
+Total concept elements: 41
+Total role elements: 13
+Total numerical elements: 19
+Total boolean elements: 8
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 4
+    c_and: 3
+    c_not: 9
+    c_equal: 1
+    c_some: 11
+    c_all: 10
+    r_restrict: 3
+    r_and: 0
+    r_inverse: 6
+    r_transitive_closure: 0
+    b_empty: 8
+    n_count: 18
+    n_concept_distance: 1
+[t=1355.04s, 3016988 KB] Complexity 5:
+Total concept elements: 73
+Total role elements: 13
+Total numerical elements: 28
+Total boolean elements: 12
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 4
+    c_and: 11
+    c_not: 17
+    c_equal: 1
+    c_some: 19
+    c_all: 18
+    r_restrict: 3
+    r_and: 0
+    r_inverse: 6
+    r_transitive_closure: 0
+    b_empty: 12
+    n_count: 26
+    n_concept_distance: 2
+[t=1355.04s, 3016988 KB] Complexity 6:
+Total concept elements: 144
+Total role elements: 13
+Total numerical elements: 46
+Total boolean elements: 18
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 4
+    c_and: 36
+    c_not: 29
+    c_equal: 1
+    c_some: 35
+    c_all: 36
+    r_restrict: 3
+    r_and: 0
+    r_inverse: 6
+    r_transitive_closure: 0
+    b_empty: 18
+    n_count: 42
+    n_concept_distance: 4
+[t=1355.05s, 3016988 KB] Complexity 7:
+Total concept elements: 231
+Total role elements: 13
+Total numerical elements: 101
+Total boolean elements: 29
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 4
+    c_and: 82
+    c_not: 63
+    c_equal: 1
+    c_some: 39
+    c_all: 39
+    r_restrict: 3
+    r_and: 0
+    r_inverse: 6
+    r_transitive_closure: 0
+    b_empty: 29
+    n_count: 80
+    n_concept_distance: 21
+[t=1355.07s, 3016988 KB] Complexity 8:
+Total concept elements: 435
+Total role elements: 13
+Total numerical elements: 144
+Total boolean elements: 35
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 4
+    c_and: 186
+    c_not: 102
+    c_equal: 1
+    c_some: 64
+    c_all: 75
+    r_restrict: 3
+    r_and: 0
+    r_inverse: 6
+    r_transitive_closure: 0
+    b_empty: 35
+    n_count: 114
+    n_concept_distance: 30
+[t=1355.1s, 3016988 KB] Complexity 9:
+Total concept elements: 723
+Total role elements: 13
+Total numerical elements: 241
+Total boolean elements: 45
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 4
+    c_and: 347
+    c_not: 204
+    c_equal: 1
+    c_some: 72
+    c_all: 92
+    r_restrict: 3
+    r_and: 0
+    r_inverse: 6
+    r_transitive_closure: 0
+    b_empty: 45
+    n_count: 185
+    n_concept_distance: 56
+[t=1355.1s, 3016988 KB] Finished generating composite features.
+DomainFeatureDataStatistics:
+    num_dlplan_states: 6
+    num_boolean_features: 45
+    num_numerical_features: 241
+2023-06-26 23:08:46 INFO     ..done
+2023-06-26 23:08:46 INFO     Initializing InstanceFeatureDatas...
+2023-06-26 23:08:46 INFO     ..done
+2023-06-26 23:08:46 INFO     Initializing StatePairEquivalenceDatas...
+2023-06-26 23:08:46 INFO     ..done
+2023-06-26 23:08:46 INFO     Initializing TupleGraphEquivalences...
+TupleGraphEquivalenceFactoryStatistics:
+    num_subgoal_tuples: 21
+    num_single_rule_subgoal_tuples: 21
+    num_multi_rule_subgoal_tuples: 0
+2023-06-26 23:08:46 INFO     ..done
+2023-06-26 23:08:46 INFO     Initializing TupleGraphEquivalenceMinimizer...
+2023-06-26 23:08:46 INFO     ..done
+2023-06-26 23:08:46 INFO     Iteration data preprocessing summary:
+DomainFeatureDataStatistics:
+    num_dlplan_states: 6
+    num_boolean_features: 45
+    num_numerical_features: 241
+StatePairEquivalenceStatistics:
+    num_subgoal_states: 12
+    num_equivalences: 12
+TupleGraphEquivalenceFactoryStatistics:
+    num_subgoal_tuples: 21
+    num_single_rule_subgoal_tuples: 21
+    num_multi_rule_subgoal_tuples: 0
+TupleGraphEquivalenceFactoryStatistics:
+    num_subgoal_tuples: 12
+    num_single_rule_subgoal_tuples: 12
+    num_multi_rule_subgoal_tuples: 0
+2023-06-26 23:08:46 INFO     Grounding Logic Program...
+2023-06-26 23:08:47 INFO     ..done
+2023-06-26 23:08:47 INFO     Solving Logic Program...
+Clingo statistics:
+{'call': 0.0, 'result': 1.0, 'signal': 0.0, 'exhausted': 1.0, 'costs': [8.0], 'lower': [8.0], 'concurrency': 32.0, 'winner': 7.0, 'times': {'total': 10.181808948516846, 'cpu': 9.886021000000255, 'solve': 9.598639965057373, 'unsat': 1.0809588432312012, 'sat': 3.7624969482421875}, 'models': {'enumerated': 4.0, 'optimal': 1.0}}
+Solution cost: [8.0]
+Total time: 10.181808948516846
+CPU time: 9.886021000000255
+Solve time: 9.598639965057373
+2023-06-26 23:08:56 INFO     ..done
+2023-06-26 23:08:56 INFO     Learned the following sketch:
+(:policy
+(:rule (:conditions (:c_n_eq "n_count(c_some(r_primitive(origin,0,1),c_primitive(lift-at,0)))")) (:effects (:e_n_inc "n_count(c_some(r_primitive(origin,0,1),c_primitive(lift-at,0)))")))
+(:rule (:conditions (:c_n_gt "n_count(c_some(r_primitive(origin,0,1),c_primitive(lift-at,0)))")) (:effects (:e_n_inc "n_count(c_primitive(boarded,0))") (:e_n_dec "n_count(c_some(r_primitive(origin,0,1),c_primitive(lift-at,0)))")))
+)
+(:policy
+(:boolean_features )
+(:numerical_features (1743 "n_count(c_primitive(boarded,0))") (1751 "n_count(c_some(r_primitive(origin,0,1),c_primitive(lift-at,0)))"))
+(:rule (:conditions (:c_n_eq 1751)) (:effects (:e_n_inc 1751)))
+(:rule (:conditions (:c_n_gt 1751)) (:effects (:e_n_inc 1743) (:e_n_dec 1751)))
+)
+Numer of sketch rules: 2
+Number of selected features: 2
+Maximum complexity of selected feature: 4
+2023-06-26 23:08:56 INFO     Verifying learned sketch...
+2023-06-26 23:08:56 INFO     ..done
+Sketch solves all instances!
+2023-06-26 23:08:56 INFO     Summary:
+LearningStatistics:
+    num_training_instances: 134
+    num_selected_training_instances: 2
+    num_states_in_selected_training_instances: 6
+    num_features_in_pool: 287
+    num_cpu_seconds: 10.74 seconds
+    num_peak_memory_mb: 1801.61 MB
+Resulting sketch:
+(:policy
+(:rule (:conditions (:c_n_eq "n_count(c_some(r_primitive(origin,0,1),c_primitive(lift-at,0)))")) (:effects (:e_n_inc "n_count(c_some(r_primitive(origin,0,1),c_primitive(lift-at,0)))")))
+(:rule (:conditions (:c_n_gt "n_count(c_some(r_primitive(origin,0,1),c_primitive(lift-at,0)))")) (:effects (:e_n_inc "n_count(c_primitive(boarded,0))") (:e_n_dec "n_count(c_some(r_primitive(origin,0,1),c_primitive(lift-at,0)))")))
+)
+(:policy
+(:boolean_features )
+(:numerical_features (1743 "n_count(c_primitive(boarded,0))") (1751 "n_count(c_some(r_primitive(origin,0,1),c_primitive(lift-at,0)))"))
+(:rule (:conditions (:c_n_eq 1751)) (:effects (:e_n_inc 1751)))
+(:rule (:conditions (:c_n_gt 1751)) (:effects (:e_n_inc 1743) (:e_n_dec 1751)))
+)
+Numer of sketch rules: 2
+Number of selected features: 2
+Maximum complexity of selected feature: 4
+Resulting sketch minimized:
+(:policy
+(:rule (:conditions (:c_n_eq "n_count(c_some(r_primitive(origin,0,1),c_primitive(lift-at,0)))")) (:effects (:e_n_inc "n_count(c_some(r_primitive(origin,0,1),c_primitive(lift-at,0)))")))
+(:rule (:conditions (:c_n_gt "n_count(c_some(r_primitive(origin,0,1),c_primitive(lift-at,0)))")) (:effects (:e_n_inc "n_count(c_primitive(boarded,0))") (:e_n_dec "n_count(c_some(r_primitive(origin,0,1),c_primitive(lift-at,0)))")))
+)
+(:policy
+(:boolean_features )
+(:numerical_features (1743 "n_count(c_primitive(boarded,0))") (1751 "n_count(c_some(r_primitive(origin,0,1),c_primitive(lift-at,0)))"))
+(:rule (:conditions (:c_n_eq 1751)) (:effects (:e_n_inc 1751)))
+(:rule (:conditions (:c_n_gt 1751)) (:effects (:e_n_inc 1743) (:e_n_dec 1751)))
+)
+Numer of sketch rules: 2
+Number of selected features: 2
+Maximum complexity of selected feature: 4
+Number of problems: 134
+Number of subproblems: 140
+Highest number of states in problem: 12
+Highest number of states in subproblem: 12
+Number of problems: 134
+Number of subproblems: 123
+Highest number of states in problem: 12
+Highest number of states in subproblem: 9
+2023-06-26 23:08:57 INFO     Started refining
+(:policy
+(:rule (:conditions (:c_n_gt "n_count(c_primitive(boarded,0))")) (:effects (:e_n_dec "n_count(c_primitive(boarded,0))")))
+)
+2023-06-26 23:08:57 INFO     Initializing TupleGraphs...
+2023-06-26 23:08:57 INFO     ..done
+2023-06-26 23:08:57 INFO     Iteration: 0
+     id: 0 name: p02-0-2 initial_states: {2, 3}
+2023-06-26 23:08:57 INFO     Initializing DomainFeatureData...
+[t=1365.84s, 3016988 KB] Started generating base features of complexity 1.
+[t=1365.84s, 3016988 KB] Complexity 1:
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 3
+    c_and: 0
+    c_not: 0
+    c_equal: 0
+    c_some: 0
+    c_all: 0
+    r_restrict: 0
+    r_and: 0
+    r_inverse: 0
+    r_transitive_closure: 0
+    b_empty: 0
+    n_count: 0
+    n_concept_distance: 0
+[t=1365.84s, 3016988 KB] Finished generating base features.
+[t=1365.84s, 3016988 KB] Started generating composite features. 
+[t=1365.84s, 3016988 KB] Complexity 2:
+Total concept elements: 10
+Total role elements: 5
+Total numerical elements: 6
+Total boolean elements: 4
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 3
+    c_and: 0
+    c_not: 3
+    c_equal: 0
+    c_some: 0
+    c_all: 0
+    r_restrict: 0
+    r_and: 0
+    r_inverse: 2
+    r_transitive_closure: 0
+    b_empty: 4
+    n_count: 6
+    n_concept_distance: 0
+[t=1365.84s, 3016988 KB] Complexity 3:
+Total concept elements: 16
+Total role elements: 7
+Total numerical elements: 8
+Total boolean elements: 4
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 3
+    c_and: 0
+    c_not: 3
+    c_equal: 0
+    c_some: 3
+    c_all: 3
+    r_restrict: 2
+    r_and: 0
+    r_inverse: 2
+    r_transitive_closure: 0
+    b_empty: 4
+    n_count: 8
+    n_concept_distance: 0
+[t=1365.85s, 3016988 KB] Complexity 4:
+Total concept elements: 29
+Total role elements: 9
+Total numerical elements: 16
+Total boolean elements: 6
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 3
+    c_and: 1
+    c_not: 7
+    c_equal: 0
+    c_some: 7
+    c_all: 7
+    r_restrict: 2
+    r_and: 0
+    r_inverse: 4
+    r_transitive_closure: 0
+    b_empty: 6
+    n_count: 12
+    n_concept_distance: 4
+[t=1365.85s, 3016988 KB] Complexity 5:
+Total concept elements: 36
+Total role elements: 9
+Total numerical elements: 16
+Total boolean elements: 6
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 3
+    c_and: 6
+    c_not: 9
+    c_equal: 0
+    c_some: 7
+    c_all: 7
+    r_restrict: 2
+    r_and: 0
+    r_inverse: 4
+    r_transitive_closure: 0
+    b_empty: 6
+    n_count: 12
+    n_concept_distance: 4
+[t=1365.85s, 3016988 KB] Complexity 6:
+Total concept elements: 55
+Total role elements: 9
+Total numerical elements: 23
+Total boolean elements: 7
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 3
+    c_and: 20
+    c_not: 13
+    c_equal: 0
+    c_some: 7
+    c_all: 8
+    r_restrict: 2
+    r_and: 0
+    r_inverse: 4
+    r_transitive_closure: 0
+    b_empty: 7
+    n_count: 16
+    n_concept_distance: 7
+[t=1365.85s, 3016988 KB] Complexity 7:
+Total concept elements: 83
+Total role elements: 9
+Total numerical elements: 34
+Total boolean elements: 8
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 3
+    c_and: 35
+    c_not: 22
+    c_equal: 0
+    c_some: 9
+    c_all: 10
+    r_restrict: 2
+    r_and: 0
+    r_inverse: 4
+    r_transitive_closure: 0
+    b_empty: 8
+    n_count: 22
+    n_concept_distance: 12
+[t=1365.86s, 3016988 KB] Complexity 8:
+Total concept elements: 105
+Total role elements: 9
+Total numerical elements: 40
+Total boolean elements: 8
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 3
+    c_and: 45
+    c_not: 33
+    c_equal: 0
+    c_some: 9
+    c_all: 11
+    r_restrict: 2
+    r_and: 0
+    r_inverse: 4
+    r_transitive_closure: 0
+    b_empty: 8
+    n_count: 27
+    n_concept_distance: 13
+[t=1365.86s, 3016988 KB] Complexity 9:
+Total concept elements: 134
+Total role elements: 9
+Total numerical elements: 46
+Total boolean elements: 8
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 3
+    c_and: 63
+    c_not: 40
+    c_equal: 0
+    c_some: 11
+    c_all: 13
+    r_restrict: 2
+    r_and: 0
+    r_inverse: 4
+    r_transitive_closure: 0
+    b_empty: 8
+    n_count: 32
+    n_concept_distance: 14
+[t=1365.86s, 3016988 KB] Finished generating composite features.
+DomainFeatureDataStatistics:
+    num_dlplan_states: 3
+    num_boolean_features: 8
+    num_numerical_features: 46
+2023-06-26 23:08:57 INFO     ..done
+2023-06-26 23:08:57 INFO     Initializing InstanceFeatureDatas...
+2023-06-26 23:08:57 INFO     ..done
+2023-06-26 23:08:57 INFO     Initializing StatePairEquivalenceDatas...
+2023-06-26 23:08:57 INFO     ..done
+2023-06-26 23:08:57 INFO     Initializing TupleGraphEquivalences...
+TupleGraphEquivalenceFactoryStatistics:
+    num_subgoal_tuples: 9
+    num_single_rule_subgoal_tuples: 9
+    num_multi_rule_subgoal_tuples: 0
+2023-06-26 23:08:57 INFO     ..done
+2023-06-26 23:08:57 INFO     Initializing TupleGraphEquivalenceMinimizer...
+2023-06-26 23:08:57 INFO     ..done
+2023-06-26 23:08:57 INFO     Iteration data preprocessing summary:
+DomainFeatureDataStatistics:
+    num_dlplan_states: 3
+    num_boolean_features: 8
+    num_numerical_features: 46
+StatePairEquivalenceStatistics:
+    num_subgoal_states: 6
+    num_equivalences: 6
+TupleGraphEquivalenceFactoryStatistics:
+    num_subgoal_tuples: 9
+    num_single_rule_subgoal_tuples: 9
+    num_multi_rule_subgoal_tuples: 0
+TupleGraphEquivalenceFactoryStatistics:
+    num_subgoal_tuples: 6
+    num_single_rule_subgoal_tuples: 6
+    num_multi_rule_subgoal_tuples: 0
+2023-06-26 23:08:57 INFO     Grounding Logic Program...
+2023-06-26 23:08:57 INFO     ..done
+2023-06-26 23:08:57 INFO     Solving Logic Program...
+Clingo statistics:
+{'call': 0.0, 'result': 1.0, 'signal': 0.0, 'exhausted': 1.0, 'costs': [8.0], 'lower': [8.0], 'concurrency': 32.0, 'winner': 2.0, 'times': {'total': 0.29929614067077637, 'cpu': 0.2968160000000353, 'solve': 0.23961210250854492, 'unsat': 0.10559606552124023, 'sat': 0.045044898986816406}, 'models': {'enumerated': 5.0, 'optimal': 1.0}}
+Solution cost: [8.0]
+Total time: 0.29929614067077637
+CPU time: 0.2968160000000353
+Solve time: 0.23961210250854492
+2023-06-26 23:08:57 INFO     ..done
+2023-06-26 23:08:57 INFO     Learned the following sketch:
+(:policy
+(:rule (:conditions (:c_n_eq "n_count(c_some(r_primitive(destin,0,1),c_primitive(lift-at,0)))")) (:effects (:e_n_inc "n_count(c_some(r_primitive(destin,0,1),c_primitive(lift-at,0)))")))
+(:rule (:conditions (:c_n_gt "n_count(c_some(r_primitive(destin,0,1),c_primitive(lift-at,0)))")) (:effects (:e_n_inc "n_count(c_primitive(served,0))")))
+)
+(:policy
+(:boolean_features )
+(:numerical_features (1753 "n_count(c_some(r_primitive(destin,0,1),c_primitive(lift-at,0)))") (1745 "n_count(c_primitive(served,0))"))
+(:rule (:conditions (:c_n_gt 1753)) (:effects (:e_n_inc 1745)))
+(:rule (:conditions (:c_n_eq 1753)) (:effects (:e_n_inc 1753)))
+)
+Numer of sketch rules: 2
+Number of selected features: 2
+Maximum complexity of selected feature: 4
+2023-06-26 23:08:57 INFO     Verifying learned sketch...
+State has unbounded width for a rule
+Width: 0
+Rule: (:rule (:conditions (:c_n_gt 1753)) (:effects (:e_n_inc 1745)))
+Instance: 4 p05-11-10
+State: (instance index=33, state index=10, atoms={lift-at(f1), boarded(p2), served(p1)})
+2023-06-26 23:08:57 INFO     ..done
+Smallest unsolved instance: 4
+Selected instances: [4]
+2023-06-26 23:08:57 INFO     Iteration: 1
+     id: 4 name: p05-11-10 initial_states: {10, 14}
+2023-06-26 23:08:57 INFO     Initializing DomainFeatureData...
+[t=1366.18s, 3016988 KB] Started generating base features of complexity 1.
+[t=1366.18s, 3016988 KB] Complexity 1:
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 3
+    c_and: 0
+    c_not: 0
+    c_equal: 0
+    c_some: 0
+    c_all: 0
+    r_restrict: 0
+    r_and: 0
+    r_inverse: 0
+    r_transitive_closure: 0
+    b_empty: 0
+    n_count: 0
+    n_concept_distance: 0
+[t=1366.18s, 3016988 KB] Finished generating base features.
+[t=1366.18s, 3016988 KB] Started generating composite features. 
+[t=1366.18s, 3016988 KB] Complexity 2:
+Total concept elements: 10
+Total role elements: 5
+Total numerical elements: 6
+Total boolean elements: 3
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 3
+    c_and: 0
+    c_not: 3
+    c_equal: 0
+    c_some: 0
+    c_all: 0
+    r_restrict: 0
+    r_and: 0
+    r_inverse: 2
+    r_transitive_closure: 0
+    b_empty: 3
+    n_count: 6
+    n_concept_distance: 0
+[t=1366.18s, 3016988 KB] Complexity 3:
+Total concept elements: 16
+Total role elements: 7
+Total numerical elements: 9
+Total boolean elements: 3
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 3
+    c_and: 0
+    c_not: 3
+    c_equal: 0
+    c_some: 3
+    c_all: 3
+    r_restrict: 2
+    r_and: 0
+    r_inverse: 2
+    r_transitive_closure: 0
+    b_empty: 3
+    n_count: 9
+    n_concept_distance: 0
+[t=1366.18s, 3016988 KB] Complexity 4:
+Total concept elements: 29
+Total role elements: 9
+Total numerical elements: 12
+Total boolean elements: 4
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 3
+    c_and: 1
+    c_not: 7
+    c_equal: 0
+    c_some: 7
+    c_all: 7
+    r_restrict: 2
+    r_and: 0
+    r_inverse: 4
+    r_transitive_closure: 0
+    b_empty: 4
+    n_count: 11
+    n_concept_distance: 1
+[t=1366.18s, 3016988 KB] Complexity 5:
+Total concept elements: 45
+Total role elements: 9
+Total numerical elements: 15
+Total boolean elements: 5
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 3
+    c_and: 7
+    c_not: 9
+    c_equal: 0
+    c_some: 11
+    c_all: 11
+    r_restrict: 2
+    r_and: 0
+    r_inverse: 4
+    r_transitive_closure: 0
+    b_empty: 5
+    n_count: 13
+    n_concept_distance: 2
+[t=1366.19s, 3016988 KB] Complexity 6:
+Total concept elements: 76
+Total role elements: 9
+Total numerical elements: 25
+Total boolean elements: 7
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 3
+    c_and: 20
+    c_not: 18
+    c_equal: 0
+    c_some: 14
+    c_all: 17
+    r_restrict: 2
+    r_and: 0
+    r_inverse: 4
+    r_transitive_closure: 0
+    b_empty: 7
+    n_count: 19
+    n_concept_distance: 6
+[t=1366.19s, 3016988 KB] Complexity 7:
+Total concept elements: 103
+Total role elements: 9
+Total numerical elements: 36
+Total boolean elements: 8
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 3
+    c_and: 37
+    c_not: 28
+    c_equal: 0
+    c_some: 14
+    c_all: 17
+    r_restrict: 2
+    r_and: 0
+    r_inverse: 4
+    r_transitive_closure: 0
+    b_empty: 8
+    n_count: 28
+    n_concept_distance: 8
+[t=1366.2s, 3016988 KB] Complexity 8:
+Total concept elements: 149
+Total role elements: 9
+Total numerical elements: 45
+Total boolean elements: 8
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 3
+    c_and: 60
+    c_not: 37
+    c_equal: 0
+    c_some: 20
+    c_all: 25
+    r_restrict: 2
+    r_and: 0
+    r_inverse: 4
+    r_transitive_closure: 0
+    b_empty: 8
+    n_count: 35
+    n_concept_distance: 10
+[t=1366.21s, 3016988 KB] Complexity 9:
+Total concept elements: 199
+Total role elements: 9
+Total numerical elements: 50
+Total boolean elements: 8
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 3
+    c_and: 95
+    c_not: 52
+    c_equal: 0
+    c_some: 20
+    c_all: 25
+    r_restrict: 2
+    r_and: 0
+    r_inverse: 4
+    r_transitive_closure: 0
+    b_empty: 8
+    n_count: 37
+    n_concept_distance: 13
+[t=1366.21s, 3016988 KB] Finished generating composite features.
+DomainFeatureDataStatistics:
+    num_dlplan_states: 3
+    num_boolean_features: 8
+    num_numerical_features: 50
+2023-06-26 23:08:57 INFO     ..done
+2023-06-26 23:08:57 INFO     Initializing InstanceFeatureDatas...
+2023-06-26 23:08:57 INFO     ..done
+2023-06-26 23:08:57 INFO     Initializing StatePairEquivalenceDatas...
+2023-06-26 23:08:57 INFO     ..done
+2023-06-26 23:08:57 INFO     Initializing TupleGraphEquivalences...
+TupleGraphEquivalenceFactoryStatistics:
+    num_subgoal_tuples: 12
+    num_single_rule_subgoal_tuples: 12
+    num_multi_rule_subgoal_tuples: 0
+2023-06-26 23:08:57 INFO     ..done
+2023-06-26 23:08:57 INFO     Initializing TupleGraphEquivalenceMinimizer...
+2023-06-26 23:08:57 INFO     ..done
+2023-06-26 23:08:57 INFO     Iteration data preprocessing summary:
+DomainFeatureDataStatistics:
+    num_dlplan_states: 3
+    num_boolean_features: 8
+    num_numerical_features: 50
+StatePairEquivalenceStatistics:
+    num_subgoal_states: 6
+    num_equivalences: 6
+TupleGraphEquivalenceFactoryStatistics:
+    num_subgoal_tuples: 12
+    num_single_rule_subgoal_tuples: 12
+    num_multi_rule_subgoal_tuples: 0
+TupleGraphEquivalenceFactoryStatistics:
+    num_subgoal_tuples: 6
+    num_single_rule_subgoal_tuples: 6
+    num_multi_rule_subgoal_tuples: 0
+2023-06-26 23:08:57 INFO     Grounding Logic Program...
+2023-06-26 23:08:57 INFO     ..done
+2023-06-26 23:08:57 INFO     Solving Logic Program...
+Clingo statistics:
+{'call': 0.0, 'result': 1.0, 'signal': 0.0, 'exhausted': 1.0, 'costs': [8.0], 'lower': [8.0], 'concurrency': 32.0, 'winner': 20.0, 'times': {'total': 0.2539680004119873, 'cpu': 0.251891999999998, 'solve': 0.17231297492980957, 'unsat': 0.048027992248535156, 'sat': 0.05416393280029297}, 'models': {'enumerated': 4.0, 'optimal': 1.0}}
+Solution cost: [8.0]
+Total time: 0.2539680004119873
+CPU time: 0.251891999999998
+Solve time: 0.17231297492980957
+2023-06-26 23:08:57 INFO     ..done
+2023-06-26 23:08:57 INFO     Learned the following sketch:
+(:policy
+(:rule (:conditions (:c_n_gt "n_count(c_primitive(served,0))") (:c_n_eq "n_count(c_some(r_primitive(above,0,1),c_primitive(lift-at,0)))")) (:effects (:e_n_inc "n_count(c_some(r_primitive(above,0,1),c_primitive(lift-at,0)))")))
+(:rule (:conditions (:c_n_gt "n_count(c_some(r_primitive(above,0,1),c_primitive(lift-at,0)))")) (:effects (:e_n_inc "n_count(c_primitive(served,0))")))
+)
+(:policy
+(:boolean_features )
+(:numerical_features (1752 "n_count(c_some(r_primitive(above,0,1),c_primitive(lift-at,0)))") (1745 "n_count(c_primitive(served,0))"))
+(:rule (:conditions (:c_n_gt 1745) (:c_n_eq 1752)) (:effects (:e_n_inc 1752)))
+(:rule (:conditions (:c_n_gt 1752)) (:effects (:e_n_inc 1745)))
+)
+Numer of sketch rules: 2
+Number of selected features: 2
+Maximum complexity of selected feature: 4
+2023-06-26 23:08:57 INFO     Verifying learned sketch...
+State has unbounded width for a rule
+Width: 0
+Rule: (:rule (:conditions (:c_n_gt 1752)) (:effects (:e_n_inc 1745)))
+Instance: 0 p02-0-2
+State: (instance index=15, state index=2, atoms={lift-at(f2), boarded(p1)})
+2023-06-26 23:08:57 INFO     ..done
+Smallest unsolved instance: 0
+Selected instances: [4, 0]
+2023-06-26 23:08:57 INFO     Iteration: 2
+     id: 4 name: p05-11-10 initial_states: {10, 14}
+     id: 0 name: p02-0-2 initial_states: {2, 3}
+2023-06-26 23:08:57 INFO     Initializing DomainFeatureData...
+[t=1366.48s, 3016988 KB] Started generating base features of complexity 1.
+[t=1366.48s, 3016988 KB] Complexity 1:
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 3
+    c_and: 0
+    c_not: 0
+    c_equal: 0
+    c_some: 0
+    c_all: 0
+    r_restrict: 0
+    r_and: 0
+    r_inverse: 0
+    r_transitive_closure: 0
+    b_empty: 0
+    n_count: 0
+    n_concept_distance: 0
+[t=1366.48s, 3016988 KB] Finished generating base features.
+[t=1366.48s, 3016988 KB] Started generating composite features. 
+[t=1366.48s, 3016988 KB] Complexity 2:
+Total concept elements: 10
+Total role elements: 5
+Total numerical elements: 7
+Total boolean elements: 4
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 3
+    c_and: 0
+    c_not: 3
+    c_equal: 0
+    c_some: 0
+    c_all: 0
+    r_restrict: 0
+    r_and: 0
+    r_inverse: 2
+    r_transitive_closure: 0
+    b_empty: 4
+    n_count: 7
+    n_concept_distance: 0
+[t=1366.48s, 3016988 KB] Complexity 3:
+Total concept elements: 16
+Total role elements: 7
+Total numerical elements: 10
+Total boolean elements: 4
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 3
+    c_and: 0
+    c_not: 3
+    c_equal: 0
+    c_some: 3
+    c_all: 3
+    r_restrict: 2
+    r_and: 0
+    r_inverse: 2
+    r_transitive_closure: 0
+    b_empty: 4
+    n_count: 10
+    n_concept_distance: 0
+[t=1366.48s, 3016988 KB] Complexity 4:
+Total concept elements: 31
+Total role elements: 9
+Total numerical elements: 15
+Total boolean elements: 6
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 3
+    c_and: 1
+    c_not: 7
+    c_equal: 0
+    c_some: 8
+    c_all: 8
+    r_restrict: 2
+    r_and: 0
+    r_inverse: 4
+    r_transitive_closure: 0
+    b_empty: 6
+    n_count: 14
+    n_concept_distance: 1
+[t=1366.48s, 3016988 KB] Complexity 5:
+Total concept elements: 47
+Total role elements: 9
+Total numerical elements: 20
+Total boolean elements: 8
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 3
+    c_and: 7
+    c_not: 9
+    c_equal: 0
+    c_some: 12
+    c_all: 12
+    r_restrict: 2
+    r_and: 0
+    r_inverse: 4
+    r_transitive_closure: 0
+    b_empty: 8
+    n_count: 18
+    n_concept_distance: 2
+[t=1366.49s, 3016988 KB] Complexity 6:
+Total concept elements: 97
+Total role elements: 9
+Total numerical elements: 31
+Total boolean elements: 11
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 3
+    c_and: 28
+    c_not: 18
+    c_equal: 0
+    c_some: 20
+    c_all: 24
+    r_restrict: 2
+    r_and: 0
+    r_inverse: 4
+    r_transitive_closure: 0
+    b_empty: 11
+    n_count: 27
+    n_concept_distance: 4
+[t=1366.51s, 3016988 KB] Complexity 7:
+Total concept elements: 151
+Total role elements: 9
+Total numerical elements: 74
+Total boolean elements: 22
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 3
+    c_and: 60
+    c_not: 36
+    c_equal: 0
+    c_some: 22
+    c_all: 26
+    r_restrict: 2
+    r_and: 0
+    r_inverse: 4
+    r_transitive_closure: 0
+    b_empty: 22
+    n_count: 59
+    n_concept_distance: 15
+[t=1366.52s, 3016988 KB] Complexity 8:
+Total concept elements: 274
+Total role elements: 9
+Total numerical elements: 103
+Total boolean elements: 26
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 3
+    c_and: 112
+    c_not: 63
+    c_equal: 0
+    c_some: 40
+    c_all: 52
+    r_restrict: 2
+    r_and: 0
+    r_inverse: 4
+    r_transitive_closure: 0
+    b_empty: 26
+    n_count: 86
+    n_concept_distance: 17
+[t=1366.54s, 3016988 KB] Complexity 9:
+Total concept elements: 421
+Total role elements: 9
+Total numerical elements: 163
+Total boolean elements: 37
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 3
+    c_and: 193
+    c_not: 114
+    c_equal: 0
+    c_some: 44
+    c_all: 63
+    r_restrict: 2
+    r_and: 0
+    r_inverse: 4
+    r_transitive_closure: 0
+    b_empty: 37
+    n_count: 138
+    n_concept_distance: 25
+[t=1366.54s, 3016988 KB] Finished generating composite features.
+DomainFeatureDataStatistics:
+    num_dlplan_states: 6
+    num_boolean_features: 37
+    num_numerical_features: 163
+2023-06-26 23:08:57 INFO     ..done
+2023-06-26 23:08:57 INFO     Initializing InstanceFeatureDatas...
+2023-06-26 23:08:57 INFO     ..done
+2023-06-26 23:08:57 INFO     Initializing StatePairEquivalenceDatas...
+2023-06-26 23:08:58 INFO     ..done
+2023-06-26 23:08:58 INFO     Initializing TupleGraphEquivalences...
+TupleGraphEquivalenceFactoryStatistics:
+    num_subgoal_tuples: 21
+    num_single_rule_subgoal_tuples: 21
+    num_multi_rule_subgoal_tuples: 0
+2023-06-26 23:08:58 INFO     ..done
+2023-06-26 23:08:58 INFO     Initializing TupleGraphEquivalenceMinimizer...
+2023-06-26 23:08:58 INFO     ..done
+2023-06-26 23:08:58 INFO     Iteration data preprocessing summary:
+DomainFeatureDataStatistics:
+    num_dlplan_states: 6
+    num_boolean_features: 37
+    num_numerical_features: 163
+StatePairEquivalenceStatistics:
+    num_subgoal_states: 12
+    num_equivalences: 12
+TupleGraphEquivalenceFactoryStatistics:
+    num_subgoal_tuples: 21
+    num_single_rule_subgoal_tuples: 21
+    num_multi_rule_subgoal_tuples: 0
+TupleGraphEquivalenceFactoryStatistics:
+    num_subgoal_tuples: 12
+    num_single_rule_subgoal_tuples: 12
+    num_multi_rule_subgoal_tuples: 0
+2023-06-26 23:08:58 INFO     Grounding Logic Program...
+2023-06-26 23:08:58 INFO     ..done
+2023-06-26 23:08:58 INFO     Solving Logic Program...
+Clingo statistics:
+{'call': 0.0, 'result': 1.0, 'signal': 0.0, 'exhausted': 1.0, 'costs': [10.0], 'lower': [10.0], 'concurrency': 32.0, 'winner': 26.0, 'times': {'total': 43.750113010406494, 'cpu': 42.43894799999998, 'solve': 43.379849910736084, 'unsat': 1.4542410373687744, 'sat': 27.96925187110901}, 'models': {'enumerated': 6.0, 'optimal': 1.0}}
+Solution cost: [10.0]
+Total time: 43.750113010406494
+CPU time: 42.43894799999998
+Solve time: 43.379849910736084
+2023-06-26 23:09:41 INFO     ..done
+2023-06-26 23:09:41 INFO     Learned the following sketch:
+(:policy
+(:rule (:conditions (:c_n_eq "n_count(c_primitive(served,0))") (:c_n_eq "n_count(c_some(r_primitive(above,0,1),c_primitive(lift-at,0)))")) (:effects (:e_n_inc "n_count(c_primitive(served,0))")))
+(:rule (:conditions (:c_n_eq "n_count(c_primitive(served,0))") (:c_n_gt "n_count(c_some(r_primitive(above,0,1),c_primitive(lift-at,0)))")) (:effects (:e_n_dec "n_count(c_some(r_primitive(above,0,1),c_primitive(lift-at,0)))")))
+(:rule (:conditions (:c_n_gt "n_count(c_primitive(served,0))") (:c_n_eq "n_count(c_some(r_primitive(above,0,1),c_primitive(lift-at,0)))")) (:effects (:e_n_inc "n_count(c_some(r_primitive(above,0,1),c_primitive(lift-at,0)))")))
+(:rule (:conditions (:c_n_gt "n_count(c_primitive(served,0))") (:c_n_gt "n_count(c_some(r_primitive(above,0,1),c_primitive(lift-at,0)))")) (:effects (:e_n_inc "n_count(c_primitive(served,0))")))
+)
+(:policy
+(:boolean_features )
+(:numerical_features (1752 "n_count(c_some(r_primitive(above,0,1),c_primitive(lift-at,0)))") (1745 "n_count(c_primitive(served,0))"))
+(:rule (:conditions (:c_n_gt 1745) (:c_n_eq 1752)) (:effects (:e_n_inc 1752)))
+(:rule (:conditions (:c_n_eq 1745) (:c_n_eq 1752)) (:effects (:e_n_inc 1745)))
+(:rule (:conditions (:c_n_eq 1745) (:c_n_gt 1752)) (:effects (:e_n_dec 1752)))
+(:rule (:conditions (:c_n_gt 1745) (:c_n_gt 1752)) (:effects (:e_n_inc 1745)))
+)
+Numer of sketch rules: 4
+Number of selected features: 2
+Maximum complexity of selected feature: 4
+2023-06-26 23:09:41 INFO     Verifying learned sketch...
+State has unbounded width for a rule
+Width: 0
+Rule: (:rule (:conditions (:c_n_eq 1745) (:c_n_eq 1752)) (:effects (:e_n_inc 1745)))
+Instance: 1 p01-0-2
+State: (instance index=17, state index=2, atoms={lift-at(f1), boarded(p1)})
+2023-06-26 23:09:41 INFO     ..done
+Smallest unsolved instance: 1
+Selected instances: [4, 0, 1]
+2023-06-26 23:09:41 INFO     Iteration: 3
+     id: 4 name: p05-11-10 initial_states: {10, 14}
+     id: 0 name: p02-0-2 initial_states: {2, 3}
+     id: 1 name: p01-0-2 initial_states: {2, 3}
+2023-06-26 23:09:41 INFO     Initializing DomainFeatureData...
+[t=1410.37s, 3016988 KB] Started generating base features of complexity 1.
+[t=1410.37s, 3016988 KB] Complexity 1:
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 3
+    c_and: 0
+    c_not: 0
+    c_equal: 0
+    c_some: 0
+    c_all: 0
+    r_restrict: 0
+    r_and: 0
+    r_inverse: 0
+    r_transitive_closure: 0
+    b_empty: 0
+    n_count: 0
+    n_concept_distance: 0
+[t=1410.37s, 3016988 KB] Finished generating base features.
+[t=1410.37s, 3016988 KB] Started generating composite features. 
+[t=1410.37s, 3016988 KB] Complexity 2:
+Total concept elements: 10
+Total role elements: 5
+Total numerical elements: 7
+Total boolean elements: 4
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 3
+    c_and: 0
+    c_not: 3
+    c_equal: 0
+    c_some: 0
+    c_all: 0
+    r_restrict: 0
+    r_and: 0
+    r_inverse: 2
+    r_transitive_closure: 0
+    b_empty: 4
+    n_count: 7
+    n_concept_distance: 0
+[t=1410.37s, 3016988 KB] Complexity 3:
+Total concept elements: 16
+Total role elements: 7
+Total numerical elements: 10
+Total boolean elements: 4
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 3
+    c_and: 0
+    c_not: 3
+    c_equal: 0
+    c_some: 3
+    c_all: 3
+    r_restrict: 2
+    r_and: 0
+    r_inverse: 2
+    r_transitive_closure: 0
+    b_empty: 4
+    n_count: 10
+    n_concept_distance: 0
+[t=1410.37s, 3016988 KB] Complexity 4:
+Total concept elements: 31
+Total role elements: 9
+Total numerical elements: 15
+Total boolean elements: 6
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 3
+    c_and: 1
+    c_not: 7
+    c_equal: 0
+    c_some: 8
+    c_all: 8
+    r_restrict: 2
+    r_and: 0
+    r_inverse: 4
+    r_transitive_closure: 0
+    b_empty: 6
+    n_count: 14
+    n_concept_distance: 1
+[t=1410.37s, 3016988 KB] Complexity 5:
+Total concept elements: 47
+Total role elements: 9
+Total numerical elements: 20
+Total boolean elements: 8
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 3
+    c_and: 7
+    c_not: 9
+    c_equal: 0
+    c_some: 12
+    c_all: 12
+    r_restrict: 2
+    r_and: 0
+    r_inverse: 4
+    r_transitive_closure: 0
+    b_empty: 8
+    n_count: 18
+    n_concept_distance: 2
+[t=1410.37s, 3016988 KB] Complexity 6:
+Total concept elements: 97
+Total role elements: 9
+Total numerical elements: 35
+Total boolean elements: 14
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 3
+    c_and: 28
+    c_not: 18
+    c_equal: 0
+    c_some: 20
+    c_all: 24
+    r_restrict: 2
+    r_and: 0
+    r_inverse: 4
+    r_transitive_closure: 0
+    b_empty: 14
+    n_count: 31
+    n_concept_distance: 4
+[t=1410.38s, 3016988 KB] Complexity 7:
+Total concept elements: 159
+Total role elements: 9
+Total numerical elements: 82
+Total boolean elements: 30
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 3
+    c_and: 60
+    c_not: 36
+    c_equal: 0
+    c_some: 26
+    c_all: 30
+    r_restrict: 2
+    r_and: 0
+    r_inverse: 4
+    r_transitive_closure: 0
+    b_empty: 30
+    n_count: 66
+    n_concept_distance: 16
+[t=1410.39s, 3016988 KB] Complexity 8:
+Total concept elements: 295
+Total role elements: 9
+Total numerical elements: 122
+Total boolean elements: 43
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 3
+    c_and: 122
+    c_not: 63
+    c_equal: 0
+    c_some: 44
+    c_all: 59
+    r_restrict: 2
+    r_and: 0
+    r_inverse: 4
+    r_transitive_closure: 0
+    b_empty: 43
+    n_count: 106
+    n_concept_distance: 16
+[t=1410.41s, 3016988 KB] Complexity 9:
+Total concept elements: 500
+Total role elements: 9
+Total numerical elements: 220
+Total boolean elements: 63
+    b_nullary: 0
+    c_one_of: 0
+    c_top: 1
+    c_bot: 1
+    c_primitive: 5
+    r_primitive: 3
+    c_and: 228
+    c_not: 122
+    c_equal: 0
+    c_some: 58
+    c_all: 85
+    r_restrict: 2
+    r_and: 0
+    r_inverse: 4
+    r_transitive_closure: 0
+    b_empty: 63
+    n_count: 189
+    n_concept_distance: 31
+[t=1410.41s, 3016988 KB] Finished generating composite features.
+DomainFeatureDataStatistics:
+    num_dlplan_states: 9
+    num_boolean_features: 63
+    num_numerical_features: 220
+2023-06-26 23:09:41 INFO     ..done
+2023-06-26 23:09:41 INFO     Initializing InstanceFeatureDatas...
+2023-06-26 23:09:41 INFO     ..done
+2023-06-26 23:09:41 INFO     Initializing StatePairEquivalenceDatas...
+2023-06-26 23:09:41 INFO     ..done
+2023-06-26 23:09:41 INFO     Initializing TupleGraphEquivalences...
+TupleGraphEquivalenceFactoryStatistics:
+    num_subgoal_tuples: 30
+    num_single_rule_subgoal_tuples: 30
+    num_multi_rule_subgoal_tuples: 0
+2023-06-26 23:09:41 INFO     ..done
+2023-06-26 23:09:41 INFO     Initializing TupleGraphEquivalenceMinimizer...
+2023-06-26 23:09:41 INFO     ..done
+2023-06-26 23:09:41 INFO     Iteration data preprocessing summary:
+DomainFeatureDataStatistics:
+    num_dlplan_states: 9
+    num_boolean_features: 63
+    num_numerical_features: 220
+StatePairEquivalenceStatistics:
+    num_subgoal_states: 18
+    num_equivalences: 18
+TupleGraphEquivalenceFactoryStatistics:
+    num_subgoal_tuples: 30
+    num_single_rule_subgoal_tuples: 30
+    num_multi_rule_subgoal_tuples: 0
+TupleGraphEquivalenceFactoryStatistics:
+    num_subgoal_tuples: 18
+    num_single_rule_subgoal_tuples: 18
+    num_multi_rule_subgoal_tuples: 0
+2023-06-26 23:09:42 INFO     Grounding Logic Program...
+2023-06-26 23:09:42 INFO     ..done
+2023-06-26 23:09:42 INFO     Solving Logic Program...
+Clingo statistics:
+{'call': 0.0, 'result': 1.0, 'signal': 0.0, 'exhausted': 1.0, 'costs': [10.0], 'lower': [10.0], 'concurrency': 32.0, 'winner': 2.0, 'times': {'total': 162.9632670879364, 'cpu': 158.03046799999993, 'solve': 162.04655694961548, 'unsat': 1.4301681518554688, 'sat': 120.02115082740784}, 'models': {'enumerated': 26.0, 'optimal': 1.0}}
+Solution cost: [10.0]
+Total time: 162.9632670879364
+CPU time: 158.03046799999993
+Solve time: 162.04655694961548
+2023-06-26 23:12:24 INFO     ..done
+2023-06-26 23:12:24 INFO     Learned the following sketch:
+(:policy
+(:rule (:conditions (:c_n_eq "n_count(c_and(c_primitive(boarded,0),c_some(r_primitive(destin,0,1),c_primitive(lift-at,0))))")) (:effects (:e_n_inc "n_count(c_and(c_primitive(boarded,0),c_some(r_primitive(destin,0,1),c_primitive(lift-at,0))))")))
+(:rule (:conditions (:c_n_gt "n_count(c_and(c_primitive(boarded,0),c_some(r_primitive(destin,0,1),c_primitive(lift-at,0))))")) (:effects (:e_n_inc "n_count(c_primitive(served,0))") (:e_n_dec "n_count(c_and(c_primitive(boarded,0),c_some(r_primitive(destin,0,1),c_primitive(lift-at,0))))")))
+)
+(:policy
+(:boolean_features )
+(:numerical_features (1771 "n_count(c_and(c_primitive(boarded,0),c_some(r_primitive(destin,0,1),c_primitive(lift-at,0))))") (1745 "n_count(c_primitive(served,0))"))
+(:rule (:conditions (:c_n_eq 1771)) (:effects (:e_n_inc 1771)))
+(:rule (:conditions (:c_n_gt 1771)) (:effects (:e_n_inc 1745) (:e_n_dec 1771)))
+)
+Numer of sketch rules: 2
+Number of selected features: 2
+Maximum complexity of selected feature: 6
+2023-06-26 23:12:24 INFO     Verifying learned sketch...
+2023-06-26 23:12:25 INFO     ..done
+Sketch solves all instances!
+2023-06-26 23:12:25 INFO     Summary:
+LearningStatistics:
+    num_training_instances: 318
+    num_selected_training_instances: 3
+    num_states_in_selected_training_instances: 9
+    num_features_in_pool: 285
+    num_cpu_seconds: 201.73 seconds
+    num_peak_memory_mb: 1845.74 MB
+Resulting sketch:
+(:policy
+(:rule (:conditions (:c_n_eq "n_count(c_and(c_primitive(boarded,0),c_some(r_primitive(destin,0,1),c_primitive(lift-at,0))))")) (:effects (:e_n_inc "n_count(c_and(c_primitive(boarded,0),c_some(r_primitive(destin,0,1),c_primitive(lift-at,0))))")))
+(:rule (:conditions (:c_n_gt "n_count(c_and(c_primitive(boarded,0),c_some(r_primitive(destin,0,1),c_primitive(lift-at,0))))")) (:effects (:e_n_inc "n_count(c_primitive(served,0))") (:e_n_dec "n_count(c_and(c_primitive(boarded,0),c_some(r_primitive(destin,0,1),c_primitive(lift-at,0))))")))
+)
+(:policy
+(:boolean_features )
+(:numerical_features (1771 "n_count(c_and(c_primitive(boarded,0),c_some(r_primitive(destin,0,1),c_primitive(lift-at,0))))") (1745 "n_count(c_primitive(served,0))"))
+(:rule (:conditions (:c_n_eq 1771)) (:effects (:e_n_inc 1771)))
+(:rule (:conditions (:c_n_gt 1771)) (:effects (:e_n_inc 1745) (:e_n_dec 1771)))
+)
+Numer of sketch rules: 2
+Number of selected features: 2
+Maximum complexity of selected feature: 6
+Resulting sketch minimized:
+(:policy
+(:rule (:conditions (:c_n_eq "n_count(c_and(c_primitive(boarded,0),c_some(r_primitive(destin,0,1),c_primitive(lift-at,0))))")) (:effects (:e_n_inc "n_count(c_and(c_primitive(boarded,0),c_some(r_primitive(destin,0,1),c_primitive(lift-at,0))))")))
+(:rule (:conditions (:c_n_gt "n_count(c_and(c_primitive(boarded,0),c_some(r_primitive(destin,0,1),c_primitive(lift-at,0))))")) (:effects (:e_n_inc "n_count(c_primitive(served,0))") (:e_n_dec "n_count(c_and(c_primitive(boarded,0),c_some(r_primitive(destin,0,1),c_primitive(lift-at,0))))")))
+)
+(:policy
+(:boolean_features )
+(:numerical_features (1771 "n_count(c_and(c_primitive(boarded,0),c_some(r_primitive(destin,0,1),c_primitive(lift-at,0))))") (1745 "n_count(c_primitive(served,0))"))
+(:rule (:conditions (:c_n_eq 1771)) (:effects (:e_n_inc 1771)))
+(:rule (:conditions (:c_n_gt 1771)) (:effects (:e_n_inc 1745) (:e_n_dec 1771)))
+)
+Numer of sketch rules: 2
+Number of selected features: 2
+Maximum complexity of selected feature: 6
+Number of problems: 318
+Number of subproblems: 291
+Highest number of states in problem: 44
+Highest number of states in subproblem: 36
+Number of problems: 318
+Number of subproblems: 329
+Highest number of states in problem: 44
+Highest number of states in subproblem: 44
+2023-06-26 23:12:26 INFO     Summary:
+2023-06-26 23:12:26 INFO     Hierarchical sketch:
+Level 0 sketch:
+(:policy
+(:boolean_features )
+(:numerical_features (1745 "n_count(c_primitive(served,0))"))
+(:rule (:conditions ) (:effects (:e_n_inc 1745)))
+)
+    Level 1 sketch:
+(:policy
+(:boolean_features )
+(:numerical_features (1743 "n_count(c_primitive(boarded,0))"))
+(:rule (:conditions (:c_n_gt 1743)) (:effects (:e_n_dec 1743)))
+(:rule (:conditions (:c_n_eq 1743)) (:effects (:e_n_inc 1743)))
+)
+        Level 2 sketch:
+(:policy
+(:boolean_features )
+(:numerical_features (1743 "n_count(c_primitive(boarded,0))") (1751 "n_count(c_some(r_primitive(origin,0,1),c_primitive(lift-at,0)))"))
+(:rule (:conditions (:c_n_eq 1751)) (:effects (:e_n_inc 1751)))
+(:rule (:conditions (:c_n_gt 1751)) (:effects (:e_n_inc 1743) (:e_n_dec 1751)))
+)
+        Level 2 sketch:
+(:policy
+(:boolean_features )
+(:numerical_features (1771 "n_count(c_and(c_primitive(boarded,0),c_some(r_primitive(destin,0,1),c_primitive(lift-at,0))))") (1745 "n_count(c_primitive(served,0))"))
+(:rule (:conditions (:c_n_eq 1771)) (:effects (:e_n_inc 1771)))
+(:rule (:conditions (:c_n_gt 1771)) (:effects (:e_n_inc 1745) (:e_n_dec 1771)))
+)
+Num features: 4
+Max feature complexity 6
+Num rules: 7
+LearningStatistics:
+    num_training_instances: 626
+    num_selected_training_instances: 3
+    num_states_in_selected_training_instances: 18
+    num_features_in_pool: 360
+    num_cpu_seconds: 596.07 seconds
+    num_peak_memory_mb: 2495.80 MB
+================================================================================
+END OF STEP #1: Incremental learning module. 1517.16 CPU sec - 2503.12 MB
+================================================================================
+hierarchical_sketch/
+hierarchical_sketch/sketch_str.txt
+hierarchical_sketch/rule_0/
+hierarchical_sketch/rule_0/sketch_str.txt
+hierarchical_sketch/rule_0/rule_0/
+hierarchical_sketch/rule_0/rule_0/sketch_str.txt
+hierarchical_sketch/rule_0/rule_0/rule_0/
+hierarchical_sketch/rule_0/rule_0/rule_0/rule_str.txt
+hierarchical_sketch/rule_0/rule_0/rule_0/rule_repr.txt
+hierarchical_sketch/rule_0/rule_0/rule_1/
+hierarchical_sketch/rule_0/rule_0/rule_1/rule_str.txt
+hierarchical_sketch/rule_0/rule_0/rule_1/rule_repr.txt
+hierarchical_sketch/rule_0/rule_0/sketch_repr.txt
+hierarchical_sketch/rule_0/rule_0/rule_str.txt
+hierarchical_sketch/rule_0/rule_0/rule_repr.txt
+hierarchical_sketch/rule_0/rule_1/
+hierarchical_sketch/rule_0/rule_1/sketch_str.txt
+hierarchical_sketch/rule_0/rule_1/rule_0/
+hierarchical_sketch/rule_0/rule_1/rule_0/rule_str.txt
+hierarchical_sketch/rule_0/rule_1/rule_0/rule_repr.txt
+hierarchical_sketch/rule_0/rule_1/rule_1/
+hierarchical_sketch/rule_0/rule_1/rule_1/rule_str.txt
+hierarchical_sketch/rule_0/rule_1/rule_1/rule_repr.txt
+hierarchical_sketch/rule_0/rule_1/sketch_repr.txt
+hierarchical_sketch/rule_0/rule_1/rule_str.txt
+hierarchical_sketch/rule_0/rule_1/rule_repr.txt
+hierarchical_sketch/rule_0/sketch_repr.txt
+hierarchical_sketch/rule_0/rule_str.txt
+hierarchical_sketch/rule_0/rule_repr.txt
+hierarchical_sketch/sketch_repr.txt
+Running learning parser
+Running runsolver parser

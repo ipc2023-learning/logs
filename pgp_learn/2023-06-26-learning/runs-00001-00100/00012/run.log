@@ -1,0 +1,1624 @@
+Domain=domain.pddl Problem=p01.pddl
+Domain=domain.pddl Problem=p02.pddl
+Domain=domain.pddl Problem=p03.pddl
+Domain=domain.pddl Problem=p04.pddl
+Domain=domain.pddl Problem=p05.pddl
+Domain=domain.pddl Problem=p06.pddl
+Domain=domain.pddl Problem=p07.pddl
+Domain=domain.pddl Problem=p08.pddl
+Domain=domain.pddl Problem=p09.pddl
+Domain=domain.pddl Problem=p10.pddl
+Domain=domain.pddl Problem=p11.pddl
+Domain=domain.pddl Problem=p12.pddl
+Domain=domain.pddl Problem=p13.pddl
+Domain=domain.pddl Problem=p14.pddl
+Domain=domain.pddl Problem=p15.pddl
+Domain=domain.pddl Problem=p16.pddl
+Domain=domain.pddl Problem=p17.pddl
+Domain=domain.pddl Problem=p18.pddl
+Domain=domain.pddl Problem=p19.pddl
+Domain=domain.pddl Problem=p20.pddl
+Domain=domain.pddl Problem=p21.pddl
+Domain=domain.pddl Problem=p22.pddl
+Domain=domain.pddl Problem=p23.pddl
+Domain=domain.pddl Problem=p24.pddl
+Domain=domain.pddl Problem=p25.pddl
+Domain=domain.pddl Problem=p26.pddl
+Domain=domain.pddl Problem=p27.pddl
+Domain=domain.pddl Problem=p28.pddl
+Domain=domain.pddl Problem=p29.pddl
+Domain=domain.pddl Problem=p30.pddl
+Domain=domain.pddl Problem=p31.pddl
+Domain=domain.pddl Problem=p32.pddl
+Domain=domain.pddl Problem=p33.pddl
+Domain=domain.pddl Problem=p34.pddl
+Domain=domain.pddl Problem=p35.pddl
+Domain=domain.pddl Problem=p36.pddl
+Domain=domain.pddl Problem=p37.pddl
+Domain=domain.pddl Problem=p38.pddl
+Domain=domain.pddl Problem=p39.pddl
+Domain=domain.pddl Problem=p40.pddl
+Domain=domain.pddl Problem=p41.pddl
+Domain=domain.pddl Problem=p42.pddl
+Domain=domain.pddl Problem=p43.pddl
+Domain=domain.pddl Problem=p44.pddl
+Domain=domain.pddl Problem=p45.pddl
+Domain=domain.pddl Problem=p46.pddl
+Domain=domain.pddl Problem=p47.pddl
+Domain=domain.pddl Problem=p48.pddl
+Domain=domain.pddl Problem=p49.pddl
+Domain=domain.pddl Problem=p50.pddl
+Domain=domain.pddl Problem=p51.pddl
+Domain=domain.pddl Problem=p52.pddl
+Domain=domain.pddl Problem=p53.pddl
+Domain=domain.pddl Problem=p54.pddl
+Domain=domain.pddl Problem=p55.pddl
+Domain=domain.pddl Problem=p56.pddl
+Domain=domain.pddl Problem=p57.pddl
+Domain=domain.pddl Problem=p58.pddl
+Domain=domain.pddl Problem=p59.pddl
+Domain=domain.pddl Problem=p60.pddl
+Domain=domain.pddl Problem=p61.pddl
+Domain=domain.pddl Problem=p62.pddl
+Domain=domain.pddl Problem=p63.pddl
+Domain=domain.pddl Problem=p64.pddl
+Domain=domain.pddl Problem=p65.pddl
+Domain=domain.pddl Problem=p66.pddl
+Domain=domain.pddl Problem=p67.pddl
+Domain=domain.pddl Problem=p68.pddl
+Domain=domain.pddl Problem=p69.pddl
+Domain=domain.pddl Problem=p70.pddl
+Domain=domain.pddl Problem=p71.pddl
+Domain=domain.pddl Problem=p72.pddl
+Domain=domain.pddl Problem=p73.pddl
+Domain=domain.pddl Problem=p74.pddl
+Domain=domain.pddl Problem=p75.pddl
+Domain=domain.pddl Problem=p76.pddl
+Domain=domain.pddl Problem=p77.pddl
+Domain=domain.pddl Problem=p78.pddl
+Domain=domain.pddl Problem=p79.pddl
+Domain=domain.pddl Problem=p80.pddl
+Domain=domain.pddl Problem=p81.pddl
+Domain=domain.pddl Problem=p82.pddl
+Domain=domain.pddl Problem=p83.pddl
+Domain=domain.pddl Problem=p84.pddl
+Domain=domain.pddl Problem=p85.pddl
+Domain=domain.pddl Problem=p86.pddl
+Domain=domain.pddl Problem=p87.pddl
+Domain=domain.pddl Problem=p88.pddl
+Domain=domain.pddl Problem=p89.pddl
+Domain=domain.pddl Problem=p90.pddl
+Domain=domain.pddl Problem=p91.pddl
+Domain=domain.pddl Problem=p92.pddl
+Domain=domain.pddl Problem=p93.pddl
+Domain=domain.pddl Problem=p94.pddl
+Domain=domain.pddl Problem=p95.pddl
+Domain=domain.pddl Problem=p96.pddl
+Domain=domain.pddl Problem=p97.pddl
+Domain=domain.pddl Problem=p98.pddl
+Domain=domain.pddl Problem=p99.pddl
+[INFO] Parsed domain. [0.000]
+[INFO] Generalized Planning Problem created. [1.000]
+[INFO] Generalized Domain created. [0.000]
+[INFO] Landmarks created. [2.000]
+[INFO] Engine created. [0.000]
+[INFO] Heuristic landmarks added.
+[INFO] Searching... [0.000]
+[ENGINE] NODE ID: 0; EXPANDED: 1; EVALUATED: 1; OPEN QUEUE SIZE: 0
+[NODE]: f1=5
+0. empty
+1. empty
+2. empty
+3. empty
+4. empty
+5. empty
+6. empty
+7. empty
+8. empty
+9. empty
+10. empty
+11. empty
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 7; EXPANDED: 2; EVALUATED: 58; OPEN QUEUE SIZE: 55
+[NODE]: f1=4
+0. board(ptr-car1,ptr-location1)
+1. empty
+2. empty
+3. empty
+4. empty
+5. empty
+6. empty
+7. empty
+8. empty
+9. empty
+10. empty
+11. empty
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 87; EXPANDED: 3; EVALUATED: 115; OPEN QUEUE SIZE: 110
+[NODE]: f1=3
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. empty
+3. empty
+4. empty
+5. empty
+6. empty
+7. empty
+8. empty
+9. empty
+10. empty
+11. empty
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 117; EXPANDED: 4; EVALUATED: 176; OPEN QUEUE SIZE: 169
+[NODE]: f1=1
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. empty
+4. empty
+5. empty
+6. empty
+7. empty
+8. empty
+9. empty
+10. empty
+11. empty
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 188; EXPANDED: 5; EVALUATED: 233; OPEN QUEUE SIZE: 224
+[NODE]: f1=0
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. empty
+5. empty
+6. empty
+7. empty
+8. empty
+9. empty
+10. empty
+11. empty
+12. empty
+13. empty
+14. end
+
+[INFO] Possible solution found at node id 289 when solving instance ids: #0
+[NODE]: f1=0
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. end
+5. empty
+6. empty
+7. empty
+8. empty
+9. empty
+10. empty
+11. empty
+12. empty
+13. empty
+14. end
+
+[INFO] Failed on instance id 1. Reevaluating the queue... 
+[INFO] DONE!
+[ENGINE] NODE ID: 191; EXPANDED: 6; EVALUATED: 290; OPEN QUEUE SIZE: 279
+[NODE]: f1=4
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car2,ptr-location1)
+4. empty
+5. empty
+6. empty
+7. empty
+8. empty
+9. empty
+10. empty
+11. empty
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 354; EXPANDED: 8; EVALUATED: 404; OPEN QUEUE SIZE: 389
+[NODE]: f1=2
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. empty
+7. empty
+8. empty
+9. empty
+10. empty
+11. empty
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 406; EXPANDED: 9; EVALUATED: 461; OPEN QUEUE SIZE: 444
+[NODE]: f1=1
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. empty
+8. empty
+9. empty
+10. empty
+11. empty
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 473; EXPANDED: 10; EVALUATED: 518; OPEN QUEUE SIZE: 499
+[NODE]: f1=0
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car1,ptr-location1)
+8. empty
+9. empty
+10. empty
+11. empty
+12. empty
+13. empty
+14. end
+
+[INFO] Possible solution found at node id 574 when solving instance ids: #0 #1
+[NODE]: f1=0
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car1,ptr-location1)
+8. end
+9. empty
+10. empty
+11. empty
+12. empty
+13. empty
+14. end
+
+[INFO] Failed on instance id 2. Reevaluating the queue... 
+[INFO] DONE!
+[ENGINE] NODE ID: 476; EXPANDED: 11; EVALUATED: 575; OPEN QUEUE SIZE: 554
+[NODE]: f1=3
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car2,ptr-location1)
+8. empty
+9. empty
+10. empty
+11. empty
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 16846; EXPANDED: 295; EVALUATED: 16867; OPEN QUEUE SIZE: 14682
+[NODE]: f1=2
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car1,ptr-location1)
+8. sail(ptr-location2,ptr-location3)
+9. inc(ptr-location2)
+10. goto(0,!(( zf = 1 )))
+11. empty
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 28953; EXPANDED: 10000; EVALUATED: 411008; OPEN QUEUE SIZE: 20937
+[NODE]: f1=2
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car1,ptr-location1)
+8. sail(ptr-location2,ptr-location3)
+9. inc(ptr-location2)
+10. goto(3,!(( zf = 1 )))
+11. set(ptr-location2,ptr-location3)
+12. clear(ptr-car1)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 794861; EXPANDED: 20000; EVALUATED: 836100; OPEN QUEUE SIZE: 87879
+[NODE]: f1=2
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car1,ptr-location1)
+8. inc(ptr-location2)
+9. goto(0,!(( zf = 1 )))
+10. sail(ptr-location1,ptr-location3)
+11. inc(ptr-object1)
+12. goto(2,!(( zf = 1 )))
+13. empty
+14. end
+
+[ENGINE] NODE ID: 1194428; EXPANDED: 30000; EVALUATED: 1238574; OPEN QUEUE SIZE: 88743
+[NODE]: f1=2
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car1,ptr-location1)
+8. inc(ptr-location2)
+9. goto(2,!(( zf = 1 )))
+10. sail(ptr-location1,ptr-location3)
+11. clear(ptr-object1)
+12. board(ptr-car2,ptr-location1)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 1593982; EXPANDED: 40000; EVALUATED: 1641256; OPEN QUEUE SIZE: 89607
+[NODE]: f1=2
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car1,ptr-location1)
+8. inc(ptr-location2)
+9. goto(4,!(( zf = 1 )))
+10. sail(ptr-location1,ptr-location3)
+11. inc(ptr-car1)
+12. dec(ptr-car2)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 2009724; EXPANDED: 50000; EVALUATED: 2048930; OPEN QUEUE SIZE: 105104
+[NODE]: f1=2
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car1,ptr-location1)
+8. inc(ptr-location3)
+9. goto(0,!(( zf = 1 )))
+10. sail(ptr-location1,ptr-location2)
+11. inc(ptr-object1)
+12. sail(ptr-location3,ptr-location2)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 2246264; EXPANDED: 60000; EVALUATED: 2462230; OPEN QUEUE SIZE: 139391
+[NODE]: f1=2
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car2,ptr-location1)
+8. sail(ptr-location2,ptr-location3)
+9. inc(ptr-location2)
+10. goto(2,!(( zf = 1 )))
+11. board(ptr-car1,ptr-location2)
+12. sail(ptr-location1,ptr-location3)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 2844924; EXPANDED: 70000; EVALUATED: 2863904; OPEN QUEUE SIZE: 137367
+[NODE]: f1=2
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car2,ptr-location1)
+8. sail(ptr-location3,ptr-location2)
+9. inc(ptr-location3)
+10. goto(0,!(( zf = 1 )))
+11. board(ptr-car2,ptr-location1)
+12. inc(ptr-location3)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 3218200; EXPANDED: 80000; EVALUATED: 3288472; OPEN QUEUE SIZE: 201765
+[NODE]: f1=2
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car2,ptr-location1)
+8. inc(ptr-location2)
+9. goto(1,!(( zf = 1 )))
+10. sail(ptr-location1,ptr-location3)
+11. dec(ptr-location1)
+12. goto(0,!(( zf = 1 )))
+13. empty
+14. end
+
+[ENGINE] NODE ID: 3617764; EXPANDED: 90000; EVALUATED: 3691024; OPEN QUEUE SIZE: 202629
+[NODE]: f1=2
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car2,ptr-location1)
+8. inc(ptr-location2)
+9. goto(3,!(( zf = 1 )))
+10. sail(ptr-location1,ptr-location3)
+11. set(ptr-location1,ptr-location2)
+12. sail(ptr-location2,ptr-location1)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 4017320; EXPANDED: 100000; EVALUATED: 4093576; OPEN QUEUE SIZE: 203493
+[NODE]: f1=2
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car2,ptr-location1)
+8. inc(ptr-location2)
+9. goto(5,!(( zf = 1 )))
+10. sail(ptr-location1,ptr-location3)
+11. set(ptr-location1,ptr-location3)
+12. inc(ptr-car1)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 7627; EXPANDED: 110000; EVALUATED: 4527732; OPEN QUEUE SIZE: 297371
+[NODE]: f1=3
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car1,ptr-location1)
+8. sail(ptr-location1,ptr-location2)
+9. clear(ptr-car1)
+10. set(ptr-car2,ptr-car1)
+11. empty
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 5039312; EXPANDED: 120000; EVALUATED: 5050202; OPEN QUEUE SIZE: 620653
+[NODE]: f1=2
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car1,ptr-location1)
+8. sail(ptr-location2,ptr-location3)
+9. debark(ptr-car1,ptr-location1)
+10. inc(ptr-location2)
+11. goto(5,!(( zf = 1 )))
+12. board(ptr-car2,ptr-location2)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 5495074; EXPANDED: 130000; EVALUATED: 5497626; OPEN QUEUE SIZE: 692060
+[NODE]: f1=2
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car1,ptr-location1)
+8. sail(ptr-location2,ptr-location3)
+9. dec(ptr-location3)
+10. inc(ptr-location2)
+11. goto(1,!(( zf = 1 )))
+12. board(ptr-car1,ptr-location2)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 722868; EXPANDED: 140000; EVALUATED: 6006554; OPEN QUEUE SIZE: 968708
+[NODE]: f1=3
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car1,ptr-location1)
+8. board(ptr-car1,ptr-location2)
+9. debark(ptr-car1,ptr-location3)
+10. set(ptr-location3,ptr-location2)
+11. empty
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 732796; EXPANDED: 150000; EVALUATED: 6552878; OPEN QUEUE SIZE: 1364669
+[NODE]: f1=3
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car1,ptr-location1)
+8. board(ptr-car2,ptr-location3)
+9. set(ptr-location2,ptr-location1)
+10. test-min(at(ptr-car2,ptr-location1))
+11. empty
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 741408; EXPANDED: 160000; EVALUATED: 7082539; OPEN QUEUE SIZE: 1708652
+[NODE]: f1=3
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car1,ptr-location1)
+8. debark(ptr-car1,ptr-location3)
+9. set(ptr-location2,ptr-location3)
+10. test-min(at(ptr-car1,ptr-location1))
+11. empty
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 749873; EXPANDED: 170000; EVALUATED: 7610251; OPEN QUEUE SIZE: 2047054
+[NODE]: f1=3
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car1,ptr-location1)
+8. debark(ptr-car2,ptr-location3)
+9. set(ptr-location2,ptr-location1)
+10. test-min(at(ptr-car2,ptr-location2))
+11. empty
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 759024; EXPANDED: 180000; EVALUATED: 8148282; OPEN QUEUE SIZE: 2416182
+[NODE]: f1=3
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car1,ptr-location1)
+8. clear(ptr-object1)
+9. set(ptr-car2,ptr-car1)
+10. clear(ptr-car1)
+11. empty
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 8670963; EXPANDED: 190000; EVALUATED: 8679304; OPEN QUEUE SIZE: 2762601
+[NODE]: f1=2
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car1,ptr-location1)
+8. clear(ptr-car1)
+9. sail(ptr-location2,ptr-location3)
+10. inc(ptr-location2)
+11. goto(3,!(( zf = 1 )))
+12. test-min(at-ferry(ptr-location3))
+13. empty
+14. end
+
+[ENGINE] NODE ID: 776279; EXPANDED: 200000; EVALUATED: 9211950; OPEN QUEUE SIZE: 3114930
+[NODE]: f1=3
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car1,ptr-location1)
+8. inc(ptr-car2)
+9. set(ptr-location2,ptr-location3)
+10. inc(ptr-car1)
+11. empty
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 785361; EXPANDED: 210000; EVALUATED: 9750306; OPEN QUEUE SIZE: 3483742
+[NODE]: f1=3
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car1,ptr-location1)
+8. set(ptr-car2,ptr-car1)
+9. inc(ptr-car1)
+10. clear(ptr-car2)
+11. empty
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 10262436; EXPANDED: 220000; EVALUATED: 10268560; OPEN QUEUE SIZE: 3780452
+[NODE]: f1=2
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car1,ptr-location1)
+8. inc(ptr-location2)
+9. clear(ptr-location1)
+10. inc(ptr-location3)
+11. goto(4,!(( zf = 1 )))
+12. dec(ptr-location2)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 10703972; EXPANDED: 230000; EVALUATED: 10706906; OPEN QUEUE SIZE: 3820905
+[NODE]: f1=2
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car1,ptr-location1)
+8. inc(ptr-location2)
+9. goto(1,!(( zf = 1 )))
+10. debark(ptr-car2,ptr-location1)
+11. sail(ptr-location2,ptr-location3)
+12. clear(ptr-car1)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 11133418; EXPANDED: 240000; EVALUATED: 11134570; OPEN QUEUE SIZE: 3832503
+[NODE]: f1=2
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car1,ptr-location1)
+8. inc(ptr-location2)
+9. goto(3,!(( zf = 1 )))
+10. clear(ptr-location1)
+11. sail(ptr-location2,ptr-location1)
+12. set(ptr-car2,ptr-car1)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 1992226; EXPANDED: 250000; EVALUATED: 11567102; OPEN QUEUE SIZE: 3852349
+[NODE]: f1=3
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car1,ptr-location1)
+8. inc(ptr-location2)
+9. goto(7,!(( zf = 1 )))
+10. dec(ptr-car2)
+11. empty
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 12100499; EXPANDED: 260000; EVALUATED: 12106139; OPEN QUEUE SIZE: 4206311
+[NODE]: f1=2
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car1,ptr-location1)
+8. set(ptr-location2,ptr-location1)
+9. clear(ptr-location1)
+10. test-min(at-ferry(ptr-location1))
+11. goto(4,!(( zf = 0 )))
+12. set(ptr-location1,ptr-location3)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 12624918; EXPANDED: 270000; EVALUATED: 12627572; OPEN QUEUE SIZE: 4506360
+[NODE]: f1=2
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car1,ptr-location1)
+8. inc(ptr-location3)
+9. goto(0,!(( zf = 1 )))
+10. sail(ptr-location3,ptr-location1)
+11. sail(ptr-location3,ptr-location2)
+12. inc(ptr-object1)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 2214404; EXPANDED: 280000; EVALUATED: 13131684; OPEN QUEUE SIZE: 4758270
+[NODE]: f1=3
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car1,ptr-location1)
+8. clear(ptr-location3)
+9. inc(ptr-location1)
+10. board(ptr-car2,ptr-location2)
+11. empty
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 2223956; EXPANDED: 290000; EVALUATED: 13678154; OPEN QUEUE SIZE: 5141520
+[NODE]: f1=3
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car1,ptr-location1)
+8. test-min(at-ferry(ptr-location3))
+9. goto(4,!(( zf = 1 )))
+10. clear(ptr-car2)
+11. empty
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 14237057; EXPANDED: 300000; EVALUATED: 14249362; OPEN QUEUE SIZE: 5608011
+[NODE]: f1=2
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car2,ptr-location1)
+8. sail(ptr-location2,ptr-location1)
+9. sail(ptr-location2,ptr-location3)
+10. inc(ptr-location2)
+11. goto(5,!(( zf = 1 )))
+12. dec(ptr-location3)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 14710032; EXPANDED: 310000; EVALUATED: 14720892; OPEN QUEUE SIZE: 5772575
+[NODE]: f1=2
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car2,ptr-location1)
+8. sail(ptr-location2,ptr-location3)
+9. set(ptr-car1,ptr-car2)
+10. inc(ptr-location2)
+11. goto(5,!(( zf = 1 )))
+12. board(ptr-car2,ptr-location1)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 2842307; EXPANDED: 320000; EVALUATED: 15201876; OPEN QUEUE SIZE: 5949039
+[NODE]: f1=3
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car2,ptr-location1)
+8. sail(ptr-location3,ptr-location2)
+9. sail(ptr-location2,ptr-location3)
+10. sail(ptr-location3,ptr-location2)
+11. empty
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 2949744; EXPANDED: 330000; EVALUATED: 15721123; OPEN QUEUE SIZE: 6256522
+[NODE]: f1=3
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car2,ptr-location1)
+8. board(ptr-car1,ptr-location3)
+9. set(ptr-location2,ptr-location1)
+10. test-min(at(ptr-car1,ptr-location1))
+11. empty
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 2959288; EXPANDED: 340000; EVALUATED: 16261642; OPEN QUEUE SIZE: 6634983
+[NODE]: f1=3
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car2,ptr-location1)
+8. debark(ptr-car1,ptr-location2)
+9. sail(ptr-location3,ptr-location1)
+10. test-min(at-ferry(ptr-location3))
+11. empty
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 2967763; EXPANDED: 350000; EVALUATED: 16789476; OPEN QUEUE SIZE: 6973601
+[NODE]: f1=3
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car2,ptr-location1)
+8. debark(ptr-car2,ptr-location2)
+9. sail(ptr-location2,ptr-location3)
+10. dec(ptr-location3)
+11. empty
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 2976596; EXPANDED: 360000; EVALUATED: 17322318; OPEN QUEUE SIZE: 7327427
+[NODE]: f1=3
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car2,ptr-location1)
+8. inc(ptr-object1)
+9. goto(8,!(( zf = 1 )))
+10. test-min(at(ptr-car2,ptr-location1))
+11. empty
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 17853694; EXPANDED: 370000; EVALUATED: 17854846; OPEN QUEUE SIZE: 7678742
+[NODE]: f1=2
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car2,ptr-location1)
+8. inc(ptr-car1)
+9. inc(ptr-location2)
+10. goto(4,!(( zf = 1 )))
+11. sail(ptr-location1,ptr-location3)
+12. set(ptr-car2,ptr-car1)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 2994100; EXPANDED: 380000; EVALUATED: 18390100; OPEN QUEUE SIZE: 8038593
+[NODE]: f1=3
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car2,ptr-location1)
+8. set(ptr-car1,ptr-car2)
+9. debark(ptr-car1,ptr-location3)
+10. inc(ptr-object1)
+11. empty
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 3002996; EXPANDED: 390000; EVALUATED: 18924180; OPEN QUEUE SIZE: 8395357
+[NODE]: f1=3
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car2,ptr-location1)
+8. dec(ptr-car2)
+9. goto(0,!(( zf = 1 )))
+10. inc(ptr-location2)
+11. empty
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 19461934; EXPANDED: 400000; EVALUATED: 19463534; OPEN QUEUE SIZE: 8766726
+[NODE]: f1=2
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car2,ptr-location1)
+8. inc(ptr-location1)
+9. inc(ptr-location2)
+10. goto(0,!(( zf = 1 )))
+11. sail(ptr-location1,ptr-location3)
+12. clear(ptr-location2)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 3015758; EXPANDED: 410000; EVALUATED: 19937736; OPEN QUEUE SIZE: 8913334
+[NODE]: f1=3
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car2,ptr-location1)
+8. inc(ptr-location2)
+9. clear(ptr-location2)
+10. dec(ptr-car1)
+11. empty
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 20367616; EXPANDED: 420000; EVALUATED: 20371278; OPEN QUEUE SIZE: 8944861
+[NODE]: f1=2
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car2,ptr-location1)
+8. inc(ptr-location2)
+9. goto(2,!(( zf = 1 )))
+10. debark(ptr-car2,ptr-location3)
+11. sail(ptr-location2,ptr-location3)
+12. clear(ptr-location2)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 20797442; EXPANDED: 430000; EVALUATED: 20798986; OPEN QUEUE SIZE: 8956481
+[NODE]: f1=2
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car2,ptr-location1)
+8. inc(ptr-location2)
+9. goto(4,!(( zf = 1 )))
+10. set(ptr-location1,ptr-location3)
+11. sail(ptr-location2,ptr-location1)
+12. dec(ptr-location2)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 4220000; EXPANDED: 440000; EVALUATED: 21295822; OPEN QUEUE SIZE: 9180447
+[NODE]: f1=3
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car2,ptr-location1)
+8. clear(ptr-location2)
+9. dec(ptr-car2)
+10. set(ptr-location3,ptr-location1)
+11. empty
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 4225476; EXPANDED: 450000; EVALUATED: 21794148; OPEN QUEUE SIZE: 9397206
+[NODE]: f1=3
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car2,ptr-location1)
+8. set(ptr-location2,ptr-location3)
+9. board(ptr-car1,ptr-location2)
+10. clear(ptr-car1)
+11. empty
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 4431715; EXPANDED: 460000; EVALUATED: 22302192; OPEN QUEUE SIZE: 9659978
+[NODE]: f1=3
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car2,ptr-location1)
+8. inc(ptr-location3)
+9. goto(7,!(( zf = 1 )))
+10. set(ptr-car1,ptr-car2)
+11. empty
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 22832482; EXPANDED: 470000; EVALUATED: 22839335; OPEN QUEUE SIZE: 10016693
+[NODE]: f1=2
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car2,ptr-location1)
+8. set(ptr-location3,ptr-location1)
+9. set(ptr-location1,ptr-location2)
+10. inc(ptr-location2)
+11. goto(4,!(( zf = 1 )))
+12. test-min(empty-ferry())
+13. empty
+14. end
+
+[ENGINE] NODE ID: 4451614; EXPANDED: 480000; EVALUATED: 23410548; OPEN QUEUE SIZE: 10477701
+[NODE]: f1=3
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car1,ptr-location1)
+8. sail(ptr-location1,ptr-location2)
+9. sail(ptr-location1,ptr-location2)
+10. sail(ptr-location2,ptr-location1)
+11. dec(ptr-car2)
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 4463878; EXPANDED: 490000; EVALUATED: 24001112; OPEN QUEUE SIZE: 10985625
+[NODE]: f1=3
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car1,ptr-location1)
+8. sail(ptr-location1,ptr-location2)
+9. sail(ptr-location3,ptr-location1)
+10. board(ptr-car1,ptr-location3)
+11. board(ptr-car1,ptr-location2)
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 4478292; EXPANDED: 500000; EVALUATED: 24591682; OPEN QUEUE SIZE: 11493625
+[NODE]: f1=3
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car1,ptr-location1)
+8. sail(ptr-location1,ptr-location2)
+9. board(ptr-car1,ptr-location3)
+10. board(ptr-car2,ptr-location3)
+11. dec(ptr-object1)
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 4490506; EXPANDED: 510000; EVALUATED: 25183322; OPEN QUEUE SIZE: 12004063
+[NODE]: f1=3
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car1,ptr-location1)
+8. sail(ptr-location1,ptr-location2)
+9. debark(ptr-car1,ptr-location1)
+10. debark(ptr-car1,ptr-location2)
+11. board(ptr-car1,ptr-location2)
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 4502719; EXPANDED: 520000; EVALUATED: 25775151; OPEN QUEUE SIZE: 12514723
+[NODE]: f1=3
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car1,ptr-location1)
+8. sail(ptr-location1,ptr-location2)
+9. debark(ptr-car2,ptr-location2)
+10. debark(ptr-car1,ptr-location3)
+11. test-min(at(ptr-car2,ptr-location2))
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 4514930; EXPANDED: 530000; EVALUATED: 26366880; OPEN QUEUE SIZE: 13025419
+[NODE]: f1=3
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car1,ptr-location1)
+8. sail(ptr-location1,ptr-location2)
+9. dec(ptr-object1)
+10. goto(6,!(( zf = 1 )))
+11. clear(ptr-location2)
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 4526832; EXPANDED: 540000; EVALUATED: 26959168; OPEN QUEUE SIZE: 13533873
+[NODE]: f1=3
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car1,ptr-location1)
+8. sail(ptr-location1,ptr-location2)
+9. clear(ptr-car1)
+10. debark(ptr-car2,ptr-location2)
+11. sail(ptr-location3,ptr-location1)
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 4538857; EXPANDED: 550000; EVALUATED: 27551314; OPEN QUEUE SIZE: 14043500
+[NODE]: f1=3
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car1,ptr-location1)
+8. sail(ptr-location1,ptr-location2)
+9. dec(ptr-car2)
+10. clear(ptr-location2)
+11. debark(ptr-car2,ptr-location1)
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 4550941; EXPANDED: 560000; EVALUATED: 28143376; OPEN QUEUE SIZE: 14553299
+[NODE]: f1=3
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car1,ptr-location1)
+8. sail(ptr-location1,ptr-location2)
+9. inc(ptr-location1)
+10. goto(7,!(( zf = 1 )))
+11. board(ptr-car2,ptr-location2)
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 4562725; EXPANDED: 570000; EVALUATED: 28734144; OPEN QUEUE SIZE: 15055324
+[NODE]: f1=3
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car1,ptr-location1)
+8. sail(ptr-location1,ptr-location2)
+9. set(ptr-location2,ptr-location1)
+10. sail(ptr-location2,ptr-location3)
+11. board(ptr-car2,ptr-location1)
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 4574535; EXPANDED: 580000; EVALUATED: 29326272; OPEN QUEUE SIZE: 15558413
+[NODE]: f1=3
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car1,ptr-location1)
+8. sail(ptr-location1,ptr-location2)
+9. dec(ptr-location3)
+10. board(ptr-car1,ptr-location3)
+11. debark(ptr-car1,ptr-location1)
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 4586494; EXPANDED: 590000; EVALUATED: 29919318; OPEN QUEUE SIZE: 16065409
+[NODE]: f1=3
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car1,ptr-location1)
+8. sail(ptr-location1,ptr-location2)
+9. set(ptr-location3,ptr-location2)
+10. set(ptr-car1,ptr-car2)
+11. test-min(on(ptr-car1))
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 4597870; EXPANDED: 600000; EVALUATED: 30513502; OPEN QUEUE SIZE: 16570397
+[NODE]: f1=3
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car1,ptr-location1)
+8. sail(ptr-location1,ptr-location3)
+9. sail(ptr-location1,ptr-location2)
+10. dec(ptr-location3)
+11. test-min(at-ferry(ptr-location1))
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 4623063; EXPANDED: 610000; EVALUATED: 31098262; OPEN QUEUE SIZE: 17066927
+[NODE]: f1=3
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car1,ptr-location1)
+8. sail(ptr-location1,ptr-location3)
+9. sail(ptr-location3,ptr-location1)
+10. set(ptr-location3,ptr-location2)
+11. goto(2,!(( zf = 1 )))
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 4635358; EXPANDED: 620000; EVALUATED: 31689272; OPEN QUEUE SIZE: 17577399
+[NODE]: f1=3
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car1,ptr-location1)
+8. sail(ptr-location1,ptr-location3)
+9. board(ptr-car1,ptr-location3)
+10. test-min(at(ptr-car2,ptr-location2))
+11. goto(5,!(( zf = 1 )))
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 4647610; EXPANDED: 630000; EVALUATED: 32280584; OPEN QUEUE SIZE: 18087813
+[NODE]: f1=3
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car1,ptr-location1)
+8. sail(ptr-location1,ptr-location3)
+9. debark(ptr-car1,ptr-location2)
+10. sail(ptr-location1,ptr-location2)
+11. dec(ptr-location3)
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 4659800; EXPANDED: 640000; EVALUATED: 32871296; OPEN QUEUE SIZE: 18597061
+[NODE]: f1=3
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car1,ptr-location1)
+8. sail(ptr-location1,ptr-location3)
+9. debark(ptr-car2,ptr-location3)
+10. sail(ptr-location2,ptr-location1)
+11. sail(ptr-location3,ptr-location1)
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 4671782; EXPANDED: 650000; EVALUATED: 33463004; OPEN QUEUE SIZE: 19105421
+[NODE]: f1=3
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car1,ptr-location1)
+8. sail(ptr-location1,ptr-location3)
+9. clear(ptr-object1)
+10. set(ptr-car2,ptr-car1)
+11. goto(2,!(( zf = 1 )))
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 4683876; EXPANDED: 660000; EVALUATED: 34054724; OPEN QUEUE SIZE: 19615149
+[NODE]: f1=3
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car1,ptr-location1)
+8. sail(ptr-location1,ptr-location3)
+9. clear(ptr-car1)
+10. goto(2,!(( zf = 1 )))
+11. inc(ptr-location2)
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 4695757; EXPANDED: 670000; EVALUATED: 34646792; OPEN QUEUE SIZE: 20123089
+[NODE]: f1=3
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car1,ptr-location1)
+8. sail(ptr-location1,ptr-location3)
+9. clear(ptr-car2)
+10. board(ptr-car2,ptr-location3)
+11. set(ptr-location2,ptr-location3)
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 4707718; EXPANDED: 680000; EVALUATED: 35239100; OPEN QUEUE SIZE: 20631581
+[NODE]: f1=3
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car1,ptr-location1)
+8. sail(ptr-location1,ptr-location3)
+9. inc(ptr-location2)
+10. set(ptr-car2,ptr-car1)
+11. debark(ptr-car2,ptr-location2)
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 4719551; EXPANDED: 690000; EVALUATED: 35829710; OPEN QUEUE SIZE: 21133863
+[NODE]: f1=3
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car1,ptr-location1)
+8. sail(ptr-location1,ptr-location3)
+9. set(ptr-location2,ptr-location1)
+10. set(ptr-location1,ptr-location3)
+11. board(ptr-car2,ptr-location3)
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 4731479; EXPANDED: 700000; EVALUATED: 36422660; OPEN QUEUE SIZE: 21640786
+[NODE]: f1=3
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car1,ptr-location1)
+8. sail(ptr-location1,ptr-location3)
+9. dec(ptr-location3)
+10. set(ptr-location3,ptr-location1)
+11. dec(ptr-car1)
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 4743493; EXPANDED: 710000; EVALUATED: 37014992; OPEN QUEUE SIZE: 22148662
+[NODE]: f1=3
+0. board(ptr-car1,ptr-location1)
+1. inc(ptr-location1)
+2. sail(ptr-location2,ptr-location1)
+3. debark(ptr-car1,ptr-location1)
+4. sail(ptr-location1,ptr-location2)
+5. board(ptr-car1,ptr-location2)
+6. sail(ptr-location2,ptr-location1)
+7. debark(ptr-car1,ptr-location1)
+8. sail(ptr-location1,ptr-location3)
+9. test-min(at-ferry(ptr-location1))
+10. goto(3,!(( zf = 1 )))
+11. sail(ptr-location1,ptr-location2)
+12. empty
+13. empty
+14. end
+
+Running learning parser
+Running runsolver parser
