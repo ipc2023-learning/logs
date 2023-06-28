@@ -1,0 +1,17 @@
+{
+  "all_files_with_dk_prefix": [
+    "dk.0"
+  ],
+  "apptainer_exit_code": 0,
+  "apptainer_wall_clock_time": 37930.93,
+  "coverage": 1,
+  "cpu_time": 36352.2,
+  "dk_file": "dk.0",
+  "error": "success",
+  "memory": 5938044,
+  "memory_limit": 33554432,
+  "node": "n375",
+  "virtual_memory": 7330356,
+  "wall_clock_time": 37930.6,
+  "wall_clock_time_limit": 86400
+}

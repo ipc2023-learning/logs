@@ -1,0 +1,35 @@
+Domain=domain.pddl Problem=p01.pddl
+Domain=domain.pddl Problem=p02.pddl
+Domain=domain.pddl Problem=p03.pddl
+Domain=domain.pddl Problem=p04.pddl
+Domain=domain.pddl Problem=p05.pddl
+Domain=domain.pddl Problem=p06.pddl
+Domain=domain.pddl Problem=p07.pddl
+Domain=domain.pddl Problem=p08.pddl
+Domain=domain.pddl Problem=p09.pddl
+Domain=domain.pddl Problem=p10.pddl
+Domain=domain.pddl Problem=p11.pddl
+Domain=domain.pddl Problem=p12.pddl
+Domain=domain.pddl Problem=p13.pddl
+Domain=domain.pddl Problem=p14.pddl
+Domain=domain.pddl Problem=p15.pddl
+Domain=domain.pddl Problem=p16.pddl
+Domain=domain.pddl Problem=p17.pddl
+Domain=domain.pddl Problem=p18.pddl
+Domain=domain.pddl Problem=p19.pddl
+Domain=domain.pddl Problem=p20.pddl
+Domain=domain.pddl Problem=p21.pddl
+Domain=domain.pddl Problem=p22.pddl
+Domain=domain.pddl Problem=p23.pddl
+Domain=domain.pddl Problem=p24.pddl
+Domain=domain.pddl Problem=p25.pddl
+Domain=domain.pddl Problem=p26.pddl
+Domain=domain.pddl Problem=p27.pddl
+Domain=domain.pddl Problem=p28.pddl
+Domain=domain.pddl Problem=p29.pddl
+Domain=domain.pddl Problem=p30.pddl
+[INFO] Parsed domain. [0.000]
+[INFO] Generalized Planning Problem created. [580.000]
+[INFO] Generalized Domain created. [0.000]
+Running learning parser
+Running runsolver parser
