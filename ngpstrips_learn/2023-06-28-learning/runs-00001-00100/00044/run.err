@@ -1,0 +1,17 @@
+main_strips.bin: ./pgp-landmarks-strips/src/landmark_graph.h:200: void LandmarkGraph::add_landmark_and_ordering(Landmark*, const string&, Landmark*): Assertion `f2l_it != _facts_to_landmarks.end()' failed.
+/.singularity.d/runscript: line 18: 126666 Aborted                 /main_strips.bin PGP 15 2 "" $DOMAIN_KNOWLEDGE_FILE landmarks h1
+no outcome determined by runsolver
+no outcome detected nor guessed for: {
+  "all_files_with_dk_prefix": [],
+  "apptainer_exit_code": 0,
+  "apptainer_wall_clock_time": 56.05,
+  "coverage": 0,
+  "cpu_time": 50.6026,
+  "dk_file": null,
+  "memory": 255516,
+  "memory_limit": 33554432,
+  "node": "n10",
+  "virtual_memory": 1823012,
+  "wall_clock_time": 55.8844,
+  "wall_clock_time_limit": 86400
+}

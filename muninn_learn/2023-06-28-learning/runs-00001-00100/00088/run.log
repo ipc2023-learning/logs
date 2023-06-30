@@ -1,0 +1,59 @@
+Output: dk
+Domain: domain.pddl
+Problems: p01.pddl p02.pddl p03.pddl p04.pddl p05.pddl p06.pddl p07.pddl p08.pddl p09.pddl p10.pddl p11.pddl p12.pddl p13.pddl p14.pddl p15.pddl p16.pddl p17.pddl p18.pddl p19.pddl p20.pddl p21.pddl p22.pddl p23.pddl p24.pddl p25.pddl p26.pddl p27.pddl p28.pddl p29.pddl p30.pddl p31.pddl p32.pddl p33.pddl p34.pddl p35.pddl p36.pddl p37.pddl p38.pddl p39.pddl p40.pddl p41.pddl p42.pddl p43.pddl p44.pddl p45.pddl p46.pddl p47.pddl p48.pddl p49.pddl p50.pddl p51.pddl p52.pddl p53.pddl p54.pddl p55.pddl p56.pddl p57.pddl p58.pddl p59.pddl p60.pddl p61.pddl p62.pddl p63.pddl p64.pddl p65.pddl p66.pddl p67.pddl p68.pddl p69.pddl p70.pddl p71.pddl p72.pddl p73.pddl p74.pddl p75.pddl p76.pddl p77.pddl p78.pddl p79.pddl p80.pddl p81.pddl p82.pddl p83.pddl p84.pddl p85.pddl p86.pddl p87.pddl p88.pddl p89.pddl p90.pddl p91.pddl p92.pddl p93.pddl p94.pddl p95.pddl p96.pddl p97.pddl p98.pddl p99.pddl
+Parsing problems... 
+
+Parsed 99 problems
+Created new model:
+Relational Message Passing Neural Network:
+ - # features: 48
+ - # layers: 30
+ - Global readout: No
+ - Maximum smoothness: 12
+ - Predicates: adjacent/3, at/2, at-robot/1, box/1, clear/1, direction/1, location/1
+Number of parameters: 265923
+
+Only CPU is available and will be used
+Problem "sokoban-01 (p01.pddl)" was fully expanded (17 states, 30 transitions, 54 objects, 1 ms, 3 steps to solve), from 17 (30) to 13 (22) states (transitions)
+Problem "sokoban-12 (p12.pddl)" was fully expanded (462 states, 1276 transitions, 54 objects, 18 ms, 11 steps to solve), from 462 (1276) to 462 (1276) states (transitions)
+Problem "sokoban-11 (p11.pddl)" was fully expanded (462 states, 1276 transitions, 54 objects, 247 ms, 11 steps to solve), from 462 (1276) to 462 (1276) states (transitions)
+Problem "sokoban-10 (p10.pddl)" was fully expanded (462 states, 1276 transitions, 54 objects, 253 ms, 11 steps to solve), from 462 (1276) to 462 (1276) states (transitions)
+Problem "sokoban-09 (p09.pddl)" was fully expanded (462 states, 1276 transitions, 54 objects, 274 ms, 11 steps to solve), from 462 (1276) to 462 (1276) states (transitions)
+Problem "sokoban-07 (p08.pddl)" was fully expanded (552 states, 1632 transitions, 54 objects, 279 ms, 11 steps to solve), from 552 (1632) to 282 (820) states (transitions)
+Problem "sokoban-07 (p07.pddl)" was fully expanded (552 states, 1632 transitions, 54 objects, 207 ms, 11 steps to solve), from 552 (1632) to 282 (820) states (transitions)
+Problem "sokoban-06 (p06.pddl)" was fully expanded (552 states, 1632 transitions, 54 objects, 207 ms, 11 steps to solve), from 552 (1632) to 282 (820) states (transitions)
+Problem "sokoban-05 (p05.pddl)" was fully expanded (552 states, 1632 transitions, 54 objects, 231 ms, 11 steps to solve), from 552 (1632) to 282 (820) states (transitions)
+Problem "sokoban-04 (p04.pddl)" was fully expanded (17 states, 30 transitions, 54 objects, 177 ms, 3 steps to solve), from 17 (30) to 13 (22) states (transitions)
+Problem "sokoban-03 (p03.pddl)" was fully expanded (17 states, 30 transitions, 54 objects, 2 ms, 3 steps to solve), from 17 (30) to 13 (22) states (transitions)
+Problem "sokoban-02 (p02.pddl)" was fully expanded (17 states, 30 transitions, 54 objects, 2 ms, 3 steps to solve), from 17 (30) to 13 (22) states (transitions)
+Problem "sokoban-25 (p25.pddl)" was fully expanded (319 states, 848 transitions, 69 objects, 30 ms, 3 steps to solve), from 319 (848) to 319 (848) states (transitions)
+Problem "sokoban-27 (p27.pddl)" was fully expanded (698 states, 1945 transitions, 69 objects, 168 ms, 8 steps to solve), from 698 (1945) to 698 (1945) states (transitions)
+Problem "sokoban-26 (p26.pddl)" was fully expanded (97 states, 224 transitions, 69 objects, 573 ms, 5 steps to solve), from 97 (224) to 97 (224) states (transitions)
+Problem "sokoban-24 (p24.pddl)" was fully expanded (687 states, 1857 transitions, 69 objects, 74 ms, 7 steps to solve), from 687 (1857) to 687 (1857) states (transitions)
+Problem "sokoban-23 (p23.pddl)" was fully expanded (181 states, 443 transitions, 69 objects, 549 ms, 9 steps to solve), from 181 (443) to 181 (443) states (transitions)
+Problem "sokoban-22 (p22.pddl)" was fully expanded (376 states, 952 transitions, 69 objects, 62 ms, 16 steps to solve), from 376 (952) to 376 (952) states (transitions)
+Problem "sokoban-21 (p21.pddl)" was fully expanded (496 states, 1274 transitions, 69 objects, 197 ms, 8 steps to solve), from 496 (1274) to 496 (1274) states (transitions)
+Problem "sokoban-20 (p20.pddl)" was fully expanded (928 states, 2730 transitions, 69 objects, 327 ms, 12 steps to solve), from 928 (2730) to 928 (2730) states (transitions)
+Problem "sokoban-18 (p18.pddl)" was fully expanded (131 states, 324 transitions, 69 objects, 1040 ms, 6 steps to solve), from 131 (324) to 131 (324) states (transitions)
+Problem "sokoban-17 (p17.pddl)" was fully expanded (180 states, 450 transitions, 69 objects, 57 ms, 11 steps to solve), from 180 (450) to 180 (450) states (transitions)
+Problem "sokoban-16 (p16.pddl)" was fully expanded (525 states, 1452 transitions, 69 objects, 104 ms, 13 steps to solve), from 525 (1452) to 525 (1452) states (transitions)
+Problem "sokoban-15 (p15.pddl)" was fully expanded (459 states, 1279 transitions, 69 objects, 407 ms, 12 steps to solve), from 459 (1279) to 459 (1279) states (transitions)
+Problem "sokoban-19 (p19.pddl)" was fully expanded (338 states, 875 transitions, 69 objects, 258 ms, 6 steps to solve), from 338 (875) to 338 (875) states (transitions)
+Problem "sokoban-14 (p14.pddl)" was fully expanded (269 states, 676 transitions, 69 objects, 156 ms, 9 steps to solve), from 269 (676) to 269 (676) states (transitions)
+Problem "sokoban-13 (p13.pddl)" was fully expanded (253 states, 669 transitions, 69 objects, 153 ms, 12 steps to solve), from 253 (669) to 253 (669) states (transitions)
+Problem "sokoban-29 (p29.pddl)" was fully expanded (623 states, 1591 transitions, 86 objects, 112 ms, 14 steps to solve), from 623 (1591) to 623 (1591) states (transitions)
+Problem "sokoban-34 (p34.pddl)" was fully expanded (283 states, 719 transitions, 86 objects, 648 ms, 7 steps to solve), from 283 (719) to 283 (719) states (transitions)
+Problem "sokoban-33 (p33.pddl)" was fully expanded (33 states, 66 transitions, 86 objects, 294 ms, 8 steps to solve), from 33 (66) to 33 (66) states (transitions)
+Problem "sokoban-32 (p32.pddl)" was fully expanded (642 states, 1680 transitions, 86 objects, 60 ms, 4 steps to solve), from 642 (1680) to 642 (1680) states (transitions)
+Problem "sokoban-31 (p31.pddl)" was fully expanded (1352 states, 3973 transitions, 86 objects, 676 ms, 14 steps to solve), from 1352 (3973) to 1352 (3973) states (transitions)
+Problem "sokoban-30 (p30.pddl)" was fully expanded (209 states, 541 transitions, 86 objects, 2333 ms, 10 steps to solve), from 209 (541) to 209 (541) states (transitions)
+Problem "sokoban-28 (p28.pddl)" was fully expanded (334 states, 873 transitions, 86 objects, 95 ms, 4 steps to solve), from 334 (873) to 334 (873) states (transitions)
+	zip warning: name not matched: optimal_best.hparams
+	zip warning: name not matched: optimal_best.pnn
+	zip warning: name not matched: suboptimal_best.hparams
+	zip warning: name not matched: suboptimal_best.pnn
+	zip warning: name not matched: use_wl
+
+zip error: Nothing to do! (dk.1)
+Running learning parser
+Running runsolver parser

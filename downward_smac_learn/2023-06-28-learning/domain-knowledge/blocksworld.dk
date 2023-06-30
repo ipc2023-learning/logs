@@ -1,0 +1,4 @@
+configs = [
+    # Num: 1, Tuner-Timeout: 82800, Learn quality: 0.07
+    (1800, ["--heuristic", "hAdd=add(cost_type=1)", "--heuristic", "hGoalCount=goalcount(cost_type=1)", "--search", "lazy(alt([single(hAdd),single(hAdd,pref_only=true),single(hGoalCount),single(hGoalCount,pref_only=true)],boost=3861),preferred=[hAdd,hGoalCount],reopen_closed=false,cost_type=1,bound=infinity)"]),
+]

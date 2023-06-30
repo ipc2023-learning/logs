@@ -1,0 +1,17 @@
+main_strips.bin: ./pgp-landmarks-strips/src/parser.h:94: static Variable* Parser::groundingVar(StateDescriptor*, const string&, const std::map<std::__cxx11::basic_string<char>, int>&, const std::vector<std::__cxx11::basic_string<char> >&): Assertion `it != par_name_to_idx.end()' failed.
+/.singularity.d/runscript: line 18: 125890 Aborted                 /main_strips.bin PGP 15 2 "" $DOMAIN_KNOWLEDGE_FILE landmarks h1
+no outcome determined by runsolver
+no outcome detected nor guessed for: {
+  "all_files_with_dk_prefix": [],
+  "apptainer_exit_code": 0,
+  "apptainer_wall_clock_time": 25.43,
+  "coverage": 0,
+  "cpu_time": 20.3188,
+  "dk_file": null,
+  "memory": 41340,
+  "memory_limit": 33554432,
+  "node": "n10",
+  "virtual_memory": 1759528,
+  "wall_clock_time": 25.3358,
+  "wall_clock_time_limit": 86400
+}

@@ -1,0 +1,12 @@
+/usr/local/lib/python3.10/dist-packages/numpy/core/fromnumeric.py:3464: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+/usr/local/lib/python3.10/dist-packages/numpy/core/_methods.py:192: RuntimeWarning: invalid value encountered in scalar divide
+  ret = ret.dtype.type(ret / rcount)
+Traceback (most recent call last):
+  File "/learn.py", line 383, in <module>
+    main()
+  File "/learn.py", line 284, in main
+    aleph_experiment.run_aleph_class_probability (f'{TRAINING_DIR}/partial-grounding-aleph', TRAINING_SET, ENV)
+  File "//training/aleph_experiment.py", line 129, in run_aleph_class_probability
+    for direc in os.listdir(os.path.join(WORKING_DIR, "exp")):
+FileNotFoundError: [Errno 2] No such file or directory: './data/partial-grounding-aleph/exp'

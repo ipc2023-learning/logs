@@ -1,0 +1,21 @@
+Traceback (most recent call last):
+  File "/gnn-learning/src/train.py", line 70, in <module>
+    train_and_save_model(
+  File "/gnn-learning/src/model/training.py", line 126, in train_and_save_model
+    train_results = model_handler.train(train_loader)
+  File "/gnn-learning/src/model/model_handler.py", line 80, in train
+    loss = F.binary_cross_entropy(
+  File "/usr/local/lib/python3.10/dist-packages/torch/nn/functional.py", line 3098, in binary_cross_entropy
+    return torch._C._nn.binary_cross_entropy(input, target, weight, reduction_enum)
+RuntimeError: all elements of input should be between 0 and 1
+Traceback (most recent call last):
+  File "/gnn-learning/src/train.py", line 70, in <module>
+    train_and_save_model(
+  File "/gnn-learning/src/model/training.py", line 126, in train_and_save_model
+    train_results = model_handler.train(train_loader)
+  File "/gnn-learning/src/model/model_handler.py", line 80, in train
+    loss = F.binary_cross_entropy(
+  File "/usr/local/lib/python3.10/dist-packages/torch/nn/functional.py", line 3098, in binary_cross_entropy
+    return torch._C._nn.binary_cross_entropy(input, target, weight, reduction_enum)
+RuntimeError: all elements of input should be between 0 and 1
+Terminated

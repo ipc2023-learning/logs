@@ -1,0 +1,38 @@
+Output: dk
+Domain: domain.pddl
+Problems: p01.pddl p02.pddl p03.pddl p04.pddl p05.pddl p06.pddl p07.pddl p08.pddl p09.pddl p10.pddl p11.pddl p12.pddl p13.pddl p14.pddl p15.pddl p16.pddl p17.pddl p18.pddl p19.pddl p20.pddl p21.pddl p22.pddl p23.pddl p24.pddl p25.pddl p26.pddl p27.pddl p28.pddl p29.pddl p30.pddl p31.pddl p32.pddl p33.pddl p34.pddl p35.pddl p36.pddl p37.pddl p38.pddl p39.pddl p40.pddl p41.pddl p42.pddl p43.pddl p44.pddl p45.pddl p46.pddl p47.pddl p48.pddl p49.pddl p50.pddl p51.pddl p52.pddl p53.pddl p54.pddl p55.pddl p56.pddl p57.pddl p58.pddl p59.pddl p60.pddl p61.pddl p62.pddl p63.pddl p64.pddl p65.pddl p66.pddl p67.pddl p68.pddl p69.pddl p70.pddl p71.pddl p72.pddl p73.pddl p74.pddl p75.pddl p76.pddl p77.pddl p78.pddl p79.pddl p80.pddl p81.pddl p82.pddl p83.pddl p84.pddl p85.pddl p86.pddl p87.pddl p88.pddl p89.pddl p90.pddl p91.pddl p92.pddl p93.pddl p94.pddl p95.pddl p96.pddl p97.pddl p98.pddl p99.pddl
+Parsing problems... 
+
+Parsed 99 problems
+Created new model:
+Relational Message Passing Neural Network:
+ - # features: 48
+ - # layers: 30
+ - Global readout: No
+ - Maximum smoothness: 12
+ - Predicates: at/2, at_lander/2, at_rock_sample/1, at_soil_sample/1, calibrated/2, calibration_target/2, camera/1, can_traverse/3, communicated_image_data/2, communicated_rock_data/1, communicated_soil_data/1, empty/1, equipped_for_imaging/1, equipped_for_rock_analysis/1, equipped_for_soil_analysis/1, full/1, have_image/3, have_rock_analysis/2, have_soil_analysis/2, lander/1, mode/1, objective/1, on_board/2, rover/1, store/1, store_of/2, supports/2, visible/2, visible_from/2, waypoint/1
+Number of parameters: 862659
+
+Only CPU is available and will be used
+Problem "rover-01 (p01.pddl)" was fully expanded (108 states, 351 transitions, 10 objects, 1 ms, 10 steps to solve), from 108 (351) to 40 (93) states (transitions)
+Problem "rover-02 (p02.pddl)" was fully expanded (540 states, 2241 transitions, 10 objects, 7 ms, 13 steps to solve), from 540 (2241) to 200 (613) states (transitions)
+Problem "rover-03 (p03.pddl)" was fully expanded (540 states, 2241 transitions, 10 objects, 8 ms, 13 steps to solve), from 540 (2241) to 200 (651) states (transitions)
+Problem "rover-04 (p04.pddl)" was fully expanded (2754 states, 13851 transitions, 11 objects, 40 ms, 13 steps to solve), from 2754 (13851) to 1836 (7624) states (transitions)
+Problem "rover-11 (p11.pddl)" was fully expanded (314712 states, 2872341 transitions, 12 objects, 8366 ms, 17 steps to solve), from 314712 (2872341) to 209808 (1422078) states (transitions)
+Problem "rover-16 (p16.pddl)" was fully expanded (1080 states, 5724 transitions, 12 objects, 795 ms, 10 steps to solve), from 1080 (5724) to 400 (1620) states (transitions)
+Problem "rover-15 (p15.pddl)" was fully expanded (104760 states, 899667 transitions, 12 objects, 2939 ms, 20 steps to solve), from 104760 (899667) to 38800 (240437) states (transitions)
+Problem "rover-14 (p14.pddl)" was fully expanded (104760 states, 847287 transitions, 12 objects, 2901 ms, 16 steps to solve), from 104760 (847287) to 38800 (221037) states (transitions)
+Problem "rover-13 (p13.pddl)" was fully expanded (314712 states, 3029697 transitions, 12 objects, 8944 ms, 8 steps to solve), from 314712 (3029697) to 116560 (801383) states (transitions)
+Problem "rover-12 (p12.pddl)" was fully expanded (34776 states, 200178 transitions, 12 objects, 1374 ms, 9 steps to solve), from 34776 (200178) to 12880 (56112) states (transitions)
+Problem "rover-10 (p10.pddl)" was fully expanded (34776 states, 195831 transitions, 12 objects, 899 ms, 10 steps to solve), from 34776 (195831) to 23184 (108784) states (transitions)
+Problem "rover-09 (p09.pddl)" was fully expanded (314712 states, 2596752 transitions, 12 objects, 8636 ms, 24 steps to solve), from 314712 (2596752) to 116560 (704232) states (transitions)
+Problem "rover-08 (p08.pddl)" was fully expanded (3672 states, 12987 transitions, 12 objects, 586 ms, 15 steps to solve), from 3672 (12987) to 2448 (7402) states (transitions)
+	zip warning: name not matched: optimal_best.hparams
+	zip warning: name not matched: optimal_best.pnn
+	zip warning: name not matched: suboptimal_best.hparams
+	zip warning: name not matched: suboptimal_best.pnn
+	zip warning: name not matched: use_wl
+
+zip error: Nothing to do! (dk.1)
+Running learning parser
+Running runsolver parser

@@ -1,0 +1,162 @@
+Output: dk
+Domain: domain.pddl
+Problems: p01.pddl p02.pddl p03.pddl p04.pddl p05.pddl p06.pddl p07.pddl p08.pddl p09.pddl p10.pddl p11.pddl p12.pddl p13.pddl p14.pddl p15.pddl p16.pddl p17.pddl p18.pddl p19.pddl p20.pddl p21.pddl p22.pddl p23.pddl p24.pddl p25.pddl p26.pddl p27.pddl p28.pddl p29.pddl p30.pddl p31.pddl p32.pddl p33.pddl p34.pddl p35.pddl p36.pddl p37.pddl p38.pddl p39.pddl p40.pddl p41.pddl p42.pddl p43.pddl p44.pddl p45.pddl p46.pddl p47.pddl p48.pddl p49.pddl p50.pddl p51.pddl p52.pddl p53.pddl p54.pddl p55.pddl p56.pddl p57.pddl p58.pddl p59.pddl p60.pddl p61.pddl p62.pddl p63.pddl p64.pddl p65.pddl p66.pddl p67.pddl p68.pddl p69.pddl p70.pddl p71.pddl p72.pddl p73.pddl p74.pddl p75.pddl p76.pddl p77.pddl p78.pddl p79.pddl p80.pddl p81.pddl p82.pddl p83.pddl p84.pddl p85.pddl p86.pddl p87.pddl p88.pddl p89.pddl p90.pddl p91.pddl p92.pddl p93.pddl p94.pddl p95.pddl p96.pddl p97.pddl p98.pddl p99.pddl
+Parsing problems... 
+
+Parsed 99 problems
+Created new model:
+Relational Message Passing Neural Network:
+ - # features: 48
+ - # layers: 30
+ - Global readout: No
+ - Maximum smoothness: 12
+ - Predicates: allergic_gluten/1, at/2, at_kitchen_bread/1, at_kitchen_content/1, at_kitchen_sandwich/1, bread-portion/1, child/1, content-portion/1, no_gluten_bread/1, no_gluten_content/1, no_gluten_sandwich/1, not_allergic_gluten/1, notexist/1, ontray/2, place/1, sandwich/1, served/1, tray/1, waiting/2
+Number of parameters: 360387
+
+Only CPU is available and will be used
+Problem "childsnack-01 (p01.pddl)" was fully expanded (8 states, 20 transitions, 7 objects, 0 ms, 4 steps to solve), from 8 (20) to 8 (20) states (transitions)
+Problem "childsnack-02 (p02.pddl)" was fully expanded (12 states, 31 transitions, 7 objects, 0 ms, 4 steps to solve), from 12 (31) to 12 (31) states (transitions)
+Problem "childsnack-03 (p03.pddl)" was fully expanded (117 states, 489 transitions, 11 objects, 1 ms, 4 steps to solve), pruning is not safe
+Problem "childsnack-04 (p04.pddl)" was fully expanded (594 states, 4224 transitions, 12 objects, 7 ms, 4 steps to solve)
+Problem "childsnack-05 (p05.pddl)" was fully expanded (375 states, 1701 transitions, 12 objects, 4 ms, 8 steps to solve)
+Problem "childsnack-06 (p06.pddl)" was fully expanded (198 states, 806 transitions, 12 objects, 2 ms, 7 steps to solve)
+Problem "childsnack-07 (p07.pddl)" was fully expanded (252 states, 1172 transitions, 12 objects, 3 ms, 7 steps to solve)
+Problem "childsnack-08 (p08.pddl)" was fully expanded (1593 states, 12150 transitions, 13 objects, 21 ms, 8 steps to solve)
+Problem "childsnack-09 (p09.pddl)" was fully expanded (891 states, 6378 transitions, 13 objects, 12 ms, 7 steps to solve)
+Problem "childsnack-10 (p10.pddl)" was fully expanded (1152 states, 8784 transitions, 13 objects, 16 ms, 8 steps to solve)
+Problem "childsnack-11 (p11.pddl)" was fully expanded (3664 states, 22927 transitions, 16 objects, 49 ms, 7 steps to solve)
+Problem "childsnack-12 (p12.pddl)" was fully expanded (21440 states, 216664 transitions, 17 objects, 384 ms, 7 steps to solve)
+Problem "childsnack-14 (p14.pddl)" was fully expanded (62784 states, 578184 transitions, 21 objects, 1192 ms, 15 steps to solve)
+Problem "childsnack-15 (p15.pddl)" was fully expanded (62784 states, 578184 transitions, 21 objects, 1130 ms, 15 steps to solve)
+Problem "childsnack-16 (p16.pddl)" was fully expanded (62784 states, 578184 transitions, 21 objects, 1169 ms, 14 steps to solve)
+Problem "childsnack-17 (p17.pddl)" was fully expanded (62784 states, 578184 transitions, 21 objects, 1187 ms, 14 steps to solve)
+Problem "childsnack-18 (p18.pddl)" was fully expanded (62784 states, 578184 transitions, 21 objects, 1208 ms, 15 steps to solve)
+Problem "childsnack-19 (p19.pddl)" was fully expanded (62784 states, 578184 transitions, 21 objects, 1166 ms, 15 steps to solve)
+Problem "childsnack-20 (p20.pddl)" was fully expanded (62784 states, 578184 transitions, 21 objects, 1135 ms, 15 steps to solve)
+Problem "childsnack-21 (p21.pddl)" was fully expanded (62784 states, 578184 transitions, 21 objects, 1162 ms, 15 steps to solve)
+Problem "childsnack-25 (p25.pddl)" was fully expanded (138544 states, 1415416 transitions, 22 objects, 2804 ms, 15 steps to solve)
+Problem "childsnack-26 (p26.pddl)" was fully expanded (138544 states, 1415416 transitions, 22 objects, 2809 ms, 15 steps to solve)
+Problem "childsnack-24 (p24.pddl)" was fully expanded (138544 states, 1415416 transitions, 22 objects, 2888 ms, 15 steps to solve)
+Problem "childsnack-22 (p22.pddl)" was fully expanded (138544 states, 1415416 transitions, 22 objects, 2852 ms, 14 steps to solve)
+Problem "childsnack-23 (p23.pddl)" was fully expanded (138544 states, 1415416 transitions, 22 objects, 2959 ms, 13 steps to solve)
+Problem "childsnack-13 (p13.pddl)" was fully expanded (1256956 states, 14819944 transitions, 23 objects, 32326 ms, 10 steps to solve)
+Problem "childsnack-27 (p27.pddl)" was fully expanded (2511672 states, 28363188 transitions, 25 objects, 61943 ms, 17 steps to solve)
+Problem "childsnack-28 (p28.pddl)" was fully expanded (2511672 states, 28363188 transitions, 25 objects, 64139 ms, 18 steps to solve)
+Problem "childsnack-29 (p29.pddl)" was fully expanded (6234840 states, 77337960 transitions, 26 objects, 175890 ms, 17 steps to solve)
+Problem "childsnack-30 (p30.pddl)" has too many states, 26 objects (11819 ms)
+Problem "childsnack-31 (p31.pddl)" has too many states, 26 objects (12561 ms)
+Problem "childsnack-32 (p32.pddl)" has too many states, 26 objects (12607 ms)
+Problem "childsnack-33 (p33.pddl)" has too many states, 26 objects (11629 ms)
+Problem "childsnack-34 (p34.pddl)" has too many states, 26 objects (13206 ms)
+Problem "childsnack-35 (p35.pddl)" has too many states, 26 objects (12408 ms)
+Problem "childsnack-36 (p36.pddl)" has too many states, 27 objects (13259 ms)
+Problem "childsnack-38 (p38.pddl)" has too many states, 27 objects (12937 ms)
+Problem "childsnack-37 (p37.pddl)" has too many states, 27 objects (12077 ms)
+Problem "childsnack-39 (p39.pddl)" has too many states, 30 objects (11169 ms)
+Problem "childsnack-40 (p40.pddl)" has too many states, 30 objects (10787 ms)
+Problem "childsnack-41 (p41.pddl)" has too many states, 30 objects (10616 ms)
+Problem "childsnack-42 (p42.pddl)" has too many states, 30 objects (11065 ms)
+Problem "childsnack-43 (p43.pddl)" has too many states, 32 objects (10885 ms)
+Problem "childsnack-44 (p44.pddl)" has too many states, 32 objects (11300 ms)
+Problem "childsnack-45 (p45.pddl)" has too many states, 32 objects (10173 ms)
+Problem "childsnack-46 (p46.pddl)" has too many states, 32 objects (10416 ms)
+Problem "childsnack-47 (p47.pddl)" has too many states, 32 objects (10942 ms)
+Problem "childsnack-48 (p48.pddl)" has too many states, 32 objects (10528 ms)
+Problem "childsnack-49 (p49.pddl)" has too many states, 32 objects (10783 ms)
+Problem "childsnack-50 (p50.pddl)" has too many states, 33 objects (11007 ms)
+Problem "childsnack-51 (p51.pddl)" has too many states, 36 objects (11242 ms)
+Problem "childsnack-52 (p52.pddl)" has too many states, 36 objects (11903 ms)
+Problem "childsnack-53 (p53.pddl)" has too many states, 36 objects (10958 ms)
+Problem "childsnack-54 (p54.pddl)" has too many states, 36 objects (11147 ms)
+Problem "childsnack-55 (p55.pddl)" has too many states, 36 objects (11944 ms)
+Problem "childsnack-56 (p56.pddl)" has too many states, 36 objects (10804 ms)
+Problem "childsnack-61 (p61.pddl)" has too many states, 37 objects (11175 ms)
+Problem "childsnack-63 (p63.pddl)" has too many states, 37 objects (11720 ms)
+Problem "childsnack-62 (p62.pddl)" has too many states, 37 objects (11775 ms)
+Problem "childsnack-60 (p60.pddl)" has too many states, 37 objects (11541 ms)
+Problem "childsnack-59 (p59.pddl)" has too many states, 37 objects (11182 ms)
+Problem "childsnack-58 (p58.pddl)" has too many states, 37 objects (11575 ms)
+Problem "childsnack-57 (p57.pddl)" has too many states, 37 objects (11177 ms)
+Problem "childsnack-64 (p64.pddl)" has too many states, 40 objects (11484 ms)
+Problem "childsnack-65 (p65.pddl)" has too many states, 41 objects (12197 ms)
+Problem "childsnack-66 (p66.pddl)" has too many states, 41 objects (11792 ms)
+Problem "childsnack-67 (p67.pddl)" has too many states, 41 objects (11711 ms)
+Problem "childsnack-68 (p68.pddl)" has too many states, 41 objects (11593 ms)
+Problem "childsnack-69 (p69.pddl)" has too many states, 41 objects (11370 ms)
+Problem "childsnack-70 (p70.pddl)" has too many states, 41 objects (11884 ms)
+Problem "childsnack-71 (p71.pddl)" has too many states, 41 objects (11983 ms)
+Problem "childsnack-74 (p74.pddl)" has too many states, 43 objects (11123 ms)
+Problem "childsnack-75 (p75.pddl)" has too many states, 43 objects (11807 ms)
+Problem "childsnack-73 (p73.pddl)" has too many states, 43 objects (11513 ms)
+Problem "childsnack-72 (p72.pddl)" has too many states, 43 objects (11750 ms)
+Problem "childsnack-76 (p76.pddl)" has too many states, 46 objects (12153 ms)
+Problem "childsnack-77 (p77.pddl)" has too many states, 46 objects (12510 ms)
+Problem "childsnack-78 (p78.pddl)" has too many states, 46 objects (13519 ms)
+Problem "childsnack-84 (p84.pddl)" has too many states, 47 objects (11800 ms)
+Problem "childsnack-85 (p85.pddl)" has too many states, 47 objects (11908 ms)
+Problem "childsnack-83 (p83.pddl)" has too many states, 47 objects (14300 ms)
+Problem "childsnack-82 (p82.pddl)" has too many states, 47 objects (12752 ms)
+Problem "childsnack-81 (p81.pddl)" has too many states, 47 objects (12893 ms)
+Problem "childsnack-80 (p80.pddl)" has too many states, 47 objects (13054 ms)
+Problem "childsnack-79 (p79.pddl)" has too many states, 47 objects (13901 ms)
+Problem "childsnack-86 (p86.pddl)" has too many states, 48 objects (12505 ms)
+Problem "childsnack-87 (p87.pddl)" has too many states, 48 objects (11777 ms)
+Problem "childsnack-88 (p88.pddl)" has too many states, 51 objects (13498 ms)
+Problem "childsnack-89 (p89.pddl)" has too many states, 51 objects (13205 ms)
+Problem "childsnack-90 (p90.pddl)" has too many states, 51 objects (14190 ms)
+Problem "childsnack-91 (p91.pddl)" has too many states, 51 objects (12237 ms)
+Problem "childsnack-92 (p92.pddl)" has too many states, 51 objects (12392 ms)
+Problem "childsnack-98 (p98.pddl)" has too many states, 52 objects (14024 ms)
+Problem "childsnack-97 (p97.pddl)" has too many states, 52 objects (12282 ms)
+Problem "childsnack-96 (p96.pddl)" has too many states, 52 objects (11782 ms)
+Problem "childsnack-95 (p95.pddl)" has too many states, 52 objects (14521 ms)
+Problem "childsnack-94 (p94.pddl)" has too many states, 52 objects (13035 ms)
+Problem "childsnack-93 (p93.pddl)" has too many states, 52 objects (12796 ms)
+Problem "childsnack-99 (p99.pddl)" has too many states, 52 objects (12609 ms)
+
+1-WL Pruning is not safe
+1-WL Pruning appears not be useful
+
+Training problems: 
+ - childsnack-01 (p01.pddl)
+ - childsnack-02 (p02.pddl)
+ - childsnack-03 (p03.pddl)
+ - childsnack-06 (p06.pddl)
+ - childsnack-07 (p07.pddl)
+ - childsnack-05 (p05.pddl)
+ - childsnack-04 (p04.pddl)
+ - childsnack-09 (p09.pddl)
+ - childsnack-10 (p10.pddl)
+ - childsnack-08 (p08.pddl)
+ - childsnack-11 (p11.pddl)
+ - childsnack-12 (p12.pddl)
+ - childsnack-16 (p16.pddl)
+ - childsnack-21 (p21.pddl)
+ - childsnack-20 (p20.pddl)
+ - childsnack-19 (p19.pddl)
+ - childsnack-18 (p18.pddl)
+ - childsnack-17 (p17.pddl)
+ - childsnack-15 (p15.pddl)
+ - childsnack-14 (p14.pddl)
+ - childsnack-25 (p25.pddl)
+ - childsnack-26 (p26.pddl)
+ - childsnack-24 (p24.pddl)
+ - childsnack-22 (p22.pddl)
+ - childsnack-23 (p23.pddl)
+ - childsnack-13 (p13.pddl)
+
+Validation problems: 
+ - childsnack-27 (p27.pddl)
+ - childsnack-28 (p28.pddl)
+ - childsnack-29 (p29.pddl)
+
+
+Optimal learning...
+Time: 20 minutes
+	zip warning: name not matched: optimal_best.hparams
+	zip warning: name not matched: optimal_best.pnn
+	zip warning: name not matched: suboptimal_best.hparams
+	zip warning: name not matched: suboptimal_best.pnn
+  adding: use_wl (stored 0%)
+Running learning parser
+Running runsolver parser

@@ -1,0 +1,17 @@
+main.bin: src/parser.h:94: static Variable* Parser::groundingVar(StateDescriptor*, const string&, const std::map<std::__cxx11::basic_string<char>, int>&, const std::vector<std::__cxx11::basic_string<char> >&): Assertion `it != par_name_to_idx.end()' failed.
+/.singularity.d/runscript: line 17: 23788 Aborted                 /main.bin PGP 15 "" $DOMAIN_KNOWLEDGE_FILE
+no outcome determined by runsolver
+no outcome detected nor guessed for: {
+  "all_files_with_dk_prefix": [],
+  "apptainer_exit_code": 0,
+  "apptainer_wall_clock_time": 17.5,
+  "coverage": 0,
+  "cpu_time": 16.2699,
+  "dk_file": null,
+  "memory": 37876,
+  "memory_limit": 33554432,
+  "node": "n1789",
+  "virtual_memory": 1685972,
+  "wall_clock_time": 17.327,
+  "wall_clock_time_limit": 86400
+}

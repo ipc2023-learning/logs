@@ -1,0 +1,1974 @@
+2023-06-29 00:16:45,950 INFO     Running LAMA on all traning instances (remaining time 23:59:59.376968)
+2023-06-29 00:16:45,956 INFO     Running step build: build()
+2023-06-29 00:16:45,956 INFO     Experiment path: "/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-28-learning/runs-00001-00100/00052/data/runs-lama-exp"
+2023-06-29 00:16:46,512 INFO     Building 99 runs
+2023-06-29 00:16:52,780 INFO     Finished building runs
+2023-06-29 00:16:52,782 INFO     Running step start: start_runs()
+2023-06-29 00:16:52,782 INFO     Executing /usr/bin/python3 run {'cwd': '/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-28-learning/runs-00001-00100/00052/data/runs-lama-exp'}
+2023-06-29 00:16:53,065 INFO     Starting run 44 (TASK_ID 1) in runs-00001-00100/00044
+2023-06-29 00:16:54,243 INFO     Starting run 82 (TASK_ID 2) in runs-00001-00100/00082
+2023-06-29 00:16:55,208 INFO     Starting run 78 (TASK_ID 3) in runs-00001-00100/00078
+2023-06-29 00:20:33,749 INFO     Starting run 20 (TASK_ID 4) in runs-00001-00100/00020
+2023-06-29 00:20:34,208 INFO     Starting run 2 (TASK_ID 5) in runs-00001-00100/00002
+2023-06-29 00:20:34,689 INFO     Starting run 16 (TASK_ID 6) in runs-00001-00100/00016
+2023-06-29 00:20:35,114 INFO     Starting run 84 (TASK_ID 7) in runs-00001-00100/00084
+2023-06-29 00:25:01,959 INFO     Starting run 68 (TASK_ID 8) in runs-00001-00100/00068
+2023-06-29 00:25:20,779 INFO     Starting run 64 (TASK_ID 9) in runs-00001-00100/00064
+2023-06-29 00:25:21,573 INFO     Starting run 36 (TASK_ID 10) in runs-00001-00100/00036
+2023-06-29 00:25:22,102 INFO     Starting run 31 (TASK_ID 11) in runs-00001-00100/00031
+2023-06-29 00:25:22,513 INFO     Starting run 61 (TASK_ID 12) in runs-00001-00100/00061
+2023-06-29 00:25:23,058 INFO     Starting run 3 (TASK_ID 13) in runs-00001-00100/00003
+2023-06-29 00:25:23,443 INFO     Starting run 58 (TASK_ID 14) in runs-00001-00100/00058
+2023-06-29 00:25:23,958 INFO     Starting run 28 (TASK_ID 15) in runs-00001-00100/00028
+2023-06-29 00:25:24,458 INFO     Starting run 54 (TASK_ID 16) in runs-00001-00100/00054
+2023-06-29 00:25:24,952 INFO     Starting run 39 (TASK_ID 17) in runs-00001-00100/00039
+2023-06-29 00:25:25,417 INFO     Starting run 67 (TASK_ID 18) in runs-00001-00100/00067
+2023-06-29 00:25:26,085 INFO     Starting run 17 (TASK_ID 19) in runs-00001-00100/00017
+2023-06-29 00:25:26,535 INFO     Starting run 97 (TASK_ID 20) in runs-00001-00100/00097
+2023-06-29 00:29:11,988 INFO     Starting run 59 (TASK_ID 21) in runs-00001-00100/00059
+2023-06-29 00:29:12,549 INFO     Starting run 83 (TASK_ID 22) in runs-00001-00100/00083
+2023-06-29 00:29:13,480 INFO     Starting run 14 (TASK_ID 23) in runs-00001-00100/00014
+2023-06-29 00:29:13,907 INFO     Starting run 15 (TASK_ID 24) in runs-00001-00100/00015
+2023-06-29 00:29:14,405 INFO     Starting run 76 (TASK_ID 25) in runs-00001-00100/00076
+2023-06-29 00:29:15,214 INFO     Starting run 35 (TASK_ID 26) in runs-00001-00100/00035
+2023-06-29 00:29:15,638 INFO     Starting run 55 (TASK_ID 27) in runs-00001-00100/00055
+2023-06-29 00:29:16,250 INFO     Starting run 27 (TASK_ID 28) in runs-00001-00100/00027
+2023-06-29 00:29:17,052 INFO     Starting run 69 (TASK_ID 29) in runs-00001-00100/00069
+2023-06-29 00:29:18,142 INFO     Starting run 91 (TASK_ID 30) in runs-00001-00100/00091
+2023-06-29 00:29:19,233 INFO     Starting run 95 (TASK_ID 31) in runs-00001-00100/00095
+2023-06-29 00:29:20,429 INFO     Starting run 74 (TASK_ID 32) in runs-00001-00100/00074
+2023-06-29 00:32:47,499 INFO     Starting run 51 (TASK_ID 33) in runs-00001-00100/00051
+2023-06-29 00:32:48,066 INFO     Starting run 96 (TASK_ID 34) in runs-00001-00100/00096
+2023-06-29 00:37:35,845 INFO     Starting run 56 (TASK_ID 35) in runs-00001-00100/00056
+2023-06-29 00:37:36,446 INFO     Starting run 48 (TASK_ID 36) in runs-00001-00100/00048
+2023-06-29 00:37:36,947 INFO     Starting run 29 (TASK_ID 37) in runs-00001-00100/00029
+2023-06-29 00:37:37,495 INFO     Starting run 88 (TASK_ID 38) in runs-00001-00100/00088
+2023-06-29 00:37:38,559 INFO     Starting run 50 (TASK_ID 39) in runs-00001-00100/00050
+2023-06-29 00:37:39,180 INFO     Starting run 49 (TASK_ID 40) in runs-00001-00100/00049
+2023-06-29 00:37:39,678 INFO     Starting run 26 (TASK_ID 41) in runs-00001-00100/00026
+2023-06-29 00:37:40,136 INFO     Starting run 34 (TASK_ID 42) in runs-00001-00100/00034
+2023-06-29 00:37:40,669 INFO     Starting run 77 (TASK_ID 43) in runs-00001-00100/00077
+2023-06-29 00:37:41,533 INFO     Starting run 62 (TASK_ID 44) in runs-00001-00100/00062
+2023-06-29 00:37:42,121 INFO     Starting run 23 (TASK_ID 45) in runs-00001-00100/00023
+2023-06-29 00:37:42,569 INFO     Starting run 63 (TASK_ID 46) in runs-00001-00100/00063
+2023-06-29 00:37:43,164 INFO     Starting run 5 (TASK_ID 47) in runs-00001-00100/00005
+2023-06-29 00:37:43,569 INFO     Starting run 41 (TASK_ID 48) in runs-00001-00100/00041
+2023-06-29 00:37:44,070 INFO     Starting run 57 (TASK_ID 49) in runs-00001-00100/00057
+2023-06-29 00:37:44,632 INFO     Starting run 25 (TASK_ID 50) in runs-00001-00100/00025
+2023-06-29 00:37:45,134 INFO     Starting run 46 (TASK_ID 51) in runs-00001-00100/00046
+2023-06-29 00:37:45,662 INFO     Starting run 89 (TASK_ID 52) in runs-00001-00100/00089
+2023-06-29 00:41:35,061 INFO     Starting run 99 (TASK_ID 53) in runs-00001-00100/00099
+2023-06-29 00:41:36,093 INFO     Starting run 13 (TASK_ID 54) in runs-00001-00100/00013
+2023-06-29 00:41:36,539 INFO     Starting run 52 (TASK_ID 55) in runs-00001-00100/00052
+2023-06-29 00:41:37,114 INFO     Starting run 65 (TASK_ID 56) in runs-00001-00100/00065
+2023-06-29 00:41:37,865 INFO     Starting run 73 (TASK_ID 57) in runs-00001-00100/00073
+2023-06-29 00:41:38,571 INFO     Starting run 40 (TASK_ID 58) in runs-00001-00100/00040
+2023-06-29 00:41:39,075 INFO     Starting run 12 (TASK_ID 59) in runs-00001-00100/00012
+2023-06-29 00:41:39,494 INFO     Starting run 7 (TASK_ID 60) in runs-00001-00100/00007
+2023-06-29 00:41:39,917 INFO     Starting run 86 (TASK_ID 61) in runs-00001-00100/00086
+2023-06-29 00:41:40,802 INFO     Starting run 85 (TASK_ID 62) in runs-00001-00100/00085
+2023-06-29 00:41:41,633 INFO     Starting run 71 (TASK_ID 63) in runs-00001-00100/00071
+2023-06-29 00:41:42,270 INFO     Starting run 94 (TASK_ID 64) in runs-00001-00100/00094
+2023-06-29 00:45:22,713 INFO     Starting run 18 (TASK_ID 65) in runs-00001-00100/00018
+2023-06-29 00:45:23,164 INFO     Starting run 60 (TASK_ID 66) in runs-00001-00100/00060
+2023-06-29 00:45:23,771 INFO     Starting run 8 (TASK_ID 67) in runs-00001-00100/00008
+2023-06-29 00:45:24,215 INFO     Starting run 43 (TASK_ID 68) in runs-00001-00100/00043
+2023-06-29 00:45:24,706 INFO     Starting run 72 (TASK_ID 69) in runs-00001-00100/00072
+2023-06-29 00:48:26,993 INFO     Starting run 37 (TASK_ID 70) in runs-00001-00100/00037
+2023-06-29 00:48:27,460 INFO     Starting run 45 (TASK_ID 71) in runs-00001-00100/00045
+2023-06-29 00:48:27,937 INFO     Starting run 10 (TASK_ID 72) in runs-00001-00100/00010
+2023-06-29 00:48:28,406 INFO     Starting run 66 (TASK_ID 73) in runs-00001-00100/00066
+2023-06-29 00:48:29,048 INFO     Starting run 11 (TASK_ID 74) in runs-00001-00100/00011
+2023-06-29 00:48:29,453 INFO     Starting run 75 (TASK_ID 75) in runs-00001-00100/00075
+2023-06-29 00:48:30,152 INFO     Starting run 22 (TASK_ID 76) in runs-00001-00100/00022
+2023-06-29 00:48:30,584 INFO     Starting run 21 (TASK_ID 77) in runs-00001-00100/00021
+2023-06-29 00:48:31,020 INFO     Starting run 79 (TASK_ID 78) in runs-00001-00100/00079
+2023-06-29 00:48:31,831 INFO     Starting run 6 (TASK_ID 79) in runs-00001-00100/00006
+2023-06-29 00:48:32,269 INFO     Starting run 24 (TASK_ID 80) in runs-00001-00100/00024
+2023-06-29 00:48:32,724 INFO     Starting run 92 (TASK_ID 81) in runs-00001-00100/00092
+2023-06-29 00:48:33,718 INFO     Starting run 47 (TASK_ID 82) in runs-00001-00100/00047
+2023-06-29 00:48:34,215 INFO     Starting run 42 (TASK_ID 83) in runs-00001-00100/00042
+2023-06-29 00:48:34,683 INFO     Starting run 33 (TASK_ID 84) in runs-00001-00100/00033
+2023-06-29 00:48:35,170 INFO     Starting run 80 (TASK_ID 85) in runs-00001-00100/00080
+2023-06-29 00:48:36,053 INFO     Starting run 4 (TASK_ID 86) in runs-00001-00100/00004
+2023-06-29 00:48:36,502 INFO     Starting run 98 (TASK_ID 87) in runs-00001-00100/00098
+2023-06-29 00:48:37,554 INFO     Starting run 19 (TASK_ID 88) in runs-00001-00100/00019
+2023-06-29 00:48:38,013 INFO     Starting run 81 (TASK_ID 89) in runs-00001-00100/00081
+2023-06-29 00:52:26,832 INFO     Starting run 1 (TASK_ID 90) in runs-00001-00100/00001
+2023-06-29 00:52:27,302 INFO     Starting run 90 (TASK_ID 91) in runs-00001-00100/00090
+2023-06-29 00:52:28,555 INFO     Starting run 32 (TASK_ID 92) in runs-00001-00100/00032
+2023-06-29 00:52:29,014 INFO     Starting run 30 (TASK_ID 93) in runs-00001-00100/00030
+2023-06-29 00:52:29,469 INFO     Starting run 70 (TASK_ID 94) in runs-00001-00100/00070
+2023-06-29 00:52:30,166 INFO     Starting run 53 (TASK_ID 95) in runs-00001-00100/00053
+2023-06-29 00:52:30,705 INFO     Starting run 38 (TASK_ID 96) in runs-00001-00100/00038
+2023-06-29 00:52:31,191 INFO     Starting run 93 (TASK_ID 97) in runs-00001-00100/00093
+2023-06-29 00:52:32,279 INFO     Starting run 87 (TASK_ID 98) in runs-00001-00100/00087
+2023-06-29 00:56:11,326 INFO     Starting run 9 (TASK_ID 99) in runs-00001-00100/00009
+2023-06-29 00:56:11,746 INFO     Joining pool processes
+2023-06-29 00:56:18,097 INFO     Running good operators with unit cost on 89 traning instances (remaining time 23:20:27.230330)
+2023-06-29 00:56:18,102 INFO     Running step build: build()
+2023-06-29 00:56:18,102 INFO     Running step build: build()
+2023-06-29 00:56:18,102 INFO     Experiment path: "/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-28-learning/runs-00001-00100/00052/data/good-operators-unit-exp"
+2023-06-29 00:56:18,102 INFO     Experiment path: "/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-28-learning/runs-00001-00100/00052/data/good-operators-unit-exp"
+2023-06-29 00:56:18,401 INFO     Building 89 runs
+2023-06-29 00:56:18,401 INFO     Building 89 runs
+2023-06-29 00:56:19,135 INFO     Finished building runs
+2023-06-29 00:56:19,135 INFO     Finished building runs
+2023-06-29 00:56:19,137 INFO     Running step start: start_runs()
+2023-06-29 00:56:19,137 INFO     Running step start: start_runs()
+2023-06-29 00:56:19,137 INFO     Executing /usr/bin/python3 run {'cwd': '/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-28-learning/runs-00001-00100/00052/data/good-operators-unit-exp'}
+2023-06-29 00:56:19,137 INFO     Executing /usr/bin/python3 run {'cwd': '/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-28-learning/runs-00001-00100/00052/data/good-operators-unit-exp'}
+2023-06-29 00:56:19,246 INFO     Starting run 31 (TASK_ID 1) in runs-00001-00100/00031
+2023-06-29 01:00:26,501 INFO     Starting run 54 (TASK_ID 2) in runs-00001-00100/00054
+2023-06-29 01:10:48,739 INFO     Starting run 28 (TASK_ID 3) in runs-00001-00100/00028
+2023-06-29 01:21:11,367 INFO     Starting run 85 (TASK_ID 4) in runs-00001-00100/00085
+2023-06-29 01:21:20,210 INFO     Starting run 34 (TASK_ID 5) in runs-00001-00100/00034
+2023-06-29 01:21:22,019 INFO     Starting run 40 (TASK_ID 6) in runs-00001-00100/00040
+2023-06-29 01:31:42,387 INFO     Starting run 59 (TASK_ID 7) in runs-00001-00100/00059
+2023-06-29 01:31:43,129 INFO     Starting run 45 (TASK_ID 8) in runs-00001-00100/00045
+2023-06-29 01:31:46,280 INFO     Starting run 53 (TASK_ID 9) in runs-00001-00100/00053
+2023-06-29 01:42:04,897 INFO     Starting run 39 (TASK_ID 10) in runs-00001-00100/00039
+2023-06-29 01:42:05,609 INFO     Starting run 76 (TASK_ID 11) in runs-00001-00100/00076
+2023-06-29 01:52:24,381 INFO     Starting run 68 (TASK_ID 12) in runs-00001-00100/00068
+2023-06-29 02:02:42,925 INFO     Starting run 87 (TASK_ID 13) in runs-00001-00100/00087
+2023-06-29 02:02:44,511 INFO     Starting run 60 (TASK_ID 14) in runs-00001-00100/00060
+2023-06-29 02:13:02,077 INFO     Starting run 89 (TASK_ID 15) in runs-00001-00100/00089
+2023-06-29 02:13:03,064 INFO     Starting run 73 (TASK_ID 16) in runs-00001-00100/00073
+2023-06-29 02:13:17,612 INFO     Starting run 9 (TASK_ID 17) in runs-00001-00100/00009
+2023-06-29 02:13:19,072 INFO     Starting run 22 (TASK_ID 18) in runs-00001-00100/00022
+2023-06-29 02:13:20,627 INFO     Starting run 29 (TASK_ID 19) in runs-00001-00100/00029
+2023-06-29 02:13:21,295 INFO     Starting run 83 (TASK_ID 20) in runs-00001-00100/00083
+2023-06-29 02:13:21,897 INFO     Starting run 20 (TASK_ID 21) in runs-00001-00100/00020
+2023-06-29 02:23:37,949 INFO     Starting run 42 (TASK_ID 22) in runs-00001-00100/00042
+2023-06-29 02:33:54,381 INFO     Starting run 19 (TASK_ID 23) in runs-00001-00100/00019
+2023-06-29 02:37:33,264 INFO     Starting run 17 (TASK_ID 24) in runs-00001-00100/00017
+2023-06-29 02:37:33,912 INFO     Starting run 35 (TASK_ID 25) in runs-00001-00100/00035
+2023-06-29 02:37:34,653 INFO     Starting run 16 (TASK_ID 26) in runs-00001-00100/00016
+2023-06-29 02:37:35,345 INFO     Starting run 18 (TASK_ID 27) in runs-00001-00100/00018
+2023-06-29 02:39:33,356 INFO     Starting run 52 (TASK_ID 28) in runs-00001-00100/00052
+2023-06-29 02:39:34,251 INFO     Starting run 11 (TASK_ID 29) in runs-00001-00100/00011
+2023-06-29 02:39:34,906 INFO     Starting run 41 (TASK_ID 30) in runs-00001-00100/00041
+2023-06-29 02:49:51,487 INFO     Starting run 82 (TASK_ID 31) in runs-00001-00100/00082
+2023-06-29 03:00:08,119 INFO     Starting run 38 (TASK_ID 32) in runs-00001-00100/00038
+2023-06-29 03:10:24,249 INFO     Starting run 80 (TASK_ID 33) in runs-00001-00100/00080
+2023-06-29 03:20:40,700 INFO     Starting run 27 (TASK_ID 34) in runs-00001-00100/00027
+2023-06-29 03:20:41,376 INFO     Starting run 63 (TASK_ID 35) in runs-00001-00100/00063
+2023-06-29 03:20:42,055 INFO     Starting run 66 (TASK_ID 36) in runs-00001-00100/00066
+2023-06-29 03:30:58,568 INFO     Starting run 70 (TASK_ID 37) in runs-00001-00100/00070
+2023-06-29 03:31:15,280 INFO     Starting run 48 (TASK_ID 38) in runs-00001-00100/00048
+2023-06-29 03:31:16,054 INFO     Starting run 30 (TASK_ID 39) in runs-00001-00100/00030
+2023-06-29 03:31:16,670 INFO     Starting run 3 (TASK_ID 40) in runs-00001-00100/00003
+2023-06-29 03:41:32,733 INFO     Starting run 77 (TASK_ID 41) in runs-00001-00100/00077
+2023-06-29 03:41:33,425 INFO     Starting run 6 (TASK_ID 42) in runs-00001-00100/00006
+2023-06-29 03:43:42,537 INFO     Starting run 37 (TASK_ID 43) in runs-00001-00100/00037
+2023-06-29 03:53:58,521 INFO     Starting run 21 (TASK_ID 44) in runs-00001-00100/00021
+2023-06-29 03:54:00,120 INFO     Starting run 32 (TASK_ID 45) in runs-00001-00100/00032
+2023-06-29 04:04:16,442 INFO     Starting run 46 (TASK_ID 46) in runs-00001-00100/00046
+2023-06-29 04:14:33,261 INFO     Starting run 12 (TASK_ID 47) in runs-00001-00100/00012
+2023-06-29 04:24:49,596 INFO     Starting run 44 (TASK_ID 48) in runs-00001-00100/00044
+2023-06-29 04:28:31,470 INFO     Starting run 65 (TASK_ID 49) in runs-00001-00100/00065
+2023-06-29 04:38:47,543 INFO     Starting run 86 (TASK_ID 50) in runs-00001-00100/00086
+2023-06-29 04:49:03,980 INFO     Starting run 7 (TASK_ID 51) in runs-00001-00100/00007
+2023-06-29 04:49:18,275 INFO     Starting run 49 (TASK_ID 52) in runs-00001-00100/00049
+2023-06-29 04:49:18,979 INFO     Starting run 56 (TASK_ID 53) in runs-00001-00100/00056
+2023-06-29 04:49:19,582 INFO     Starting run 47 (TASK_ID 54) in runs-00001-00100/00047
+2023-06-29 04:59:35,789 INFO     Starting run 67 (TASK_ID 55) in runs-00001-00100/00067
+2023-06-29 04:59:36,392 INFO     Starting run 88 (TASK_ID 56) in runs-00001-00100/00088
+2023-06-29 05:09:52,927 INFO     Starting run 74 (TASK_ID 57) in runs-00001-00100/00074
+2023-06-29 05:09:53,947 INFO     Starting run 78 (TASK_ID 58) in runs-00001-00100/00078
+2023-06-29 05:09:54,610 INFO     Starting run 71 (TASK_ID 59) in runs-00001-00100/00071
+2023-06-29 05:20:11,327 INFO     Starting run 72 (TASK_ID 60) in runs-00001-00100/00072
+2023-06-29 05:30:27,401 INFO     Starting run 4 (TASK_ID 61) in runs-00001-00100/00004
+2023-06-29 05:30:27,994 INFO     Starting run 69 (TASK_ID 62) in runs-00001-00100/00069
+2023-06-29 05:33:54,630 INFO     Starting run 61 (TASK_ID 63) in runs-00001-00100/00061
+2023-06-29 05:44:10,668 INFO     Starting run 25 (TASK_ID 64) in runs-00001-00100/00025
+2023-06-29 05:44:11,428 INFO     Starting run 26 (TASK_ID 65) in runs-00001-00100/00026
+2023-06-29 05:54:28,017 INFO     Starting run 43 (TASK_ID 66) in runs-00001-00100/00043
+2023-06-29 05:54:28,673 INFO     Starting run 62 (TASK_ID 67) in runs-00001-00100/00062
+2023-06-29 05:54:29,403 INFO     Starting run 14 (TASK_ID 68) in runs-00001-00100/00014
+2023-06-29 05:54:30,085 INFO     Starting run 64 (TASK_ID 69) in runs-00001-00100/00064
+2023-06-29 06:04:46,573 INFO     Starting run 84 (TASK_ID 70) in runs-00001-00100/00084
+2023-06-29 06:06:43,377 INFO     Starting run 5 (TASK_ID 71) in runs-00001-00100/00005
+2023-06-29 06:06:44,202 INFO     Starting run 13 (TASK_ID 72) in runs-00001-00100/00013
+2023-06-29 06:06:45,844 INFO     Starting run 75 (TASK_ID 73) in runs-00001-00100/00075
+2023-06-29 06:17:02,338 INFO     Starting run 55 (TASK_ID 74) in runs-00001-00100/00055
+2023-06-29 06:27:19,117 INFO     Starting run 33 (TASK_ID 75) in runs-00001-00100/00033
+2023-06-29 06:27:21,471 INFO     Starting run 2 (TASK_ID 76) in runs-00001-00100/00002
+2023-06-29 06:37:38,061 INFO     Starting run 50 (TASK_ID 77) in runs-00001-00100/00050
+2023-06-29 06:47:54,707 INFO     Starting run 8 (TASK_ID 78) in runs-00001-00100/00008
+2023-06-29 06:58:10,849 INFO     Starting run 24 (TASK_ID 79) in runs-00001-00100/00024
+2023-06-29 07:08:27,262 INFO     Starting run 23 (TASK_ID 80) in runs-00001-00100/00023
+2023-06-29 07:18:44,130 INFO     Starting run 79 (TASK_ID 81) in runs-00001-00100/00079
+2023-06-29 07:29:00,503 INFO     Starting run 81 (TASK_ID 82) in runs-00001-00100/00081
+2023-06-29 07:39:16,898 INFO     Starting run 10 (TASK_ID 83) in runs-00001-00100/00010
+2023-06-29 07:39:18,530 INFO     Starting run 36 (TASK_ID 84) in runs-00001-00100/00036
+2023-06-29 07:39:19,308 INFO     Starting run 15 (TASK_ID 85) in runs-00001-00100/00015
+2023-06-29 07:49:35,484 INFO     Starting run 1 (TASK_ID 86) in runs-00001-00100/00001
+2023-06-29 07:49:36,159 INFO     Starting run 51 (TASK_ID 87) in runs-00001-00100/00051
+2023-06-29 07:59:52,772 INFO     Starting run 57 (TASK_ID 88) in runs-00001-00100/00057
+2023-06-29 07:59:55,753 INFO     Starting run 58 (TASK_ID 89) in runs-00001-00100/00058
+2023-06-29 08:10:13,480 INFO     Joining pool processes
+After the split, we have 49 instances for training, 50 for hyperparameter optimization, out of which 0 have overlap and 9 are not solved by lama and 40 are solved under 2 minutes)
+Instances for the training phase:  {'p23', 'p01', 'p05', 'p26', 'p18', 'p33', 'p45', 'p48', 'p11', 'p22', 'p12', 'p29', 'p16', 'p39', 'p43', 'p46', 'p35', 'p17', 'p38', 'p13', 'p36', 'p21', 'p44', 'p28', 'p40', 'p04', 'p47', 'p41', 'p07', 'p27', 'p20', 'p37', 'p25', 'p14', 'p10', 'p03', 'p49', 'p19', 'p30', 'p34', 'p08', 'p42', 'p15', 'p32', 'p31', 'p09', 'p06', 'p24', 'p02'}
+Instances for SMAC optimization:  {'p62', 'p92', 'p71', 'p96', 'p51', 'p68', 'p52', 'p69', 'p81', 'p54', 'p75', 'p67', 'p65', 'p80', 'p84', 'p50', 'p99', 'p55', 'p93', 'p91', 'p63', 'p74', 'p53', 'p83', 'p77', 'p88', 'p78', 'p76', 'p64', 'p97', 'p61', 'p60', 'p95', 'p73', 'p82', 'p66', 'p85', 'p87', 'p94', 'p72', 'p70', 'p89', 'p86', 'p79', 'p56', 'p57', 'p58', 'p98', 'p59', 'p90'}
+2023-06-29 08:10:25,889 INFO     Learning Aleph good rules (remaining time 16:06:19.437750)
+2023-06-29 08:10:25,889 INFO     Learning Aleph good rules (remaining time 16:06:19.437635)
+Running: generate-training-data-aleph.py on /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-28-learning/runs-00001-00100/00052/data/partial-grounding-good-rules/good-operators-unit-good_rules
+2023-06-29 08:10:26,629 INFO     generate-aleph-files wall-clock time: 0.73s
+2023-06-29 08:10:26,629 INFO     generate-aleph-files wall-clock time: 0.73s
+2023-06-29 08:10:26,629 INFO     generate-aleph-files exit code: 0
+2023-06-29 08:10:26,629 INFO     generate-aleph-files exit code: 0
+2023-06-29 08:10:26,631 INFO     Running step build: build()
+2023-06-29 08:10:26,631 INFO     Running step build: build()
+2023-06-29 08:10:26,631 INFO     Experiment path: "/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-28-learning/runs-00001-00100/00052/data/partial-grounding-good-rules/exp"
+2023-06-29 08:10:26,631 INFO     Experiment path: "/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-28-learning/runs-00001-00100/00052/data/partial-grounding-good-rules/exp"
+2023-06-29 08:10:26,637 INFO     Building 6 runs
+2023-06-29 08:10:26,637 INFO     Building 6 runs
+2023-06-29 08:10:26,724 INFO     Finished building runs
+2023-06-29 08:10:26,724 INFO     Finished building runs
+2023-06-29 08:10:26,726 INFO     Running step start: start_runs()
+2023-06-29 08:10:26,726 INFO     Running step start: start_runs()
+2023-06-29 08:10:26,726 INFO     Executing /usr/bin/python3 run {'cwd': '/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-28-learning/runs-00001-00100/00052/data/partial-grounding-good-rules/exp'}
+2023-06-29 08:10:26,726 INFO     Executing /usr/bin/python3 run {'cwd': '/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-28-learning/runs-00001-00100/00052/data/partial-grounding-good-rules/exp'}
+2023-06-29 08:10:26,797 INFO     Starting run 1 (TASK_ID 1) in runs-00001-00100/00001
+2023-06-29 08:11:28,915 INFO     Starting run 3 (TASK_ID 2) in runs-00001-00100/00003
+2023-06-29 08:11:29,603 INFO     Starting run 4 (TASK_ID 3) in runs-00001-00100/00004
+2023-06-29 08:11:30,253 INFO     Starting run 6 (TASK_ID 4) in runs-00001-00100/00006
+2023-06-29 08:12:13,647 INFO     Starting run 5 (TASK_ID 5) in runs-00001-00100/00005
+2023-06-29 08:12:14,303 INFO     Starting run 2 (TASK_ID 6) in runs-00001-00100/00002
+2023-06-29 08:12:14,916 INFO     Joining pool processes
+2023-06-29 08:12:15,087 INFO     filter-good-rules wall-clock time: 0.15s
+2023-06-29 08:12:15,087 INFO     filter-good-rules wall-clock time: 0.15s
+2023-06-29 08:12:15,087 INFO     filter-good-rules exit code: 0
+2023-06-29 08:12:15,087 INFO     filter-good-rules exit code: 0
+2023-06-29 08:12:15,181 INFO     filter-training-set wall-clock time: 0.07s
+2023-06-29 08:12:15,181 INFO     filter-training-set wall-clock time: 0.07s
+2023-06-29 08:12:15,181 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:15,181 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:15,243 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:15,243 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:15,243 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:15,243 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:15,306 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:15,306 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:15,306 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:15,306 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:15,368 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:15,368 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:15,368 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:15,368 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:15,430 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:15,430 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:15,431 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:15,431 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:15,490 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:15,490 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:15,491 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:15,491 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:15,555 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:15,555 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:15,555 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:15,555 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:15,617 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:15,617 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:15,617 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:15,617 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:15,796 INFO     filter-training-set wall-clock time: 0.17s
+2023-06-29 08:12:15,796 INFO     filter-training-set wall-clock time: 0.17s
+2023-06-29 08:12:15,796 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:15,796 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:15,860 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:15,860 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:15,861 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:15,861 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:15,923 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:15,923 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:15,923 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:15,923 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:15,984 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:15,984 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:15,984 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:15,984 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:16,047 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:16,047 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:16,048 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:16,048 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:16,137 INFO     filter-training-set wall-clock time: 0.08s
+2023-06-29 08:12:16,137 INFO     filter-training-set wall-clock time: 0.08s
+2023-06-29 08:12:16,138 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:16,138 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:16,200 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:16,200 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:16,201 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:16,201 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:16,262 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:16,262 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:16,262 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:16,262 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:16,325 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:16,325 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:16,325 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:16,325 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:16,385 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:16,385 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:16,385 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:16,385 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:16,448 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:16,448 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:16,449 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:16,449 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:16,510 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:16,510 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:16,510 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:16,510 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:16,572 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:16,572 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:16,572 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:16,572 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:16,633 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:16,633 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:16,633 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:16,633 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:16,695 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:16,695 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:16,696 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:16,696 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:16,756 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:16,756 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:16,756 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:16,756 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:16,819 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:16,819 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:16,820 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:16,820 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:16,881 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:16,881 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:16,881 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:16,881 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:16,945 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:16,945 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:16,945 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:16,945 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:17,007 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:17,007 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:17,007 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:17,007 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:17,070 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:17,070 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:17,070 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:17,070 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:17,161 INFO     filter-training-set wall-clock time: 0.08s
+2023-06-29 08:12:17,161 INFO     filter-training-set wall-clock time: 0.08s
+2023-06-29 08:12:17,161 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:17,161 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:17,224 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:17,224 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:17,225 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:17,225 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:17,285 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:17,285 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:17,285 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:17,285 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:17,348 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:17,348 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:17,348 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:17,348 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:17,409 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:17,409 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:17,409 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:17,409 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:17,471 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:17,471 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:17,471 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:17,471 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:17,532 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:17,532 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:17,533 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:17,533 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:17,595 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:17,595 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:17,595 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:17,595 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:17,657 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:17,657 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:17,657 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:17,657 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:17,720 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:17,720 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:17,720 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:17,720 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:17,779 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:17,779 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:17,779 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:17,779 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:17,842 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:17,842 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:17,842 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:17,842 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:17,904 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:17,904 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:17,904 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:17,904 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:17,967 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:17,967 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:17,968 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:17,968 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:18,029 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:18,029 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:18,029 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:18,029 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:18,093 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:18,093 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:18,093 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:18,093 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:18,183 INFO     filter-training-set wall-clock time: 0.06s
+2023-06-29 08:12:18,183 INFO     filter-training-set wall-clock time: 0.06s
+2023-06-29 08:12:18,183 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:18,183 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:18,246 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:18,246 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:18,246 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:18,246 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:18,306 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:18,306 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:18,307 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:18,307 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:18,369 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:18,369 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:18,370 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:18,370 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:18,431 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:18,431 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:18,431 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:18,431 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:18,494 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:18,494 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:18,494 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:18,494 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:18,555 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:18,555 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:18,555 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:18,555 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:18,700 INFO     filter-training-set wall-clock time: 0.06s
+2023-06-29 08:12:18,700 INFO     filter-training-set wall-clock time: 0.06s
+2023-06-29 08:12:18,700 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:18,700 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:18,759 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:18,759 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:18,760 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:18,760 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:18,823 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:18,823 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:18,824 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:18,824 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:18,886 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:18,886 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:18,886 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:18,886 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:18,950 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:18,950 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:18,950 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:18,950 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:19,012 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:19,012 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:19,012 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:19,012 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:19,075 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:19,075 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:19,075 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:19,075 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:19,165 INFO     filter-training-set wall-clock time: 0.08s
+2023-06-29 08:12:19,165 INFO     filter-training-set wall-clock time: 0.08s
+2023-06-29 08:12:19,165 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:19,165 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:19,227 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:19,227 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:19,227 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:19,227 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:19,289 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:19,289 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:19,289 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:19,289 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:19,353 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:19,353 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:19,353 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:19,353 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:19,414 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:19,414 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:19,414 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:19,414 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:19,477 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:19,477 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:19,477 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:19,477 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:19,539 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:19,539 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:19,539 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:19,539 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:19,603 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:19,603 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:19,603 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:19,603 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:19,663 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:19,663 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:19,664 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:19,664 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:19,726 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:19,726 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:19,726 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:19,726 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:19,787 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:19,787 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:19,787 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:19,787 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:19,850 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:19,850 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:19,850 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:19,850 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:19,912 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:19,912 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:19,912 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:19,912 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:19,974 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:19,974 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:19,974 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:19,974 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:20,036 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:20,036 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:20,036 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:20,036 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:20,111 INFO     filter-training-set wall-clock time: 0.06s
+2023-06-29 08:12:20,111 INFO     filter-training-set wall-clock time: 0.06s
+2023-06-29 08:12:20,112 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:20,112 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:20,187 INFO     filter-training-set wall-clock time: 0.06s
+2023-06-29 08:12:20,187 INFO     filter-training-set wall-clock time: 0.06s
+2023-06-29 08:12:20,187 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:20,187 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:20,250 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:20,250 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:20,251 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:20,251 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:20,312 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:20,312 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:20,312 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:20,312 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:20,378 INFO     filter-training-set wall-clock time: 0.06s
+2023-06-29 08:12:20,378 INFO     filter-training-set wall-clock time: 0.06s
+2023-06-29 08:12:20,378 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:20,378 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:20,441 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:20,441 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:20,441 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:20,441 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:20,505 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:20,505 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:20,506 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:20,506 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:20,567 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:20,567 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:20,567 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:20,567 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:20,630 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:20,630 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:20,631 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:20,631 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:20,690 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:20,690 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:20,691 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:20,691 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:20,752 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:20,752 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:20,752 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:20,752 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:20,812 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:20,812 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:20,813 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:20,813 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:20,875 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:20,875 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:20,876 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:20,876 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:20,937 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:20,937 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:20,937 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:20,937 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:21,000 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:21,000 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:21,001 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:21,001 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:21,061 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:21,061 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:21,061 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:21,061 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:21,154 INFO     filter-training-set wall-clock time: 0.08s
+2023-06-29 08:12:21,154 INFO     filter-training-set wall-clock time: 0.08s
+2023-06-29 08:12:21,155 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:21,155 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:21,216 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:21,216 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:21,216 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:21,216 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:21,279 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:21,279 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:21,279 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:21,279 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:21,341 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:21,341 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:21,341 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:21,341 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:21,405 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:21,405 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:21,406 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:21,406 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:21,466 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:21,466 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:21,466 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:21,466 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:21,530 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:21,530 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:21,530 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:21,530 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:21,591 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:21,591 INFO     filter-training-set wall-clock time: 0.05s
+2023-06-29 08:12:21,591 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:21,591 INFO     filter-training-set exit code: 0
+2023-06-29 08:12:21,591 INFO     Learning Aleph bad rules (remaining time 16:04:23.735645)
+2023-06-29 08:12:21,591 INFO     Learning Aleph bad rules (remaining time 16:04:23.735608)
+Skipping make_sandwich_no_gluten due to lack of training data: 0 positive examples and 0 negative examples
+Skipping put_on_tray due to lack of training data: 0 positive examples and 0 negative examples
+Skipping serve_sandwich_no_gluten due to lack of training data: 0 positive examples and 0 negative examples
+Skipping serve_sandwich due to lack of training data: 0 positive examples and 0 negative examples
+Running: generate-training-data-aleph.py on /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-28-learning/runs-00001-00100/00052/data/partial-grounding-bad-rules/good-operators-unit-nogoodrules-bad_rules
+2023-06-29 08:12:21,912 INFO     generate-aleph-files wall-clock time: 0.31s
+2023-06-29 08:12:21,912 INFO     generate-aleph-files wall-clock time: 0.31s
+2023-06-29 08:12:21,912 INFO     generate-aleph-files exit code: 0
+2023-06-29 08:12:21,912 INFO     generate-aleph-files exit code: 0
+2023-06-29 08:12:21,912 INFO     Running step build: build()
+2023-06-29 08:12:21,912 INFO     Running step build: build()
+2023-06-29 08:12:21,913 INFO     Experiment path: "/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-28-learning/runs-00001-00100/00052/data/partial-grounding-bad-rules/exp"
+2023-06-29 08:12:21,913 INFO     Experiment path: "/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-28-learning/runs-00001-00100/00052/data/partial-grounding-bad-rules/exp"
+2023-06-29 08:12:21,915 INFO     Building 2 runs
+2023-06-29 08:12:21,915 INFO     Building 2 runs
+2023-06-29 08:12:21,921 INFO     Finished building runs
+2023-06-29 08:12:21,921 INFO     Finished building runs
+2023-06-29 08:12:21,984 INFO     Running step start: start_runs()
+2023-06-29 08:12:21,984 INFO     Running step start: start_runs()
+2023-06-29 08:12:21,984 INFO     Executing /usr/bin/python3 run {'cwd': '/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-28-learning/runs-00001-00100/00052/data/partial-grounding-bad-rules/exp'}
+2023-06-29 08:12:21,984 INFO     Executing /usr/bin/python3 run {'cwd': '/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-28-learning/runs-00001-00100/00052/data/partial-grounding-bad-rules/exp'}
+2023-06-29 08:12:22,057 INFO     Starting run 1 (TASK_ID 1) in runs-00001-00100/00001
+2023-06-29 08:13:27,556 INFO     Starting run 2 (TASK_ID 2) in runs-00001-00100/00002
+2023-06-29 08:13:30,781 INFO     Joining pool processes
+2023-06-29 08:13:30,794 INFO     Running SMAC to select good and bad rules (remaining time 16:03:14.532612)
+2023-06-29 08:13:30,794 INFO     Running SMAC to select good and bad rules (remaining time 16:03:14.532561)
+2023-06-29 08:13:30,795 INFO     Loading aleph model from good_rules.rules 
+2023-06-29 08:13:30,795 INFO     Loading aleph model from good_rules.rules 
+2023-06-29 08:13:30,795 INFO     Loading aleph model from candidate-good_rules.rules 
+2023-06-29 08:13:30,795 INFO     Loading aleph model from candidate-good_rules.rules 
+Warning: ignoring file of unknown type: candidate-good_rules.rules
+2023-06-29 08:13:30,795 INFO     Loading aleph model from bad_rules.rules 
+2023-06-29 08:13:30,795 INFO     Loading aleph model from bad_rules.rules 
+[INFO][abstract_initial_design.py:147] Using 1 initial design configurations and 0 additional configurations.
+[INFO][abstract_intensifier.py:305] Using only one seed for deterministic scenario.
+[INFO][optimize_smac.py:209] Ran p81 with queue ipc23-single-queue and model model_bad-yyy_good-yyyyy: not solved due to time limit
+[INFO][abstract_intensifier.py:515] Added config 16be77 as new incumbent because there are no incumbents yet.
+[INFO][optimize_smac.py:209] Ran p52 with queue ipc23-single-queue and model model_bad-yyy_good-yyyyy: not solved due to time limit
+[INFO][optimize_smac.py:209] Ran p81 with queue ipc23-single-queue and model model_bad-yny_good-yyyyy: not solved due to time limit
+[INFO][optimize_smac.py:209] Ran p52 with queue ipc23-single-queue and model model_bad-yny_good-yyyyy: not solved due to time limit
+[INFO][optimize_smac.py:209] Ran p63 with queue ipc23-single-queue and model model_bad-yyy_good-yyyyy: not solved due to time limit
+[INFO][optimize_smac.py:188] Ran p63 with queue ipc23-single-queue and model model_bad-nyn_good-yyyyy: time 0.34, operators 764, cost 37
+[INFO][optimize_smac.py:188] Ran p52 with queue ipc23-single-queue and model model_bad-nyn_good-yyyyy: time 0.31, operators 690, cost 39
+[INFO][optimize_smac.py:209] Ran p81 with queue ipc23-single-queue and model model_bad-nyn_good-yyyyy: not solved due to time limit
+[INFO][abstract_intensifier.py:590] Added config 06a6e8 and rejected config 16be77 as incumbent because it is not better than the incumbents on 3 instances:
+[INFO][configspace.py:175] --- bad0: True -> False
+[INFO][configspace.py:175] --- bad2: True -> False
+[INFO][optimize_smac.py:188] Ran p91 with queue ipc23-single-queue and model model_bad-nyn_good-yyyyy: time 0.74, operators 2402, cost 52
+[INFO][optimize_smac.py:188] Ran p52 with queue ipc23-single-queue and model model_bad-yyn_good-yyyyy: time 0.31, operators 690, cost 39
+[INFO][optimize_smac.py:209] Ran p81 with queue ipc23-single-queue and model model_bad-yyn_good-yyyyy: not solved due to time limit
+[INFO][optimize_smac.py:188] Ran p91 with queue ipc23-single-queue and model model_bad-yyn_good-yyyyy: time 0.75, operators 2402, cost 52
+[INFO][optimize_smac.py:188] Ran p63 with queue ipc23-single-queue and model model_bad-yyn_good-yyyyy: time 0.32, operators 764, cost 37
+[INFO][optimize_smac.py:188] Ran p53 with queue ipc23-single-queue and model model_bad-nyn_good-yyyyy: time 0.32, operators 690, cost 40
+[INFO][optimize_smac.py:188] Ran p63 with queue ipc23-single-queue and model model_bad-nnn_good-yyyyy: time 0.32, operators 764, cost 37
+[INFO][optimize_smac.py:188] Ran p53 with queue ipc23-single-queue and model model_bad-nnn_good-yyyyy: time 0.3, operators 690, cost 40
+[INFO][optimize_smac.py:188] Ran p52 with queue ipc23-single-queue and model model_bad-nnn_good-yyyyy: time 0.31, operators 690, cost 39
+[INFO][optimize_smac.py:209] Ran p81 with queue ipc23-single-queue and model model_bad-nnn_good-yyyyy: not solved due to time limit
+[INFO][optimize_smac.py:188] Ran p91 with queue ipc23-single-queue and model model_bad-nnn_good-yyyyy: time 0.74, operators 2402, cost 52
+[INFO][optimize_smac.py:209] Ran p94 with queue ipc23-single-queue and model model_bad-nyn_good-yyyyy: not solved due to time limit
+[INFO][optimize_smac.py:209] Ran p94 with queue ipc23-single-queue and model model_bad-nyy_good-yyyyy: not solved due to time limit
+[INFO][optimize_smac.py:209] Ran p53 with queue ipc23-single-queue and model model_bad-nyy_good-yyyyy: not solved due to time limit
+[INFO][optimize_smac.py:209] Ran p81 with queue ipc23-single-queue and model model_bad-nyy_good-yyyyy: not solved due to time limit
+[INFO][optimize_smac.py:209] Ran p63 with queue ipc23-single-queue and model model_bad-nyy_good-yyyyy: not solved due to time limit
+[INFO][optimize_smac.py:209] Ran p52 with queue ipc23-single-queue and model model_bad-nyy_good-yyyyy: not solved due to time limit
+[INFO][optimize_smac.py:209] Ran p91 with queue ipc23-single-queue and model model_bad-nyy_good-yyyyy: not solved due to time limit
+[INFO][optimize_smac.py:188] Ran p54 with queue ipc23-single-queue and model model_bad-nyn_good-yyyyy: time 0.31, operators 690, cost 38
+[INFO][optimize_smac.py:209] Ran p81 with queue ipc23-single-queue and model model_bad-ynn_good-yyyyy: not solved due to time limit
+[INFO][optimize_smac.py:209] Ran p94 with queue ipc23-single-queue and model model_bad-ynn_good-yyyyy: not solved due to time limit
+[INFO][optimize_smac.py:188] Ran p52 with queue ipc23-single-queue and model model_bad-ynn_good-yyyyy: time 0.32, operators 690, cost 39
+[INFO][optimize_smac.py:188] Ran p91 with queue ipc23-single-queue and model model_bad-ynn_good-yyyyy: time 0.76, operators 2402, cost 52
+[INFO][optimize_smac.py:188] Ran p53 with queue ipc23-single-queue and model model_bad-ynn_good-yyyyy: time 0.32, operators 690, cost 40
+[INFO][optimize_smac.py:188] Ran p63 with queue ipc23-single-queue and model model_bad-ynn_good-yyyyy: time 0.33, operators 764, cost 37
+[INFO][optimize_smac.py:188] Ran p54 with queue ipc23-single-queue and model model_bad-ynn_good-yyyyy: time 0.31, operators 690, cost 38
+[INFO][optimize_smac.py:188] Ran p71 with queue ipc23-single-queue and model model_bad-nyn_good-yyyyy: time 0.42, operators 1102, cost 43
+[INFO][optimize_smac.py:209] Ran p63 with queue ipc23-single-queue and model model_bad-nny_good-yyyyy: not solved due to time limit
+[INFO][optimize_smac.py:209] Ran p53 with queue ipc23-single-queue and model model_bad-nny_good-yyyyy: not solved due to time limit
+[INFO][optimize_smac.py:209] Ran p94 with queue ipc23-single-queue and model model_bad-nny_good-yyyyy: not solved due to time limit
+[INFO][optimize_smac.py:209] Ran p91 with queue ipc23-single-queue and model model_bad-nny_good-yyyyy: not solved due to time limit
+[INFO][optimize_smac.py:209] Ran p54 with queue ipc23-single-queue and model model_bad-nny_good-yyyyy: not solved due to time limit
+[INFO][optimize_smac.py:209] Ran p71 with queue ipc23-single-queue and model model_bad-nny_good-yyyyy: not solved due to time limit
+[INFO][optimize_smac.py:209] Ran p81 with queue ipc23-single-queue and model model_bad-nny_good-yyyyy: not solved due to time limit
+[INFO][optimize_smac.py:209] Ran p52 with queue ipc23-single-queue and model model_bad-nny_good-yyyyy: not solved due to time limit
+[INFO][optimize_smac.py:188] Ran p66 with queue ipc23-single-queue and model model_bad-nyn_good-yyyyy: time 0.41, operators 1102, cost 44
+[WARNING][config_selector.py:242] Could not return a new configuration after 16 retries.
+[INFO][smbo.py:332] Shutting down because the stop flag was set.
+[INFO][optimize_smac.py:398] Retrieve candidate configs from SMAC
+[INFO][optimize_smac.py:404] Chosen incumbent: Configuration(values={
+  'alias': 'lama-first',
+  'bad0': False,
+  'bad1': True,
+  'bad2': False,
+  'good0': 1,
+  'good1': 1,
+  'good2': 1,
+  'good3': 1,
+  'good4': 1,
+  'ignore-bad-actions': 'true',
+  'queue_type': 'ipc23-single-queue',
+  'termination-condition': 'full',
+})
+
+[INFO][learn.py:266] Model with hard rules is completed. Saving as incumbent model (remaining time 15:12:08.893134)
+[INFO][incumbent_set.py:33] New incumbent is top 1
+[INFO][incumbent_set.py:35] incumbent-1 (-90, 250.10000000000016)
+[INFO][call.py:203] filter-training-set wall-clock time: 0.68s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.66s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.69s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.67s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.70s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.70s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.75s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.68s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.70s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.69s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.66s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.70s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.67s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.67s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.69s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.66s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.67s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.69s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.65s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.69s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.72s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.67s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.68s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.68s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.67s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.70s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.69s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.67s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.69s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.69s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.67s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.69s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.64s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.70s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.68s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.68s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.68s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.68s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.64s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.67s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.69s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.70s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.69s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.67s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.68s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.67s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.67s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.67s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.67s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.66s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.69s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.67s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.69s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.68s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.69s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.68s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.70s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.67s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.67s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.70s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.67s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.66s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.68s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.65s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.73s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.68s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.67s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.75s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.67s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.65s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.69s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.66s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.67s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.70s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.66s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.72s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.69s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.67s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.71s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.69s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.67s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.69s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.72s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.71s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.70s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.67s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.65s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.68s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.67s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.70s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.69s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.70s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.66s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.68s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.69s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.67s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.72s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][call.py:203] filter-training-set wall-clock time: 0.66s
+[INFO][call.py:212] filter-training-set exit code: 0
+[INFO][learn.py:283] Learning Aleph probability model (remaining time 15:10:51.645602)
+Skipping make_sandwich_no_gluten due to lack of training data: 0 positive examples and 0 negative examples
+Skipping put_on_tray due to lack of training data: 0 positive examples and 0 negative examples
+Skipping serve_sandwich_no_gluten due to lack of training data: 0 positive examples and 0 negative examples
+Skipping serve_sandwich due to lack of training data: 0 positive examples and 0 negative examples
+Running: generate-training-data-aleph.py on /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-28-learning/runs-00001-00100/00052/data/partial-grounding-aleph/good-operators-unit-nogoodrules-nobadrules-class_probability
+2023-06-29 09:05:57,042 INFO     generate-aleph-files wall-clock time: 3.26s
+2023-06-29 09:05:57,042 INFO     generate-aleph-files exit code: 0
+2023-06-29 09:05:57,043 INFO     Running step build: build()
+2023-06-29 09:05:57,043 INFO     Experiment path: "/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-28-learning/runs-00001-00100/00052/data/partial-grounding-aleph/exp"
+2023-06-29 09:05:57,046 INFO     Building 2 runs
+2023-06-29 09:05:57,051 INFO     Finished building runs
+2023-06-29 09:05:57,052 INFO     Running step start: start_runs()
+2023-06-29 09:05:57,052 INFO     Executing /usr/bin/python3 run {'cwd': '/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-06-28-learning/runs-00001-00100/00052/data/partial-grounding-aleph/exp'}
+2023-06-29 09:05:57,958 INFO     Starting run 2 (TASK_ID 1) in runs-00001-00100/00002
+2023-06-29 09:06:10,019 INFO     Starting run 1 (TASK_ID 2) in runs-00001-00100/00001
+2023-06-29 09:06:54,259 INFO     Joining pool processes
+2023-06-29 09:06:54,276 INFO     Learning sklearn models (remaining time 15:09:51.050865)
+Generate candidate rules for action make_sandwich_no_gluten
+1 5
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+5
+
+Generate candidate rules for action make_sandwich
+1 5
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+5
+
+Generate candidate rules for action put_on_tray
+1 3
+2 2
+3 8
+4 31
+5 131
+6 640
+7 1678
+8 0
+9 0
+10 0
+2493
+
+Generate candidate rules for action serve_sandwich_no_gluten
+1 12
+2 12
+3 37
+4 141
+5 692
+6 3637
+7 2859
+8 0
+9 0
+10 0
+7390
+
+Generate candidate rules for action serve_sandwich
+1 12
+2 12
+3 37
+4 141
+5 692
+6 3637
+7 2859
+8 0
+9 0
+10 0
+7390
+
+Generate candidate rules for action move_tray
+1 8
+2 18
+3 49
+4 162
+5 801
+6 4256
+7 3826
+8 0
+9 0
+10 0
+9121
+
+2023-06-29 09:19:58,724 INFO     generate-rules wall-clock time: 784.35s
+2023-06-29 09:19:58,725 INFO     generate-rules exit code: 0
+Filtering irrelevant rules; number rules before filtering 26404
+handling instance 1/89
+handling instance 2/89
+handling instance 3/89
+handling instance 4/89
+handling instance 5/89
+handling instance 6/89
+handling instance 7/89
+handling instance 8/89
+handling instance 9/89
+handling instance 10/89
+Relevant rules:  31
+2023-06-29 09:26:49,177 INFO     filter-rules wall-clock time: 410.40s
+2023-06-29 09:26:49,178 INFO     filter-rules exit code: 0
+Processing  p01
+Processing  p02
+Processing  p03
+Processing  p04
+Processing  p05
+Processing  p06
+Processing  p07
+Processing  p08
+Processing  p09
+Processing  p10
+Processing  p11
+Processing  p12
+Processing  p13
+Processing  p14
+Processing  p15
+Processing  p16
+Processing  p17
+Processing  p18
+Processing  p19
+Processing  p20
+Processing  p21
+Processing  p22
+Processing  p23
+Processing  p24
+Processing  p25
+Processing  p26
+Processing  p27
+Processing  p28
+Processing  p29
+Processing  p30
+Processing  p31
+Processing  p32
+Processing  p33
+Processing  p34
+Processing  p35
+Processing  p36
+Processing  p37
+Processing  p38
+Processing  p39
+Processing  p40
+Processing  p41
+Processing  p42
+Processing  p43
+Processing  p44
+Processing  p45
+Processing  p46
+Processing  p47
+Processing  p48
+Processing  p49
+2023-06-29 09:26:52,582 INFO     generate-training-data-1 wall-clock time: 3.35s
+2023-06-29 09:26:52,582 INFO     generate-training-data-1 exit code: 0
+Filter relevant rules based on feature selector DT
+handling action schema make_sandwich
+removing duplicates reduced size of training set from 6006 to 4, (aggregating using max) [0.010s CPU, 0.002s wall-clock]
+0.75 	 make_sandwich (?s, ?b, ?c) :- ini:no_gluten_content(?c). is useful
+0.25 	 make_sandwich (?s, ?b, ?c) :- ini:no_gluten_bread(?b). is useful
+
+handling action schema serve_sandwich_no_gluten
+removing duplicates reduced size of training set from 397 to 3, (aggregating using max) [0.000s CPU, 0.000s wall-clock]
+
+handling action schema move_tray
+removing duplicates reduced size of training set from 868 to 37, (aggregating using max) [0.000s CPU, 0.000s wall-clock]
+0.36 	 move_tray (?t, ?p1, ?p2) :- ini:waiting(_, ?p2). is useful
+0.27 	 move_tray (?t, ?p1, ?p2) :- ini:waiting(?fv0, ?p1);ini:waiting(?fv0, ?p2). is useful
+0.27 	 move_tray (?t, ?p1, ?p2) :- ini:at(_, ?p1). is useful
+0.1 	 move_tray (?t, ?p1, ?p2) :- goal:served(?fv0);ini:waiting(?fv0, ?p1). is useful
+
+handling action schema serve_sandwich
+removing duplicates reduced size of training set from 1113 to 3, (aggregating using max) [0.000s CPU, 0.000s wall-clock]
+
+2023-06-29 09:27:07,509 INFO     feature-selection wall-clock time: 14.87s
+2023-06-29 09:27:07,509 INFO     feature-selection exit code: 0
+Filter relevant rules based on feature selector LOGR
+handling action schema make_sandwich
+removing duplicates reduced size of training set from 6006 to 4, (aggregating using max) [0.010s CPU, 0.030s wall-clock]
+0.31 	 make_sandwich (?s, ?b, ?c) :- ini:no_gluten_content(?c). is useful
+0.31 	 make_sandwich (?s, ?b, ?c) :- ini:no_gluten_bread(?b). is useful
+
+handling action schema serve_sandwich_no_gluten
+removing duplicates reduced size of training set from 397 to 3, (aggregating using max) [0.000s CPU, 0.000s wall-clock]
+
+handling action schema move_tray
+removing duplicates reduced size of training set from 868 to 37, (aggregating using max) [0.000s CPU, 0.000s wall-clock]
+1.42 	 move_tray (?t, ?p1, ?p2) :- ini:at(_, ?p1). is useful
+1.23 	 move_tray (?t, ?p1, ?p2) :- ini:waiting(_, ?p2). is useful
+0.7 	 move_tray (?t, ?p1, ?p2) :- equal:(?p1, ?p2). is useful
+0.66 	 move_tray (?t, ?p1, ?p2) :- ini:not_allergic_gluten(?fv0);ini:waiting(?fv0, ?p2). is useful
+0.63 	 move_tray (?t, ?p1, ?p2) :- goal:served(?fv0);ini:waiting(?fv0, ?p2). is useful
+0.62 	 move_tray (?t, ?p1, ?p2) :- ini:waiting(?fv0, ?p1);ini:waiting(?fv0, ?p2). is useful
+0.53 	 move_tray (?t, ?p1, ?p2) :- goal:served(?fv0);ini:waiting(?fv0, ?p1). is useful
+0.48 	 move_tray (?t, ?p1, ?p2) :- goal:served(?fv0);ini:waiting(?fv0, ?p1);ini:waiting(?fv0, ?p2). is useful
+0.47 	 move_tray (?t, ?p1, ?p2) :- ini:at(_, ?p2). is useful
+0.45 	 move_tray (?t, ?p1, ?p2) :- ini:allergic_gluten(?fv0);ini:waiting(?fv0, ?p2). is useful
+0.41 	 move_tray (?t, ?p1, ?p2) :- ini:not_allergic_gluten(?fv0);ini:waiting(?fv0, ?p1);ini:waiting(?fv0, ?p2). is useful
+0.4 	 move_tray (?t, ?p1, ?p2) :- ini:allergic_gluten(?fv0);ini:waiting(?fv0, ?p1);ini:waiting(?fv0, ?p2). is useful
+0.37 	 move_tray (?t, ?p1, ?p2) :- ini:allergic_gluten(?fv0);goal:served(?fv0);ini:waiting(?fv0, ?p1). is useful
+0.34 	 move_tray (?t, ?p1, ?p2) :- ini:not_allergic_gluten(?fv0);goal:served(?fv0);ini:waiting(?fv0, ?p1);ini:waiting(?fv0, ?p2). is useful
+0.33 	 move_tray (?t, ?p1, ?p2) :- ini:allergic_gluten(?fv0);goal:served(?fv0);ini:waiting(?fv0, ?p1);ini:waiting(?fv0, ?p2). is useful
+0.29 	 move_tray (?t, ?p1, ?p2) :- ini:not_allergic_gluten(?fv0);goal:served(?fv0);ini:waiting(?fv0, ?p2). is useful
+0.25 	 move_tray (?t, ?p1, ?p2) :- ini:waiting(_, ?p1). is useful
+0.22 	 move_tray (?t, ?p1, ?p2) :- ini:allergic_gluten(?fv0);goal:served(?fv0);ini:waiting(?fv0, ?p2). is useful
+0.2 	 move_tray (?t, ?p1, ?p2) :- ini:not_allergic_gluten(?fv0);goal:served(?fv0);ini:waiting(?fv0, ?p1). is useful
+0.2 	 move_tray (?t, ?p1, ?p2) :- ini:allergic_gluten(?fv0);ini:waiting(?fv0, ?p1). is useful
+0.18 	 move_tray (?t, ?p1, ?p2) :- ini:allergic_gluten(?fv0);ini:not_allergic_gluten(?fv1);ini:waiting(?fv0, ?fv2);ini:waiting(?fv0, ?p2);ini:waiting(?fv1, ?fv2);ini:waiting(?fv1, ?p1). is useful
+
+handling action schema serve_sandwich
+removing duplicates reduced size of training set from 1113 to 3, (aggregating using max) [0.000s CPU, 0.000s wall-clock]
+
+2023-06-29 09:27:17,663 INFO     feature-selection wall-clock time: 10.10s
+2023-06-29 09:27:17,663 INFO     feature-selection exit code: 0
+Filter relevant rules based on feature selector SVR
+handling action schema make_sandwich
+removing duplicates reduced size of training set from 6006 to 4, (aggregating using max) [0.010s CPU, 0.026s wall-clock]
+0.5 	 make_sandwich (?s, ?b, ?c) :- ini:no_gluten_content(?c). is useful
+0.5 	 make_sandwich (?s, ?b, ?c) :- ini:no_gluten_bread(?b). is useful
+
+handling action schema serve_sandwich_no_gluten
+removing duplicates reduced size of training set from 397 to 3, (aggregating using max) [0.000s CPU, 0.000s wall-clock]
+
+handling action schema move_tray
+removing duplicates reduced size of training set from 868 to 37, (aggregating using max) [0.000s CPU, 0.000s wall-clock]
+0.63 	 move_tray (?t, ?p1, ?p2) :- ini:at(_, ?p1). is useful
+0.53 	 move_tray (?t, ?p1, ?p2) :- ini:waiting(?fv0, ?p1);ini:waiting(?fv0, ?p2). is useful
+0.53 	 move_tray (?t, ?p1, ?p2) :- ini:waiting(_, ?p2). is useful
+0.33 	 move_tray (?t, ?p1, ?p2) :- ini:waiting(_, ?p1). is useful
+0.3 	 move_tray (?t, ?p1, ?p2) :- ini:not_allergic_gluten(?fv0);ini:waiting(?fv0, ?p1);ini:waiting(?fv0, ?p2). is useful
+0.27 	 move_tray (?t, ?p1, ?p2) :- ini:not_allergic_gluten(?fv0);ini:waiting(?fv0, ?p2). is useful
+0.23 	 move_tray (?t, ?p1, ?p2) :- ini:at(?fv0, ?p1);ini:at(?fv0, ?p2). is useful
+0.23 	 move_tray (?t, ?p1, ?p2) :- equal:(?p1, ?p2). is useful
+0.22 	 move_tray (?t, ?p1, ?p2) :- goal:served(?fv0);ini:waiting(?fv0, ?p1);ini:waiting(?fv0, ?p2). is useful
+0.18 	 move_tray (?t, ?p1, ?p2) :- goal:served(?fv0);ini:waiting(?fv0, ?p1). is useful
+0.16 	 move_tray (?t, ?p1, ?p2) :- ini:allergic_gluten(?fv0);ini:not_allergic_gluten(?fv1);ini:waiting(?fv0, ?fv2);ini:waiting(?fv1, ?fv2);ini:waiting(?fv1, ?p2). is useful
+0.14 	 move_tray (?t, ?p1, ?p2) :- ini:allergic_gluten(?fv0);ini:waiting(?fv0, ?p1);ini:waiting(?fv0, ?p2). is useful
+0.14 	 move_tray (?t, ?p1, ?p2) :- ini:allergic_gluten(?fv0);goal:served(?fv0);ini:waiting(?fv0, ?p1);ini:waiting(?fv0, ?p2). is useful
+0.13 	 move_tray (?t, ?p1, ?p2) :- ini:allergic_gluten(?fv0);ini:not_allergic_gluten(?fv1);ini:waiting(?fv0, ?fv2);ini:waiting(?fv0, ?p1);ini:waiting(?fv1, ?fv2). is useful
+0.11 	 move_tray (?t, ?p1, ?p2) :- goal:served(?fv0);ini:waiting(?fv0, ?p2). is useful
+0.11 	 move_tray (?t, ?p1, ?p2) :- ini:not_allergic_gluten(?fv0);goal:served(?fv0);ini:waiting(?fv0, ?p2). is useful
+0.1 	 move_tray (?t, ?p1, ?p2) :- ini:not_allergic_gluten(?fv0);ini:waiting(?fv0, ?p1). is useful
+0.1 	 move_tray (?t, ?p1, ?p2) :- ini:allergic_gluten(?fv0);ini:waiting(?fv0, ?p1). is useful
+0.1 	 move_tray (?t, ?p1, ?p2) :- ini:allergic_gluten(?fv0);ini:waiting(?fv0, ?p2). is useful
+0.09 	 move_tray (?t, ?p1, ?p2) :- ini:allergic_gluten(?fv0);ini:not_allergic_gluten(?fv1);ini:waiting(?fv0, ?fv2);ini:waiting(?fv0, ?p2);ini:waiting(?fv1, ?fv2);ini:waiting(?fv1, ?p1). is useful
+
+handling action schema serve_sandwich
+removing duplicates reduced size of training set from 1113 to 3, (aggregating using max) [0.000s CPU, 0.000s wall-clock]
+
+2023-06-29 09:27:27,754 INFO     feature-selection wall-clock time: 10.03s
+2023-06-29 09:27:27,754 INFO     feature-selection exit code: 0
+Processing  p01
+Processing  p02
+Processing  p03
+Processing  p04
+Processing  p05
+Processing  p06
+Processing  p07
+Processing  p08
+Processing  p09
+Processing  p10
+Processing  p11
+Processing  p12
+Processing  p13
+Processing  p14
+Processing  p15
+Processing  p16
+Processing  p17
+Processing  p18
+Processing  p19
+Processing  p20
+Processing  p21
+Processing  p22
+Processing  p23
+Processing  p24
+Processing  p25
+Processing  p26
+Processing  p27
+Processing  p28
+Processing  p29
+Processing  p30
+Processing  p31
+Processing  p32
+Processing  p33
+Processing  p34
+Processing  p35
+Processing  p36
+Processing  p37
+Processing  p38
+Processing  p39
+Processing  p40
+Processing  p41
+Processing  p42
+Processing  p43
+Processing  p44
+Processing  p45
+Processing  p46
+Processing  p47
+Processing  p48
+Processing  p49
+2023-06-29 09:27:30,698 INFO     generate-training-data wall-clock time: 2.88s
+2023-06-29 09:27:30,698 INFO     generate-training-data exit code: 0
+Processing  p01
+Processing  p02
+Processing  p03
+Processing  p04
+Processing  p05
+Processing  p06
+Processing  p07
+Processing  p08
+Processing  p09
+Processing  p10
+Processing  p11
+Processing  p12
+Processing  p13
+Processing  p14
+Processing  p15
+Processing  p16
+Processing  p17
+Processing  p18
+Processing  p19
+Processing  p20
+Processing  p21
+Processing  p22
+Processing  p23
+Processing  p24
+Processing  p25
+Processing  p26
+Processing  p27
+Processing  p28
+Processing  p29
+Processing  p30
+Processing  p31
+Processing  p32
+Processing  p33
+Processing  p34
+Processing  p35
+Processing  p36
+Processing  p37
+Processing  p38
+Processing  p39
+Processing  p40
+Processing  p41
+Processing  p42
+Processing  p43
+Processing  p44
+Processing  p45
+Processing  p46
+Processing  p47
+Processing  p48
+Processing  p49
+2023-06-29 09:27:33,971 INFO     generate-training-data wall-clock time: 3.22s
+2023-06-29 09:27:33,972 INFO     generate-training-data exit code: 0
+Processing  p01
+Processing  p02
+Processing  p03
+Processing  p04
+Processing  p05
+Processing  p06
+Processing  p07
+Processing  p08
+Processing  p09
+Processing  p10
+Processing  p11
+Processing  p12
+Processing  p13
+Processing  p14
+Processing  p15
+Processing  p16
+Processing  p17
+Processing  p18
+Processing  p19
+Processing  p20
+Processing  p21
+Processing  p22
+Processing  p23
+Processing  p24
+Processing  p25
+Processing  p26
+Processing  p27
+Processing  p28
+Processing  p29
+Processing  p30
+Processing  p31
+Processing  p32
+Processing  p33
+Processing  p34
+Processing  p35
+Processing  p36
+Processing  p37
+Processing  p38
+Processing  p39
+Processing  p40
+Processing  p41
+Processing  p42
+Processing  p43
+Processing  p44
+Processing  p45
+Processing  p46
+Processing  p47
+Processing  p48
+Processing  p49
+2023-06-29 09:27:36,025 INFO     generate-training-data wall-clock time: 2.00s
+2023-06-29 09:27:36,026 INFO     generate-training-data exit code: 0
+Processing  p01
+Processing  p02
+Processing  p03
+Processing  p04
+Processing  p05
+Processing  p06
+Processing  p07
+Processing  p08
+Processing  p09
+Processing  p10
+Processing  p11
+Processing  p12
+Processing  p13
+Processing  p14
+Processing  p15
+Processing  p16
+Processing  p17
+Processing  p18
+Processing  p19
+Processing  p20
+Processing  p21
+Processing  p22
+Processing  p23
+Processing  p24
+Processing  p25
+Processing  p26
+Processing  p27
+Processing  p28
+Processing  p29
+Processing  p30
+Processing  p31
+Processing  p32
+Processing  p33
+Processing  p34
+Processing  p35
+Processing  p36
+Processing  p37
+Processing  p38
+Processing  p39
+Processing  p40
+Processing  p41
+Processing  p42
+Processing  p43
+Processing  p44
+Processing  p45
+Processing  p46
+Processing  p47
+Processing  p48
+Processing  p49
+2023-06-29 09:27:38,089 INFO     generate-training-data wall-clock time: 2.01s
+2023-06-29 09:27:38,089 INFO     generate-training-data exit code: 0
+Processing  p01
+Processing  p02
+Processing  p03
+Processing  p04
+Processing  p05
+Processing  p06
+Processing  p07
+Processing  p08
+Processing  p09
+Processing  p10
+Processing  p11
+Processing  p12
+Processing  p13
+Processing  p14
+Processing  p15
+Processing  p16
+Processing  p17
+Processing  p18
+Processing  p19
+Processing  p20
+Processing  p21
+Processing  p22
+Processing  p23
+Processing  p24
+Processing  p25
+Processing  p26
+Processing  p27
+Processing  p28
+Processing  p29
+Processing  p30
+Processing  p31
+Processing  p32
+Processing  p33
+Processing  p34
+Processing  p35
+Processing  p36
+Processing  p37
+Processing  p38
+Processing  p39
+Processing  p40
+Processing  p41
+Processing  p42
+Processing  p43
+Processing  p44
+Processing  p45
+Processing  p46
+Processing  p47
+Processing  p48
+Processing  p49
+2023-06-29 09:27:41,075 INFO     generate-training-data wall-clock time: 2.92s
+2023-06-29 09:27:41,075 INFO     generate-training-data exit code: 0
+Processing  p01
+Processing  p02
+Processing  p03
+Processing  p04
+Processing  p05
+Processing  p06
+Processing  p07
+Processing  p08
+Processing  p09
+Processing  p10
+Processing  p11
+Processing  p12
+Processing  p13
+Processing  p14
+Processing  p15
+Processing  p16
+Processing  p17
+Processing  p18
+Processing  p19
+Processing  p20
+Processing  p21
+Processing  p22
+Processing  p23
+Processing  p24
+Processing  p25
+Processing  p26
+Processing  p27
+Processing  p28
+Processing  p29
+Processing  p30
+Processing  p31
+Processing  p32
+Processing  p33
+Processing  p34
+Processing  p35
+Processing  p36
+Processing  p37
+Processing  p38
+Processing  p39
+Processing  p40
+Processing  p41
+Processing  p42
+Processing  p43
+Processing  p44
+Processing  p45
+Processing  p46
+Processing  p47
+Processing  p48
+Processing  p49
+2023-06-29 09:27:44,284 INFO     generate-training-data wall-clock time: 3.14s
+2023-06-29 09:27:44,284 INFO     generate-training-data exit code: 0
+training model from file  ./data/partial-grounding-sklearn/training-data-sas_plan-exhaustive-useful_rules_dt-good-operators-unit/make_sandwich.csv
+removing duplicates reduced size of training set from 6006 to 4, (aggregating using max) [0.000s CPU, 0.002s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_sas_plan-exhaustive-useful_rules_dt-good-operators-unit_DT/make_sandwich.model .. done
+
+training model from file  ./data/partial-grounding-sklearn/training-data-sas_plan-exhaustive-useful_rules_dt-good-operators-unit/move_tray.csv
+removing duplicates reduced size of training set from 868 to 8, (aggregating using max) [0.000s CPU, 0.000s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_sas_plan-exhaustive-useful_rules_dt-good-operators-unit_DT/move_tray.model .. done
+
+2023-06-29 09:27:54,325 INFO     train wall-clock time: 9.98s
+2023-06-29 09:27:54,325 INFO     train exit code: 0
+training model from file  ./data/partial-grounding-sklearn/training-data-sas_plan-exhaustive-useful_rules_dt-good-operators-unit/make_sandwich.csv
+removing duplicates reduced size of training set from 6006 to 4, (aggregating using max) [0.010s CPU, 0.002s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_sas_plan-exhaustive-useful_rules_dt-good-operators-unit_LOGR/make_sandwich.model .. done
+
+training model from file  ./data/partial-grounding-sklearn/training-data-sas_plan-exhaustive-useful_rules_dt-good-operators-unit/move_tray.csv
+removing duplicates reduced size of training set from 868 to 8, (aggregating using max) [0.000s CPU, 0.000s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_sas_plan-exhaustive-useful_rules_dt-good-operators-unit_LOGR/move_tray.model .. done
+
+2023-06-29 09:28:04,500 INFO     train wall-clock time: 10.12s
+2023-06-29 09:28:04,500 INFO     train exit code: 0
+training model from file  ./data/partial-grounding-sklearn/training-data-sas_plan-exhaustive-useful_rules_dt-good-operators-unit/make_sandwich.csv
+removing duplicates reduced size of training set from 6006 to 4, (aggregating using max) [0.000s CPU, 0.002s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_sas_plan-exhaustive-useful_rules_dt-good-operators-unit_LINR/make_sandwich.model .. done
+
+training model from file  ./data/partial-grounding-sklearn/training-data-sas_plan-exhaustive-useful_rules_dt-good-operators-unit/move_tray.csv
+removing duplicates reduced size of training set from 868 to 8, (aggregating using max) [0.000s CPU, 0.000s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_sas_plan-exhaustive-useful_rules_dt-good-operators-unit_LINR/move_tray.model .. done
+
+2023-06-29 09:28:14,670 INFO     train wall-clock time: 10.11s
+2023-06-29 09:28:14,670 INFO     train exit code: 0
+training model from file  ./data/partial-grounding-sklearn/training-data-sas_plan-exhaustive-useful_rules_dt-good-operators-unit/make_sandwich.csv
+removing duplicates reduced size of training set from 6006 to 4, (aggregating using max) [0.010s CPU, 0.002s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_sas_plan-exhaustive-useful_rules_dt-good-operators-unit_RF/make_sandwich.model .. done
+
+training model from file  ./data/partial-grounding-sklearn/training-data-sas_plan-exhaustive-useful_rules_dt-good-operators-unit/move_tray.csv
+removing duplicates reduced size of training set from 868 to 8, (aggregating using max) [0.000s CPU, 0.000s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_sas_plan-exhaustive-useful_rules_dt-good-operators-unit_RF/move_tray.model .. done
+
+2023-06-29 09:28:26,718 INFO     train wall-clock time: 11.99s
+2023-06-29 09:28:26,718 INFO     train exit code: 0
+training model from file  ./data/partial-grounding-sklearn/training-data-sas_plan-exhaustive-useful_rules_dt-good-operators-unit/make_sandwich.csv
+removing duplicates reduced size of training set from 6006 to 4, (aggregating using max) [0.000s CPU, 0.002s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_sas_plan-exhaustive-useful_rules_dt-good-operators-unit_SVR/make_sandwich.model .. done
+
+training model from file  ./data/partial-grounding-sklearn/training-data-sas_plan-exhaustive-useful_rules_dt-good-operators-unit/move_tray.csv
+removing duplicates reduced size of training set from 868 to 8, (aggregating using max) [0.000s CPU, 0.000s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_sas_plan-exhaustive-useful_rules_dt-good-operators-unit_SVR/move_tray.model .. done
+
+2023-06-29 09:28:36,835 INFO     train wall-clock time: 10.06s
+2023-06-29 09:28:36,836 INFO     train exit code: 0
+training model from file  ./data/partial-grounding-sklearn/training-data-sas_plan-exhaustive-useful_rules_dt-good-operators-unit/make_sandwich.csv
+removing duplicates reduced size of training set from 6006 to 4, (aggregating using max) [0.000s CPU, 0.002s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_sas_plan-exhaustive-useful_rules_dt-good-operators-unit_KRN_RG/make_sandwich.model .. done
+
+training model from file  ./data/partial-grounding-sklearn/training-data-sas_plan-exhaustive-useful_rules_dt-good-operators-unit/move_tray.csv
+removing duplicates reduced size of training set from 868 to 8, (aggregating using max) [0.000s CPU, 0.000s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_sas_plan-exhaustive-useful_rules_dt-good-operators-unit_KRN_RG/move_tray.model .. done
+
+2023-06-29 09:28:47,197 INFO     train wall-clock time: 10.30s
+2023-06-29 09:28:47,197 INFO     train exit code: 0
+training model from file  ./data/partial-grounding-sklearn/training-data-sas_plan-exhaustive-useful_rules_logr-good-operators-unit/make_sandwich.csv
+removing duplicates reduced size of training set from 6006 to 4, (aggregating using max) [0.000s CPU, 0.002s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_sas_plan-exhaustive-useful_rules_logr-good-operators-unit_DT/make_sandwich.model .. done
+
+training model from file  ./data/partial-grounding-sklearn/training-data-sas_plan-exhaustive-useful_rules_logr-good-operators-unit/move_tray.csv
+removing duplicates reduced size of training set from 868 to 37, (aggregating using max) [0.000s CPU, 0.000s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_sas_plan-exhaustive-useful_rules_logr-good-operators-unit_DT/move_tray.model .. done
+
+2023-06-29 09:28:57,273 INFO     train wall-clock time: 10.01s
+2023-06-29 09:28:57,273 INFO     train exit code: 0
+training model from file  ./data/partial-grounding-sklearn/training-data-sas_plan-exhaustive-useful_rules_logr-good-operators-unit/make_sandwich.csv
+removing duplicates reduced size of training set from 6006 to 4, (aggregating using max) [0.000s CPU, 0.002s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_sas_plan-exhaustive-useful_rules_logr-good-operators-unit_LOGR/make_sandwich.model .. done
+
+training model from file  ./data/partial-grounding-sklearn/training-data-sas_plan-exhaustive-useful_rules_logr-good-operators-unit/move_tray.csv
+removing duplicates reduced size of training set from 868 to 37, (aggregating using max) [0.000s CPU, 0.000s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_sas_plan-exhaustive-useful_rules_logr-good-operators-unit_LOGR/move_tray.model .. done
+
+2023-06-29 09:29:07,429 INFO     train wall-clock time: 10.09s
+2023-06-29 09:29:07,429 INFO     train exit code: 0
+training model from file  ./data/partial-grounding-sklearn/training-data-sas_plan-exhaustive-useful_rules_logr-good-operators-unit/make_sandwich.csv
+removing duplicates reduced size of training set from 6006 to 4, (aggregating using max) [0.000s CPU, 0.002s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_sas_plan-exhaustive-useful_rules_logr-good-operators-unit_LINR/make_sandwich.model .. done
+
+training model from file  ./data/partial-grounding-sklearn/training-data-sas_plan-exhaustive-useful_rules_logr-good-operators-unit/move_tray.csv
+removing duplicates reduced size of training set from 868 to 37, (aggregating using max) [0.000s CPU, 0.000s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_sas_plan-exhaustive-useful_rules_logr-good-operators-unit_LINR/move_tray.model .. done
+
+2023-06-29 09:29:17,521 INFO     train wall-clock time: 10.03s
+2023-06-29 09:29:17,521 INFO     train exit code: 0
+training model from file  ./data/partial-grounding-sklearn/training-data-sas_plan-exhaustive-useful_rules_logr-good-operators-unit/make_sandwich.csv
+removing duplicates reduced size of training set from 6006 to 4, (aggregating using max) [0.000s CPU, 0.002s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_sas_plan-exhaustive-useful_rules_logr-good-operators-unit_RF/make_sandwich.model .. done
+
+training model from file  ./data/partial-grounding-sklearn/training-data-sas_plan-exhaustive-useful_rules_logr-good-operators-unit/move_tray.csv
+removing duplicates reduced size of training set from 868 to 37, (aggregating using max) [0.000s CPU, 0.000s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_sas_plan-exhaustive-useful_rules_logr-good-operators-unit_RF/move_tray.model .. done
+
+2023-06-29 09:29:29,554 INFO     train wall-clock time: 11.98s
+2023-06-29 09:29:29,554 INFO     train exit code: 0
+training model from file  ./data/partial-grounding-sklearn/training-data-sas_plan-exhaustive-useful_rules_logr-good-operators-unit/make_sandwich.csv
+removing duplicates reduced size of training set from 6006 to 4, (aggregating using max) [0.010s CPU, 0.002s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_sas_plan-exhaustive-useful_rules_logr-good-operators-unit_SVR/make_sandwich.model .. done
+
+training model from file  ./data/partial-grounding-sklearn/training-data-sas_plan-exhaustive-useful_rules_logr-good-operators-unit/move_tray.csv
+removing duplicates reduced size of training set from 868 to 37, (aggregating using max) [0.000s CPU, 0.000s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_sas_plan-exhaustive-useful_rules_logr-good-operators-unit_SVR/move_tray.model .. done
+
+2023-06-29 09:29:39,628 INFO     train wall-clock time: 10.02s
+2023-06-29 09:29:39,628 INFO     train exit code: 0
+training model from file  ./data/partial-grounding-sklearn/training-data-sas_plan-exhaustive-useful_rules_logr-good-operators-unit/make_sandwich.csv
+removing duplicates reduced size of training set from 6006 to 4, (aggregating using max) [0.000s CPU, 0.002s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_sas_plan-exhaustive-useful_rules_logr-good-operators-unit_KRN_RG/make_sandwich.model .. done
+
+training model from file  ./data/partial-grounding-sklearn/training-data-sas_plan-exhaustive-useful_rules_logr-good-operators-unit/move_tray.csv
+removing duplicates reduced size of training set from 868 to 37, (aggregating using max) [0.000s CPU, 0.001s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_sas_plan-exhaustive-useful_rules_logr-good-operators-unit_KRN_RG/move_tray.model .. done
+
+2023-06-29 09:29:49,991 INFO     train wall-clock time: 10.30s
+2023-06-29 09:29:49,991 INFO     train exit code: 0
+training model from file  ./data/partial-grounding-sklearn/training-data-good_operators-exhaustive-useful_rules_logr-good-operators-unit/make_sandwich.csv
+removing duplicates reduced size of training set from 6006 to 4, (aggregating using max) [0.010s CPU, 0.002s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_good_operators-exhaustive-useful_rules_logr-good-operators-unit_DT/make_sandwich.model .. done
+
+training model from file  ./data/partial-grounding-sklearn/training-data-good_operators-exhaustive-useful_rules_logr-good-operators-unit/move_tray.csv
+removing duplicates reduced size of training set from 868 to 37, (aggregating using max) [0.000s CPU, 0.000s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_good_operators-exhaustive-useful_rules_logr-good-operators-unit_DT/move_tray.model .. done
+
+2023-06-29 09:30:00,050 INFO     train wall-clock time: 10.01s
+2023-06-29 09:30:00,051 INFO     train exit code: 0
+training model from file  ./data/partial-grounding-sklearn/training-data-good_operators-exhaustive-useful_rules_logr-good-operators-unit/make_sandwich.csv
+removing duplicates reduced size of training set from 6006 to 4, (aggregating using max) [0.010s CPU, 0.002s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_good_operators-exhaustive-useful_rules_logr-good-operators-unit_LOGR/make_sandwich.model .. done
+
+training model from file  ./data/partial-grounding-sklearn/training-data-good_operators-exhaustive-useful_rules_logr-good-operators-unit/move_tray.csv
+removing duplicates reduced size of training set from 868 to 37, (aggregating using max) [0.000s CPU, 0.000s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_good_operators-exhaustive-useful_rules_logr-good-operators-unit_LOGR/move_tray.model .. done
+
+2023-06-29 09:30:10,153 INFO     train wall-clock time: 10.05s
+2023-06-29 09:30:10,153 INFO     train exit code: 0
+training model from file  ./data/partial-grounding-sklearn/training-data-good_operators-exhaustive-useful_rules_logr-good-operators-unit/make_sandwich.csv
+removing duplicates reduced size of training set from 6006 to 4, (aggregating using max) [0.000s CPU, 0.002s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_good_operators-exhaustive-useful_rules_logr-good-operators-unit_LINR/make_sandwich.model .. done
+
+training model from file  ./data/partial-grounding-sklearn/training-data-good_operators-exhaustive-useful_rules_logr-good-operators-unit/move_tray.csv
+removing duplicates reduced size of training set from 868 to 37, (aggregating using max) [0.000s CPU, 0.000s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_good_operators-exhaustive-useful_rules_logr-good-operators-unit_LINR/move_tray.model .. done
+
+2023-06-29 09:30:20,240 INFO     train wall-clock time: 10.03s
+2023-06-29 09:30:20,241 INFO     train exit code: 0
+training model from file  ./data/partial-grounding-sklearn/training-data-good_operators-exhaustive-useful_rules_logr-good-operators-unit/make_sandwich.csv
+removing duplicates reduced size of training set from 6006 to 4, (aggregating using max) [0.000s CPU, 0.002s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_good_operators-exhaustive-useful_rules_logr-good-operators-unit_RF/make_sandwich.model .. done
+
+training model from file  ./data/partial-grounding-sklearn/training-data-good_operators-exhaustive-useful_rules_logr-good-operators-unit/move_tray.csv
+removing duplicates reduced size of training set from 868 to 37, (aggregating using max) [0.000s CPU, 0.000s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_good_operators-exhaustive-useful_rules_logr-good-operators-unit_RF/move_tray.model .. done
+
+2023-06-29 09:30:32,262 INFO     train wall-clock time: 11.96s
+2023-06-29 09:30:32,262 INFO     train exit code: 0
+training model from file  ./data/partial-grounding-sklearn/training-data-good_operators-exhaustive-useful_rules_logr-good-operators-unit/make_sandwich.csv
+removing duplicates reduced size of training set from 6006 to 4, (aggregating using max) [0.000s CPU, 0.002s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_good_operators-exhaustive-useful_rules_logr-good-operators-unit_SVR/make_sandwich.model .. done
+
+training model from file  ./data/partial-grounding-sklearn/training-data-good_operators-exhaustive-useful_rules_logr-good-operators-unit/move_tray.csv
+removing duplicates reduced size of training set from 868 to 37, (aggregating using max) [0.000s CPU, 0.000s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_good_operators-exhaustive-useful_rules_logr-good-operators-unit_SVR/move_tray.model .. done
+
+2023-06-29 09:30:42,521 INFO     train wall-clock time: 10.20s
+2023-06-29 09:30:42,521 INFO     train exit code: 0
+training model from file  ./data/partial-grounding-sklearn/training-data-good_operators-exhaustive-useful_rules_logr-good-operators-unit/make_sandwich.csv
+removing duplicates reduced size of training set from 6006 to 4, (aggregating using max) [0.000s CPU, 0.002s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_good_operators-exhaustive-useful_rules_logr-good-operators-unit_KRN_RG/make_sandwich.model .. done
+
+training model from file  ./data/partial-grounding-sklearn/training-data-good_operators-exhaustive-useful_rules_logr-good-operators-unit/move_tray.csv
+removing duplicates reduced size of training set from 868 to 37, (aggregating using max) [0.000s CPU, 0.000s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_good_operators-exhaustive-useful_rules_logr-good-operators-unit_KRN_RG/move_tray.model .. done
+
+2023-06-29 09:30:51,937 INFO     train wall-clock time: 9.36s
+2023-06-29 09:30:51,938 INFO     train exit code: 0
+training model from file  ./data/partial-grounding-sklearn/training-data-good_operators-exhaustive-useful_rules_svr-good-operators-unit/make_sandwich.csv
+removing duplicates reduced size of training set from 6006 to 4, (aggregating using max) [0.010s CPU, 0.002s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_good_operators-exhaustive-useful_rules_svr-good-operators-unit_DT/make_sandwich.model .. done
+
+training model from file  ./data/partial-grounding-sklearn/training-data-good_operators-exhaustive-useful_rules_svr-good-operators-unit/move_tray.csv
+removing duplicates reduced size of training set from 868 to 32, (aggregating using max) [0.000s CPU, 0.000s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_good_operators-exhaustive-useful_rules_svr-good-operators-unit_DT/move_tray.model .. done
+
+2023-06-29 09:31:00,461 INFO     train wall-clock time: 8.49s
+2023-06-29 09:31:00,461 INFO     train exit code: 0
+training model from file  ./data/partial-grounding-sklearn/training-data-good_operators-exhaustive-useful_rules_svr-good-operators-unit/make_sandwich.csv
+removing duplicates reduced size of training set from 6006 to 4, (aggregating using max) [0.010s CPU, 0.002s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_good_operators-exhaustive-useful_rules_svr-good-operators-unit_LOGR/make_sandwich.model .. done
+
+training model from file  ./data/partial-grounding-sklearn/training-data-good_operators-exhaustive-useful_rules_svr-good-operators-unit/move_tray.csv
+removing duplicates reduced size of training set from 868 to 32, (aggregating using max) [0.000s CPU, 0.000s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_good_operators-exhaustive-useful_rules_svr-good-operators-unit_LOGR/move_tray.model .. done
+
+2023-06-29 09:31:09,040 INFO     train wall-clock time: 8.51s
+2023-06-29 09:31:09,040 INFO     train exit code: 0
+training model from file  ./data/partial-grounding-sklearn/training-data-good_operators-exhaustive-useful_rules_svr-good-operators-unit/make_sandwich.csv
+removing duplicates reduced size of training set from 6006 to 4, (aggregating using max) [0.000s CPU, 0.002s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_good_operators-exhaustive-useful_rules_svr-good-operators-unit_LINR/make_sandwich.model .. done
+
+training model from file  ./data/partial-grounding-sklearn/training-data-good_operators-exhaustive-useful_rules_svr-good-operators-unit/move_tray.csv
+removing duplicates reduced size of training set from 868 to 32, (aggregating using max) [0.000s CPU, 0.000s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_good_operators-exhaustive-useful_rules_svr-good-operators-unit_LINR/move_tray.model .. done
+
+2023-06-29 09:31:17,648 INFO     train wall-clock time: 8.58s
+2023-06-29 09:31:17,648 INFO     train exit code: 0
+training model from file  ./data/partial-grounding-sklearn/training-data-good_operators-exhaustive-useful_rules_svr-good-operators-unit/make_sandwich.csv
+removing duplicates reduced size of training set from 6006 to 4, (aggregating using max) [0.000s CPU, 0.002s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_good_operators-exhaustive-useful_rules_svr-good-operators-unit_RF/make_sandwich.model .. done
+
+training model from file  ./data/partial-grounding-sklearn/training-data-good_operators-exhaustive-useful_rules_svr-good-operators-unit/move_tray.csv
+removing duplicates reduced size of training set from 868 to 32, (aggregating using max) [0.000s CPU, 0.000s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_good_operators-exhaustive-useful_rules_svr-good-operators-unit_RF/move_tray.model .. done
+
+2023-06-29 09:31:27,844 INFO     train wall-clock time: 10.16s
+2023-06-29 09:31:27,844 INFO     train exit code: 0
+training model from file  ./data/partial-grounding-sklearn/training-data-good_operators-exhaustive-useful_rules_svr-good-operators-unit/make_sandwich.csv
+removing duplicates reduced size of training set from 6006 to 4, (aggregating using max) [0.000s CPU, 0.002s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_good_operators-exhaustive-useful_rules_svr-good-operators-unit_SVR/make_sandwich.model .. done
+
+training model from file  ./data/partial-grounding-sklearn/training-data-good_operators-exhaustive-useful_rules_svr-good-operators-unit/move_tray.csv
+removing duplicates reduced size of training set from 868 to 32, (aggregating using max) [0.000s CPU, 0.000s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_good_operators-exhaustive-useful_rules_svr-good-operators-unit_SVR/move_tray.model .. done
+
+2023-06-29 09:31:36,431 INFO     train wall-clock time: 8.55s
+2023-06-29 09:31:36,431 INFO     train exit code: 0
+training model from file  ./data/partial-grounding-sklearn/training-data-good_operators-exhaustive-useful_rules_svr-good-operators-unit/make_sandwich.csv
+removing duplicates reduced size of training set from 6006 to 4, (aggregating using max) [0.000s CPU, 0.002s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_good_operators-exhaustive-useful_rules_svr-good-operators-unit_KRN_RG/make_sandwich.model .. done
+
+training model from file  ./data/partial-grounding-sklearn/training-data-good_operators-exhaustive-useful_rules_svr-good-operators-unit/move_tray.csv
+removing duplicates reduced size of training set from 868 to 32, (aggregating using max) [0.000s CPU, 0.000s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_good_operators-exhaustive-useful_rules_svr-good-operators-unit_KRN_RG/move_tray.model .. done
+
+2023-06-29 09:31:45,215 INFO     train wall-clock time: 8.75s
+2023-06-29 09:31:45,215 INFO     train exit code: 0
+training model from file  ./data/partial-grounding-sklearn/training-data-sas_plan-exhaustive-useful_rules_svr-good-operators-unit/make_sandwich.csv
+removing duplicates reduced size of training set from 6006 to 4, (aggregating using max) [0.010s CPU, 0.002s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_sas_plan-exhaustive-useful_rules_svr-good-operators-unit_DT/make_sandwich.model .. done
+
+training model from file  ./data/partial-grounding-sklearn/training-data-sas_plan-exhaustive-useful_rules_svr-good-operators-unit/move_tray.csv
+removing duplicates reduced size of training set from 868 to 32, (aggregating using max) [0.000s CPU, 0.000s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_sas_plan-exhaustive-useful_rules_svr-good-operators-unit_DT/move_tray.model .. done
+
+2023-06-29 09:31:53,813 INFO     train wall-clock time: 8.57s
+2023-06-29 09:31:53,813 INFO     train exit code: 0
+training model from file  ./data/partial-grounding-sklearn/training-data-sas_plan-exhaustive-useful_rules_svr-good-operators-unit/make_sandwich.csv
+removing duplicates reduced size of training set from 6006 to 4, (aggregating using max) [0.000s CPU, 0.002s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_sas_plan-exhaustive-useful_rules_svr-good-operators-unit_LOGR/make_sandwich.model .. done
+
+training model from file  ./data/partial-grounding-sklearn/training-data-sas_plan-exhaustive-useful_rules_svr-good-operators-unit/move_tray.csv
+removing duplicates reduced size of training set from 868 to 32, (aggregating using max) [0.000s CPU, 0.000s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_sas_plan-exhaustive-useful_rules_svr-good-operators-unit_LOGR/move_tray.model .. done
+
+2023-06-29 09:32:02,403 INFO     train wall-clock time: 8.55s
+2023-06-29 09:32:02,403 INFO     train exit code: 0
+training model from file  ./data/partial-grounding-sklearn/training-data-sas_plan-exhaustive-useful_rules_svr-good-operators-unit/make_sandwich.csv
+removing duplicates reduced size of training set from 6006 to 4, (aggregating using max) [0.000s CPU, 0.002s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_sas_plan-exhaustive-useful_rules_svr-good-operators-unit_LINR/make_sandwich.model .. done
+
+training model from file  ./data/partial-grounding-sklearn/training-data-sas_plan-exhaustive-useful_rules_svr-good-operators-unit/move_tray.csv
+removing duplicates reduced size of training set from 868 to 32, (aggregating using max) [0.000s CPU, 0.000s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_sas_plan-exhaustive-useful_rules_svr-good-operators-unit_LINR/move_tray.model .. done
+
+2023-06-29 09:32:10,951 INFO     train wall-clock time: 8.52s
+2023-06-29 09:32:10,951 INFO     train exit code: 0
+training model from file  ./data/partial-grounding-sklearn/training-data-sas_plan-exhaustive-useful_rules_svr-good-operators-unit/make_sandwich.csv
+removing duplicates reduced size of training set from 6006 to 4, (aggregating using max) [0.000s CPU, 0.002s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_sas_plan-exhaustive-useful_rules_svr-good-operators-unit_RF/make_sandwich.model .. done
+
+training model from file  ./data/partial-grounding-sklearn/training-data-sas_plan-exhaustive-useful_rules_svr-good-operators-unit/move_tray.csv
+removing duplicates reduced size of training set from 868 to 32, (aggregating using max) [0.000s CPU, 0.000s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_sas_plan-exhaustive-useful_rules_svr-good-operators-unit_RF/move_tray.model .. done
+
+2023-06-29 09:32:21,094 INFO     train wall-clock time: 10.08s
+2023-06-29 09:32:21,094 INFO     train exit code: 0
+training model from file  ./data/partial-grounding-sklearn/training-data-sas_plan-exhaustive-useful_rules_svr-good-operators-unit/make_sandwich.csv
+removing duplicates reduced size of training set from 6006 to 4, (aggregating using max) [0.000s CPU, 0.002s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_sas_plan-exhaustive-useful_rules_svr-good-operators-unit_SVR/make_sandwich.model .. done
+
+training model from file  ./data/partial-grounding-sklearn/training-data-sas_plan-exhaustive-useful_rules_svr-good-operators-unit/move_tray.csv
+removing duplicates reduced size of training set from 868 to 32, (aggregating using max) [0.000s CPU, 0.000s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_sas_plan-exhaustive-useful_rules_svr-good-operators-unit_SVR/move_tray.model .. done
+
+2023-06-29 09:32:29,578 INFO     train wall-clock time: 8.46s
+2023-06-29 09:32:29,578 INFO     train exit code: 0
+training model from file  ./data/partial-grounding-sklearn/training-data-sas_plan-exhaustive-useful_rules_svr-good-operators-unit/make_sandwich.csv
+removing duplicates reduced size of training set from 6006 to 4, (aggregating using max) [0.000s CPU, 0.002s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_sas_plan-exhaustive-useful_rules_svr-good-operators-unit_KRN_RG/make_sandwich.model .. done
+
+training model from file  ./data/partial-grounding-sklearn/training-data-sas_plan-exhaustive-useful_rules_svr-good-operators-unit/move_tray.csv
+removing duplicates reduced size of training set from 868 to 32, (aggregating using max) [0.000s CPU, 0.000s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_sas_plan-exhaustive-useful_rules_svr-good-operators-unit_KRN_RG/move_tray.model .. done
+
+2023-06-29 09:32:38,154 INFO     train wall-clock time: 8.51s
+2023-06-29 09:32:38,154 INFO     train exit code: 0
+training model from file  ./data/partial-grounding-sklearn/training-data-good-operators-exhaustive-filtered/make_sandwich.csv
+removing duplicates reduced size of training set from 6006 to 4, (aggregating using max) [0.010s CPU, 0.002s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_good-operators-exhaustive-filtered_DT/make_sandwich.model .. done
+
+training model from file  ./data/partial-grounding-sklearn/training-data-good-operators-exhaustive-filtered/serve_sandwich_no_gluten.csv
+removing duplicates reduced size of training set from 397 to 3, (aggregating using max) [0.000s CPU, 0.000s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_good-operators-exhaustive-filtered_DT/serve_sandwich_no_gluten.model .. done
+
+training model from file  ./data/partial-grounding-sklearn/training-data-good-operators-exhaustive-filtered/move_tray.csv
+removing duplicates reduced size of training set from 868 to 37, (aggregating using max) [0.000s CPU, 0.000s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_good-operators-exhaustive-filtered_DT/move_tray.model .. done
+
+training model from file  ./data/partial-grounding-sklearn/training-data-good-operators-exhaustive-filtered/serve_sandwich.csv
+removing duplicates reduced size of training set from 1113 to 3, (aggregating using max) [0.000s CPU, 0.000s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_good-operators-exhaustive-filtered_DT/serve_sandwich.model .. done
+
+2023-06-29 09:32:46,951 INFO     train wall-clock time: 8.76s
+2023-06-29 09:32:46,951 INFO     train exit code: 0
+training model from file  ./data/partial-grounding-sklearn/training-data-good-operators-exhaustive-filtered/make_sandwich.csv
+removing duplicates reduced size of training set from 6006 to 4, (aggregating using max) [0.010s CPU, 0.002s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_good-operators-exhaustive-filtered_LOGR/make_sandwich.model .. done
+
+training model from file  ./data/partial-grounding-sklearn/training-data-good-operators-exhaustive-filtered/serve_sandwich_no_gluten.csv
+removing duplicates reduced size of training set from 397 to 3, (aggregating using max) [0.000s CPU, 0.000s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_good-operators-exhaustive-filtered_LOGR/serve_sandwich_no_gluten.model .. done
+
+training model from file  ./data/partial-grounding-sklearn/training-data-good-operators-exhaustive-filtered/move_tray.csv
+removing duplicates reduced size of training set from 868 to 37, (aggregating using max) [0.000s CPU, 0.000s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_good-operators-exhaustive-filtered_LOGR/move_tray.model .. done
+
+training model from file  ./data/partial-grounding-sklearn/training-data-good-operators-exhaustive-filtered/serve_sandwich.csv
+removing duplicates reduced size of training set from 1113 to 3, (aggregating using max) [0.000s CPU, 0.000s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_good-operators-exhaustive-filtered_LOGR/serve_sandwich.model .. done
+
+2023-06-29 09:32:55,680 INFO     train wall-clock time: 8.55s
+2023-06-29 09:32:55,680 INFO     train exit code: 0
+training model from file  ./data/partial-grounding-sklearn/training-data-good-operators-exhaustive-filtered/make_sandwich.csv
+removing duplicates reduced size of training set from 6006 to 4, (aggregating using max) [0.010s CPU, 0.010s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_good-operators-exhaustive-filtered_LINR/make_sandwich.model .. done
+
+training model from file  ./data/partial-grounding-sklearn/training-data-good-operators-exhaustive-filtered/serve_sandwich_no_gluten.csv
+removing duplicates reduced size of training set from 397 to 3, (aggregating using max) [0.000s CPU, 0.000s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_good-operators-exhaustive-filtered_LINR/serve_sandwich_no_gluten.model .. done
+
+training model from file  ./data/partial-grounding-sklearn/training-data-good-operators-exhaustive-filtered/move_tray.csv
+removing duplicates reduced size of training set from 868 to 37, (aggregating using max) [0.000s CPU, 0.000s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_good-operators-exhaustive-filtered_LINR/move_tray.model .. done
+
+training model from file  ./data/partial-grounding-sklearn/training-data-good-operators-exhaustive-filtered/serve_sandwich.csv
+removing duplicates reduced size of training set from 1113 to 3, (aggregating using max) [0.010s CPU, 0.000s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_good-operators-exhaustive-filtered_LINR/serve_sandwich.model .. done
+
+2023-06-29 09:33:04,305 INFO     train wall-clock time: 8.59s
+2023-06-29 09:33:04,305 INFO     train exit code: 0
+training model from file  ./data/partial-grounding-sklearn/training-data-good-operators-exhaustive-filtered/make_sandwich.csv
+removing duplicates reduced size of training set from 6006 to 4, (aggregating using max) [0.000s CPU, 0.002s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_good-operators-exhaustive-filtered_RF/make_sandwich.model .. done
+
+training model from file  ./data/partial-grounding-sklearn/training-data-good-operators-exhaustive-filtered/serve_sandwich_no_gluten.csv
+removing duplicates reduced size of training set from 397 to 3, (aggregating using max) [0.000s CPU, 0.000s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_good-operators-exhaustive-filtered_RF/serve_sandwich_no_gluten.model .. done
+
+training model from file  ./data/partial-grounding-sklearn/training-data-good-operators-exhaustive-filtered/move_tray.csv
+removing duplicates reduced size of training set from 868 to 37, (aggregating using max) [0.000s CPU, 0.000s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_good-operators-exhaustive-filtered_RF/move_tray.model .. done
+
+training model from file  ./data/partial-grounding-sklearn/training-data-good-operators-exhaustive-filtered/serve_sandwich.csv
+removing duplicates reduced size of training set from 1113 to 3, (aggregating using max) [0.000s CPU, 0.000s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_good-operators-exhaustive-filtered_RF/serve_sandwich.model .. done
+
+2023-06-29 09:33:14,455 INFO     train wall-clock time: 10.11s
+2023-06-29 09:33:14,455 INFO     train exit code: 0
+training model from file  ./data/partial-grounding-sklearn/training-data-good-operators-exhaustive-filtered/make_sandwich.csv
+removing duplicates reduced size of training set from 6006 to 4, (aggregating using max) [0.000s CPU, 0.002s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_good-operators-exhaustive-filtered_SVR/make_sandwich.model .. done
+
+training model from file  ./data/partial-grounding-sklearn/training-data-good-operators-exhaustive-filtered/serve_sandwich_no_gluten.csv
+removing duplicates reduced size of training set from 397 to 3, (aggregating using max) [0.010s CPU, 0.000s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_good-operators-exhaustive-filtered_SVR/serve_sandwich_no_gluten.model .. done
+
+training model from file  ./data/partial-grounding-sklearn/training-data-good-operators-exhaustive-filtered/move_tray.csv
+removing duplicates reduced size of training set from 868 to 37, (aggregating using max) [0.000s CPU, 0.000s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_good-operators-exhaustive-filtered_SVR/move_tray.model .. done
+
+training model from file  ./data/partial-grounding-sklearn/training-data-good-operators-exhaustive-filtered/serve_sandwich.csv
+removing duplicates reduced size of training set from 1113 to 3, (aggregating using max) [0.000s CPU, 0.000s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_good-operators-exhaustive-filtered_SVR/serve_sandwich.model .. done
+
+2023-06-29 09:33:23,061 INFO     train wall-clock time: 8.57s
+2023-06-29 09:33:23,061 INFO     train exit code: 0
+training model from file  ./data/partial-grounding-sklearn/training-data-good-operators-exhaustive-filtered/make_sandwich.csv
+removing duplicates reduced size of training set from 6006 to 4, (aggregating using max) [0.010s CPU, 0.002s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_good-operators-exhaustive-filtered_KRN_RG/make_sandwich.model .. done
+
+training model from file  ./data/partial-grounding-sklearn/training-data-good-operators-exhaustive-filtered/serve_sandwich_no_gluten.csv
+removing duplicates reduced size of training set from 397 to 3, (aggregating using max) [0.000s CPU, 0.000s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_good-operators-exhaustive-filtered_KRN_RG/serve_sandwich_no_gluten.model .. done
+
+training model from file  ./data/partial-grounding-sklearn/training-data-good-operators-exhaustive-filtered/move_tray.csv
+removing duplicates reduced size of training set from 868 to 37, (aggregating using max) [0.000s CPU, 0.000s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_good-operators-exhaustive-filtered_KRN_RG/move_tray.model .. done
+
+training model from file  ./data/partial-grounding-sklearn/training-data-good-operators-exhaustive-filtered/serve_sandwich.csv
+removing duplicates reduced size of training set from 1113 to 3, (aggregating using max) [0.000s CPU, 0.000s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_good-operators-exhaustive-filtered_KRN_RG/serve_sandwich.model .. done
+
+2023-06-29 09:33:31,678 INFO     train wall-clock time: 8.58s
+2023-06-29 09:33:31,678 INFO     train exit code: 0
+training model from file  ./data/partial-grounding-sklearn/training-data-good_operators-exhaustive-useful_rules_dt-good-operators-unit/make_sandwich.csv
+removing duplicates reduced size of training set from 6006 to 4, (aggregating using max) [0.000s CPU, 0.002s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_good_operators-exhaustive-useful_rules_dt-good-operators-unit_DT/make_sandwich.model .. done
+
+training model from file  ./data/partial-grounding-sklearn/training-data-good_operators-exhaustive-useful_rules_dt-good-operators-unit/move_tray.csv
+removing duplicates reduced size of training set from 868 to 8, (aggregating using max) [0.000s CPU, 0.000s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_good_operators-exhaustive-useful_rules_dt-good-operators-unit_DT/move_tray.model .. done
+
+2023-06-29 09:33:40,241 INFO     train wall-clock time: 8.51s
+2023-06-29 09:33:40,241 INFO     train exit code: 0
+training model from file  ./data/partial-grounding-sklearn/training-data-good_operators-exhaustive-useful_rules_dt-good-operators-unit/make_sandwich.csv
+removing duplicates reduced size of training set from 6006 to 4, (aggregating using max) [0.000s CPU, 0.002s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_good_operators-exhaustive-useful_rules_dt-good-operators-unit_LOGR/make_sandwich.model .. done
+
+training model from file  ./data/partial-grounding-sklearn/training-data-good_operators-exhaustive-useful_rules_dt-good-operators-unit/move_tray.csv
+removing duplicates reduced size of training set from 868 to 8, (aggregating using max) [0.000s CPU, 0.000s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_good_operators-exhaustive-useful_rules_dt-good-operators-unit_LOGR/move_tray.model .. done
+
+2023-06-29 09:33:49,008 INFO     train wall-clock time: 8.74s
+2023-06-29 09:33:49,008 INFO     train exit code: 0
+training model from file  ./data/partial-grounding-sklearn/training-data-good_operators-exhaustive-useful_rules_dt-good-operators-unit/make_sandwich.csv
+removing duplicates reduced size of training set from 6006 to 4, (aggregating using max) [0.000s CPU, 0.002s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_good_operators-exhaustive-useful_rules_dt-good-operators-unit_LINR/make_sandwich.model .. done
+
+training model from file  ./data/partial-grounding-sklearn/training-data-good_operators-exhaustive-useful_rules_dt-good-operators-unit/move_tray.csv
+removing duplicates reduced size of training set from 868 to 8, (aggregating using max) [0.000s CPU, 0.000s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_good_operators-exhaustive-useful_rules_dt-good-operators-unit_LINR/move_tray.model .. done
+
+2023-06-29 09:33:57,555 INFO     train wall-clock time: 8.51s
+2023-06-29 09:33:57,555 INFO     train exit code: 0
+training model from file  ./data/partial-grounding-sklearn/training-data-good_operators-exhaustive-useful_rules_dt-good-operators-unit/make_sandwich.csv
+removing duplicates reduced size of training set from 6006 to 4, (aggregating using max) [0.000s CPU, 0.002s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_good_operators-exhaustive-useful_rules_dt-good-operators-unit_RF/make_sandwich.model .. done
+
+training model from file  ./data/partial-grounding-sklearn/training-data-good_operators-exhaustive-useful_rules_dt-good-operators-unit/move_tray.csv
+removing duplicates reduced size of training set from 868 to 8, (aggregating using max) [0.000s CPU, 0.000s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_good_operators-exhaustive-useful_rules_dt-good-operators-unit_RF/move_tray.model .. done
+
+2023-06-29 09:34:07,773 INFO     train wall-clock time: 10.19s
+2023-06-29 09:34:07,773 INFO     train exit code: 0
+training model from file  ./data/partial-grounding-sklearn/training-data-good_operators-exhaustive-useful_rules_dt-good-operators-unit/make_sandwich.csv
+removing duplicates reduced size of training set from 6006 to 4, (aggregating using max) [0.000s CPU, 0.002s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_good_operators-exhaustive-useful_rules_dt-good-operators-unit_SVR/make_sandwich.model .. done
+
+training model from file  ./data/partial-grounding-sklearn/training-data-good_operators-exhaustive-useful_rules_dt-good-operators-unit/move_tray.csv
+removing duplicates reduced size of training set from 868 to 8, (aggregating using max) [0.000s CPU, 0.000s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_good_operators-exhaustive-useful_rules_dt-good-operators-unit_SVR/move_tray.model .. done
+
+2023-06-29 09:34:16,347 INFO     train wall-clock time: 8.54s
+2023-06-29 09:34:16,347 INFO     train exit code: 0
+training model from file  ./data/partial-grounding-sklearn/training-data-good_operators-exhaustive-useful_rules_dt-good-operators-unit/make_sandwich.csv
+removing duplicates reduced size of training set from 6006 to 4, (aggregating using max) [0.000s CPU, 0.002s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_good_operators-exhaustive-useful_rules_dt-good-operators-unit_KRN_RG/make_sandwich.model .. done
+
+training model from file  ./data/partial-grounding-sklearn/training-data-good_operators-exhaustive-useful_rules_dt-good-operators-unit/move_tray.csv
+removing duplicates reduced size of training set from 868 to 8, (aggregating using max) [0.000s CPU, 0.000s wall-clock]
+writing model to file  ./data/partial-grounding-sklearn/model_good_operators-exhaustive-useful_rules_dt-good-operators-unit_KRN_RG/move_tray.model .. done
+
+2023-06-29 09:34:24,910 INFO     train wall-clock time: 8.51s
+2023-06-29 09:34:24,910 INFO     train exit code: 0
+2023-06-29 09:34:24,910 INFO     Starting SMAC optimization round 1 (remaining time 14:42:20.416907)
+2023-06-29 09:34:24,911 INFO     SMAC optimization minimizing operators (remaining time 14:42:20.416363)
+Running learning parser
+Running runsolver parser

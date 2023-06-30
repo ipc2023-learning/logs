@@ -1,0 +1,18 @@
+terminate called after throwing an instance of 'St9bad_alloc'
+  what():  std::bad_alloc
+Aborted
+no outcome determined by runsolver
+no outcome detected nor guessed for: {
+  "all_files_with_dk_prefix": [],
+  "apptainer_exit_code": 0,
+  "apptainer_wall_clock_time": 355.5,
+  "coverage": 0,
+  "cpu_time": 342.341,
+  "dk_file": null,
+  "memory": 31461488,
+  "memory_limit": 33554432,
+  "node": "n1790",
+  "virtual_memory": 34863560,
+  "wall_clock_time": 355.278,
+  "wall_clock_time_limit": 86400
+}

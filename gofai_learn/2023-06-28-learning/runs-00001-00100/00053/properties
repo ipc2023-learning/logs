@@ -1,0 +1,26 @@
+{
+  "all_files_with_dk_prefix": [
+    "dk.1",
+    "dk.2",
+    "dk.3",
+    "dk.4",
+    "dk.5",
+    "dk.6",
+    "dk.7",
+    "dk.8",
+    "dk.9",
+    "dk.10"
+  ],
+  "apptainer_exit_code": 0,
+  "apptainer_wall_clock_time": 86400.35,
+  "coverage": 1,
+  "cpu_time": 81160.3,
+  "dk_file": "dk.10",
+  "error": "success",
+  "memory": 2846056,
+  "memory_limit": 33554432,
+  "node": "n10",
+  "virtual_memory": 4328668,
+  "wall_clock_time": 86400.2,
+  "wall_clock_time_limit": 86400
+}

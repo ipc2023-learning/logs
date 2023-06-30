@@ -1,0 +1,30 @@
+Traceback (most recent call last):
+  File "/preprocess-tasks.py", line 58, in <module>
+    main()
+  File "/preprocess-tasks.py", line 49, in main
+    shutil.move("output", problem_path)
+  File "/usr/lib/python2.7/shutil.py", line 302, in move
+    copy2(src, real_dst)
+  File "/usr/lib/python2.7/shutil.py", line 130, in copy2
+    copyfile(src, dst)
+  File "/usr/lib/python2.7/shutil.py", line 84, in copyfile
+    copyfileobj(fsrc, fdst)
+  File "/usr/lib/python2.7/shutil.py", line 52, in copyfileobj
+    fdst.write(buf)
+IOError: [Errno 28] No space left on device
+no outcome determined by runsolver
+no outcome detected nor guessed for: {
+  "all_files_with_dk_prefix": [],
+  "apptainer_exit_code": 0,
+  "apptainer_wall_clock_time": 26.76,
+  "call_wall_clock_time": 0.31746602058410645,
+  "coverage": 0,
+  "cpu_time": 24.5537,
+  "dk_file": null,
+  "memory": 50932,
+  "memory_limit": 33554432,
+  "node": "n1763",
+  "virtual_memory": 1890600,
+  "wall_clock_time": 26.5471,
+  "wall_clock_time_limit": 86400
+}

@@ -1,0 +1,4 @@
+configs = [
+    # Num: 1, Tuner-Timeout: 82800, Learn quality: 824.87
+    (1800, ["--landmarks", "lmg=lm_rhw(reasonable_orders=false,only_causal_landmarks=true,disjunctive_landmarks=false,conjunctive_landmarks=true,no_orders=false,cost_type=1)", "--heuristic", "hFF=ff(cost_type=1)", "--heuristic", "hLM=lmcount(lmg,admissible=true,pref=false,cost_type=1)", "--heuristic", "hAdd=add(cost_type=2)", "--search", "lazy(alt([single(sum([weight(g(),2),weight(hFF,3)])),single(sum([weight(g(),2),weight(hFF,3)]),pref_only=true),single(sum([weight(g(),2),weight(hLM,3)])),single(sum([weight(g(),2),weight(hLM,3)]),pref_only=true),single(sum([weight(g(),2),weight(hAdd,3)])),single(sum([weight(g(),2),weight(hAdd,3)]),pref_only=true)],boost=4841),preferred=[hFF,hAdd],reopen_closed=true,cost_type=1,bound=infinity)"]),
+]

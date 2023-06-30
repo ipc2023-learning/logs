@@ -1,0 +1,2850 @@
+Domain=domain.pddl Problem=p01.pddl
+Domain=domain.pddl Problem=p02.pddl
+Domain=domain.pddl Problem=p03.pddl
+Domain=domain.pddl Problem=p04.pddl
+Domain=domain.pddl Problem=p05.pddl
+Domain=domain.pddl Problem=p06.pddl
+Domain=domain.pddl Problem=p07.pddl
+Domain=domain.pddl Problem=p08.pddl
+Domain=domain.pddl Problem=p09.pddl
+Domain=domain.pddl Problem=p10.pddl
+Domain=domain.pddl Problem=p11.pddl
+Domain=domain.pddl Problem=p12.pddl
+Domain=domain.pddl Problem=p13.pddl
+Domain=domain.pddl Problem=p14.pddl
+Domain=domain.pddl Problem=p15.pddl
+Domain=domain.pddl Problem=p16.pddl
+Domain=domain.pddl Problem=p17.pddl
+Domain=domain.pddl Problem=p18.pddl
+Domain=domain.pddl Problem=p19.pddl
+Domain=domain.pddl Problem=p20.pddl
+Domain=domain.pddl Problem=p21.pddl
+Domain=domain.pddl Problem=p22.pddl
+Domain=domain.pddl Problem=p23.pddl
+Domain=domain.pddl Problem=p24.pddl
+Domain=domain.pddl Problem=p25.pddl
+Domain=domain.pddl Problem=p26.pddl
+Domain=domain.pddl Problem=p27.pddl
+Domain=domain.pddl Problem=p28.pddl
+Domain=domain.pddl Problem=p29.pddl
+Domain=domain.pddl Problem=p30.pddl
+Domain=domain.pddl Problem=p31.pddl
+Domain=domain.pddl Problem=p32.pddl
+Domain=domain.pddl Problem=p33.pddl
+Domain=domain.pddl Problem=p34.pddl
+Domain=domain.pddl Problem=p35.pddl
+Domain=domain.pddl Problem=p36.pddl
+Domain=domain.pddl Problem=p37.pddl
+Domain=domain.pddl Problem=p38.pddl
+Domain=domain.pddl Problem=p39.pddl
+Domain=domain.pddl Problem=p40.pddl
+Domain=domain.pddl Problem=p41.pddl
+Domain=domain.pddl Problem=p42.pddl
+Domain=domain.pddl Problem=p43.pddl
+Domain=domain.pddl Problem=p44.pddl
+Domain=domain.pddl Problem=p45.pddl
+Domain=domain.pddl Problem=p46.pddl
+Domain=domain.pddl Problem=p47.pddl
+Domain=domain.pddl Problem=p48.pddl
+Domain=domain.pddl Problem=p49.pddl
+Domain=domain.pddl Problem=p50.pddl
+Domain=domain.pddl Problem=p51.pddl
+Domain=domain.pddl Problem=p52.pddl
+Domain=domain.pddl Problem=p53.pddl
+Domain=domain.pddl Problem=p54.pddl
+Domain=domain.pddl Problem=p55.pddl
+Domain=domain.pddl Problem=p56.pddl
+Domain=domain.pddl Problem=p57.pddl
+Domain=domain.pddl Problem=p58.pddl
+Domain=domain.pddl Problem=p59.pddl
+Domain=domain.pddl Problem=p60.pddl
+Domain=domain.pddl Problem=p61.pddl
+Domain=domain.pddl Problem=p62.pddl
+Domain=domain.pddl Problem=p63.pddl
+Domain=domain.pddl Problem=p64.pddl
+Domain=domain.pddl Problem=p65.pddl
+Domain=domain.pddl Problem=p66.pddl
+Domain=domain.pddl Problem=p67.pddl
+Domain=domain.pddl Problem=p68.pddl
+Domain=domain.pddl Problem=p69.pddl
+Domain=domain.pddl Problem=p70.pddl
+Domain=domain.pddl Problem=p71.pddl
+Domain=domain.pddl Problem=p72.pddl
+Domain=domain.pddl Problem=p73.pddl
+Domain=domain.pddl Problem=p74.pddl
+Domain=domain.pddl Problem=p75.pddl
+Domain=domain.pddl Problem=p76.pddl
+Domain=domain.pddl Problem=p77.pddl
+Domain=domain.pddl Problem=p78.pddl
+Domain=domain.pddl Problem=p79.pddl
+Domain=domain.pddl Problem=p80.pddl
+Domain=domain.pddl Problem=p81.pddl
+Domain=domain.pddl Problem=p82.pddl
+Domain=domain.pddl Problem=p83.pddl
+Domain=domain.pddl Problem=p84.pddl
+Domain=domain.pddl Problem=p85.pddl
+Domain=domain.pddl Problem=p86.pddl
+Domain=domain.pddl Problem=p87.pddl
+Domain=domain.pddl Problem=p88.pddl
+Domain=domain.pddl Problem=p89.pddl
+Domain=domain.pddl Problem=p90.pddl
+Domain=domain.pddl Problem=p91.pddl
+Domain=domain.pddl Problem=p92.pddl
+Domain=domain.pddl Problem=p93.pddl
+Domain=domain.pddl Problem=p94.pddl
+Domain=domain.pddl Problem=p95.pddl
+Domain=domain.pddl Problem=p96.pddl
+Domain=domain.pddl Problem=p97.pddl
+Domain=domain.pddl Problem=p98.pddl
+Domain=domain.pddl Problem=p99.pddl
+[INFO] Parsed domain. [0.000]
+[INFO] Generalized Planning Problem created. [29.000]
+[INFO] Generalized Domain created. [0.000]
+[INFO] Landmarks created. [268.000]
+[INFO] Engine created. [0.000]
+[INFO] Heuristic landmarks added.
+[INFO] Searching... [0.000]
+[ENGINE] NODE ID: 0; EXPANDED: 1; EVALUATED: 1; OPEN QUEUE SIZE: 0
+[NODE]: f1=4
+0. empty
+1. empty
+2. empty
+3. empty
+4. empty
+5. empty
+6. empty
+7. empty
+8. empty
+9. empty
+10. empty
+11. empty
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 159; EXPANDED: 2; EVALUATED: 228; OPEN QUEUE SIZE: 225
+[NODE]: f1=3
+0. inc(ptr-color1)
+1. empty
+2. empty
+3. empty
+4. empty
+5. empty
+6. empty
+7. empty
+8. empty
+9. empty
+10. empty
+11. empty
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 228; EXPANDED: 3; EVALUATED: 457; OPEN QUEUE SIZE: 452
+[NODE]: f1=2
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. empty
+3. empty
+4. empty
+5. empty
+6. empty
+7. empty
+8. empty
+9. empty
+10. empty
+11. empty
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 600; EXPANDED: 4; EVALUATED: 684; OPEN QUEUE SIZE: 677
+[NODE]: f1=1
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. empty
+4. empty
+5. empty
+6. empty
+7. empty
+8. empty
+9. empty
+10. empty
+11. empty
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 697; EXPANDED: 5; EVALUATED: 917; OPEN QUEUE SIZE: 908
+[NODE]: f1=0
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. empty
+5. empty
+6. empty
+7. empty
+8. empty
+9. empty
+10. empty
+11. empty
+12. empty
+13. empty
+14. end
+
+[INFO] Possible solution found at node id 1143 when solving instance ids: #0
+[NODE]: f1=0
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. end
+5. empty
+6. empty
+7. empty
+8. empty
+9. empty
+10. empty
+11. empty
+12. empty
+13. empty
+14. end
+
+[INFO] Failed on instance id 1. Reevaluating the queue... 
+[INFO] DONE!
+[ENGINE] NODE ID: 1013; EXPANDED: 6; EVALUATED: 1144; OPEN QUEUE SIZE: 1133
+[NODE]: f1=1
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. empty
+6. empty
+7. empty
+8. empty
+9. empty
+10. empty
+11. empty
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 1157; EXPANDED: 7; EVALUATED: 1371; OPEN QUEUE SIZE: 1358
+[NODE]: f1=0
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. empty
+7. empty
+8. empty
+9. empty
+10. empty
+11. empty
+12. empty
+13. empty
+14. end
+
+[INFO] Possible solution found at node id 1597 when solving instance ids: #0 #1
+[NODE]: f1=0
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. end
+7. empty
+8. empty
+9. empty
+10. empty
+11. empty
+12. empty
+13. empty
+14. end
+
+[INFO] Failed on instance id 2. Reevaluating the queue... 
+[INFO] DONE!
+[ENGINE] NODE ID: 1158; EXPANDED: 8; EVALUATED: 1598; OPEN QUEUE SIZE: 1583
+[NODE]: f1=9
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color3)
+6. empty
+7. empty
+8. empty
+9. empty
+10. empty
+11. empty
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 35950; EXPANDED: 159; EVALUATED: 36043; OPEN QUEUE SIZE: 35642
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. empty
+9. empty
+10. empty
+11. empty
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 36139; EXPANDED: 160; EVALUATED: 36286; OPEN QUEUE SIZE: 35883
+[NODE]: f1=5
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. empty
+10. empty
+11. empty
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 37206; EXPANDED: 165; EVALUATED: 37421; OPEN QUEUE SIZE: 37008
+[NODE]: f1=4
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color2,ptr-color1)
+10. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color1)
+11. empty
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 37421; EXPANDED: 166; EVALUATED: 37648; OPEN QUEUE SIZE: 37233
+[NODE]: f1=3
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color2,ptr-color1)
+10. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color1)
+11. change_color(ptr-robot1,ptr-color1,ptr-color2)
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 37747; EXPANDED: 167; EVALUATED: 37875; OPEN QUEUE SIZE: 37458
+[NODE]: f1=2
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color2,ptr-color1)
+10. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color1)
+11. change_color(ptr-robot1,ptr-color1,ptr-color2)
+12. move_down(ptr-robot1,ptr-tile2,ptr-tile3)
+13. empty
+14. end
+
+[INFO] Possible solution found at node id 37897 when solving instance ids: #0 #1 #2
+[NODE]: f1=0
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color2,ptr-color1)
+10. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color1)
+11. change_color(ptr-robot1,ptr-color1,ptr-color2)
+12. move_down(ptr-robot1,ptr-tile2,ptr-tile3)
+13. paint_up(ptr-robot1,ptr-tile2,ptr-tile3,ptr-color2)
+14. end
+
+[INFO] Failed on instance id 3. Reevaluating the queue... 
+[INFO] DONE!
+[ENGINE] NODE ID: 37520; EXPANDED: 168; EVALUATED: 38061; OPEN QUEUE SIZE: 37457
+[NODE]: f1=5
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color2,ptr-color1)
+10. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color1)
+11. move_down(ptr-robot1,ptr-tile2,ptr-tile3)
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 185556; EXPANDED: 10000; EVALUATED: 1546689; OPEN QUEUE SIZE: 101665
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color2,ptr-color1)
+10. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color1)
+11. paint_up(ptr-robot2,ptr-tile2,ptr-tile1,ptr-color2)
+12. move_left(ptr-robot1,ptr-tile2,ptr-tile1)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 213057; EXPANDED: 20000; EVALUATED: 3036513; OPEN QUEUE SIZE: 91665
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color2,ptr-color1)
+10. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color1)
+11. move_up(ptr-robot1,ptr-tile1,ptr-tile2)
+12. test-min(painted(ptr-tile3,ptr-color3))
+13. empty
+14. end
+
+[ENGINE] NODE ID: 241690; EXPANDED: 30000; EVALUATED: 4530249; OPEN QUEUE SIZE: 81665
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color2,ptr-color1)
+10. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color1)
+11. clear(ptr-object1)
+12. paint_up(ptr-robot2,ptr-tile3,ptr-tile2,ptr-color3)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 303043; EXPANDED: 40000; EVALUATED: 6056189; OPEN QUEUE SIZE: 71665
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color2,ptr-color1)
+10. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+11. paint_up(ptr-robot1,ptr-tile1,ptr-tile3,ptr-color3)
+12. test-min(down(ptr-tile1,ptr-tile2))
+13. empty
+14. end
+
+[ENGINE] NODE ID: 331278; EXPANDED: 50000; EVALUATED: 7545285; OPEN QUEUE SIZE: 61665
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color2,ptr-color1)
+10. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+11. paint_down(ptr-robot1,ptr-tile3,ptr-tile2,ptr-color3)
+12. paint_up(ptr-robot2,ptr-tile2,ptr-tile3,ptr-color2)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 359142; EXPANDED: 60000; EVALUATED: 9040941; OPEN QUEUE SIZE: 51665
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color2,ptr-color1)
+10. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+11. move_right(ptr-robot2,ptr-tile1,ptr-tile2)
+12. move_left(ptr-robot1,ptr-tile2,ptr-tile3)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 386360; EXPANDED: 70000; EVALUATED: 10544817; OPEN QUEUE SIZE: 41665
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color2,ptr-color1)
+10. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+11. test-min(up(ptr-tile2,ptr-tile3))
+12. goto(7,!(( zf = 0 )))
+13. empty
+14. end
+
+[ENGINE] NODE ID: 10769358; EXPANDED: 80000; EVALUATED: 12092568; OPEN QUEUE SIZE: 106383
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color3,ptr-color1)
+10. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color1)
+11. paint_up(ptr-robot2,ptr-tile2,ptr-tile1,ptr-color1)
+12. paint_down(ptr-robot2,ptr-tile3,ptr-tile2,ptr-color2)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 10796861; EXPANDED: 90000; EVALUATED: 13588472; OPEN QUEUE SIZE: 96383
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color3,ptr-color1)
+10. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color1)
+11. paint_down(ptr-robot2,ptr-tile3,ptr-tile2,ptr-color3)
+12. test-min(robot-at(ptr-robot2,ptr-tile1))
+13. empty
+14. end
+
+[ENGINE] NODE ID: 10825482; EXPANDED: 100000; EVALUATED: 15076128; OPEN QUEUE SIZE: 86383
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color3,ptr-color1)
+10. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color1)
+11. dec(ptr-object1)
+12. paint_up(ptr-robot1,ptr-tile2,ptr-tile3,ptr-color1)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 10855340; EXPANDED: 110000; EVALUATED: 16603312; OPEN QUEUE SIZE: 76383
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color3,ptr-color1)
+10. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+11. paint_up(ptr-robot1,ptr-tile1,ptr-tile3,ptr-color2)
+12. clear(ptr-object1)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 10883588; EXPANDED: 120000; EVALUATED: 18091164; OPEN QUEUE SIZE: 66383
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color3,ptr-color1)
+10. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+11. paint_down(ptr-robot1,ptr-tile3,ptr-tile2,ptr-color2)
+12. change_color(ptr-robot1,ptr-color2,ptr-color1)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 10911450; EXPANDED: 130000; EVALUATED: 19586820; OPEN QUEUE SIZE: 56383
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color3,ptr-color1)
+10. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+11. move_right(ptr-robot1,ptr-tile3,ptr-tile2)
+12. paint_down(ptr-robot2,ptr-tile3,ptr-tile2,ptr-color3)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 10938470; EXPANDED: 140000; EVALUATED: 21090696; OPEN QUEUE SIZE: 46383
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color3,ptr-color1)
+10. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+11. set(ptr-color3,ptr-color2)
+12. paint_up(ptr-robot1,ptr-tile1,ptr-tile3,ptr-color3)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 21353162; EXPANDED: 150000; EVALUATED: 22638447; OPEN QUEUE SIZE: 111101
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot2,ptr-color2,ptr-color1)
+10. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color1)
+11. paint_up(ptr-robot2,ptr-tile1,ptr-tile3,ptr-color3)
+12. paint_up(ptr-robot2,ptr-tile3,ptr-tile1,ptr-color3)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 21380652; EXPANDED: 160000; EVALUATED: 24134103; OPEN QUEUE SIZE: 101101
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot2,ptr-color2,ptr-color1)
+10. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color1)
+11. paint_down(ptr-robot2,ptr-tile3,ptr-tile2,ptr-color2)
+12. move_left(ptr-robot1,ptr-tile3,ptr-tile2)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 21408901; EXPANDED: 170000; EVALUATED: 25622807; OPEN QUEUE SIZE: 91101
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot2,ptr-color2,ptr-color1)
+10. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color1)
+11. move_left(ptr-robot2,ptr-tile3,ptr-tile2)
+12. test-min(available-color(ptr-color1))
+13. empty
+14. end
+
+[ENGINE] NODE ID: 21439142; EXPANDED: 180000; EVALUATED: 27149139; OPEN QUEUE SIZE: 81101
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot2,ptr-color2,ptr-color1)
+10. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+11. paint_up(ptr-robot1,ptr-tile1,ptr-tile3,ptr-color1)
+12. move_up(ptr-robot2,ptr-tile3,ptr-tile1)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 21467393; EXPANDED: 190000; EVALUATED: 28642483; OPEN QUEUE SIZE: 71101
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot2,ptr-color2,ptr-color1)
+10. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+11. paint_down(ptr-robot1,ptr-tile3,ptr-tile1,ptr-color3)
+12. test-min(right(ptr-tile1,ptr-tile3))
+13. empty
+14. end
+
+[ENGINE] NODE ID: 21495254; EXPANDED: 200000; EVALUATED: 30132699; OPEN QUEUE SIZE: 61101
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot2,ptr-color2,ptr-color1)
+10. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+11. move_right(ptr-robot1,ptr-tile3,ptr-tile1)
+12. paint_up(ptr-robot2,ptr-tile3,ptr-tile2,ptr-color1)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 21521882; EXPANDED: 210000; EVALUATED: 31636549; OPEN QUEUE SIZE: 51101
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot2,ptr-color2,ptr-color1)
+10. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+11. clear(ptr-color3)
+12. goto(4,!(( zf = 1 )))
+13. empty
+14. end
+
+[ENGINE] NODE ID: 31936966; EXPANDED: 220000; EVALUATED: 33184326; OPEN QUEUE SIZE: 115819
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot2,ptr-color3,ptr-color1)
+10. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color1)
+11. paint_up(ptr-robot2,ptr-tile1,ptr-tile3,ptr-color2)
+12. change_color(ptr-robot2,ptr-color1,ptr-color2)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 31964828; EXPANDED: 230000; EVALUATED: 34679982; OPEN QUEUE SIZE: 105819
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot2,ptr-color3,ptr-color1)
+10. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color1)
+11. paint_down(ptr-robot2,ptr-tile3,ptr-tile2,ptr-color1)
+12. move_up(ptr-robot1,ptr-tile2,ptr-tile3)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 31992705; EXPANDED: 240000; EVALUATED: 36174766; OPEN QUEUE SIZE: 95819
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot2,ptr-color3,ptr-color1)
+10. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color1)
+11. move_left(ptr-robot2,ptr-tile3,ptr-tile1)
+12. test-min(up(ptr-tile3,ptr-tile1))
+13. empty
+14. end
+
+[ENGINE] NODE ID: 32022946; EXPANDED: 250000; EVALUATED: 37695018; OPEN QUEUE SIZE: 85819
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot2,ptr-color3,ptr-color1)
+10. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+11. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color3)
+12. paint_down(ptr-robot1,ptr-tile2,ptr-tile1,ptr-color3)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 32051184; EXPANDED: 260000; EVALUATED: 39190908; OPEN QUEUE SIZE: 75819
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot2,ptr-color3,ptr-color1)
+10. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+11. paint_down(ptr-robot1,ptr-tile3,ptr-tile1,ptr-color2)
+12. clear(ptr-robot2)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 32079058; EXPANDED: 270000; EVALUATED: 40678578; OPEN QUEUE SIZE: 65819
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot2,ptr-color3,ptr-color1)
+10. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+11. move_right(ptr-robot1,ptr-tile2,ptr-tile3)
+12. change_color(ptr-robot2,ptr-color1,ptr-color3)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 32105670; EXPANDED: 280000; EVALUATED: 42185948; OPEN QUEUE SIZE: 55819
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot2,ptr-color3,ptr-color1)
+10. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+11. dec(ptr-color3)
+12. test-min(clear(ptr-tile2))
+13. empty
+14. end
+
+[ENGINE] NODE ID: 42520397; EXPANDED: 290000; EVALUATED: 43735325; OPEN QUEUE SIZE: 120537
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot2,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color2,ptr-color1)
+10. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color1)
+11. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color3)
+12. test-min(right(ptr-tile2,ptr-tile3))
+13. empty
+14. end
+
+[ENGINE] NODE ID: 42548632; EXPANDED: 300000; EVALUATED: 45225861; OPEN QUEUE SIZE: 110537
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot2,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color2,ptr-color1)
+10. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color1)
+11. paint_down(ptr-robot2,ptr-tile3,ptr-tile1,ptr-color3)
+12. paint_down(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 42576496; EXPANDED: 310000; EVALUATED: 46721517; OPEN QUEUE SIZE: 100537
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot2,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color2,ptr-color1)
+10. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color1)
+11. move_left(ptr-robot2,ptr-tile2,ptr-tile3)
+12. inc(ptr-object1)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 42606750; EXPANDED: 320000; EVALUATED: 48240897; OPEN QUEUE SIZE: 90537
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot2,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color2,ptr-color1)
+10. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+11. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+12. paint_up(ptr-robot1,ptr-tile2,ptr-tile1,ptr-color1)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 42634987; EXPANDED: 330000; EVALUATED: 49736553; OPEN QUEUE SIZE: 80537
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot2,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color2,ptr-color1)
+10. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+11. paint_down(ptr-robot1,ptr-tile3,ptr-tile1,ptr-color1)
+12. move_down(ptr-robot2,ptr-tile1,ptr-tile2)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 42662489; EXPANDED: 340000; EVALUATED: 51229417; OPEN QUEUE SIZE: 70537
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot2,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color2,ptr-color1)
+10. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+11. move_right(ptr-robot1,ptr-tile1,ptr-tile3)
+12. test-min(right(ptr-tile3,ptr-tile1))
+13. empty
+14. end
+
+[ENGINE] NODE ID: 42689466; EXPANDED: 350000; EVALUATED: 52735347; OPEN QUEUE SIZE: 60537
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot2,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color2,ptr-color1)
+10. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+11. inc(ptr-color3)
+12. test-min(up(ptr-tile2,ptr-tile3))
+13. empty
+14. end
+
+[ENGINE] NODE ID: 53104188; EXPANDED: 360000; EVALUATED: 54284122; OPEN QUEUE SIZE: 125255
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot2,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color3,ptr-color1)
+10. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color1)
+11. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color2)
+12. inc(ptr-tile1)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 53132436; EXPANDED: 370000; EVALUATED: 55771740; OPEN QUEUE SIZE: 115255
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot2,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color3,ptr-color1)
+10. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color1)
+11. paint_down(ptr-robot2,ptr-tile3,ptr-tile1,ptr-color2)
+12. change_color(ptr-robot2,ptr-color3,ptr-color2)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 53160298; EXPANDED: 380000; EVALUATED: 57267396; OPEN QUEUE SIZE: 105255
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot2,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color3,ptr-color1)
+10. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color1)
+11. move_left(ptr-robot2,ptr-tile2,ptr-tile1)
+12. move_up(ptr-robot2,ptr-tile2,ptr-tile1)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 53190181; EXPANDED: 390000; EVALUATED: 58789976; OPEN QUEUE SIZE: 95255
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot2,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color3,ptr-color1)
+10. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+11. change_color(ptr-robot2,ptr-color3,ptr-color2)
+12. test-min(painted(ptr-tile1,ptr-color1))
+13. empty
+14. end
+
+[ENGINE] NODE ID: 53218790; EXPANDED: 400000; EVALUATED: 60282432; OPEN QUEUE SIZE: 85255
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot2,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color3,ptr-color1)
+10. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+11. paint_down(ptr-robot1,ptr-tile2,ptr-tile3,ptr-color3)
+12. paint_down(ptr-robot1,ptr-tile3,ptr-tile2,ptr-color1)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 53246289; EXPANDED: 410000; EVALUATED: 61778400; OPEN QUEUE SIZE: 75255
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot2,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color3,ptr-color1)
+10. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+11. move_right(ptr-robot1,ptr-tile1,ptr-tile2)
+12. inc(ptr-tile3)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 53273255; EXPANDED: 420000; EVALUATED: 63282224; OPEN QUEUE SIZE: 65255
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot2,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color3,ptr-color1)
+10. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+11. set(ptr-color2,ptr-color3)
+12. inc(ptr-tile3)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 63687991; EXPANDED: 430000; EVALUATED: 64829715; OPEN QUEUE SIZE: 129973
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot2,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot2,ptr-color2,ptr-color1)
+10. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color1)
+11. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+12. move_down(ptr-robot2,ptr-tile2,ptr-tile1)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 63715867; EXPANDED: 440000; EVALUATED: 66321939; OPEN QUEUE SIZE: 119973
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot2,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot2,ptr-color2,ptr-color1)
+10. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color1)
+11. paint_down(ptr-robot2,ptr-tile2,ptr-tile3,ptr-color3)
+12. test-min(left(ptr-tile2,ptr-tile1))
+13. empty
+14. end
+
+[ENGINE] NODE ID: 63744102; EXPANDED: 450000; EVALUATED: 67813275; OPEN QUEUE SIZE: 109973
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot2,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot2,ptr-color2,ptr-color1)
+10. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color1)
+11. move_left(ptr-robot2,ptr-tile1,ptr-tile3)
+12. paint_down(ptr-robot1,ptr-tile2,ptr-tile1,ptr-color1)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 63773985; EXPANDED: 460000; EVALUATED: 69341005; OPEN QUEUE SIZE: 99973
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot2,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot2,ptr-color2,ptr-color1)
+10. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+11. change_color(ptr-robot2,ptr-color3,ptr-color1)
+12. inc(ptr-color3)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 63802594; EXPANDED: 470000; EVALUATED: 70828311; OPEN QUEUE SIZE: 89973
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot2,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot2,ptr-color2,ptr-color1)
+10. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+11. paint_down(ptr-robot1,ptr-tile2,ptr-tile3,ptr-color2)
+12. paint_up(ptr-robot1,ptr-tile3,ptr-tile1,ptr-color2)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 63830084; EXPANDED: 480000; EVALUATED: 72323967; OPEN QUEUE SIZE: 79973
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot2,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot2,ptr-color2,ptr-color1)
+10. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+11. move_down(ptr-robot2,ptr-tile3,ptr-tile2)
+12. move_down(ptr-robot2,ptr-tile3,ptr-tile1)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 63857039; EXPANDED: 490000; EVALUATED: 73827765; OPEN QUEUE SIZE: 69973
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot2,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot2,ptr-color2,ptr-color1)
+10. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+11. set(ptr-color2,ptr-color1)
+12. move_right(ptr-robot2,ptr-tile3,ptr-tile2)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 74271794; EXPANDED: 500000; EVALUATED: 75375594; OPEN QUEUE SIZE: 134691
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot2,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot2,ptr-color3,ptr-color1)
+10. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color1)
+11. paint_up(ptr-robot1,ptr-tile3,ptr-tile2,ptr-color3)
+12. paint_down(ptr-robot1,ptr-tile3,ptr-tile2,ptr-color3)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 74299667; EXPANDED: 510000; EVALUATED: 76871666; OPEN QUEUE SIZE: 124691
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot2,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot2,ptr-color3,ptr-color1)
+10. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color1)
+11. paint_down(ptr-robot2,ptr-tile2,ptr-tile3,ptr-color2)
+12. set(ptr-tile3,ptr-tile2)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 74327906; EXPANDED: 520000; EVALUATED: 78359154; OPEN QUEUE SIZE: 114691
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot2,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot2,ptr-color3,ptr-color1)
+10. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color1)
+11. move_left(ptr-robot2,ptr-tile1,ptr-tile2)
+12. paint_up(ptr-robot1,ptr-tile1,ptr-tile3,ptr-color2)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 74357776; EXPANDED: 530000; EVALUATED: 79886286; OPEN QUEUE SIZE: 104691
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot2,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot2,ptr-color3,ptr-color1)
+10. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+11. change_color(ptr-robot2,ptr-color2,ptr-color3)
+12. move_right(ptr-robot2,ptr-tile2,ptr-tile3)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 74386025; EXPANDED: 540000; EVALUATED: 81376270; OPEN QUEUE SIZE: 94691
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot2,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot2,ptr-color3,ptr-color1)
+10. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+11. paint_down(ptr-robot1,ptr-tile2,ptr-tile1,ptr-color3)
+12. test-min(painted(ptr-tile3,ptr-color2))
+13. empty
+14. end
+
+[ENGINE] NODE ID: 74413886; EXPANDED: 550000; EVALUATED: 82869846; OPEN QUEUE SIZE: 84691
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot2,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot2,ptr-color3,ptr-color1)
+10. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+11. move_down(ptr-robot2,ptr-tile3,ptr-tile1)
+12. paint_down(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 74440829; EXPANDED: 560000; EVALUATED: 84373644; OPEN QUEUE SIZE: 74691
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot2,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot2,ptr-color3,ptr-color1)
+10. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+11. clear(ptr-color2)
+12. move_up(ptr-robot2,ptr-tile1,ptr-tile3)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 85872500; EXPANDED: 570000; EVALUATED: 85894971; OPEN QUEUE SIZE: 77573
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color2,ptr-color1)
+10. paint_up(ptr-robot1,ptr-tile1,ptr-tile3,ptr-color1)
+11. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color1)
+12. move_right(ptr-robot2,ptr-tile2,ptr-tile3)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 87354518; EXPANDED: 580000; EVALUATED: 87393456; OPEN QUEUE SIZE: 83167
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color2,ptr-color1)
+10. paint_up(ptr-robot2,ptr-tile2,ptr-tile3,ptr-color1)
+11. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+12. paint_up(ptr-robot2,ptr-tile2,ptr-tile1,ptr-color2)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 88836165; EXPANDED: 590000; EVALUATED: 88898501; OPEN QUEUE SIZE: 88761
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color2,ptr-color1)
+10. paint_down(ptr-robot1,ptr-tile3,ptr-tile1,ptr-color3)
+11. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+12. test-min(down(ptr-tile1,ptr-tile2))
+13. empty
+14. end
+
+[ENGINE] NODE ID: 90381604; EXPANDED: 600000; EVALUATED: 90398342; OPEN QUEUE SIZE: 95259
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color2,ptr-color1)
+10. move_up(ptr-robot1,ptr-tile2,ptr-tile3)
+11. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color1)
+12. move_up(ptr-robot1,ptr-tile1,ptr-tile2)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 91864302; EXPANDED: 610000; EVALUATED: 91896950; OPEN QUEUE SIZE: 101531
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color2,ptr-color1)
+10. move_right(ptr-robot1,ptr-tile3,ptr-tile2)
+11. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+12. change_color(ptr-robot1,ptr-color2,ptr-color3)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 93346046; EXPANDED: 620000; EVALUATED: 93403453; OPEN QUEUE SIZE: 107180
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color2,ptr-color1)
+10. dec(ptr-robot1)
+11. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+12. set(ptr-robot1,ptr-robot2)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 94840461; EXPANDED: 630000; EVALUATED: 94903797; OPEN QUEUE SIZE: 111864
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color2,ptr-color1)
+10. set(ptr-color2,ptr-color3)
+11. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+12. test-min(free-color(ptr-robot2))
+13. empty
+14. end
+
+[ENGINE] NODE ID: 96421156; EXPANDED: 640000; EVALUATED: 96484217; OPEN QUEUE SIZE: 117407
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color3,ptr-color1)
+10. paint_up(ptr-robot1,ptr-tile1,ptr-tile3,ptr-color3)
+11. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+12. test-min(painted(ptr-tile3,ptr-color3))
+13. empty
+14. end
+
+[ENGINE] NODE ID: 97966371; EXPANDED: 650000; EVALUATED: 97988657; OPEN QUEUE SIZE: 123679
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color3,ptr-color1)
+10. paint_up(ptr-robot2,ptr-tile3,ptr-tile1,ptr-color1)
+11. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color1)
+12. move_right(ptr-robot2,ptr-tile2,ptr-tile1)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 99448389; EXPANDED: 660000; EVALUATED: 99487142; OPEN QUEUE SIZE: 129273
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color3,ptr-color1)
+10. paint_down(ptr-robot1,ptr-tile3,ptr-tile2,ptr-color3)
+11. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+12. paint_up(ptr-robot2,ptr-tile2,ptr-tile1,ptr-color1)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 100930262; EXPANDED: 670000; EVALUATED: 100992548; OPEN QUEUE SIZE: 135093
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color3,ptr-color1)
+10. move_up(ptr-robot1,ptr-tile3,ptr-tile2)
+11. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+12. test-min(up(ptr-tile3,ptr-tile1))
+13. empty
+14. end
+
+[ENGINE] NODE ID: 102476153; EXPANDED: 680000; EVALUATED: 102492151; OPEN QUEUE SIZE: 142043
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color3,ptr-color1)
+10. move_right(ptr-robot2,ptr-tile2,ptr-tile1)
+11. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color1)
+12. paint_down(ptr-robot2,ptr-tile3,ptr-tile1,ptr-color3)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 103958349; EXPANDED: 690000; EVALUATED: 103990812; OPEN QUEUE SIZE: 147725
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color3,ptr-color1)
+10. inc(ptr-robot2)
+11. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+12. change_color(ptr-robot1,ptr-color2,ptr-color1)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 105453347; EXPANDED: 700000; EVALUATED: 105498945; OPEN QUEUE SIZE: 152183
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color3,ptr-color1)
+10. dec(ptr-color3)
+11. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+12. paint_down(ptr-robot2,ptr-tile2,ptr-tile1,ptr-color2)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 107033380; EXPANDED: 710000; EVALUATED: 107077498; OPEN QUEUE SIZE: 157919
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot2,ptr-color2,ptr-color1)
+10. paint_up(ptr-robot1,ptr-tile2,ptr-tile1,ptr-color3)
+11. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+12. paint_down(ptr-robot1,ptr-tile3,ptr-tile2,ptr-color3)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 108515027; EXPANDED: 720000; EVALUATED: 108578063; OPEN QUEUE SIZE: 163513
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot2,ptr-color2,ptr-color1)
+10. paint_up(ptr-robot2,ptr-tile3,ptr-tile1,ptr-color3)
+11. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+12. test-min(painted(ptr-tile3,ptr-color2))
+13. empty
+14. end
+
+[ENGINE] NODE ID: 110060242; EXPANDED: 730000; EVALUATED: 110082343; OPEN QUEUE SIZE: 169785
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot2,ptr-color2,ptr-color1)
+10. paint_down(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color3)
+11. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color1)
+12. move_right(ptr-robot2,ptr-tile1,ptr-tile3)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 111542712; EXPANDED: 740000; EVALUATED: 111580910; OPEN QUEUE SIZE: 175831
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot2,ptr-color2,ptr-color1)
+10. move_up(ptr-robot2,ptr-tile2,ptr-tile3)
+11. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+12. paint_up(ptr-robot2,ptr-tile1,ptr-tile3,ptr-color1)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 113024811; EXPANDED: 750000; EVALUATED: 113086997; OPEN QUEUE SIZE: 181877
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot2,ptr-color2,ptr-color1)
+10. move_right(ptr-robot2,ptr-tile3,ptr-tile1)
+11. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+12. test-min(up(ptr-tile1,ptr-tile2))
+13. empty
+14. end
+
+[ENGINE] NODE ID: 114570266; EXPANDED: 760000; EVALUATED: 114586079; OPEN QUEUE SIZE: 188270
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot2,ptr-color2,ptr-color1)
+10. set(ptr-robot2,ptr-robot1)
+11. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color1)
+12. paint_down(ptr-robot2,ptr-tile3,ptr-tile1,ptr-color2)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 116002037; EXPANDED: 770000; EVALUATED: 116094695; OPEN QUEUE SIZE: 192491
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot2,ptr-color2,ptr-color1)
+10. set(ptr-color3,ptr-color1)
+11. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+12. clear(ptr-color1)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 117645242; EXPANDED: 780000; EVALUATED: 117673011; OPEN QUEUE SIZE: 198431
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot2,ptr-color3,ptr-color1)
+10. paint_up(ptr-robot1,ptr-tile2,ptr-tile3,ptr-color3)
+11. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color1)
+12. inc(ptr-tile3)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 119127251; EXPANDED: 790000; EVALUATED: 119171184; OPEN QUEUE SIZE: 204025
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot2,ptr-color3,ptr-color1)
+10. paint_up(ptr-robot2,ptr-tile3,ptr-tile2,ptr-color3)
+11. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+12. paint_down(ptr-robot1,ptr-tile3,ptr-tile2,ptr-color2)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 120608898; EXPANDED: 800000; EVALUATED: 120671909; OPEN QUEUE SIZE: 209619
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot2,ptr-color3,ptr-color1)
+10. paint_down(ptr-robot2,ptr-tile1,ptr-tile3,ptr-color2)
+11. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+12. test-min(painted(ptr-tile3,ptr-color1))
+13. empty
+14. end
+
+[ENGINE] NODE ID: 122154565; EXPANDED: 810000; EVALUATED: 122176111; OPEN QUEUE SIZE: 216343
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot2,ptr-color3,ptr-color1)
+10. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+11. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color1)
+12. move_right(ptr-robot1,ptr-tile3,ptr-tile1)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 123637035; EXPANDED: 820000; EVALUATED: 123674678; OPEN QUEUE SIZE: 222389
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot2,ptr-color3,ptr-color1)
+10. move_left(ptr-robot1,ptr-tile1,ptr-tile3)
+11. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+12. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 125118584; EXPANDED: 830000; EVALUATED: 125182089; OPEN QUEUE SIZE: 228589
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot2,ptr-color3,ptr-color1)
+10. inc(ptr-tile3)
+11. paint_up(ptr-robot1,ptr-tile1,ptr-tile3,ptr-color1)
+12. set(ptr-color2,ptr-color1)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 31963103; EXPANDED: 840000; EVALUATED: 126698482; OPEN QUEUE SIZE: 234027
+[NODE]: f1=7
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot2,ptr-color3,ptr-color1)
+10. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color1)
+11. paint_down(ptr-robot2,ptr-tile3,ptr-tile1,ptr-color1)
+12. dec(ptr-color1)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 128257470; EXPANDED: 850000; EVALUATED: 128260148; OPEN QUEUE SIZE: 238943
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot2,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color2,ptr-color1)
+10. paint_up(ptr-robot1,ptr-tile3,ptr-tile1,ptr-color3)
+11. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color1)
+12. change_color(ptr-robot2,ptr-color2,ptr-color1)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 129739104; EXPANDED: 860000; EVALUATED: 129766671; OPEN QUEUE SIZE: 244537
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot2,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color2,ptr-color1)
+10. paint_down(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color3)
+11. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color1)
+12. inc(ptr-tile1)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 131221122; EXPANDED: 870000; EVALUATED: 131264870; OPEN QUEUE SIZE: 250131
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot2,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color2,ptr-color1)
+10. paint_down(ptr-robot2,ptr-tile2,ptr-tile1,ptr-color2)
+11. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+12. paint_down(ptr-robot1,ptr-tile3,ptr-tile2,ptr-color1)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 132703221; EXPANDED: 880000; EVALUATED: 132766157; OPEN QUEUE SIZE: 256177
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot2,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color2,ptr-color1)
+10. move_down(ptr-robot1,ptr-tile2,ptr-tile1)
+11. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+12. test-min(painted(ptr-tile2,ptr-color1))
+13. empty
+14. end
+
+[ENGINE] NODE ID: 134248888; EXPANDED: 890000; EVALUATED: 134269879; OPEN QUEUE SIZE: 262901
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot2,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color2,ptr-color1)
+10. move_left(ptr-robot1,ptr-tile3,ptr-tile1)
+11. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color1)
+12. move_right(ptr-robot1,ptr-tile1,ptr-tile3)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 135735230; EXPANDED: 900000; EVALUATED: 135769173; OPEN QUEUE SIZE: 268445
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot2,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color2,ptr-color1)
+10. clear(ptr-tile3)
+11. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+12. change_color(ptr-robot2,ptr-color3,ptr-color1)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 137324108; EXPANDED: 910000; EVALUATED: 137355549; OPEN QUEUE SIZE: 273183
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot2,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color3,ptr-color1)
+10. change_color(ptr-robot1,ptr-color2,ptr-color1)
+11. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color1)
+12. test-min(down(ptr-tile1,ptr-tile2))
+13. empty
+14. end
+
+[ENGINE] NODE ID: 138806113; EXPANDED: 920000; EVALUATED: 138855226; OPEN QUEUE SIZE: 278777
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot2,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color3,ptr-color1)
+10. paint_up(ptr-robot1,ptr-tile3,ptr-tile2,ptr-color2)
+11. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+12. move_up(ptr-robot2,ptr-tile2,ptr-tile1)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 140351341; EXPANDED: 930000; EVALUATED: 140353834; OPEN QUEUE SIZE: 285049
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot2,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color3,ptr-color1)
+10. paint_down(ptr-robot1,ptr-tile1,ptr-tile3,ptr-color3)
+11. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color1)
+12. change_color(ptr-robot2,ptr-color1,ptr-color3)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 141832975; EXPANDED: 940000; EVALUATED: 141860331; OPEN QUEUE SIZE: 290643
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot2,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color3,ptr-color1)
+10. paint_down(ptr-robot2,ptr-tile2,ptr-tile3,ptr-color2)
+11. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color1)
+12. set(ptr-robot2,ptr-robot1)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 143315671; EXPANDED: 950000; EVALUATED: 143358679; OPEN QUEUE SIZE: 296915
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot2,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color3,ptr-color1)
+10. move_down(ptr-robot2,ptr-tile1,ptr-tile2)
+11. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+12. paint_down(ptr-robot1,ptr-tile2,ptr-tile3,ptr-color3)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 144797544; EXPANDED: 960000; EVALUATED: 144860405; OPEN QUEUE SIZE: 302735
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot2,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color3,ptr-color1)
+10. move_left(ptr-robot2,ptr-tile1,ptr-tile2)
+11. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+12. test-min(painted(ptr-tile1,ptr-color1))
+13. empty
+14. end
+
+[ENGINE] NODE ID: 146350277; EXPANDED: 970000; EVALUATED: 146364875; OPEN QUEUE SIZE: 309205
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot2,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color3,ptr-color1)
+10. set(ptr-tile3,ptr-tile2)
+11. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color1)
+12. paint_down(ptr-robot2,ptr-tile2,ptr-tile1,ptr-color3)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 147936332; EXPANDED: 980000; EVALUATED: 147944190; OPEN QUEUE SIZE: 313695
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot2,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot2,ptr-color2,ptr-color1)
+10. change_color(ptr-robot1,ptr-color3,ptr-color2)
+11. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color1)
+12. paint_up(ptr-robot2,ptr-tile2,ptr-tile1,ptr-color1)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 149417979; EXPANDED: 990000; EVALUATED: 149449395; OPEN QUEUE SIZE: 319289
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot2,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot2,ptr-color2,ptr-color1)
+10. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color3)
+11. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color1)
+12. test-min(up(ptr-tile3,ptr-tile2))
+13. empty
+14. end
+
+[ENGINE] NODE ID: 150899984; EXPANDED: 1000000; EVALUATED: 150948912; OPEN QUEUE SIZE: 324883
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot2,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot2,ptr-color2,ptr-color1)
+10. paint_down(ptr-robot1,ptr-tile2,ptr-tile1,ptr-color2)
+11. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+12. move_up(ptr-robot2,ptr-tile1,ptr-tile3)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 152445212; EXPANDED: 1010000; EVALUATED: 152447520; OPEN QUEUE SIZE: 331155
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot2,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot2,ptr-color2,ptr-color1)
+10. paint_down(ptr-robot2,ptr-tile3,ptr-tile1,ptr-color2)
+11. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color1)
+12. change_color(ptr-robot2,ptr-color1,ptr-color2)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 153927750; EXPANDED: 1020000; EVALUATED: 153954051; OPEN QUEUE SIZE: 337653
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot2,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot2,ptr-color2,ptr-color1)
+10. move_down(ptr-robot2,ptr-tile3,ptr-tile1)
+11. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color1)
+12. clear(ptr-robot1)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 155409768; EXPANDED: 1030000; EVALUATED: 155452406; OPEN QUEUE SIZE: 343247
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot2,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot2,ptr-color2,ptr-color1)
+10. move_left(ptr-robot2,ptr-tile2,ptr-tile3)
+11. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+12. paint_down(ptr-robot1,ptr-tile2,ptr-tile3,ptr-color1)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 156902936; EXPANDED: 1040000; EVALUATED: 156960554; OPEN QUEUE SIZE: 348372
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot2,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot2,ptr-color2,ptr-color1)
+10. inc(ptr-color1)
+11. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+12. inc(ptr-robot2)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 158484977; EXPANDED: 1050000; EVALUATED: 158539268; OPEN QUEUE SIZE: 353529
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot2,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot2,ptr-color3,ptr-color1)
+10. change_color(ptr-robot2,ptr-color2,ptr-color3)
+11. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+12. move_left(ptr-robot1,ptr-tile2,ptr-tile1)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 160030203; EXPANDED: 1060000; EVALUATED: 160037876; OPEN QUEUE SIZE: 359801
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot2,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot2,ptr-color3,ptr-color1)
+10. paint_up(ptr-robot2,ptr-tile1,ptr-tile3,ptr-color3)
+11. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color1)
+12. paint_up(ptr-robot2,ptr-tile1,ptr-tile3,ptr-color3)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 161511850; EXPANDED: 1070000; EVALUATED: 161543241; OPEN QUEUE SIZE: 365395
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot2,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot2,ptr-color3,ptr-color1)
+10. paint_down(ptr-robot1,ptr-tile2,ptr-tile3,ptr-color2)
+11. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color1)
+12. test-min(up(ptr-tile3,ptr-tile1))
+13. empty
+14. end
+
+[ENGINE] NODE ID: 162993485; EXPANDED: 1080000; EVALUATED: 163042598; OPEN QUEUE SIZE: 370989
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot2,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot2,ptr-color3,ptr-color1)
+10. paint_down(ptr-robot2,ptr-tile3,ptr-tile2,ptr-color1)
+11. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+12. move_up(ptr-robot2,ptr-tile2,ptr-tile1)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 164539987; EXPANDED: 1090000; EVALUATED: 164541370; OPEN QUEUE SIZE: 378165
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot2,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot2,ptr-color3,ptr-color1)
+10. move_right(ptr-robot1,ptr-tile1,ptr-tile3)
+11. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color1)
+12. change_color(ptr-robot1,ptr-color1,ptr-color3)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 166021643; EXPANDED: 1100000; EVALUATED: 166047733; OPEN QUEUE SIZE: 383770
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot2,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot2,ptr-color3,ptr-color1)
+10. inc(ptr-object1)
+11. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color1)
+12. dec(ptr-robot1)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 167515835; EXPANDED: 1110000; EVALUATED: 167547928; OPEN QUEUE SIZE: 388691
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot2,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot2,ptr-color3,ptr-color1)
+10. dec(ptr-color2)
+11. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+12. change_color(ptr-robot1,ptr-color1,ptr-color2)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 169255540; EXPANDED: 1120000; EVALUATED: 169255963; OPEN QUEUE SIZE: 636957
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color1,ptr-color3)
+10. change_color(ptr-robot2,ptr-color2,ptr-color1)
+11. set(ptr-color3,ptr-color1)
+12. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color3)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 171088068; EXPANDED: 1130000; EVALUATED: 171088475; OPEN QUEUE SIZE: 1301033
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color2,ptr-color1)
+10. paint_up(ptr-robot1,ptr-tile2,ptr-tile3,ptr-color2)
+11. set(ptr-robot2,ptr-robot1)
+12. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 172920519; EXPANDED: 1140000; EVALUATED: 172920902; OPEN QUEUE SIZE: 1964075
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color2,ptr-color1)
+10. paint_up(ptr-robot2,ptr-tile3,ptr-tile1,ptr-color1)
+11. move_left(ptr-robot1,ptr-tile1,ptr-tile3)
+12. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 88770844; EXPANDED: 1150000; EVALUATED: 174753675; OPEN QUEUE SIZE: 2627701
+[NODE]: f1=7
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color2,ptr-color1)
+10. paint_down(ptr-robot1,ptr-tile3,ptr-tile1,ptr-color2)
+11. move_down(ptr-robot2,ptr-tile1,ptr-tile3)
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 176586024; EXPANDED: 1160000; EVALUATED: 176586407; OPEN QUEUE SIZE: 3291101
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color2,ptr-color1)
+10. paint_down(ptr-robot2,ptr-tile3,ptr-tile1,ptr-color3)
+11. paint_down(ptr-robot2,ptr-tile3,ptr-tile2,ptr-color2)
+12. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 178413995; EXPANDED: 1170000; EVALUATED: 178414378; OPEN QUEUE SIZE: 4018405
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color2,ptr-color1)
+10. move_down(ptr-robot1,ptr-tile3,ptr-tile2)
+11. paint_up(ptr-robot1,ptr-tile3,ptr-tile2,ptr-color2)
+12. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 180251279; EXPANDED: 1180000; EVALUATED: 180251494; OPEN QUEUE SIZE: 4707145
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color2,ptr-color1)
+10. move_left(ptr-robot1,ptr-tile1,ptr-tile2)
+11. move_left(ptr-robot1,ptr-tile1,ptr-tile3)
+12. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color1)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 182083843; EXPANDED: 1190000; EVALUATED: 182084226; OPEN QUEUE SIZE: 5370545
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color2,ptr-color1)
+10. inc(ptr-robot2)
+11. paint_up(ptr-robot1,ptr-tile2,ptr-tile3,ptr-color3)
+12. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 183929995; EXPANDED: 1200000; EVALUATED: 183930564; OPEN QUEUE SIZE: 5930708
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color2,ptr-color1)
+10. set(ptr-color2,ptr-color1)
+11. goto(6,!(( zf = 0 )))
+12. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 95969312; EXPANDED: 1210000; EVALUATED: 185737833; OPEN QUEUE SIZE: 6444470
+[NODE]: f1=7
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color3,ptr-color1)
+10. change_color(ptr-robot2,ptr-color2,ptr-color3)
+11. move_up(ptr-robot1,ptr-tile2,ptr-tile3)
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 187570309; EXPANDED: 1220000; EVALUATED: 187570524; OPEN QUEUE SIZE: 7107644
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color3,ptr-color1)
+10. paint_up(ptr-robot1,ptr-tile3,ptr-tile2,ptr-color3)
+11. paint_down(ptr-robot1,ptr-tile3,ptr-tile2,ptr-color3)
+12. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color1)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 189403000; EXPANDED: 1230000; EVALUATED: 189403215; OPEN QUEUE SIZE: 7770818
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color3,ptr-color1)
+10. paint_down(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+11. paint_up(ptr-robot2,ptr-tile3,ptr-tile1,ptr-color3)
+12. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color1)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 99640791; EXPANDED: 1240000; EVALUATED: 191235988; OPEN QUEUE SIZE: 8434444
+[NODE]: f1=7
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color3,ptr-color1)
+10. paint_down(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color3)
+11. paint_up(ptr-robot1,ptr-tile3,ptr-tile1,ptr-color2)
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 193072848; EXPANDED: 1250000; EVALUATED: 193073063; OPEN QUEUE SIZE: 9122917
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color3,ptr-color1)
+10. move_up(ptr-robot1,ptr-tile2,ptr-tile3)
+11. move_right(ptr-robot2,ptr-tile2,ptr-tile1)
+12. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color1)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 101960604; EXPANDED: 1260000; EVALUATED: 194900952; OPEN QUEUE SIZE: 9849810
+[NODE]: f1=7
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color3,ptr-color1)
+10. move_right(ptr-robot1,ptr-tile1,ptr-tile2)
+11. paint_down(ptr-robot1,ptr-tile3,ptr-tile1,ptr-color3)
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 103184434; EXPANDED: 1270000; EVALUATED: 196733807; OPEN QUEUE SIZE: 10513888
+[NODE]: f1=7
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color3,ptr-color1)
+10. move_left(ptr-robot2,ptr-tile1,ptr-tile3)
+11. paint_up(ptr-robot2,ptr-tile3,ptr-tile2,ptr-color1)
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 198580137; EXPANDED: 1280000; EVALUATED: 198580730; OPEN QUEUE SIZE: 11165690
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color3,ptr-color1)
+10. inc(ptr-tile3)
+11. clear(ptr-color2)
+12. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 105710770; EXPANDED: 1290000; EVALUATED: 200421969; OPEN QUEUE SIZE: 11697742
+[NODE]: f1=7
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot1,ptr-color3,ptr-color1)
+10. set(ptr-color3,ptr-color2)
+11. change_color(ptr-robot1,ptr-color3,ptr-color2)
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 202219763; EXPANDED: 1300000; EVALUATED: 202220146; OPEN QUEUE SIZE: 12251237
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot2,ptr-color2,ptr-color1)
+10. paint_up(ptr-robot1,ptr-tile1,ptr-tile3,ptr-color3)
+11. change_color(ptr-robot1,ptr-color3,ptr-color2)
+12. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 107998866; EXPANDED: 1310000; EVALUATED: 204060454; OPEN QUEUE SIZE: 12917809
+[NODE]: f1=7
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot2,ptr-color2,ptr-color1)
+10. paint_up(ptr-robot2,ptr-tile2,ptr-tile1,ptr-color1)
+11. test-min(up(ptr-tile2,ptr-tile3))
+12. empty
+13. empty
+14. end
+
+[ENGINE] NODE ID: 205894510; EXPANDED: 1320000; EVALUATED: 205894749; OPEN QUEUE SIZE: 13583027
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot2,ptr-color2,ptr-color1)
+10. paint_down(ptr-robot1,ptr-tile2,ptr-tile1,ptr-color2)
+11. set(ptr-tile3,ptr-tile2)
+12. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color1)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 207726981; EXPANDED: 1330000; EVALUATED: 207727196; OPEN QUEUE SIZE: 14246889
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot2,ptr-color2,ptr-color1)
+10. paint_down(ptr-robot2,ptr-tile2,ptr-tile1,ptr-color3)
+11. move_left(ptr-robot2,ptr-tile3,ptr-tile2)
+12. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color1)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 209559387; EXPANDED: 1340000; EVALUATED: 209559980; OPEN QUEUE SIZE: 14954283
+[NODE]: f1=6
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot2,ptr-color2,ptr-color1)
+10. move_up(ptr-robot2,ptr-tile3,ptr-tile1)
+11. set(ptr-tile3,ptr-tile1)
+12. paint_up(ptr-robot2,ptr-tile1,ptr-tile2,ptr-color1)
+13. empty
+14. end
+
+[ENGINE] NODE ID: 112766335; EXPANDED: 1350000; EVALUATED: 211391208; OPEN QUEUE SIZE: 15660867
+[NODE]: f1=7
+0. inc(ptr-color1)
+1. change_color(ptr-robot1,ptr-color1,ptr-color2)
+2. inc(ptr-tile1)
+3. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+4. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+5. paint_up(ptr-robot1,ptr-tile1,ptr-tile2,ptr-color2)
+6. inc(ptr-tile1)
+7. inc(ptr-tile2)
+8. move_down(ptr-robot1,ptr-tile1,ptr-tile2)
+9. change_color(ptr-robot2,ptr-color2,ptr-color1)
+10. move_right(ptr-robot2,ptr-tile1,ptr-tile2)
+11. test-min(up(ptr-tile2,ptr-tile1))
+12. empty
+13. empty
+14. end
+
+Running learning parser
+Running runsolver parser
