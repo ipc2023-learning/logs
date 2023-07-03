@@ -1,0 +1,3 @@
+configs = [
+    (1, ["--heuristic", "hAdd=add(cost_type=0)", "--search", "lazy(tiebreaking([sum([g(),weight(hAdd,2)]),hAdd]),preferred=[],reopen_closed=true,cost_type=0,bound=infinity)"]),
+]

@@ -1,0 +1,3 @@
+configs = [
+    (1, ["--heuristic", "hCg=cg(cost_type=0)", "--search", "lazy(alt([single(hCg),single(hCg,pref_only=true)],boost=941),preferred=[hCg],reopen_closed=true,cost_type=1,bound=infinity)"]),
+]

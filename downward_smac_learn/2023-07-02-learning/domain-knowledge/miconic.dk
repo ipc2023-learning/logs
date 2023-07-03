@@ -1,4 +1,3 @@
 configs = [
-    # Num: 1, Tuner-Timeout: 82800, Learn quality: -1.00
-    (-1, []),
+    (1, ["--landmarks", "lmg=lm_exhaust(reasonable_orders=false,only_causal_landmarks=true,disjunctive_landmarks=false,conjunctive_landmarks=false,no_orders=false,cost_type=2)", "--heuristic", "hLM=lmcount(lmg,admissible=false,pref=false,cost_type=2)", "--heuristic", "hLMCut=lmcut(cost_type=0)", "--heuristic", "hHMax=hmax()", "--heuristic", "hAdd=add(cost_type=0)", "--heuristic", "hCea=cea(cost_type=1)", "--search", "lazy(alt([tiebreaking([sum([g(),weight(hLM,10)]),hLM]),tiebreaking([sum([g(),weight(hLM,10)]),hLM],pref_only=true),tiebreaking([sum([g(),weight(hLMCut,10)]),hLMCut]),tiebreaking([sum([g(),weight(hLMCut,10)]),hLMCut],pref_only=true),tiebreaking([sum([g(),weight(hHMax,10)]),hHMax]),tiebreaking([sum([g(),weight(hHMax,10)]),hHMax],pref_only=true),tiebreaking([sum([g(),weight(hAdd,10)]),hAdd]),tiebreaking([sum([g(),weight(hAdd,10)]),hAdd],pref_only=true),tiebreaking([sum([g(),weight(hCea,10)]),hCea]),tiebreaking([sum([g(),weight(hCea,10)]),hCea],pref_only=true)],boost=37),preferred=[hAdd],reopen_closed=false,cost_type=0,bound=infinity)"]),
 ]
