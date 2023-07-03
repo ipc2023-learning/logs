@@ -1,0 +1,18 @@
+Traceback (most recent call last):
+  File "/learning/learner/src/driver.py", line 122, in _run
+    exitcode, output = self.target(config=config, data=data, rng=rng)
+  File "/learning/learner/src/step_learn_hierarchy.py", line 17, in run
+    root_hierarchical_sketch = HierarchicalSketch(
+  File "/learning/learner/src/iteration_data/hierarchical_sketch.py", line 50, in __init__
+    self._initialize_goal_separating_features()
+  File "/learning/learner/src/iteration_data/hierarchical_sketch.py", line 63, in _initialize_goal_separating_features
+    booleans, numericals = learn_goal_separating_features(self.config, self.domain_data, self.instance_datas, self.zero_cost_domain_feature_data, self.workspace_learning)
+  File "/learning/learner/src/iteration_data/learn_goal_separating_features.py", line 118, in learn_goal_separating_features
+    asp_factory.ground(facts)
+  File "/learning/learner/src/asp/asp_factory.py", line 211, in ground
+    self.ctl.ground(facts)  # ground a set of facts
+  File "/usr/local/lib/python3.10/dist-packages/clingo/control.py", line 484, in ground
+    _handle_error(
+  File "/usr/local/lib/python3.10/dist-packages/clingo/_internal.py", line 74, in _handle_error
+    raise MemoryError(msg)
+MemoryError: bad_alloc

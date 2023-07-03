@@ -1,0 +1,990 @@
+2023-07-02 17:54:14,847 INFO     Running LAMA on all traning instances (remaining time 23:59:59.596124)
+2023-07-02 17:54:14,853 INFO     Running step build: build()
+2023-07-02 17:54:14,853 INFO     Experiment path: "/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-07-02-learning/runs-00001-00100/00059/data/runs-lama-exp"
+2023-07-02 17:54:15,052 INFO     Building 89 runs
+2023-07-02 17:54:18,296 INFO     Finished building runs
+2023-07-02 17:54:18,297 INFO     Running step start: start_runs()
+2023-07-02 17:54:18,297 INFO     Executing /usr/bin/python3 run {'cwd': '/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-07-02-learning/runs-00001-00100/00059/data/runs-lama-exp'}
+2023-07-02 17:54:18,353 INFO     Starting run 45 (TASK_ID 1) in runs-00001-00100/00045
+2023-07-02 17:54:19,078 INFO     Starting run 78 (TASK_ID 2) in runs-00001-00100/00078
+2023-07-02 17:54:19,552 INFO     Starting run 46 (TASK_ID 3) in runs-00001-00100/00046
+2023-07-02 17:54:19,974 INFO     Starting run 16 (TASK_ID 4) in runs-00001-00100/00016
+2023-07-02 17:54:20,532 INFO     Starting run 85 (TASK_ID 5) in runs-00001-00100/00085
+2023-07-02 17:54:20,989 INFO     Starting run 57 (TASK_ID 6) in runs-00001-00100/00057
+2023-07-02 17:54:21,447 INFO     Starting run 51 (TASK_ID 7) in runs-00001-00100/00051
+2023-07-02 17:54:21,874 INFO     Starting run 86 (TASK_ID 8) in runs-00001-00100/00086
+2023-07-02 17:54:22,474 INFO     Starting run 75 (TASK_ID 9) in runs-00001-00100/00075
+2023-07-02 17:54:22,936 INFO     Starting run 3 (TASK_ID 10) in runs-00001-00100/00003
+2023-07-02 17:54:23,374 INFO     Starting run 39 (TASK_ID 11) in runs-00001-00100/00039
+2023-07-02 17:54:23,788 INFO     Starting run 64 (TASK_ID 12) in runs-00001-00100/00064
+2023-07-02 17:54:24,239 INFO     Starting run 73 (TASK_ID 13) in runs-00001-00100/00073
+2023-07-02 17:54:24,685 INFO     Starting run 25 (TASK_ID 14) in runs-00001-00100/00025
+2023-07-02 17:54:25,254 INFO     Starting run 19 (TASK_ID 15) in runs-00001-00100/00019
+2023-07-02 17:54:25,671 INFO     Starting run 49 (TASK_ID 16) in runs-00001-00100/00049
+2023-07-02 17:54:26,100 INFO     Starting run 74 (TASK_ID 17) in runs-00001-00100/00074
+2023-07-02 17:54:26,585 INFO     Starting run 2 (TASK_ID 18) in runs-00001-00100/00002
+2023-07-02 17:54:27,020 INFO     Starting run 63 (TASK_ID 19) in runs-00001-00100/00063
+2023-07-02 17:54:27,750 INFO     Starting run 77 (TASK_ID 20) in runs-00001-00100/00077
+2023-07-02 17:54:28,431 INFO     Starting run 10 (TASK_ID 21) in runs-00001-00100/00010
+2023-07-02 17:54:28,938 INFO     Starting run 30 (TASK_ID 22) in runs-00001-00100/00030
+2023-07-02 17:54:29,396 INFO     Starting run 71 (TASK_ID 23) in runs-00001-00100/00071
+2023-07-02 17:54:29,825 INFO     Starting run 52 (TASK_ID 24) in runs-00001-00100/00052
+2023-07-02 17:54:30,402 INFO     Starting run 79 (TASK_ID 25) in runs-00001-00100/00079
+2023-07-02 17:54:30,868 INFO     Starting run 8 (TASK_ID 26) in runs-00001-00100/00008
+2023-07-02 17:54:31,759 INFO     Starting run 68 (TASK_ID 27) in runs-00001-00100/00068
+2023-07-02 17:54:32,284 INFO     Starting run 81 (TASK_ID 28) in runs-00001-00100/00081
+2023-07-02 17:54:33,568 INFO     Starting run 41 (TASK_ID 29) in runs-00001-00100/00041
+2023-07-02 17:54:34,369 INFO     Starting run 26 (TASK_ID 30) in runs-00001-00100/00026
+2023-07-02 17:54:34,783 INFO     Starting run 62 (TASK_ID 31) in runs-00001-00100/00062
+2023-07-02 17:54:35,237 INFO     Starting run 70 (TASK_ID 32) in runs-00001-00100/00070
+2023-07-02 17:54:35,674 INFO     Starting run 54 (TASK_ID 33) in runs-00001-00100/00054
+2023-07-02 17:54:36,098 INFO     Starting run 84 (TASK_ID 34) in runs-00001-00100/00084
+2023-07-02 17:54:36,587 INFO     Starting run 83 (TASK_ID 35) in runs-00001-00100/00083
+2023-07-02 17:54:37,044 INFO     Starting run 69 (TASK_ID 36) in runs-00001-00100/00069
+2023-07-02 17:54:37,506 INFO     Starting run 43 (TASK_ID 37) in runs-00001-00100/00043
+2023-07-02 17:54:37,957 INFO     Starting run 67 (TASK_ID 38) in runs-00001-00100/00067
+2023-07-02 17:54:38,408 INFO     Starting run 9 (TASK_ID 39) in runs-00001-00100/00009
+2023-07-02 17:54:38,823 INFO     Starting run 72 (TASK_ID 40) in runs-00001-00100/00072
+2023-07-02 17:54:39,277 INFO     Starting run 37 (TASK_ID 41) in runs-00001-00100/00037
+2023-07-02 17:54:39,695 INFO     Starting run 66 (TASK_ID 42) in runs-00001-00100/00066
+2023-07-02 17:54:40,126 INFO     Starting run 60 (TASK_ID 43) in runs-00001-00100/00060
+2023-07-02 17:54:40,576 INFO     Starting run 48 (TASK_ID 44) in runs-00001-00100/00048
+2023-07-02 17:54:41,024 INFO     Starting run 58 (TASK_ID 45) in runs-00001-00100/00058
+2023-07-02 17:54:41,495 INFO     Starting run 15 (TASK_ID 46) in runs-00001-00100/00015
+2023-07-02 17:54:41,915 INFO     Starting run 80 (TASK_ID 47) in runs-00001-00100/00080
+2023-07-02 17:54:42,390 INFO     Starting run 56 (TASK_ID 48) in runs-00001-00100/00056
+2023-07-02 17:54:42,817 INFO     Starting run 88 (TASK_ID 49) in runs-00001-00100/00088
+2023-07-02 17:54:43,297 INFO     Starting run 14 (TASK_ID 50) in runs-00001-00100/00014
+2023-07-02 17:54:43,713 INFO     Starting run 31 (TASK_ID 51) in runs-00001-00100/00031
+2023-07-02 17:54:44,145 INFO     Starting run 27 (TASK_ID 52) in runs-00001-00100/00027
+2023-07-02 17:54:44,571 INFO     Starting run 36 (TASK_ID 53) in runs-00001-00100/00036
+2023-07-02 17:54:44,983 INFO     Starting run 82 (TASK_ID 54) in runs-00001-00100/00082
+2023-07-02 17:54:45,475 INFO     Starting run 65 (TASK_ID 55) in runs-00001-00100/00065
+2023-07-02 17:54:45,904 INFO     Starting run 42 (TASK_ID 56) in runs-00001-00100/00042
+2023-07-02 17:54:46,352 INFO     Starting run 38 (TASK_ID 57) in runs-00001-00100/00038
+2023-07-02 17:54:46,768 INFO     Starting run 24 (TASK_ID 58) in runs-00001-00100/00024
+2023-07-02 17:54:47,210 INFO     Starting run 5 (TASK_ID 59) in runs-00001-00100/00005
+2023-07-02 17:54:47,620 INFO     Starting run 47 (TASK_ID 60) in runs-00001-00100/00047
+2023-07-02 17:54:48,037 INFO     Starting run 76 (TASK_ID 61) in runs-00001-00100/00076
+2023-07-02 17:54:48,509 INFO     Starting run 11 (TASK_ID 62) in runs-00001-00100/00011
+2023-07-02 17:54:48,915 INFO     Starting run 61 (TASK_ID 63) in runs-00001-00100/00061
+2023-07-02 17:54:49,373 INFO     Starting run 1 (TASK_ID 64) in runs-00001-00100/00001
+2023-07-02 17:54:49,781 INFO     Starting run 18 (TASK_ID 65) in runs-00001-00100/00018
+2023-07-02 17:54:50,227 INFO     Starting run 32 (TASK_ID 66) in runs-00001-00100/00032
+2023-07-02 17:54:50,653 INFO     Starting run 40 (TASK_ID 67) in runs-00001-00100/00040
+2023-07-02 17:54:51,077 INFO     Starting run 33 (TASK_ID 68) in runs-00001-00100/00033
+2023-07-02 17:54:51,522 INFO     Starting run 21 (TASK_ID 69) in runs-00001-00100/00021
+2023-07-02 17:54:51,937 INFO     Starting run 29 (TASK_ID 70) in runs-00001-00100/00029
+2023-07-02 17:54:52,383 INFO     Starting run 20 (TASK_ID 71) in runs-00001-00100/00020
+2023-07-02 17:54:52,794 INFO     Starting run 13 (TASK_ID 72) in runs-00001-00100/00013
+2023-07-02 17:54:53,232 INFO     Starting run 28 (TASK_ID 73) in runs-00001-00100/00028
+2023-07-02 17:54:53,646 INFO     Starting run 50 (TASK_ID 74) in runs-00001-00100/00050
+2023-07-02 17:54:54,074 INFO     Starting run 53 (TASK_ID 75) in runs-00001-00100/00053
+2023-07-02 17:54:54,521 INFO     Starting run 59 (TASK_ID 76) in runs-00001-00100/00059
+2023-07-02 17:54:54,952 INFO     Starting run 44 (TASK_ID 77) in runs-00001-00100/00044
+2023-07-02 17:54:55,498 INFO     Starting run 89 (TASK_ID 78) in runs-00001-00100/00089
+2023-07-02 17:54:55,952 INFO     Starting run 7 (TASK_ID 79) in runs-00001-00100/00007
+2023-07-02 17:54:56,391 INFO     Starting run 17 (TASK_ID 80) in runs-00001-00100/00017
+2023-07-02 17:54:56,811 INFO     Starting run 55 (TASK_ID 81) in runs-00001-00100/00055
+2023-07-02 17:54:57,259 INFO     Starting run 4 (TASK_ID 82) in runs-00001-00100/00004
+2023-07-02 17:54:57,676 INFO     Starting run 34 (TASK_ID 83) in runs-00001-00100/00034
+2023-07-02 17:54:58,091 INFO     Starting run 12 (TASK_ID 84) in runs-00001-00100/00012
+2023-07-02 17:54:58,573 INFO     Starting run 6 (TASK_ID 85) in runs-00001-00100/00006
+2023-07-02 17:54:59,029 INFO     Starting run 35 (TASK_ID 86) in runs-00001-00100/00035
+2023-07-02 17:54:59,479 INFO     Starting run 87 (TASK_ID 87) in runs-00001-00100/00087
+2023-07-02 17:54:59,959 INFO     Starting run 23 (TASK_ID 88) in runs-00001-00100/00023
+2023-07-02 17:55:00,407 INFO     Starting run 22 (TASK_ID 89) in runs-00001-00100/00022
+2023-07-02 17:55:00,821 INFO     Joining pool processes
+Warning: all instances are solved by lama. Make sure your training instances contain difficult instances that are representative of the difficulty of the domain
+2023-07-02 17:55:02,617 INFO     Running good operators with unit cost on 89 traning instances (remaining time 23:59:11.826934)
+2023-07-02 17:55:02,623 INFO     Running step build: build()
+2023-07-02 17:55:02,623 INFO     Running step build: build()
+2023-07-02 17:55:02,623 INFO     Experiment path: "/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-07-02-learning/runs-00001-00100/00059/data/good-operators-unit-exp"
+2023-07-02 17:55:02,623 INFO     Experiment path: "/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-07-02-learning/runs-00001-00100/00059/data/good-operators-unit-exp"
+2023-07-02 17:55:02,769 INFO     Building 89 runs
+2023-07-02 17:55:02,769 INFO     Building 89 runs
+2023-07-02 17:55:03,013 INFO     Finished building runs
+2023-07-02 17:55:03,013 INFO     Finished building runs
+2023-07-02 17:55:03,014 INFO     Running step start: start_runs()
+2023-07-02 17:55:03,014 INFO     Running step start: start_runs()
+2023-07-02 17:55:03,014 INFO     Executing /usr/bin/python3 run {'cwd': '/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-07-02-learning/runs-00001-00100/00059/data/good-operators-unit-exp'}
+2023-07-02 17:55:03,014 INFO     Executing /usr/bin/python3 run {'cwd': '/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-07-02-learning/runs-00001-00100/00059/data/good-operators-unit-exp'}
+2023-07-02 17:55:03,073 INFO     Starting run 53 (TASK_ID 1) in runs-00001-00100/00053
+2023-07-02 17:55:03,877 INFO     Starting run 22 (TASK_ID 2) in runs-00001-00100/00022
+2023-07-02 17:55:04,640 INFO     Starting run 79 (TASK_ID 3) in runs-00001-00100/00079
+2023-07-02 17:55:05,300 INFO     Starting run 54 (TASK_ID 4) in runs-00001-00100/00054
+2023-07-02 17:55:05,935 INFO     Starting run 37 (TASK_ID 5) in runs-00001-00100/00037
+2023-07-02 17:55:06,646 INFO     Starting run 34 (TASK_ID 6) in runs-00001-00100/00034
+2023-07-02 17:55:07,287 INFO     Starting run 21 (TASK_ID 7) in runs-00001-00100/00021
+2023-07-02 17:55:08,035 INFO     Starting run 23 (TASK_ID 8) in runs-00001-00100/00023
+2023-07-02 17:55:08,674 INFO     Starting run 16 (TASK_ID 9) in runs-00001-00100/00016
+2023-07-02 17:55:09,278 INFO     Starting run 70 (TASK_ID 10) in runs-00001-00100/00070
+2023-07-02 17:55:10,040 INFO     Starting run 30 (TASK_ID 11) in runs-00001-00100/00030
+2023-07-02 17:55:10,655 INFO     Starting run 39 (TASK_ID 12) in runs-00001-00100/00039
+2023-07-02 17:55:11,370 INFO     Starting run 38 (TASK_ID 13) in runs-00001-00100/00038
+2023-07-02 17:55:11,938 INFO     Starting run 14 (TASK_ID 14) in runs-00001-00100/00014
+2023-07-02 17:55:12,536 INFO     Starting run 32 (TASK_ID 15) in runs-00001-00100/00032
+2023-07-02 17:55:13,183 INFO     Starting run 25 (TASK_ID 16) in runs-00001-00100/00025
+2023-07-02 17:55:13,881 INFO     Starting run 81 (TASK_ID 17) in runs-00001-00100/00081
+2023-07-02 17:55:14,671 INFO     Starting run 45 (TASK_ID 18) in runs-00001-00100/00045
+2023-07-02 17:55:15,290 INFO     Starting run 61 (TASK_ID 19) in runs-00001-00100/00061
+2023-07-02 17:55:16,005 INFO     Starting run 5 (TASK_ID 20) in runs-00001-00100/00005
+2023-07-02 17:55:16,772 INFO     Starting run 20 (TASK_ID 21) in runs-00001-00100/00020
+2023-07-02 17:55:17,441 INFO     Starting run 58 (TASK_ID 22) in runs-00001-00100/00058
+2023-07-02 17:55:18,000 INFO     Starting run 78 (TASK_ID 23) in runs-00001-00100/00078
+2023-07-02 17:55:18,671 INFO     Starting run 27 (TASK_ID 24) in runs-00001-00100/00027
+2023-07-02 17:55:19,347 INFO     Starting run 51 (TASK_ID 25) in runs-00001-00100/00051
+2023-07-02 17:55:19,922 INFO     Starting run 4 (TASK_ID 26) in runs-00001-00100/00004
+2023-07-02 17:55:20,716 INFO     Starting run 86 (TASK_ID 27) in runs-00001-00100/00086
+2023-07-02 17:55:21,483 INFO     Starting run 12 (TASK_ID 28) in runs-00001-00100/00012
+2023-07-02 17:55:22,195 INFO     Starting run 71 (TASK_ID 29) in runs-00001-00100/00071
+2023-07-02 17:55:22,790 INFO     Starting run 40 (TASK_ID 30) in runs-00001-00100/00040
+2023-07-02 17:55:23,466 INFO     Starting run 35 (TASK_ID 31) in runs-00001-00100/00035
+2023-07-02 17:55:24,062 INFO     Starting run 1 (TASK_ID 32) in runs-00001-00100/00001
+2023-07-02 17:55:24,737 INFO     Starting run 84 (TASK_ID 33) in runs-00001-00100/00084
+2023-07-02 17:55:25,397 INFO     Starting run 64 (TASK_ID 34) in runs-00001-00100/00064
+2023-07-02 17:55:26,044 INFO     Starting run 87 (TASK_ID 35) in runs-00001-00100/00087
+2023-07-02 17:55:26,670 INFO     Starting run 48 (TASK_ID 36) in runs-00001-00100/00048
+2023-07-02 17:55:27,311 INFO     Starting run 60 (TASK_ID 37) in runs-00001-00100/00060
+2023-07-02 17:55:27,919 INFO     Starting run 65 (TASK_ID 38) in runs-00001-00100/00065
+2023-07-02 17:55:28,560 INFO     Starting run 13 (TASK_ID 39) in runs-00001-00100/00013
+2023-07-02 17:55:29,233 INFO     Starting run 47 (TASK_ID 40) in runs-00001-00100/00047
+2023-07-02 17:55:29,982 INFO     Starting run 8 (TASK_ID 41) in runs-00001-00100/00008
+2023-07-02 17:55:30,755 INFO     Starting run 52 (TASK_ID 42) in runs-00001-00100/00052
+2023-07-02 17:55:31,458 INFO     Starting run 55 (TASK_ID 43) in runs-00001-00100/00055
+2023-07-02 17:55:32,087 INFO     Starting run 33 (TASK_ID 44) in runs-00001-00100/00033
+2023-07-02 17:55:32,856 INFO     Starting run 41 (TASK_ID 45) in runs-00001-00100/00041
+2023-07-02 17:55:33,498 INFO     Starting run 56 (TASK_ID 46) in runs-00001-00100/00056
+2023-07-02 17:55:34,114 INFO     Starting run 9 (TASK_ID 47) in runs-00001-00100/00009
+2023-07-02 17:55:34,879 INFO     Starting run 85 (TASK_ID 48) in runs-00001-00100/00085
+2023-07-02 17:55:35,526 INFO     Starting run 80 (TASK_ID 49) in runs-00001-00100/00080
+2023-07-02 17:55:36,181 INFO     Starting run 69 (TASK_ID 50) in runs-00001-00100/00069
+2023-07-02 17:55:36,943 INFO     Starting run 89 (TASK_ID 51) in runs-00001-00100/00089
+2023-07-02 17:55:37,540 INFO     Starting run 82 (TASK_ID 52) in runs-00001-00100/00082
+2023-07-02 17:55:38,399 INFO     Starting run 63 (TASK_ID 53) in runs-00001-00100/00063
+2023-07-02 17:55:39,076 INFO     Starting run 72 (TASK_ID 54) in runs-00001-00100/00072
+2023-07-02 17:55:39,853 INFO     Starting run 7 (TASK_ID 55) in runs-00001-00100/00007
+2023-07-02 17:55:40,504 INFO     Starting run 67 (TASK_ID 56) in runs-00001-00100/00067
+2023-07-02 17:55:41,140 INFO     Starting run 73 (TASK_ID 57) in runs-00001-00100/00073
+2023-07-02 17:55:41,779 INFO     Starting run 75 (TASK_ID 58) in runs-00001-00100/00075
+2023-07-02 17:55:42,507 INFO     Starting run 50 (TASK_ID 59) in runs-00001-00100/00050
+2023-07-02 17:55:43,234 INFO     Starting run 66 (TASK_ID 60) in runs-00001-00100/00066
+2023-07-02 17:55:43,801 INFO     Starting run 18 (TASK_ID 61) in runs-00001-00100/00018
+2023-07-02 17:55:44,388 INFO     Starting run 42 (TASK_ID 62) in runs-00001-00100/00042
+2023-07-02 17:55:45,008 INFO     Starting run 46 (TASK_ID 63) in runs-00001-00100/00046
+2023-07-02 17:55:45,667 INFO     Starting run 29 (TASK_ID 64) in runs-00001-00100/00029
+2023-07-02 17:55:46,445 INFO     Starting run 59 (TASK_ID 65) in runs-00001-00100/00059
+2023-07-02 17:55:47,172 INFO     Starting run 11 (TASK_ID 66) in runs-00001-00100/00011
+2023-07-02 17:55:47,742 INFO     Starting run 62 (TASK_ID 67) in runs-00001-00100/00062
+2023-07-02 17:55:48,340 INFO     Starting run 83 (TASK_ID 68) in runs-00001-00100/00083
+2023-07-02 17:55:48,905 INFO     Starting run 2 (TASK_ID 69) in runs-00001-00100/00002
+2023-07-02 17:55:49,561 INFO     Starting run 31 (TASK_ID 70) in runs-00001-00100/00031
+2023-07-02 17:55:50,181 INFO     Starting run 6 (TASK_ID 71) in runs-00001-00100/00006
+2023-07-02 17:55:50,803 INFO     Starting run 3 (TASK_ID 72) in runs-00001-00100/00003
+2023-07-02 17:55:51,413 INFO     Starting run 74 (TASK_ID 73) in runs-00001-00100/00074
+2023-07-02 17:55:52,012 INFO     Starting run 88 (TASK_ID 74) in runs-00001-00100/00088
+2023-07-02 17:55:52,715 INFO     Starting run 19 (TASK_ID 75) in runs-00001-00100/00019
+2023-07-02 17:55:53,365 INFO     Starting run 68 (TASK_ID 76) in runs-00001-00100/00068
+2023-07-02 17:55:53,994 INFO     Starting run 15 (TASK_ID 77) in runs-00001-00100/00015
+2023-07-02 17:55:54,661 INFO     Starting run 24 (TASK_ID 78) in runs-00001-00100/00024
+2023-07-02 17:55:55,259 INFO     Starting run 76 (TASK_ID 79) in runs-00001-00100/00076
+2023-07-02 17:55:55,961 INFO     Starting run 10 (TASK_ID 80) in runs-00001-00100/00010
+2023-07-02 17:55:56,590 INFO     Starting run 36 (TASK_ID 81) in runs-00001-00100/00036
+2023-07-02 17:55:57,321 INFO     Starting run 43 (TASK_ID 82) in runs-00001-00100/00043
+2023-07-02 17:55:58,086 INFO     Starting run 49 (TASK_ID 83) in runs-00001-00100/00049
+2023-07-02 17:55:58,808 INFO     Starting run 26 (TASK_ID 84) in runs-00001-00100/00026
+2023-07-02 17:55:59,616 INFO     Starting run 44 (TASK_ID 85) in runs-00001-00100/00044
+2023-07-02 17:56:00,348 INFO     Starting run 28 (TASK_ID 86) in runs-00001-00100/00028
+2023-07-02 17:56:00,950 INFO     Starting run 77 (TASK_ID 87) in runs-00001-00100/00077
+2023-07-02 17:56:01,648 INFO     Starting run 17 (TASK_ID 88) in runs-00001-00100/00017
+2023-07-02 17:56:02,439 INFO     Starting run 57 (TASK_ID 89) in runs-00001-00100/00057
+2023-07-02 17:56:03,223 INFO     Joining pool processes
+After the split, we have 80 instances for training, 9 for hyperparameter optimization, out of which 0 have overlap and 0 are not solved by lama and 9 are solved under 2 minutes)
+Instances for the training phase:  ['p73', 'p72', 'p24', 'p50', 'p56', 'p03', 'p51', 'p86', 'p69', 'p12', 'p30', 'p67', 'p58', 'p42', 'p79', 'p44', 'p46', 'p60', 'p99', 'p80', 'p38', 'p81', 'p28', 'p45', 'p97', 'p57', 'p48', 'p11', 'p93', 'p70', 'p06', 'p09', 'p65', 'p96', 'p26', 'p08', 'p84', 'p62', 'p07', 'p02', 'p76', 'p36', 'p53', 'p13', 'p88', 'p90', 'p33', 'p63', 'p29', 'p10', 'p75', 'p01', 'p64', 'p14', 'p18', 'p32', 'p41', 'p25', 'p31', 'p83', 'p52', 'p04', 'p37', 'p66', 'p61', 'p71', 'p68', 'p35', 'p43', 'p54', 'p47', 'p74', 'p78', 'p40', 'p77', 'p59', 'p49', 'p82', 'p34', 'p05']
+Instances for SMAC optimization:  {'p85', 'p95', 'p98', 'p87', 'p55', 'p92', 'p91', 'p89', 'p94'}
+2023-07-02 17:56:05,565 INFO     Learning Aleph good rules (remaining time 23:58:08.879158)
+2023-07-02 17:56:05,565 INFO     Learning Aleph good rules (remaining time 23:58:08.879028)
+Running: generate-training-data-aleph.py on /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-07-02-learning/runs-00001-00100/00059/data/partial-grounding-good-rules/good-operators-unit-good_rules
+2023-07-02 17:56:06,000 INFO     generate-aleph-files wall-clock time: 0.43s
+2023-07-02 17:56:06,000 INFO     generate-aleph-files wall-clock time: 0.43s
+2023-07-02 17:56:06,000 INFO     generate-aleph-files exit code: 0
+2023-07-02 17:56:06,000 INFO     generate-aleph-files exit code: 0
+2023-07-02 17:56:06,001 INFO     Running step build: build()
+2023-07-02 17:56:06,001 INFO     Running step build: build()
+2023-07-02 17:56:06,001 INFO     Experiment path: "/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-07-02-learning/runs-00001-00100/00059/data/partial-grounding-good-rules/exp"
+2023-07-02 17:56:06,001 INFO     Experiment path: "/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-07-02-learning/runs-00001-00100/00059/data/partial-grounding-good-rules/exp"
+2023-07-02 17:56:06,003 INFO     Building 3 runs
+2023-07-02 17:56:06,003 INFO     Building 3 runs
+2023-07-02 17:56:06,010 INFO     Finished building runs
+2023-07-02 17:56:06,010 INFO     Finished building runs
+2023-07-02 17:56:06,010 INFO     Running step start: start_runs()
+2023-07-02 17:56:06,010 INFO     Running step start: start_runs()
+2023-07-02 17:56:06,010 INFO     Executing /usr/bin/python3 run {'cwd': '/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-07-02-learning/runs-00001-00100/00059/data/partial-grounding-good-rules/exp'}
+2023-07-02 17:56:06,010 INFO     Executing /usr/bin/python3 run {'cwd': '/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-07-02-learning/runs-00001-00100/00059/data/partial-grounding-good-rules/exp'}
+2023-07-02 17:56:06,063 INFO     Starting run 1 (TASK_ID 1) in runs-00001-00100/00001
+2023-07-02 17:56:06,826 INFO     Starting run 3 (TASK_ID 2) in runs-00001-00100/00003
+2023-07-02 17:56:07,450 INFO     Starting run 2 (TASK_ID 3) in runs-00001-00100/00002
+2023-07-02 17:56:08,053 INFO     Joining pool processes
+2023-07-02 17:56:08,232 INFO     filter-good-rules wall-clock time: 0.16s
+2023-07-02 17:56:08,232 INFO     filter-good-rules wall-clock time: 0.16s
+2023-07-02 17:56:08,232 INFO     filter-good-rules exit code: 0
+2023-07-02 17:56:08,232 INFO     filter-good-rules exit code: 0
+2023-07-02 17:56:08,287 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:08,287 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:08,287 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:08,287 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:08,339 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:08,339 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:08,339 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:08,339 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:08,392 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:08,392 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:08,392 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:08,392 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:08,444 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:08,444 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:08,444 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:08,444 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:08,498 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:08,498 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:08,499 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:08,499 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:08,551 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:08,551 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:08,551 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:08,551 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:08,603 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:08,603 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:08,604 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:08,604 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:08,656 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:08,656 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:08,656 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:08,656 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:08,708 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:08,708 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:08,709 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:08,709 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:08,762 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:08,762 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:08,762 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:08,762 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:08,815 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:08,815 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:08,815 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:08,815 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:08,868 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:08,868 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:08,868 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:08,868 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:08,922 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:08,922 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:08,923 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:08,923 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:08,975 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:08,975 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:08,975 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:08,975 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:09,028 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:09,028 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:09,028 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:09,028 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:09,080 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:09,080 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:09,080 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:09,080 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:09,150 INFO     filter-training-set wall-clock time: 0.06s
+2023-07-02 17:56:09,150 INFO     filter-training-set wall-clock time: 0.06s
+2023-07-02 17:56:09,150 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:09,150 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:09,212 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:09,212 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:09,212 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:09,212 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:09,266 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:09,266 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:09,267 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:09,267 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:09,319 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:09,319 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:09,319 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:09,319 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:09,372 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:09,372 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:09,372 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:09,372 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:09,426 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:09,426 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:09,426 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:09,426 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:09,479 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:09,479 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:09,479 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:09,479 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:09,530 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:09,530 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:09,531 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:09,531 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:09,584 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:09,584 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:09,584 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:09,584 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:09,637 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:09,637 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:09,637 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:09,637 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:09,691 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:09,691 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:09,691 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:09,691 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:09,743 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:09,743 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:09,743 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:09,743 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:09,796 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:09,796 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:09,796 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:09,796 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:09,849 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:09,849 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:09,849 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:09,849 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:09,902 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:09,902 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:09,902 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:09,902 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:09,954 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:09,954 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:09,954 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:09,954 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:10,008 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:10,008 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:10,008 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:10,008 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:10,061 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:10,061 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:10,061 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:10,061 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:10,114 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:10,114 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:10,114 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:10,114 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:10,194 INFO     filter-training-set wall-clock time: 0.07s
+2023-07-02 17:56:10,194 INFO     filter-training-set wall-clock time: 0.07s
+2023-07-02 17:56:10,194 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:10,194 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:10,258 INFO     filter-training-set wall-clock time: 0.06s
+2023-07-02 17:56:10,258 INFO     filter-training-set wall-clock time: 0.06s
+2023-07-02 17:56:10,258 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:10,258 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:10,309 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:10,309 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:10,309 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:10,309 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:10,363 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:10,363 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:10,364 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:10,364 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:10,416 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:10,416 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:10,416 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:10,416 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:10,470 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:10,470 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:10,470 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:10,470 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:10,522 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:10,522 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:10,522 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:10,522 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:10,575 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:10,575 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:10,575 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:10,575 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:10,626 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:10,626 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:10,627 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:10,627 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:10,679 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:10,679 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:10,679 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:10,679 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:10,731 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:10,731 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:10,732 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:10,732 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:10,786 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:10,786 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:10,786 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:10,786 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:10,839 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:10,839 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:10,839 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:10,839 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:10,892 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:10,892 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:10,892 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:10,892 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:10,944 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:10,944 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:10,944 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:10,944 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:10,996 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:10,996 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:10,997 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:10,997 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:11,048 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:11,048 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:11,048 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:11,048 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:11,102 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:11,102 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:11,102 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:11,102 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:11,184 INFO     filter-training-set wall-clock time: 0.08s
+2023-07-02 17:56:11,184 INFO     filter-training-set wall-clock time: 0.08s
+2023-07-02 17:56:11,184 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:11,184 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:11,237 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:11,237 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:11,237 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:11,237 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:11,289 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:11,289 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:11,290 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:11,290 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:11,343 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:11,343 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:11,343 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:11,343 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:11,395 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:11,395 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:11,395 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:11,395 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:11,449 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:11,449 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:11,449 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:11,449 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:11,502 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:11,502 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:11,502 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:11,502 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:11,556 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:11,556 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:11,557 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:11,557 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:11,609 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:11,609 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:11,609 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:11,609 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:11,663 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:11,663 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:11,663 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:11,663 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:11,715 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:11,715 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:11,715 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:11,715 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:11,771 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:11,771 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:11,771 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:11,771 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:11,830 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:11,830 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:11,831 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:11,831 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:11,890 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:11,890 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:11,890 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:11,890 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:11,943 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:11,943 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:11,944 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:11,944 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:11,998 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:11,998 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:11,998 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:11,998 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:12,050 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:12,050 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:12,050 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:12,050 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:12,104 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:12,104 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:12,104 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:12,104 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:12,183 INFO     filter-training-set wall-clock time: 0.07s
+2023-07-02 17:56:12,183 INFO     filter-training-set wall-clock time: 0.07s
+2023-07-02 17:56:12,183 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:12,183 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:12,236 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:12,236 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:12,236 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:12,236 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:12,288 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:12,288 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:12,289 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:12,289 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:12,342 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:12,342 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:12,343 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:12,343 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:12,396 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:12,396 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:12,396 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:12,396 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:12,449 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:12,449 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:12,450 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:12,450 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:12,501 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:12,501 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:12,502 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:12,502 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:12,555 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:12,555 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:12,556 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:12,556 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:12,607 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:12,607 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:12,607 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:12,607 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:12,660 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:12,660 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:12,660 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:12,660 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:12,712 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:12,712 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:12,712 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:12,712 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:12,767 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:12,767 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:12,768 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:12,768 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:12,819 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:12,819 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:12,820 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:12,820 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:12,873 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:12,873 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:12,874 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:12,874 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:12,926 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:12,926 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:12,926 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:12,926 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:12,979 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:12,979 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:12,980 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:12,980 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:13,031 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:13,031 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:13,032 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:13,032 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:13,085 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:13,085 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:13,085 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:13,085 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:13,159 INFO     filter-training-set wall-clock time: 0.07s
+2023-07-02 17:56:13,159 INFO     filter-training-set wall-clock time: 0.07s
+2023-07-02 17:56:13,159 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:13,159 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:13,219 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:13,219 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:13,219 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:13,219 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:13,272 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:13,272 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:13,272 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:13,272 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:13,326 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:13,326 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:13,326 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:13,326 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:13,378 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:13,378 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:13,378 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:13,378 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:13,431 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:13,431 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:13,432 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:13,432 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:13,483 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:13,483 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:13,483 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:13,483 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:13,537 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:13,537 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:13,537 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:13,537 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:13,589 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:13,589 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:13,589 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:13,589 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:13,643 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:13,643 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:13,644 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:13,644 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:13,696 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:13,696 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:13,696 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:13,696 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:13,750 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:13,750 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:13,751 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:13,751 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:13,805 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:13,805 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:13,805 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:13,805 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:13,859 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:13,859 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:13,859 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:13,859 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:13,911 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:13,911 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:13,911 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:13,911 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:13,964 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:13,964 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:13,964 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:13,964 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:14,017 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:14,017 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:14,017 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:14,017 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:14,071 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:14,071 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:14,072 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:14,072 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:14,124 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:14,124 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:14,124 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:14,124 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:14,207 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:14,207 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:14,207 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:14,207 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:14,259 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:14,259 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:14,259 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:14,259 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:14,312 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:14,312 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:14,312 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:14,312 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:14,364 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:14,364 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:14,364 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:14,364 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:14,417 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:14,417 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:14,418 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:14,418 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:14,470 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:14,470 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:14,470 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:14,470 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:14,523 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:14,523 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:14,524 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:14,524 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:14,576 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:14,576 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:14,576 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:14,576 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:14,630 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:14,630 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:14,631 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:14,631 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:14,684 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:14,684 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:14,684 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:14,684 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:14,737 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:14,737 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:14,738 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:14,738 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:14,789 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:14,789 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:14,790 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:14,790 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:14,843 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:14,843 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:14,843 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:14,843 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:14,895 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:14,895 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:14,895 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:14,895 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:14,950 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:14,950 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:14,950 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:14,950 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:15,002 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:15,002 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:15,002 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:15,002 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:15,056 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:15,056 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:15,057 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:15,057 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:15,109 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:15,109 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:15,109 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:15,109 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:15,190 INFO     filter-training-set wall-clock time: 0.07s
+2023-07-02 17:56:15,190 INFO     filter-training-set wall-clock time: 0.07s
+2023-07-02 17:56:15,190 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:15,190 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:15,241 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:15,241 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:15,241 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:15,241 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:15,295 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:15,295 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:15,295 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:15,295 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:15,348 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:15,348 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:15,348 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:15,348 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:15,402 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:15,402 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:15,403 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:15,403 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:15,455 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:15,455 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:15,455 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:15,455 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:15,508 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:15,508 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:15,509 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:15,509 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:15,562 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:15,562 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:15,562 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:15,562 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:15,616 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:15,616 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:15,616 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:15,616 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:15,670 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:15,670 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:15,671 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:15,671 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:15,811 INFO     filter-training-set wall-clock time: 0.06s
+2023-07-02 17:56:15,811 INFO     filter-training-set wall-clock time: 0.06s
+2023-07-02 17:56:15,811 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:15,811 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:15,864 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:15,864 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:15,864 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:15,864 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:15,919 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:15,919 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:15,919 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:15,919 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:15,972 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:15,972 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:15,972 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:15,972 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:16,025 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:16,025 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:16,026 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:16,026 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:16,079 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:16,079 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:16,079 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:16,079 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:16,151 INFO     filter-training-set wall-clock time: 0.06s
+2023-07-02 17:56:16,151 INFO     filter-training-set wall-clock time: 0.06s
+2023-07-02 17:56:16,151 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:16,151 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:16,215 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:16,215 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:16,216 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:16,216 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:16,270 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:16,270 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:16,270 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:16,270 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:16,322 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:16,322 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:16,322 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:16,322 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:16,375 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:16,375 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:16,375 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:16,375 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:16,426 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:16,426 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:16,427 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:16,427 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:16,480 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:16,480 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:16,481 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:16,481 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:16,534 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:16,534 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:16,534 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:16,534 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:16,588 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:16,588 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:16,588 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:16,588 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:16,641 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:16,641 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:16,641 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:16,641 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:16,694 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:16,694 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:16,694 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:16,694 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:16,746 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:16,746 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:16,747 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:16,747 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:16,805 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:16,805 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:16,805 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:16,805 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:16,861 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:16,861 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:16,862 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:16,862 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:16,920 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:16,920 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:16,920 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:16,920 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:16,977 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:16,977 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:16,977 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:16,977 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:17,036 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:17,036 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:17,036 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:17,036 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:17,093 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:17,093 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:17,093 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:17,093 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:17,182 INFO     filter-training-set wall-clock time: 0.08s
+2023-07-02 17:56:17,182 INFO     filter-training-set wall-clock time: 0.08s
+2023-07-02 17:56:17,183 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:17,183 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:17,238 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:17,238 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:17,239 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:17,239 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:17,295 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:17,295 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:17,295 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:17,295 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:17,349 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:17,349 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:17,349 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:17,349 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:17,404 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:17,404 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:17,404 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:17,404 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:17,456 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:17,456 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:17,456 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:17,456 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:17,509 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:17,509 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:17,509 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:17,509 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:17,561 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:17,561 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:17,562 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:17,562 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:17,614 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:17,614 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:17,615 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:17,615 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:17,666 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:17,666 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:17,667 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:17,667 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:17,720 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:17,720 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:17,720 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:17,720 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:17,774 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:17,774 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:17,774 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:17,774 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:17,828 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:17,828 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:17,828 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:17,828 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:17,880 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:17,880 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:17,880 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:17,880 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:17,933 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:17,933 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:17,934 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:17,934 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:17,985 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:17,985 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:17,986 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:17,986 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:18,039 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:18,039 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:18,039 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:18,039 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:18,090 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:18,090 INFO     filter-training-set wall-clock time: 0.05s
+2023-07-02 17:56:18,090 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:18,090 INFO     filter-training-set exit code: 0
+2023-07-02 17:56:18,090 INFO     Learning Aleph bad rules (remaining time 23:57:56.353763)
+2023-07-02 17:56:18,090 INFO     Learning Aleph bad rules (remaining time 23:57:56.353733)
+Skipping walk due to lack of training data: 0 positive examples and 0 negative examples
+Skipping pickup_spanner due to lack of training data: 0 positive examples and 0 negative examples
+Skipping tighten_nut due to lack of training data: 0 positive examples and 0 negative examples
+Running: generate-training-data-aleph.py on /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-07-02-learning/runs-00001-00100/00059/data/partial-grounding-bad-rules/good-operators-unit-nogoodrules-bad_rules
+2023-07-02 17:56:18,413 INFO     generate-aleph-files wall-clock time: 0.32s
+2023-07-02 17:56:18,413 INFO     generate-aleph-files wall-clock time: 0.32s
+2023-07-02 17:56:18,413 INFO     generate-aleph-files exit code: 0
+2023-07-02 17:56:18,413 INFO     generate-aleph-files exit code: 0
+2023-07-02 17:56:18,413 INFO     Running SMAC to select good and bad rules (remaining time 23:57:56.030871)
+2023-07-02 17:56:18,413 INFO     Running SMAC to select good and bad rules (remaining time 23:57:56.030839)
+2023-07-02 17:56:18,414 INFO     Loading aleph model from good_rules.rules 
+2023-07-02 17:56:18,414 INFO     Loading aleph model from good_rules.rules 
+2023-07-02 17:56:18,414 INFO     Loading aleph model from candidate-good_rules.rules 
+2023-07-02 17:56:18,414 INFO     Loading aleph model from candidate-good_rules.rules 
+Warning: ignoring file of unknown type: candidate-good_rules.rules
+[INFO][abstract_initial_design.py:147] Using 1 initial design configurations and 0 additional configurations.
+[INFO][abstract_intensifier.py:305] Using only one seed for deterministic scenario.
+[INFO][optimize_smac.py:188] Ran p92 with queue ipc23-single-queue and model model_good-yyy: time 0.19, operators 71, cost 21
+[INFO][abstract_intensifier.py:515] Added config 17fc80 as new incumbent because there are no incumbents yet.
+[INFO][optimize_smac.py:188] Ran p85 with queue ipc23-single-queue and model model_good-yyy: time 0.24, operators 64, cost 20
+[WARNING][config_selector.py:242] Could not return a new configuration after 16 retries.
+[INFO][smbo.py:332] Shutting down because the stop flag was set.
+[INFO][optimize_smac.py:398] Retrieve candidate configs from SMAC
+[INFO][optimize_smac.py:404] Chosen incumbent: Configuration(values={
+  'alias': 'lama-first',
+  'good0': 1,
+  'good1': 1,
+  'good2': 1,
+  'ignore-bad-actions': 'true',
+  'queue_type': 'ipc23-single-queue',
+  'termination-condition': 'full',
+})
+
+[INFO][learn.py:266] Model with hard rules is completed. Saving as incumbent model (remaining time 23:57:55.398980)
+[INFO][incumbent_set.py:33] New incumbent is top 1
+[INFO][incumbent_set.py:35] incumbent-1 (-89, 9.029999999999992)
+[INFO][learn.py:283] Learning Aleph probability model (remaining time 23:57:55.320018)
+Skipping walk due to lack of training data: 0 positive examples and 0 negative examples
+Skipping pickup_spanner due to lack of training data: 0 positive examples and 0 negative examples
+Skipping tighten_nut due to lack of training data: 0 positive examples and 0 negative examples
+Running: generate-training-data-aleph.py on /proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/learning/data/2023-07-02-learning/runs-00001-00100/00059/data/partial-grounding-aleph/good-operators-unit-nogoodrules-class_probability
+2023-07-02 17:56:19,376 INFO     generate-aleph-files wall-clock time: 0.22s
+2023-07-02 17:56:19,376 INFO     generate-aleph-files exit code: 0
+Running learning parser
+Running runsolver parser

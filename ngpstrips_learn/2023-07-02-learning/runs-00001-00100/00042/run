@@ -1,0 +1,31 @@
+#! /usr/bin/env python
+
+import logging
+import os
+import platform
+
+from lab.calls.call import Call
+from lab import tools
+
+tools.configure_logging()
+
+logging.info(f"node: {platform.node()}")
+
+run_log = open("run.log", "w")
+run_err = open("run.err", "w", buffering=1)  # line buffering
+redirects = {"stdout": run_log, "stderr": run_err}
+
+# Make sure we're in the run directory.
+os.chdir(os.path.dirname(os.path.abspath(__file__)))
+
+Call(['../../run-apptainer.sh', '../../ngpstrips.learn.sif', '86400', '32768', 'dk', 'domain.pddl', 'p01.pddl', 'p02.pddl', 'p03.pddl', 'p04.pddl', 'p05.pddl', 'p06.pddl', 'p07.pddl', 'p08.pddl', 'p09.pddl', 'p10.pddl', 'p11.pddl', 'p12.pddl', 'p13.pddl', 'p14.pddl', 'p15.pddl', 'p16.pddl', 'p17.pddl', 'p18.pddl', 'p19.pddl', 'p20.pddl', 'p21.pddl', 'p22.pddl', 'p23.pddl', 'p24.pddl', 'p26.pddl', 'p27.pddl', 'p28.pddl', 'p29.pddl', 'p30.pddl', 'p31.pddl', 'p32.pddl', 'p33.pddl', 'p34.pddl', 'p35.pddl', 'p36.pddl', 'p37.pddl', 'p38.pddl', 'p39.pddl', 'p40.pddl', 'p41.pddl', 'p42.pddl', 'p43.pddl', 'p44.pddl', 'p45.pddl', 'p46.pddl', 'p47.pddl', 'p48.pddl', 'p49.pddl', 'p50.pddl', 'p51.pddl', 'p52.pddl', 'p53.pddl', 'p54.pddl', 'p55.pddl', 'p56.pddl', 'p57.pddl', 'p58.pddl', 'p59.pddl', 'p60.pddl', 'p61.pddl', 'p62.pddl', 'p63.pddl', 'p64.pddl', 'p65.pddl', 'p66.pddl', 'p67.pddl', 'p68.pddl', 'p69.pddl', 'p70.pddl', 'p71.pddl', 'p72.pddl', 'p73.pddl', 'p74.pddl', 'p75.pddl', 'p76.pddl', 'p77.pddl', 'p78.pddl', 'p79.pddl', 'p80.pddl', 'p81.pddl', 'p82.pddl', 'p83.pddl', 'p84.pddl', 'p85.pddl', 'p86.pddl', 'p87.pddl', 'p88.pddl', 'p89.pddl', 'p90.pddl', 'p91.pddl', 'p92.pddl', 'p93.pddl', 'p94.pddl', 'p95.pddl', 'p96.pddl', 'p97.pddl', 'p98.pddl', 'p99.pddl'], hard_stderr_limit=10240, hard_stdout_limit=51200, memory_limit=None, name='run-apptainer', soft_stderr_limit=64, soft_stdout_limit=1024, time_limit=None, **redirects).wait()
+
+Call(['/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/.venv/bin/python3', '../../learning-parser.py'], hard_stderr_limit=10240, hard_stdout_limit=10240, memory_limit=None, name='learning_parser', soft_stderr_limit=64, soft_stdout_limit=1024, time_limit=None, **redirects).wait()
+
+Call(['/proj/dfsplan/users/x_jense/ipc2023-learning/scripts/experiments/.venv/bin/python3', '../../runsolver-parser.py'], hard_stderr_limit=10240, hard_stdout_limit=10240, memory_limit=None, name='runsolver_parser', soft_stderr_limit=64, soft_stdout_limit=1024, time_limit=None, **redirects).wait()
+
+
+for f in [run_log, run_err]:
+    f.close()
+    if os.path.getsize(f.name) == 0:
+        os.remove(f.name)

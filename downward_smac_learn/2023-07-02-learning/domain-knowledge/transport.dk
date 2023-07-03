@@ -1,0 +1,4 @@
+configs = [
+    # Num: 1, Tuner-Timeout: 82800, Learn quality: 0.09
+    (1800, ["--heuristic", "hCg=cg(cost_type=2)", "--search", "ehc(hCg,preferred=[hCg],preferred_usage=1,cost_type=1,bound=infinity)"]),
+]
