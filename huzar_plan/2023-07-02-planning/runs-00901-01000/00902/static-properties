@@ -1,0 +1,16 @@
+{
+  "algorithm": "huzar_plan",
+  "domain": "blocksworld",
+  "experiment_name": "2023-07-02-planning",
+  "id": [
+    "huzar_plan",
+    "blocksworld",
+    "easy-p02.pddl"
+  ],
+  "memory_limit": 8192,
+  "planner_path": "/proj/dfsplan/users/x_jense/ipc2023-learning/images/huzar.plan.sif",
+  "problem": "easy-p02.pddl",
+  "run_dir": "runs-00901-01000/00902",
+  "time_limit": 1800,
+  "track": "single-core"
+}

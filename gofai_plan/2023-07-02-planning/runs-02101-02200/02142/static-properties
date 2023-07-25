@@ -1,0 +1,16 @@
+{
+  "algorithm": "gofai_plan",
+  "domain": "floortile",
+  "experiment_name": "2023-07-02-planning",
+  "id": [
+    "gofai_plan",
+    "floortile",
+    "hard-p12.pddl"
+  ],
+  "memory_limit": 8192,
+  "planner_path": "/proj/dfsplan/users/x_jense/ipc2023-learning/images/gofai.plan.sif",
+  "problem": "hard-p12.pddl",
+  "run_dir": "runs-02101-02200/02142",
+  "time_limit": 1800,
+  "track": "single-core"
+}

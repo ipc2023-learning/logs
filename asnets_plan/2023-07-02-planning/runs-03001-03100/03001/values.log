@@ -1,0 +1,22 @@
+# WCTIME: wall clock time in seconds
+WCTIME=18.5395
+# CPUTIME: CPU time in seconds (USERTIME+SYSTEMTIME)
+CPUTIME=13.6281
+# USERTIME: CPU time spent in user mode in seconds
+USERTIME=9.72184
+# SYSTEMTIME: CPU time spent in system mode in seconds
+SYSTEMTIME=3.90621
+# CPUUSAGE: CPUTIME/WCTIME in percent
+CPUUSAGE=73.5081
+# MAXVM: maximum virtual memory used in KiB
+MAXVM=3534512
+# MAXMM: maximum memory used in KiB
+MAXMM=529980
+# MAXRSS: maximum Resident Segment Size in KiB
+MAXRSS=380100
+# TIMEOUT: did the solver exceed the time limit?
+TIMEOUT=false
+# MEMOUT: did the solver exceed the memory limit?
+MEMOUT=false
+# EXITSTATUS: Exit status of the solver
+EXITSTATUS=0

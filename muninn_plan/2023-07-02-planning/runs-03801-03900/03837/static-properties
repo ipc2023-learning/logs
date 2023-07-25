@@ -1,0 +1,16 @@
+{
+  "algorithm": "muninn_plan",
+  "domain": "blocksworld",
+  "experiment_name": "2023-07-02-planning",
+  "id": [
+    "muninn_plan",
+    "blocksworld",
+    "medium-p27.pddl"
+  ],
+  "memory_limit": 8192,
+  "planner_path": "/proj/dfsplan/users/x_jense/ipc2023-learning/images/muninn.plan.sif",
+  "problem": "medium-p27.pddl",
+  "run_dir": "runs-03801-03900/03837",
+  "time_limit": 1800,
+  "track": "single-core"
+}

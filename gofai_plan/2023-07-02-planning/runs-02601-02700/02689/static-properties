@@ -1,0 +1,16 @@
+{
+  "algorithm": "gofai_plan",
+  "domain": "transport",
+  "experiment_name": "2023-07-02-planning",
+  "id": [
+    "gofai_plan",
+    "transport",
+    "hard-p19.pddl"
+  ],
+  "memory_limit": 8192,
+  "planner_path": "/proj/dfsplan/users/x_jense/ipc2023-learning/images/gofai.plan.sif",
+  "problem": "hard-p19.pddl",
+  "run_dir": "runs-02601-02700/02689",
+  "time_limit": 1800,
+  "track": "single-core"
+}

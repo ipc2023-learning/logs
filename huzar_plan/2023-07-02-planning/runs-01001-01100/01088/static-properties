@@ -1,0 +1,16 @@
+{
+  "algorithm": "huzar_plan",
+  "domain": "ferry",
+  "experiment_name": "2023-07-02-planning",
+  "id": [
+    "huzar_plan",
+    "ferry",
+    "easy-p08.pddl"
+  ],
+  "memory_limit": 8192,
+  "planner_path": "/proj/dfsplan/users/x_jense/ipc2023-learning/images/huzar.plan.sif",
+  "problem": "easy-p08.pddl",
+  "run_dir": "runs-01001-01100/01088",
+  "time_limit": 1800,
+  "track": "single-core"
+}

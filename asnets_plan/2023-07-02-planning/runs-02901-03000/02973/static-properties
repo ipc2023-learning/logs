@@ -1,0 +1,16 @@
+{
+  "algorithm": "asnets_plan",
+  "domain": "rovers",
+  "experiment_name": "2023-07-02-planning",
+  "id": [
+    "asnets_plan",
+    "rovers",
+    "easy-p03.pddl"
+  ],
+  "memory_limit": 8192,
+  "planner_path": "/proj/dfsplan/users/x_jense/ipc2023-learning/images/asnets.plan.sif",
+  "problem": "easy-p03.pddl",
+  "run_dir": "runs-02901-03000/02973",
+  "time_limit": 1800,
+  "track": "single-core"
+}

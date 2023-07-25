@@ -1,0 +1,16 @@
+{
+  "algorithm": "gofai_plan",
+  "domain": "rovers",
+  "experiment_name": "2023-07-02-planning",
+  "id": [
+    "gofai_plan",
+    "rovers",
+    "medium-p15.pddl"
+  ],
+  "memory_limit": 8192,
+  "planner_path": "/proj/dfsplan/users/x_jense/ipc2023-learning/images/gofai.plan.sif",
+  "problem": "medium-p15.pddl",
+  "run_dir": "runs-02201-02300/02295",
+  "time_limit": 1800,
+  "track": "single-core"
+}

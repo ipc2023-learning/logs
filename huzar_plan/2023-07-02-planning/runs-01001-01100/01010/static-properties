@@ -1,0 +1,16 @@
+{
+  "algorithm": "huzar_plan",
+  "domain": "childsnack",
+  "experiment_name": "2023-07-02-planning",
+  "id": [
+    "huzar_plan",
+    "childsnack",
+    "easy-p20.pddl"
+  ],
+  "memory_limit": 8192,
+  "planner_path": "/proj/dfsplan/users/x_jense/ipc2023-learning/images/huzar.plan.sif",
+  "problem": "easy-p20.pddl",
+  "run_dir": "runs-01001-01100/01010",
+  "time_limit": 1800,
+  "track": "single-core"
+}

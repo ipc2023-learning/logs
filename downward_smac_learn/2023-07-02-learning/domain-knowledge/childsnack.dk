@@ -1,0 +1,4 @@
+configs = [
+    # Num: 1, Tuner-Timeout: 82800, Learn quality: 44.96
+    (1800, ["--heuristic", "hFF=ff(cost_type=1)", "--search", "lazy(alt([single(sum([g(),weight(hFF,10)])),single(sum([g(),weight(hFF,10)]),pref_only=true)],boost=2000),preferred=[hFF],reopen_closed=false,cost_type=1,bound=infinity)"]),
+]

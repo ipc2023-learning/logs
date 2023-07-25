@@ -1,0 +1,16 @@
+{
+  "algorithm": "downward_smac_plan",
+  "domain": "transport",
+  "experiment_name": "2023-07-02-planning",
+  "id": [
+    "downward_smac_plan",
+    "transport",
+    "easy-p22.pddl"
+  ],
+  "memory_limit": 8192,
+  "planner_path": "/proj/dfsplan/users/x_jense/ipc2023-learning/images/downward_smac.plan.sif",
+  "problem": "easy-p22.pddl",
+  "run_dir": "runs-00801-00900/00832",
+  "time_limit": 1800,
+  "track": "single-core"
+}

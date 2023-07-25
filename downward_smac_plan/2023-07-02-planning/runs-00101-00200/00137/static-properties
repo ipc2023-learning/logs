@@ -1,0 +1,16 @@
+{
+  "algorithm": "downward_smac_plan",
+  "domain": "childsnack",
+  "experiment_name": "2023-07-02-planning",
+  "id": [
+    "downward_smac_plan",
+    "childsnack",
+    "medium-p17.pddl"
+  ],
+  "memory_limit": 8192,
+  "planner_path": "/proj/dfsplan/users/x_jense/ipc2023-learning/images/downward_smac.plan.sif",
+  "problem": "medium-p17.pddl",
+  "run_dir": "runs-00101-00200/00137",
+  "time_limit": 1800,
+  "track": "single-core"
+}

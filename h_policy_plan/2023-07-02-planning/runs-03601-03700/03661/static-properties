@@ -1,0 +1,16 @@
+{
+  "algorithm": "h_policy_plan",
+  "domain": "satellite",
+  "experiment_name": "2023-07-02-planning",
+  "id": [
+    "h_policy_plan",
+    "satellite",
+    "hard-p01.pddl"
+  ],
+  "memory_limit": 8192,
+  "planner_path": "/proj/dfsplan/users/x_jense/ipc2023-learning/images/h_policy.plan.sif",
+  "problem": "hard-p01.pddl",
+  "run_dir": "runs-03601-03700/03661",
+  "time_limit": 1800,
+  "track": "single-core"
+}

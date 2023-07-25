@@ -1,0 +1,16 @@
+{
+  "algorithm": "muninn_plan",
+  "domain": "transport",
+  "experiment_name": "2023-07-02-planning",
+  "id": [
+    "muninn_plan",
+    "transport",
+    "hard-p16.pddl"
+  ],
+  "memory_limit": 8192,
+  "planner_path": "/proj/dfsplan/users/x_jense/ipc2023-learning/images/muninn.plan.sif",
+  "problem": "hard-p16.pddl",
+  "run_dir": "runs-04601-04700/04666",
+  "time_limit": 1800,
+  "track": "single-core"
+}

@@ -1,0 +1,7 @@
+2023-07-04 15:19:03,900 INFO     node: n1132
+2023-07-04 15:28:21,430 INFO     run-apptainer wall-clock time: 557.53s
+2023-07-04 15:28:21,430 INFO     run-apptainer exit code: 0
+2023-07-04 15:28:21,511 INFO     planning_parser wall-clock time: 0.08s
+2023-07-04 15:28:21,512 INFO     planning_parser exit code: 0
+2023-07-04 15:28:21,582 INFO     runsolver_parser wall-clock time: 0.07s
+2023-07-04 15:28:21,583 INFO     runsolver_parser exit code: 0

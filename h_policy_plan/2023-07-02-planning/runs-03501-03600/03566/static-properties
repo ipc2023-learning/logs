@@ -1,0 +1,16 @@
+{
+  "algorithm": "h_policy_plan",
+  "domain": "rovers",
+  "experiment_name": "2023-07-02-planning",
+  "id": [
+    "h_policy_plan",
+    "rovers",
+    "medium-p26.pddl"
+  ],
+  "memory_limit": 8192,
+  "planner_path": "/proj/dfsplan/users/x_jense/ipc2023-learning/images/h_policy.plan.sif",
+  "problem": "medium-p26.pddl",
+  "run_dir": "runs-03501-03600/03566",
+  "time_limit": 1800,
+  "track": "single-core"
+}

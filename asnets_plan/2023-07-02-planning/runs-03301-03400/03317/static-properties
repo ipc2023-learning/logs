@@ -1,0 +1,16 @@
+{
+  "algorithm": "asnets_plan",
+  "domain": "transport",
+  "experiment_name": "2023-07-02-planning",
+  "id": [
+    "asnets_plan",
+    "transport",
+    "hard-p17.pddl"
+  ],
+  "memory_limit": 8192,
+  "planner_path": "/proj/dfsplan/users/x_jense/ipc2023-learning/images/asnets.plan.sif",
+  "problem": "hard-p17.pddl",
+  "run_dir": "runs-03301-03400/03317",
+  "time_limit": 1800,
+  "track": "single-core"
+}

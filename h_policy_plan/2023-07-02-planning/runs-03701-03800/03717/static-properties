@@ -1,0 +1,16 @@
+{
+  "algorithm": "h_policy_plan",
+  "domain": "sokoban",
+  "experiment_name": "2023-07-02-planning",
+  "id": [
+    "h_policy_plan",
+    "sokoban",
+    "easy-p27.pddl"
+  ],
+  "memory_limit": 8192,
+  "planner_path": "/proj/dfsplan/users/x_jense/ipc2023-learning/images/h_policy.plan.sif",
+  "problem": "easy-p27.pddl",
+  "run_dir": "runs-03701-03800/03717",
+  "time_limit": 1800,
+  "track": "single-core"
+}

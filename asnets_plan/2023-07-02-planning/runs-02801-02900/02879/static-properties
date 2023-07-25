@@ -1,0 +1,16 @@
+{
+  "algorithm": "asnets_plan",
+  "domain": "childsnack",
+  "experiment_name": "2023-07-02-planning",
+  "id": [
+    "asnets_plan",
+    "childsnack",
+    "hard-p29.pddl"
+  ],
+  "memory_limit": 8192,
+  "planner_path": "/proj/dfsplan/users/x_jense/ipc2023-learning/images/asnets.plan.sif",
+  "problem": "hard-p29.pddl",
+  "run_dir": "runs-02801-02900/02879",
+  "time_limit": 1800,
+  "track": "single-core"
+}

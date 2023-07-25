@@ -1,0 +1,16 @@
+{
+  "algorithm": "asnets_plan",
+  "domain": "miconic",
+  "experiment_name": "2023-07-02-planning",
+  "id": [
+    "asnets_plan",
+    "miconic",
+    "hard-p03.pddl"
+  ],
+  "memory_limit": 8192,
+  "planner_path": "/proj/dfsplan/users/x_jense/ipc2023-learning/images/asnets.plan.sif",
+  "problem": "hard-p03.pddl",
+  "run_dir": "runs-02901-03000/02943",
+  "time_limit": 1800,
+  "track": "single-core"
+}

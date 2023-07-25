@@ -1,0 +1,4 @@
+configs = [
+    # Num: 1, Tuner-Timeout: 82800, Learn quality: -1.00
+    (-1, []),
+]

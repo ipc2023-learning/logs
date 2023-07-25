@@ -1,0 +1,16 @@
+{
+  "algorithm": "h_policy_plan",
+  "domain": "ferry",
+  "experiment_name": "2023-07-02-planning",
+  "id": [
+    "h_policy_plan",
+    "ferry",
+    "medium-p20.pddl"
+  ],
+  "memory_limit": 8192,
+  "planner_path": "/proj/dfsplan/users/x_jense/ipc2023-learning/images/h_policy.plan.sif",
+  "problem": "medium-p20.pddl",
+  "run_dir": "runs-03301-03400/03380",
+  "time_limit": 1800,
+  "track": "single-core"
+}

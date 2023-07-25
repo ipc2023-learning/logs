@@ -1,0 +1,16 @@
+{
+  "algorithm": "muninn_plan",
+  "domain": "rovers",
+  "experiment_name": "2023-07-02-planning",
+  "id": [
+    "muninn_plan",
+    "rovers",
+    "medium-p15.pddl"
+  ],
+  "memory_limit": 8192,
+  "planner_path": "/proj/dfsplan/users/x_jense/ipc2023-learning/images/muninn.plan.sif",
+  "problem": "medium-p15.pddl",
+  "run_dir": "runs-04201-04300/04275",
+  "time_limit": 1800,
+  "track": "single-core"
+}

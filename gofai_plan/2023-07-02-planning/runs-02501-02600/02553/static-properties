@@ -1,0 +1,16 @@
+{
+  "algorithm": "gofai_plan",
+  "domain": "spanner",
+  "experiment_name": "2023-07-02-planning",
+  "id": [
+    "gofai_plan",
+    "spanner",
+    "medium-p03.pddl"
+  ],
+  "memory_limit": 8192,
+  "planner_path": "/proj/dfsplan/users/x_jense/ipc2023-learning/images/gofai.plan.sif",
+  "problem": "medium-p03.pddl",
+  "run_dir": "runs-02501-02600/02553",
+  "time_limit": 1800,
+  "track": "single-core"
+}

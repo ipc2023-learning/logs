@@ -1,0 +1,23 @@
+{
+  "apptainer_exit_code": 0,
+  "apptainer_wall_clock_time": 65.89,
+  "cost": 151,
+  "costs": [
+    151
+  ],
+  "coverage": 1,
+  "cpu_time": 61.3834,
+  "cpu_time_limit": 1800,
+  "error": "success",
+  "has_invalid_plans": 0,
+  "memory": 818980,
+  "memory_limit": 8388608,
+  "node": "n430",
+  "plan_times": [
+    65.41
+  ],
+  "start_time": "2023-07-04T14:37:52.029",
+  "time_for_first_plan": 65.41,
+  "virtual_memory": 4407764,
+  "wall_clock_time": 65.6892
+}

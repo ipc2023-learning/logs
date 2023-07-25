@@ -1,0 +1,16 @@
+{
+  "algorithm": "huzar_plan",
+  "domain": "spanner",
+  "experiment_name": "2023-07-02-planning",
+  "id": [
+    "huzar_plan",
+    "spanner",
+    "hard-p07.pddl"
+  ],
+  "memory_limit": 8192,
+  "planner_path": "/proj/dfsplan/users/x_jense/ipc2023-learning/images/huzar.plan.sif",
+  "problem": "hard-p07.pddl",
+  "run_dir": "runs-01601-01700/01687",
+  "time_limit": 1800,
+  "track": "single-core"
+}
